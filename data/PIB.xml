@@ -2,7 +2,7 @@
             DISCLAIMER: Briefing includes all NOTAM available. All Trigger NOTAM are valid
             only for two weeks. For the publication of ECAC States, please consult also the
             PAMS application.
-        --><Pib PIBType="F" PIBId="400000133780061" NewNOTAMDuration="250">
+        --><Pib PIBType="F" PIBId="400000133783511" NewNOTAMDuration="250">
     <AreaPIBHeader>
         <ShortSystemTitle>EAD</ShortSystemTitle>
         <SystemLogoFile>/ino_resources/logos/EAD_Logo.png</SystemLogoFile>
@@ -12,18 +12,18 @@
         <LogoFile>/ci/resource.do?id=07A26818B1F506F5E0530B751DC29CB2</LogoFile>
         <Traffic>IV</Traffic>
         <Validity>
-            <ValidFrom>2026-11-07T21:00:26+00:00</ValidFrom>
-            <ValidTo>2026-11-14T21:00:00+00:00</ValidTo>
+            <ValidFrom>2026-11-07T22:00:39+00:00</ValidFrom>
+            <ValidTo>2026-11-14T22:00:00+00:00</ValidTo>
         </Validity>
         <ProfileId>400000002351201</ProfileId>
         <ProfileName>All NOTAM</ProfileName>
         <ServiceType>FULL</ServiceType>
         <BriefingType>IM</BriefingType>
         <ContentExplanation>Aerodromes, En-route, Warnings, including miscellaneous information</ContentExplanation>
-        <Issued>2026-11-07T21:00:26+00:00</Issued>
+        <Issued>2026-11-07T22:00:39+00:00</Issued>
         <PIBSubject>All NOTAM</PIBSubject>
         <ScheduleName>Daily</ScheduleName>
-        <PibUid>EG712611070988</PibUid>
+        <PibUid>EG712611071018</PibUid>
         <FlightLevel>
             <LowerFL>0</LowerFL>
             <UpperFL>999</UpperFL>
@@ -4466,35 +4466,6 @@ MAX JIB HGT 88FT AGL 127FT AMSL</ItemE>
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
                     <Series>C</Series>
-                    <Number>5471</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5044N00142W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGHH</ItemA>
-                    <StartValidity>2611061700</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemD>1700-2200</ItemD>
-                    <ItemE>LASER DISPLAY WI 1NM RADIUS OF 504418N 0014159W (HIGHCLIFFE).
-FOR INFO 07934 516932. AR-2026-2293/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>180820261225</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>C</Series>
                     <Number>6628</Number>
                     <Year>26</Year>
                     <Type>N</Type>
@@ -6147,35 +6118,6 @@ OR D FLIGHTS) IN EXCESS OF 50 TONNES MTOW INCLUDING DIVERSIOINS
                     <ItemE>HEL RTE EAST NOT AVBL</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>281020261416</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>C</Series>
-                    <Number>7089</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WU</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>BO</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>8</Upper>
-                    </QLine>
-                    <Coordinates>5115N00045W</Coordinates>
-                    <Radius>1</Radius>
-                    <ItemA>EGLF</ItemA>
-                    <StartValidity>2611071700</StartValidity>
-                    <EndValidity>2611072130</EndValidity>
-                    <ItemE>UAS SWARM OPR WI 0.1NM RADIUS OF 511439N 0004524W (ALDERSHOT). 
-SWARM MADE UP OF 150 UAS. MAX HGT 400FT AGL. FOR INFO 07405 188200. 
-AR-2026-10247/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>800FT AMSL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>271020261018</NotamStoreDate>
                 </Notam>
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
@@ -9375,34 +9317,6 @@ WESTERLY OPERATIONS. CRANE REF 20260916127.</ItemE>
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
                     <Series>A</Series>
-                    <Number>4413</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5136N00020W</Coordinates>
-                    <Radius>6</Radius>
-                    <ItemA>EGLL</ItemA>
-                    <StartValidity>2611071900</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemE>LASER DISPLAY WI 5NM RADIUS OF 513538N 0001959W (HARROW). FOR 
-INFO 00447711 855295. AR-2026-10538/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>031120261450</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>A</Series>
                     <Number>4387</Number>
                     <Year>26</Year>
                     <Type>N</Type>
@@ -10520,62 +10434,6 @@ AIRSPACE IN ACCORDANCE WITH LOCAL DECONFLICTION AGREEMENTS. FOR INFO
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
                     <Series>A</Series>
-                    <Number>4383</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5330N00209W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGCC</ItemA>
-                    <StartValidity>2611071500</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemE>LASER DISPLAY WI 1NM RADIUS OF 533008N 0020924W (ASHTON UNDER 
-LYNE).  FOR INFO 07757 795787. AR-2026-10376/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>021120261109</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>A</Series>
-                    <Number>4186</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WZ</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>8</Upper>
-                    </QLine>
-                    <Coordinates>5327N00213W</Coordinates>
-                    <Radius>1</Radius>
-                    <ItemA>EGCC</ItemA>
-                    <StartValidity>2611071645</StartValidity>
-                    <EndValidity>2611072130</EndValidity>
-                    <ItemE>FIREWORKS WI 0.5NM RADIUS OF 532655N 0021323W (WITHINGTON).  FOR
-INFO 07863255616 / 07733112272. AR-2026-10011/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>800FT AMSL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>211020261622</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>A</Series>
                     <Number>4388</Number>
                     <Year>26</Year>
                     <Type>N</Type>
@@ -11184,35 +11042,6 @@ INFO AROPS(AT)CAA.CO.UK. AR-2026-8222/03.</ItemE>
                     <ItemG>600FT AMSL</ItemG>
                     <Marker>+</Marker>
                     <NotamStoreDate>221020260911</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>A</Series>
-                    <Number>4182</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WZ</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>10</Upper>
-                    </QLine>
-                    <Coordinates>5239N00111E</Coordinates>
-                    <Radius>1</Radius>
-                    <ItemA>EGSH</ItemA>
-                    <StartValidity>2611071940</StartValidity>
-                    <EndValidity>2611072130</EndValidity>
-                    <ItemD>1940-1950 2115-2130</ItemD>
-                    <ItemE>FIREWORKS WI 0.5NM RADIUS OF 523856N 0011038E (NORFOLK
-SHOWGROUND).  FOR INFO 07809 572799. AR-2026-10018/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>1000FT AMSL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>211020261513</NotamStoreDate>
                 </Notam>
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
@@ -16308,31 +16137,6 @@ PRE-AUTHORISED TRIAL ACFT. FOR INFO CTC 020 8833 8364.</ItemE>
 FOR INFO CTC 020 8833 8364.</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>261020261649</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>Q</Series>
-                    <Number>485</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>FA</Code23>
-                        <Code45>LC</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>NBO</Purpose>
-                        <Scope>A</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5133N00025W</Coordinates>
-                    <Radius>5</Radius>
-                    <ItemA>EGWU</ItemA>
-                    <StartValidity>2611071742</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemE>AD CLOSED</ItemE>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>071120261742</NotamStoreDate>
                 </Notam>
             </NotamList>
             <ObsoleteNotamList/>
@@ -30734,35 +30538,6 @@ MOSELEY). SWARM MADE UP OF 750 UAS. MAX HGT 400FT AGL. FOR INFO
                     <Marker>+</Marker>
                     <NotamStoreDate>271020260956</NotamStoreDate>
                 </Notam>
-                <Notam Reference="EGHH" OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>C</Series>
-                    <Number>5471</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5044N00142W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGHH</ItemA>
-                    <StartValidity>2611061700</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemD>1700-2200</ItemD>
-                    <ItemE>LASER DISPLAY WI 1NM RADIUS OF 504418N 0014159W (HIGHCLIFFE).
-FOR INFO 07934 516932. AR-2026-2293/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>180820261225</NotamStoreDate>
-                </Notam>
                 <Notam OriginalMessage="false" PIBSection="WAR">
                     <NOF>EGGN</NOF>
                     <Series>H</Series>
@@ -30936,34 +30711,6 @@ MAX HGT 400FT AGL. FOR INFO 07920 786990. AR-2026-10413/01.</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>291020261633</NotamStoreDate>
                 </Notam>
-                <Notam OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>H</Series>
-                    <Number>7113</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>W</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5054N00402W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGTT</ItemA>
-                    <StartValidity>2611071300</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemE>LASERS AND SEARCHLIGHTS WI 1NM RADIUS OF 505334N 0040150W 
-(DOLTON). FOR INFO 07467 547348. AR-2026-10124/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>221020261125</NotamStoreDate>
-                </Notam>
                 <Notam Reference="EGSS" OriginalMessage="false" PIBSection="WAR">
                     <NOF>EGGN</NOF>
                     <Series>A</Series>
@@ -31026,62 +30773,6 @@ AR-2026-10330/01.</ItemE>
                 <Notam OriginalMessage="false" PIBSection="WAR">
                     <NOF>EGGN</NOF>
                     <Series>H</Series>
-                    <Number>5312</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>W</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5120N00103W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGTT</ItemA>
-                    <StartValidity>2611071500</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemE>LASER DISPLAY WI 1NM RADIUS OF 512006N 0010319W (BRAMLEY). FOR 
-INFO 07796 199884. AR-2026-6964/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>180820261226</NotamStoreDate>
-                </Notam>
-                <Notam Reference="EGCC" OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>A</Series>
-                    <Number>4383</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5330N00209W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGCC</ItemA>
-                    <StartValidity>2611071500</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemE>LASER DISPLAY WI 1NM RADIUS OF 533008N 0020924W (ASHTON UNDER 
-LYNE).  FOR INFO 07757 795787. AR-2026-10376/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>021120261109</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>H</Series>
                     <Number>7375</Number>
                     <Year>26</Year>
                     <Type>N</Type>
@@ -31140,34 +30831,6 @@ FOR INFO 07590 767499. AR-2026-10608/03.</ItemE>
                 <Notam OriginalMessage="false" PIBSection="WAR">
                     <NOF>EGGN</NOF>
                     <Series>H</Series>
-                    <Number>6144</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>W</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5139N00303W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGTT</ItemA>
-                    <StartValidity>2611071600</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemE>LASER DISPLAY WI 1NM RADIUS OF 513851N 0030303W (ST DIALS,
-CWMBRAN). FOR INFO 07517 443514. AR-2026-7744/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>170920261247</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>H</Series>
                     <Number>7191</Number>
                     <Year>26</Year>
                     <Type>N</Type>
@@ -31198,119 +30861,6 @@ FOR INFO 07915 311799. AR-2026-10266/01.</ItemE>
                 <Notam OriginalMessage="false" PIBSection="WAR">
                     <NOF>EGGN</NOF>
                     <Series>H</Series>
-                    <Number>7067</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WZ</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>W</Scope>
-                        <Lower>0</Lower>
-                        <Upper>9</Upper>
-                    </QLine>
-                    <Coordinates>5332N00216W</Coordinates>
-                    <Radius>1</Radius>
-                    <ItemA>EGTT</ItemA>
-                    <StartValidity>2611071645</StartValidity>
-                    <EndValidity>2611072130</EndValidity>
-                    <ItemE>FIREWORKS WI 0.5NM RADIUS OF 533143N 0021551W (PRESTWICH).  FOR
-INFO 07501 085780 / 07733 112272. AR-2026-10009/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>900FT AMSL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>201020261519</NotamStoreDate>
-                </Notam>
-                <Notam Reference="EGCC" OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>A</Series>
-                    <Number>4186</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WZ</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>8</Upper>
-                    </QLine>
-                    <Coordinates>5327N00213W</Coordinates>
-                    <Radius>1</Radius>
-                    <ItemA>EGCC</ItemA>
-                    <StartValidity>2611071645</StartValidity>
-                    <EndValidity>2611072130</EndValidity>
-                    <ItemE>FIREWORKS WI 0.5NM RADIUS OF 532655N 0021323W (WITHINGTON).  FOR
-INFO 07863255616 / 07733112272. AR-2026-10011/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>800FT AMSL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>211020261622</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>H</Series>
-                    <Number>7162</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WP</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>W</Scope>
-                        <Lower>0</Lower>
-                        <Upper>54</Upper>
-                    </QLine>
-                    <Coordinates>5257N00240W</Coordinates>
-                    <Radius>1</Radius>
-                    <ItemA>EGTT</ItemA>
-                    <StartValidity>2611071700</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemE>PJE WI 0.5NM RADIUS OF 525707N 0024027W (ALKINGTON). DROP HGT 
-SUBJ ATC CLR. FOR INFO 07525 344067. AR-2026-10250/02.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>5400FT AMSL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>261020260930</NotamStoreDate>
-                </Notam>
-                <Notam Reference="EGLF" OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>C</Series>
-                    <Number>7089</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WU</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>BO</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>8</Upper>
-                    </QLine>
-                    <Coordinates>5115N00045W</Coordinates>
-                    <Radius>1</Radius>
-                    <ItemA>EGLF</ItemA>
-                    <StartValidity>2611071700</StartValidity>
-                    <EndValidity>2611072130</EndValidity>
-                    <ItemE>UAS SWARM OPR WI 0.1NM RADIUS OF 511439N 0004524W (ALDERSHOT). 
-SWARM MADE UP OF 150 UAS. MAX HGT 400FT AGL. FOR INFO 07405 188200. 
-AR-2026-10247/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>800FT AMSL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>271020261018</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>H</Series>
                     <Number>7264</Number>
                     <Year>26</Year>
                     <Type>N</Type>
@@ -31336,62 +30886,6 @@ LONDON). SWARM MADE UP OF 175 UAS. MAX HGT 400FT AGL. FOR INFO
                     <ItemG>700FT AMSL</ItemG>
                     <Marker>+</Marker>
                     <NotamStoreDate>291020261504</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>H</Series>
-                    <Number>7407</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>W</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5047N00318W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGTT</ItemA>
-                    <StartValidity>2611071830</StartValidity>
-                    <EndValidity>2611072130</EndValidity>
-                    <ItemE>LASER DISPLAY WI 1NM RADIUS OF 504641N 0031751W (FENITON).  FOR
-INFO 07834 242305. AR-2026-10581/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>051120261248</NotamStoreDate>
-                </Notam>
-                <Notam Reference="EGLL" OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>A</Series>
-                    <Number>4413</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5136N00020W</Coordinates>
-                    <Radius>6</Radius>
-                    <ItemA>EGLL</ItemA>
-                    <StartValidity>2611071900</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemE>LASER DISPLAY WI 5NM RADIUS OF 513538N 0001959W (HARROW). FOR 
-INFO 00447711 855295. AR-2026-10538/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>031120261450</NotamStoreDate>
                 </Notam>
                 <Notam Reference="EGHH" OriginalMessage="false" PIBSection="WAR">
                     <NOF>EGGN</NOF>
@@ -31422,35 +30916,6 @@ AR-2026-9437/01.</ItemE>
                     <ItemG>500FT AMSL</ItemG>
                     <Marker>+</Marker>
                     <NotamStoreDate>071020260748</NotamStoreDate>
-                </Notam>
-                <Notam Reference="EGSH" OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>A</Series>
-                    <Number>4182</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WZ</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>10</Upper>
-                    </QLine>
-                    <Coordinates>5239N00111E</Coordinates>
-                    <Radius>1</Radius>
-                    <ItemA>EGSH</ItemA>
-                    <StartValidity>2611071940</StartValidity>
-                    <EndValidity>2611072130</EndValidity>
-                    <ItemD>1940-1950 2115-2130</ItemD>
-                    <ItemE>FIREWORKS WI 0.5NM RADIUS OF 523856N 0011038E (NORFOLK
-SHOWGROUND).  FOR INFO 07809 572799. AR-2026-10018/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>1000FT AMSL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>211020261513</NotamStoreDate>
                 </Notam>
                 <Notam OriginalMessage="false" PIBSection="WAR">
                     <NOF>EGGN</NOF>
@@ -38575,34 +38040,6 @@ MAX HGT 103FT AGL/303FT AMSL. CRANE WILL BE LOWERED DURING LVP.</ItemE>
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
                     <Series>I</Series>
-                    <Number>7493</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGPX</FIR>
-                        <Code23>XX</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>BO</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5600N00324W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGPH</ItemA>
-                    <StartValidity>2611070100</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemE>SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 560001N 0032415W
-(QUEENSFERRY).  FOR INFO 07975 626753. AR-2026-10368/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>291020261512</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>I</Series>
                     <Number>7483</Number>
                     <Year>26</Year>
                     <Type>N</Type>
@@ -38625,6 +38062,34 @@ MAX HGT 103FT AGL/303FT AMSL. CRANE WILL BE LOWERED DURING LVP.</ItemE>
                     <ItemE>RWY 06/24 CLSD TO FIXED WING ACFT ONLY</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>291020261204</NotamStoreDate>
+                </Notam>
+                <Notam OriginalMessage="false" PIBSection="AD">
+                    <NOF>EGGN</NOF>
+                    <Series>I</Series>
+                    <Number>7625</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGPX</FIR>
+                        <Code23>WZ</Code23>
+                        <Code45>LW</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>M</Purpose>
+                        <Scope>AW</Scope>
+                        <Lower>0</Lower>
+                        <Upper>12</Upper>
+                    </QLine>
+                    <Coordinates>5554N00322W</Coordinates>
+                    <Radius>1</Radius>
+                    <ItemA>EGPH</ItemA>
+                    <StartValidity>2611142115</StartValidity>
+                    <EndValidity>2611142145</EndValidity>
+                    <ItemE>FIREWORKS WI 0.5NM RADIUS OF 555418N 0032203W (KIRKNEWTON). FOR
+INFO 07900 236256 / 07900 438939. AR-2026-10388/01.</ItemE>
+                    <ItemF>SFC</ItemF>
+                    <ItemG>1200FT AMSL</ItemG>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>041120261701</NotamStoreDate>
                 </Notam>
             </NotamList>
             <ObsoleteNotamList/>
@@ -43417,34 +42882,6 @@ NORTHUMBRIA) BVLOS RPAS OPERATIONS TRIALS - CANCELLED.</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>061120261233</NotamStoreDate>
                 </Notam>
-                <Notam Reference="EGPH" OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>I</Series>
-                    <Number>7493</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGPX</FIR>
-                        <Code23>XX</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>BO</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5600N00324W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGPH</ItemA>
-                    <StartValidity>2611070100</StartValidity>
-                    <EndValidity>2611072200</EndValidity>
-                    <ItemE>SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 560001N 0032415W
-(QUEENSFERRY).  FOR INFO 07975 626753. AR-2026-10368/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>291020261512</NotamStoreDate>
-                </Notam>
                 <Notam OriginalMessage="false" PIBSection="WAR">
                     <NOF>ENGM</NOF>
                     <Series>B</Series>
@@ -44366,6 +43803,34 @@ FOR INFO 07474 424212 / 07853 652486. AR-2026-9350/01.</ItemE>
                     <ItemG>UNL</ItemG>
                     <Marker>+</Marker>
                     <NotamStoreDate>051020261029</NotamStoreDate>
+                </Notam>
+                <Notam Reference="EGPH" OriginalMessage="false" PIBSection="WAR">
+                    <NOF>EGGN</NOF>
+                    <Series>I</Series>
+                    <Number>7625</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGPX</FIR>
+                        <Code23>WZ</Code23>
+                        <Code45>LW</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>M</Purpose>
+                        <Scope>AW</Scope>
+                        <Lower>0</Lower>
+                        <Upper>12</Upper>
+                    </QLine>
+                    <Coordinates>5554N00322W</Coordinates>
+                    <Radius>1</Radius>
+                    <ItemA>EGPH</ItemA>
+                    <StartValidity>2611142115</StartValidity>
+                    <EndValidity>2611142145</EndValidity>
+                    <ItemE>FIREWORKS WI 0.5NM RADIUS OF 555418N 0032203W (KIRKNEWTON). FOR
+INFO 07900 236256 / 07900 438939. AR-2026-10388/01.</ItemE>
+                    <ItemF>SFC</ItemF>
+                    <ItemG>1200FT AMSL</ItemG>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>041120261701</NotamStoreDate>
                 </Notam>
             </NotamList>
             <ObsoleteNotamList/>
