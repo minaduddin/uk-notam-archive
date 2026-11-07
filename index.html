@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>UK NOTAM Search</title>
+<meta name="description" content="Search the UK NOTAM archive: current and past UK Pre-flight Information Bulletins. Unofficial.">
+<style>
+  :root {
+    --bg: #f6f7f9; --card: #ffffff; --ink: #14181f; --muted: #5b6573; --line: #e2e6eb;
+    --accent: #0a66e8; --accent-soft: #e8f1fe; --warn: #8a5300; --warn-bg: #fff4e0; --mark: #ffe58a;
+    --active: #0f7b4b; --active-bg: #e4f5ec; --future: #6c4fd1; --future-bg: #efeafd; --ended: #6b7280; --ended-bg: #eef0f3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0d1117; --card: #161b22; --ink: #e6edf3; --muted: #9aa6b2; --line: #2a313c;
+      --accent: #4c9bff; --accent-soft: #14243b; --warn: #f0b45a; --warn-bg: #2b2112; --mark: #6b5a12;
+      --active: #4cd38f; --active-bg: #10291c; --future: #a993ff; --future-bg: #221b3d; --ended: #9aa3ad; --ended-bg: #1f252d;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 26px; margin: 0 0 4px; letter-spacing: -.01em; }
+  .sub { color: var(--muted); margin: 0 0 16px; }
+  .note { background: var(--warn-bg); color: var(--warn); border-radius: 10px; padding: 10px 14px; font-size: 13px; margin-bottom: 18px; }
+  .panel { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px; margin-bottom: 16px; }
+  .row { display: flex; gap: 12px; flex-wrap: wrap; align-items: end; }
+  .row + .row { margin-top: 12px; }
+  label { display: flex; flex-direction: column; gap: 4px; font-size: 12px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+  input, select { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 9px; padding: 9px 11px; min-width: 0; }
+  input:focus, select:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
+  .grow { flex: 1 1 320px; }
+  .grow input { width: 100%; }
+  .chk { flex-direction: row; align-items: center; gap: 8px; text-transform: none; letter-spacing: 0; font-weight: 500; font-size: 14px; color: var(--ink); padding-bottom: 9px; }
+  button { font: inherit; font-weight: 600; border: 0; border-radius: 9px; padding: 10px 16px; background: var(--accent); color: #fff; cursor: pointer; }
+  button.ghost { background: transparent; color: var(--accent); border: 1px solid var(--line); }
+  .status { color: var(--muted); font-size: 13px; margin: 0 0 10px; min-height: 20px; }
+  .status b { color: var(--ink); }
+  .list { display: flex; flex-direction: column; gap: 10px; }
+  .n { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; }
+  .n-head { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: baseline; margin-bottom: 6px; }
+  .id { font-weight: 700; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  .loc { font-weight: 600; }
+  .meta { color: var(--muted); font-size: 13px; }
+  .tag { font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 99px; text-transform: uppercase; letter-spacing: .04em; }
+  .t-active { color: var(--active); background: var(--active-bg); }
+  .t-future { color: var(--future); background: var(--future-bg); }
+  .t-ended { color: var(--ended); background: var(--ended-bg); }
+  .txt { white-space: pre-wrap; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px; line-height: 1.55; overflow-wrap: anywhere; }
+  mark { background: var(--mark); color: inherit; border-radius: 3px; padding: 0 1px; }
+  .more { display: block; margin: 14px auto 0; }
+  .help { color: var(--muted); font-size: 13px; margin-top: 10px; }
+  .help code { background: var(--accent-soft); color: var(--ink); padding: 1px 5px; border-radius: 5px; }
+  footer { color: var(--muted); font-size: 12px; margin-top: 28px; text-align: center; }
+  footer a { color: var(--accent); }
+  @media (max-width: 600px) { .wrap { padding: 16px 16px 40px; } h1 { font-size: 22px; } button { width: 100%; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>UK NOTAM Search</h1>
+  <p class="sub">Search current and past UK NOTAMs from the archived NATS Pre-flight Information Bulletin.</p>
+  <div class="note"><b>Unofficial.</b> Not affiliated with or endorsed by NATS. The archive may be incomplete or delayed. Do not use it for flight planning or operational decisions: always check NOTAMs with the official source.</div>
+
+  <form class="panel" id="f" autocomplete="off">
+    <div class="row">
+      <label class="grow">Search
+        <input id="q" type="search" placeholder="e.g. EGNV · crane · J3955/26 · TRA · EGTR495" autofocus>
+      </label>
+      <label>Day (UTC)
+        <input id="day" type="date">
+      </label>
+    </div>
+    <div class="row">
+      <label>Near (lat, lon or 5432N00130W)
+        <input id="near" placeholder="54.5277, -1.5021" size="22">
+      </label>
+      <label>Within (NM)
+        <input id="nm" type="number" min="0" step="0.5" value="10" style="width:90px">
+      </label>
+      <label>Show
+        <select id="show">
+          <option value="day">Active on that day</option>
+          <option value="all">Everything in the bulletin</option>
+        </select>
+      </label>
+      <button type="submit">Search</button>
+      <button type="button" class="ghost" id="clear">Clear</button>
+    </div>
+    <div class="help">All words must match (NOTAM ID, location, Q-code or text). Put a phrase in quotes: <code>"wind turbine"</code>. Leave the day empty for today. Past days load the bulletins saved on that day; future days show what is already published.</div>
+  </form>
+
+  <p class="status" id="status">Loading…</p>
+  <div class="list" id="list"></div>
+  <button class="ghost more" id="more" hidden>Show more</button>
+
+  <footer>Data: <a href="https://pibs.nats.co.uk/operational/pibs/PIB.xml">NATS Pre-flight Information Bulletin</a> (© NATS). Archive: <a id="repo-link" href="#">GitHub</a>.</footer>
+</div>
+
+<script>
+(() => {
+  'use strict';
+  // Repository: taken from the GitHub Pages address (owner.github.io/repo), with a fallback
+  const host = location.hostname.match(/^([^.]+)\.github\.io$/i);
+  const OWNER = host ? host[1] : 'minaduddin';
+  const REPO = (host && location.pathname.split('/').filter(Boolean)[0]) || 'uk-notam-archive';
+  const RAW = (ref) => `https://raw.githubusercontent.com/${OWNER}/${REPO}/${ref}/data/PIB.xml`;
+  const API = `https://api.github.com/repos/${OWNER}/${REPO}/commits?path=data/PIB.xml&per_page=100`;
+  const PAGE = 100;
+
+  const $ = (id) => document.getElementById(id);
+  const els = { f: $('f'), q: $('q'), day: $('day'), near: $('near'), nm: $('nm'), show: $('show'), status: $('status'), list: $('list'), more: $('more'), clear: $('clear') };
+  $('repo-link').href = `https://github.com/${OWNER}/${REPO}`;
+
+  const cache = new Map();   // xml url -> parsed NOTAM list
+  let results = [], shown = 0, terms = [];
+
+  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const todayUTC = () => new Date().toISOString().slice(0, 10);
+  // NOTAM time "YYMMDDhhmm" (UTC) -> ms; PERM -> Infinity
+  const nt = (s) => { s = (s || '').trim(); if (/^PERM/i.test(s)) return Infinity; const m = s.match(/^(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/); return m ? Date.UTC(2000 + +m[1], +m[2] - 1, +m[3], +m[4], +m[5]) : null; };
+  const fmt = (t) => t === Infinity ? 'PERM' : t == null ? '?' : new Date(t).toISOString().replace('T', ' ').slice(0, 16) + 'Z';
+  // "5432N00130W" -> [lat, lon]
+  const icaoCoord = (s) => { const m = String(s || '').toUpperCase().match(/^(\d{2})(\d{2})([NS])(\d{3})(\d{2})([EW])$/); if (!m) return null;
+    const lat = (+m[1] + m[2] / 60) * (m[3] === 'S' ? -1 : 1), lon = (+m[4] + m[5] / 60) * (m[6] === 'W' ? -1 : 1); return [lat, lon]; };
+  const parseNear = (s) => { s = s.trim(); if (!s) return null; const c = icaoCoord(s.replace(/\s/g, '')); if (c) return c;
+    const m = s.match(/^(-?\d+(?:\.\d+)?)\s*[, ]\s*(-?\d+(?:\.\d+)?)$/); return m ? [+m[1], +m[2]] : undefined; };
+  const nmBetween = ([a, b], [c, d]) => { const R = 3440.065, r = Math.PI / 180, dl = (c - a) * r, dg = (d - b) * r;
+    const h = Math.sin(dl / 2) ** 2 + Math.cos(a * r) * Math.cos(c * r) * Math.sin(dg / 2) ** 2; return 2 * R * Math.asin(Math.sqrt(h)); };
+
+  function parsePib(txt) {
+    const xml = new DOMParser().parseFromString(txt, 'application/xml');
+    if (xml.getElementsByTagName('parsererror').length) throw new Error('the saved bulletin could not be read');
+    return [...xml.getElementsByTagName('Notam')].map((n) => {
+      const v = (tag) => { const e = n.getElementsByTagName(tag)[0]; return e ? e.textContent.trim() : ''; };
+      const locs = [...n.getElementsByTagName('ItemA')].map((e) => e.textContent.trim()).filter(Boolean);
+      const id = `${v('Series')}${v('Number')}/${v('Year')}`, q = v('Code23') + v('Code45');
+      const rec = { id, type: v('Type'), loc: locs.join(' '), fir: v('FIR'), q, from: nt(v('StartValidity')), to: nt(v('EndValidity')), est: /EST/i.test(v('EndValidity')),
+        sched: v('ItemD'), lower: v('ItemF'), upper: v('ItemG'), coord: icaoCoord(v('Coordinates')), radius: +v('Radius') || 0, text: v('ItemE') };
+      rec.hay = [id, rec.loc, rec.fir, q ? 'Q' + q : '', rec.sched, rec.text, v('Coordinates')].join(' ').toUpperCase();
+      return rec;
+    }).filter((n, i, all) => all.findIndex((x) => x.id === n.id) === i);   // the bulletin lists some NOTAMs in two sections
+  }
+  async function load(url) {
+    if (cache.has(url)) return cache.get(url);
+    const r = await fetch(url, { cache: 'no-cache' });
+    if (!r.ok) throw new Error(`could not load the bulletin (HTTP ${r.status})`);
+    const list = parsePib(await r.text());
+    cache.set(url, list);
+    return list;
+  }
+  // Bulletins for a UTC day: today = latest copy; past day = first and last copy saved that day, merged
+  async function forDay(day) {
+    if (day >= todayUTC()) return { list: await load(RAW('main')), from: 'latest saved bulletin' };
+    const since = `${day}T00:00:00Z`, until = `${day}T23:59:59Z`;
+    const r = await fetch(`${API}&since=${since}&until=${until}`);
+    if (r.status === 403) throw new Error('GitHub limits look-ups to 60 an hour per visitor; try again later');
+    if (!r.ok) throw new Error(`could not list the saved bulletins (HTTP ${r.status})`);
+    const commits = await r.json();
+    if (!commits.length) throw new Error(`no bulletin was saved on ${day} (the archive started on 7 Nov 2026)`);
+    const shas = [...new Set([commits[commits.length - 1].sha, commits[0].sha])];
+    const lists = await Promise.all(shas.map((s) => load(RAW(s))));
+    const byId = new Map(); lists.flat().forEach((n) => byId.set(n.id, n));
+    return { list: [...byId.values()], from: `${commits.length} bulletin${commits.length === 1 ? '' : 's'} saved that day` };
+  }
+
+  const tokens = (q) => { const out = []; q.replace(/"([^"]+)"|(\S+)/g, (_, a, b) => { out.push((a || b).toUpperCase()); }); return out; };
+  function state(n, t0, t1) { return n.to < t0 ? 'ended' : n.from > t1 ? 'future' : 'active'; }
+
+  async function run(e) {
+    if (e) e.preventDefault();
+    const day = els.day.value || todayUTC(), near = parseNear(els.near.value), nm = Math.max(0, +els.nm.value || 0);
+    terms = tokens(els.q.value.trim());
+    if (near === undefined) { els.status.textContent = 'Near: enter "lat, lon" (e.g. 54.5277, -1.5021) or 5432N00130W.'; return; }
+    const p = new URLSearchParams(); if (els.q.value.trim()) p.set('q', els.q.value.trim()); if (els.day.value) p.set('day', els.day.value);
+    if (els.near.value.trim()) { p.set('near', els.near.value.trim()); p.set('nm', nm); } if (els.show.value !== 'day') p.set('show', els.show.value);
+    history.replaceState(null, '', p.toString() ? '?' + p : location.pathname);
+    els.status.textContent = 'Loading…'; els.list.innerHTML = ''; els.more.hidden = true;
+    let data;
+    try { data = await forDay(day); } catch (err) { els.status.textContent = 'Sorry: ' + err.message + '.'; return; }
+    const t0 = Date.parse(day + 'T00:00:00Z'), t1 = t0 + 864e5 - 1;
+    results = data.list.filter((n) => {
+      if (els.show.value === 'day' && (n.from > t1 || n.to < t0)) return false;
+      if (terms.length && !terms.every((t) => n.hay.includes(t))) return false;
+      if (near) { if (!n.coord) return false; n.dist = nmBetween(near, n.coord); if (n.dist > nm + n.radius) return false; }
+      return true;
+    }).sort((a, b) => near ? a.dist - b.dist : (a.from - b.from) || a.id.localeCompare(b.id));
+    shown = 0;
+    els.status.innerHTML = `<b>${results.length}</b> NOTAM${results.length === 1 ? '' : 's'} · ${esc(day)} UTC · ${esc(data.from)} (${data.list.length} in total)`;
+    render(t0, t1);
+  }
+  function hl(s) {
+    let h = esc(s); if (!terms.length) return h;
+    const re = new RegExp('(' + terms.map((t) => esc(t).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|') + ')', 'gi');
+    return h.replace(re, '<mark>$1</mark>');
+  }
+  function render(t0, t1) {
+    const frag = document.createDocumentFragment();
+    results.slice(shown, shown + PAGE).forEach((n) => {
+      const st = state(n, t0, t1), d = document.createElement('article'); d.className = 'n';
+      const alt = n.lower || n.upper ? ` · ${esc(n.lower || 'SFC')} – ${esc(n.upper || '?')}` : '';
+      d.innerHTML = `<div class="n-head"><span class="id">${hl(n.id)}</span><span class="loc">${hl(n.loc || n.fir)}</span>
+        <span class="tag t-${st}">${st === 'active' ? 'active that day' : st === 'future' ? 'later' : 'ended'}</span>
+        <span class="meta">${fmt(n.from)} → ${fmt(n.to)}${n.est ? ' (est)' : ''}${alt}${n.q ? ' · Q' + esc(n.q) : ''}${n.dist != null ? ` · ${n.dist.toFixed(1)} NM away` : ''}</span></div>
+        ${n.sched ? `<div class="meta">Schedule: ${hl(n.sched)}</div>` : ''}<div class="txt">${hl(n.text)}</div>`;
+      frag.appendChild(d);
+    });
+    els.list.appendChild(frag); shown = Math.min(results.length, shown + PAGE);
+    els.more.hidden = shown >= results.length; els.more.textContent = `Show more (${results.length - shown} left)`;
+    els.more.onclick = () => render(t0, t1);
+  }
+
+  els.f.addEventListener('submit', run);
+  els.clear.addEventListener('click', () => { els.q.value = ''; els.day.value = ''; els.near.value = ''; els.nm.value = 10; els.show.value = 'day'; run(); });
+  const P = new URLSearchParams(location.search);
+  els.q.value = P.get('q') || ''; els.day.value = P.get('day') || ''; els.near.value = P.get('near') || ''; els.nm.value = P.get('nm') || 10; els.show.value = P.get('show') === 'all' ? 'all' : 'day';
+  run();
+})();
+</script>
+</body>
+</html>

@@ -11,6 +11,13 @@ at that time.
 > delayed or out of date. Do not use it for flight planning or operational decisions: always check
 > NOTAMs with the official source.
 
+## Search
+
+**[Search UK NOTAMs →](https://minaduddin.github.io/uk-notam-archive/)**
+
+Search by NOTAM ID, location, Q-code or any words in the text, pick a day (past days use the bulletins
+saved that day), or find NOTAMs within a distance of a point.
+
 ## Source
 
 [NATS Pre-flight Information Bulletin](https://pibs.nats.co.uk/operational/pibs/PIB.xml) (public).
@@ -20,6 +27,7 @@ at that time.
 | Path | What it is |
 |---|---|
 | `data/PIB.xml` | The latest saved bulletin, exactly as published (XML) |
+| `index.html` | The search page (served by GitHub Pages) |
 | `fetch_pib.py` | Downloads and checks the bulletin; saves it only when the NOTAMs changed |
 | `.github/workflows/archive.yml` | Runs `fetch_pib.py` every 30 minutes and commits changes |
 

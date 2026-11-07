@@ -51,6 +51,16 @@ def fingerprint(nodes):
     return hashlib.sha256("\n".join(parts).encode("utf-8")).hexdigest()
 
 
+def unique_count(nodes):
+    """Number of distinct NOTAMs (the bulletin lists some twice, under an aerodrome and under the FIR)."""
+    def val(n, tag):
+        for c in n:
+            if c.tag.endswith(tag):
+                return (c.text or "").strip()
+        return ""
+    return len({(val(n, "Series"), val(n, "Number"), val(n, "Year")) for n in nodes})
+
+
 def output(**kv):
     path = os.environ.get("GITHUB_OUTPUT")
     if path:
@@ -81,8 +91,9 @@ def main():
         with open(tmp, "wb") as f:
             f.write(raw)
         os.replace(tmp, OUT)
-    print(f"{len(new)} NOTAMs · {'changed, saved' if changed else 'no change'}")
-    output(changed=str(changed).lower(), notams=str(len(new)))
+    count = unique_count(new)
+    print(f"{count} NOTAMs · {'changed, saved' if changed else 'no change'}")
+    output(changed=str(changed).lower(), notams=str(count))
     return 0
 
 
