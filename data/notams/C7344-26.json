@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T23:35Z",
+ "from": "2026-11-07T22:30Z",
+ "id": "C7344/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "ACCD",
+ "radius": 9,
+ "removed": null,
+ "sched": "",
+ "text": "BOURNEMOUTH CTR, ATZ DEACTIVATED AD CLOSED. NATIONAL POLICE AIR\nSERVICE FLIGHTS MAY TAKE PLACE",
+ "to": "2026-11-08T01:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.4833,
+  -7.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T23:35Z",
+ "from": "2026-11-07T22:20Z",
+ "id": "I7686/26",
+ "loc": [
+  "EGPL"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "BENBECULA ATZ ACTIVATED FOR AMBULANCE FLIGHT. AFIS/AD/ATIS/MET\nADDITIONAL HRS OF OPS. RFFS CAT 3. AD REMAINS STRICTLY PPR)",
+ "to": "2026-11-07T23:30Z",
+ "type": "N",
+ "upper": ""
+}

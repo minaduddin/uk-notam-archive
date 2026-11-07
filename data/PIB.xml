@@ -2,7 +2,7 @@
             DISCLAIMER: Briefing includes all NOTAM available. All Trigger NOTAM are valid
             only for two weeks. For the publication of ECAC States, please consult also the
             PAMS application.
-        --><Pib PIBType="F" PIBId="400000133783511" NewNOTAMDuration="250">
+        --><Pib PIBType="F" PIBId="400000133787211" NewNOTAMDuration="250">
     <AreaPIBHeader>
         <ShortSystemTitle>EAD</ShortSystemTitle>
         <SystemLogoFile>/ino_resources/logos/EAD_Logo.png</SystemLogoFile>
@@ -12,18 +12,18 @@
         <LogoFile>/ci/resource.do?id=07A26818B1F506F5E0530B751DC29CB2</LogoFile>
         <Traffic>IV</Traffic>
         <Validity>
-            <ValidFrom>2026-11-07T22:00:39+00:00</ValidFrom>
-            <ValidTo>2026-11-14T22:00:00+00:00</ValidTo>
+            <ValidFrom>2026-11-07T23:00:46+00:00</ValidFrom>
+            <ValidTo>2026-11-14T23:00:00+00:00</ValidTo>
         </Validity>
         <ProfileId>400000002351201</ProfileId>
         <ProfileName>All NOTAM</ProfileName>
         <ServiceType>FULL</ServiceType>
         <BriefingType>IM</BriefingType>
         <ContentExplanation>Aerodromes, En-route, Warnings, including miscellaneous information</ContentExplanation>
-        <Issued>2026-11-07T22:00:39+00:00</Issued>
+        <Issued>2026-11-07T23:00:46+00:00</Issued>
         <PIBSubject>All NOTAM</PIBSubject>
         <ScheduleName>Daily</ScheduleName>
-        <PibUid>EG712611071018</PibUid>
+        <PibUid>EG712611071053</PibUid>
         <FlightLevel>
             <LowerFL>0</LowerFL>
             <UpperFL>999</UpperFL>
@@ -4496,6 +4496,32 @@ AR-2026-9437/01.</ItemE>
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
                     <Series>C</Series>
+                    <Number>7344</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGTT</FIR>
+                        <Code23>AC</Code23>
+                        <Code45>CD</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>NBO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>21</Upper>
+                    </QLine>
+                    <Coordinates>5047N00151W</Coordinates>
+                    <Radius>9</Radius>
+                    <ItemA>EGHH</ItemA>
+                    <StartValidity>2611072230</StartValidity>
+                    <EndValidity>2611080100</EndValidity>
+                    <ItemE>BOURNEMOUTH CTR, ATZ DEACTIVATED AD CLOSED. NATIONAL POLICE AIR
+SERVICE FLIGHTS MAY TAKE PLACE</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>071120262231</NotamStoreDate>
+                </Notam>
+                <Notam OriginalMessage="false" PIBSection="AD">
+                    <NOF>EGGN</NOF>
+                    <Series>C</Series>
                     <Number>7146</Number>
                     <Year>26</Year>
                     <Type>N</Type>
@@ -4628,22 +4654,6 @@ AR-2026-827/01.</ItemE>
                 </Notam>
             </NotamList>
             <ObsoleteNotamList/>
-            <Snowtam>
-                <TAMMessage>
-                    <TAMID>400000001843232</TAMID>
-                    <TAMloc>EGHH</TAMloc>
-                    <TAMMessageAIXMType>SW</TAMMessageAIXMType>
-                    <TAMItemB>2026-11-07T14:31:00+00:00</TAMItemB>
-                    <TAMYear>0</TAMYear>
-                    <TAMNationalLetter>EG</TAMNationalLetter>
-                    <TAMItemList>
-                        <TAMItem>EGHH</TAMItem>
-                        <TAMItem>11071431 08 5/5/5 100/50/50 NR/NR/NR WET/WET/WET</TAMItem>
-                    </TAMItemList>
-                    <TAMUpdateTime>2026-11-07T14:37:00+00:00</TAMUpdateTime>
-                    <TamObservationTime>2026-11-07T14:31:00+00:00</TamObservationTime>
-                </TAMMessage>
-            </Snowtam>
         </ADSection>
         <ADSection>
             <Code>EGGD</Code>
@@ -4754,36 +4764,6 @@ FLOCKS OF WOODPIGEON OVER THE AD, APPROACHES AND CLIMBOUTS.</ItemE>
                     <ItemE>INCREASED BIRD ACTIVITY ON AD. OCCASIONAL FLOCKS OF STARLINGS.</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>311020261308</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>C</Series>
-                    <Number>7109</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5125N00228W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGGD</ItemA>
-                    <StartValidity>2611031600</StartValidity>
-                    <EndValidity>2611072300</EndValidity>
-                    <ItemD>1600-2300</ItemD>
-                    <ItemE>LASERS, SEARCHLIGHTS, FIREWORKS WI 1NM RADIUS OF 512452N 0022810W
-(KEYNSHAM). FIREWORKS (05-07 NOV) UP TO 600FT AGL. FOR INFO 07717
-067871 / 07891 509521 / 07891 509521. AR-2026-10334/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>281020261135</NotamStoreDate>
                 </Notam>
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
@@ -23839,6 +23819,32 @@ MAY STILL OPR</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>071120262015</NotamStoreDate>
                 </Notam>
+                <Notam Reference="EGHH" OriginalMessage="false" PIBSection="FIR">
+                    <NOF>EGGN</NOF>
+                    <Series>C</Series>
+                    <Number>7344</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGTT</FIR>
+                        <Code23>AC</Code23>
+                        <Code45>CD</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>NBO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>21</Upper>
+                    </QLine>
+                    <Coordinates>5047N00151W</Coordinates>
+                    <Radius>9</Radius>
+                    <ItemA>EGHH</ItemA>
+                    <StartValidity>2611072230</StartValidity>
+                    <EndValidity>2611080100</EndValidity>
+                    <ItemE>BOURNEMOUTH CTR, ATZ DEACTIVATED AD CLOSED. NATIONAL POLICE AIR
+SERVICE FLIGHTS MAY TAKE PLACE</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>071120262231</NotamStoreDate>
+                </Notam>
                 <Notam OriginalMessage="false" PIBSection="FIR">
                     <NOF>EGGN</NOF>
                     <Series>B</Series>
@@ -29863,36 +29869,6 @@ ARMS RANGE). INCREASE TO AIR DANGER HEIGHT. FOR INFO 07818 900806
                     <Marker>+</Marker>
                     <NotamStoreDate>211020260902</NotamStoreDate>
                 </Notam>
-                <Notam Reference="EGGD" OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>C</Series>
-                    <Number>7109</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>AW</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5125N00228W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGGD</ItemA>
-                    <StartValidity>2611031600</StartValidity>
-                    <EndValidity>2611072300</EndValidity>
-                    <ItemD>1600-2300</ItemD>
-                    <ItemE>LASERS, SEARCHLIGHTS, FIREWORKS WI 1NM RADIUS OF 512452N 0022810W
-(KEYNSHAM). FIREWORKS (05-07 NOV) UP TO 600FT AGL. FOR INFO 07717
-067871 / 07891 509521 / 07891 509521. AR-2026-10334/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>281020261135</NotamStoreDate>
-                </Notam>
                 <Notam Reference="EGBJ" OriginalMessage="false" PIBSection="WAR">
                     <NOF>EGGN</NOF>
                     <Series>L</Series>
@@ -30857,35 +30833,6 @@ FOR INFO 07915 311799. AR-2026-10266/01.</ItemE>
                     <ItemG>800FT AMSL</ItemG>
                     <Marker>+</Marker>
                     <NotamStoreDate>271020261017</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>H</Series>
-                    <Number>7264</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>WU</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>BO</Purpose>
-                        <Scope>W</Scope>
-                        <Lower>0</Lower>
-                        <Upper>7</Upper>
-                    </QLine>
-                    <Coordinates>5138N00008W</Coordinates>
-                    <Radius>1</Radius>
-                    <ItemA>EGTT</ItemA>
-                    <StartValidity>2611071700</StartValidity>
-                    <EndValidity>2611072230</EndValidity>
-                    <ItemE>UAS SWARM OPR WI 0.1NM RADIUS OF 513734N 0000743W (SOUTHGATE,
-LONDON). SWARM MADE UP OF 175 UAS. MAX HGT 400FT AGL. FOR INFO
-07405 188200 / 07570 043412. AR-2026-10397/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>700FT AMSL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>291020261504</NotamStoreDate>
                 </Notam>
                 <Notam Reference="EGHH" OriginalMessage="false" PIBSection="WAR">
                     <NOF>EGGN</NOF>
@@ -37324,6 +37271,32 @@ COVERED WITH STEEL PLATES.</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>071120261130</NotamStoreDate>
                 </Notam>
+                <Notam OriginalMessage="false" PIBSection="AD">
+                    <NOF>EGGN</NOF>
+                    <Series>I</Series>
+                    <Number>7686</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGPX</FIR>
+                        <Code23>AZ</Code23>
+                        <Code45>CA</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>NBO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>21</Upper>
+                    </QLine>
+                    <Coordinates>5729N00722W</Coordinates>
+                    <Radius>2</Radius>
+                    <ItemA>EGPL</ItemA>
+                    <StartValidity>2611072220</StartValidity>
+                    <EndValidity>2611072330</EndValidity>
+                    <ItemE>BENBECULA ATZ ACTIVATED FOR AMBULANCE FLIGHT. AFIS/AD/ATIS/MET
+ADDITIONAL HRS OF OPS. RFFS CAT 3. AD REMAINS STRICTLY PPR)</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>071120262201</NotamStoreDate>
+                </Notam>
             </NotamList>
             <ObsoleteNotamList/>
         </ADSection>
@@ -39970,6 +39943,33 @@ CH 129.455</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>221020261605</NotamStoreDate>
                 </Notam>
+                <Notam OriginalMessage="false" PIBSection="AD">
+                    <NOF>EGGN</NOF>
+                    <Series>I</Series>
+                    <Number>7250</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGPX</FIR>
+                        <Code23>SP</Code23>
+                        <Code45>LT</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>BO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>55</Upper>
+                    </QLine>
+                    <Coordinates>5529N00433W</Coordinates>
+                    <Radius>16</Radius>
+                    <ItemA>EGPK</ItemA>
+                    <StartValidity>2611142200</StartValidity>
+                    <EndValidity>2611150700</EndValidity>
+                    <ItemE>PRESTWICK RADAR OPR REDUCED FLOW RATE DUE ATC SINGLE CONTROLLER.
+ACFT WISHING TO USE PRESTWICK AS AN ALTN MAY EXPERIENCE DELAYS. ALL 
+ACFT INBD TO PRESTWICK ARE TO MONITOR 121.5 AS MANDATED</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>211020261924</NotamStoreDate>
+                </Notam>
             </NotamList>
             <ObsoleteNotamList/>
         </ADSection>
@@ -40059,6 +40059,32 @@ HGT 46FT AMSL/35FT AGL</ItemE>
                     <ItemE>AERODROME OPERATING HOURS AMENDED FOR SUNDAY 1315-1700.</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>231020261207</NotamStoreDate>
+                </Notam>
+                <Notam OriginalMessage="false" PIBSection="AD">
+                    <NOF>EGGN</NOF>
+                    <Series>I</Series>
+                    <Number>7687</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGPX</FIR>
+                        <Code23>AZ</Code23>
+                        <Code45>CA</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>NBO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>21</Upper>
+                    </QLine>
+                    <Coordinates>5813N00620W</Coordinates>
+                    <Radius>3</Radius>
+                    <ItemA>EGPO</ItemA>
+                    <StartValidity>2611072300</StartValidity>
+                    <EndValidity>2611080030</EndValidity>
+                    <ItemE>STORNOWAY ATZ ACTIVE. AD/FIS/MET SERVICE OPEN. RFFS CAT3 AVBL. AD
+REMAINS PPR.</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>071120262250</NotamStoreDate>
                 </Notam>
             </NotamList>
             <ObsoleteNotamList/>
@@ -42014,6 +42040,58 @@ ACFT INBD TO PRESTWICK ARE TO MONITOR 121.5 AS MANDATED</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>211020261924</NotamStoreDate>
                 </Notam>
+                <Notam Reference="EGPL" OriginalMessage="false" PIBSection="FIR">
+                    <NOF>EGGN</NOF>
+                    <Series>I</Series>
+                    <Number>7686</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGPX</FIR>
+                        <Code23>AZ</Code23>
+                        <Code45>CA</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>NBO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>21</Upper>
+                    </QLine>
+                    <Coordinates>5729N00722W</Coordinates>
+                    <Radius>2</Radius>
+                    <ItemA>EGPL</ItemA>
+                    <StartValidity>2611072220</StartValidity>
+                    <EndValidity>2611072330</EndValidity>
+                    <ItemE>BENBECULA ATZ ACTIVATED FOR AMBULANCE FLIGHT. AFIS/AD/ATIS/MET
+ADDITIONAL HRS OF OPS. RFFS CAT 3. AD REMAINS STRICTLY PPR)</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>071120262201</NotamStoreDate>
+                </Notam>
+                <Notam Reference="EGPO" OriginalMessage="false" PIBSection="FIR">
+                    <NOF>EGGN</NOF>
+                    <Series>I</Series>
+                    <Number>7687</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGPX</FIR>
+                        <Code23>AZ</Code23>
+                        <Code45>CA</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>NBO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>21</Upper>
+                    </QLine>
+                    <Coordinates>5813N00620W</Coordinates>
+                    <Radius>3</Radius>
+                    <ItemA>EGPO</ItemA>
+                    <StartValidity>2611072300</StartValidity>
+                    <EndValidity>2611080030</EndValidity>
+                    <ItemE>STORNOWAY ATZ ACTIVE. AD/FIS/MET SERVICE OPEN. RFFS CAT3 AVBL. AD
+REMAINS PPR.</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>071120262250</NotamStoreDate>
+                </Notam>
                 <Notam Reference="EGPN" OriginalMessage="false" PIBSection="FIR">
                     <NOF>EGGN</NOF>
                     <Series>I</Series>
@@ -42397,6 +42475,33 @@ CONTROLLER BREAKS. PILOTS TRANSITING THE AREA ARE ADVISED TO MONITOR
 CH 129.455</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>221020261605</NotamStoreDate>
+                </Notam>
+                <Notam Reference="EGPK" OriginalMessage="false" PIBSection="FIR">
+                    <NOF>EGGN</NOF>
+                    <Series>I</Series>
+                    <Number>7250</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGPX</FIR>
+                        <Code23>SP</Code23>
+                        <Code45>LT</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>BO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>55</Upper>
+                    </QLine>
+                    <Coordinates>5529N00433W</Coordinates>
+                    <Radius>16</Radius>
+                    <ItemA>EGPK</ItemA>
+                    <StartValidity>2611142200</StartValidity>
+                    <EndValidity>2611150700</EndValidity>
+                    <ItemE>PRESTWICK RADAR OPR REDUCED FLOW RATE DUE ATC SINGLE CONTROLLER.
+ACFT WISHING TO USE PRESTWICK AS AN ALTN MAY EXPERIENCE DELAYS. ALL 
+ACFT INBD TO PRESTWICK ARE TO MONITOR 121.5 AS MANDATED</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>211020261924</NotamStoreDate>
                 </Notam>
             </NotamList>
             <ObsoleteNotamList/>
@@ -42970,34 +43075,6 @@ AR-2026-10105/01.</ItemE>
                     <ItemG>1800FT AMSL</ItemG>
                     <Marker>+</Marker>
                     <NotamStoreDate>201020261352</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="WAR">
-                    <NOF>EGGN</NOF>
-                    <Series>H</Series>
-                    <Number>7188</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGPX</FIR>
-                        <Code23>WO</Code23>
-                        <Code45>LW</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>M</Purpose>
-                        <Scope>W</Scope>
-                        <Lower>0</Lower>
-                        <Upper>999</Upper>
-                    </QLine>
-                    <Coordinates>5612N00259W</Coordinates>
-                    <Radius>2</Radius>
-                    <ItemA>EGPX</ItemA>
-                    <StartValidity>2611071400</StartValidity>
-                    <EndValidity>2611072300</EndValidity>
-                    <ItemE>LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 561147N 0025924W (METHIL).
-FOR INFO 07301 126180. AR-2026-10236/01.</ItemE>
-                    <ItemF>SFC</ItemF>
-                    <ItemG>UNL</ItemG>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>271020260959</NotamStoreDate>
                 </Notam>
                 <Notam OriginalMessage="false" PIBSection="WAR">
                     <NOF>EGGN</NOF>
