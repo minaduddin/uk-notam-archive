@@ -15,8 +15,9 @@ at that time.
 
 **[Search UK NOTAMs →](https://minaduddin.github.io/uk-notam-archive/)**
 
-Search by NOTAM ID, location, Q-code or any words in the text, pick a day (past days use the bulletins
-saved that day), or find NOTAMs within a distance of a point.
+Search by NOTAM ID, location, Q-code or any words in the text, pick a day to see what was in force
+then, or find NOTAMs within a distance of a point. Every NOTAM, current or past, also has its own page,
+and there are pages per location and for current [cranes and obstacles](https://minaduddin.github.io/uk-notam-archive/obstacles.html).
 
 ## Source
 
@@ -27,9 +28,10 @@ saved that day), or find NOTAMs within a distance of a point.
 | Path | What it is |
 |---|---|
 | `data/PIB.xml` | The latest saved bulletin, exactly as published (XML) |
-| `index.html` | The search page (served by GitHub Pages) |
+| `data/notams/` | One record per NOTAM ever seen: its details, when it first appeared and when it left the bulletin |
 | `fetch_pib.py` | Downloads and checks the bulletin; saves it only when the NOTAMs changed |
-| `.github/workflows/archive.yml` | Runs `fetch_pib.py` every 30 minutes and commits changes |
+| `build_site.py` | Updates the NOTAM records and builds the website (search, NOTAM and location pages, sitemap) |
+| `.github/workflows/archive.yml` | Runs both every 30 minutes, commits changes and publishes the website |
 
 A download is saved only if it is a valid bulletin (well-formed XML with at least 50 NOTAMs), so an
 error or maintenance page never replaces a good copy.
@@ -56,6 +58,7 @@ Python 3.8 or newer, no packages needed:
 
 ```
 python fetch_pib.py
+python build_site.py      # website in _site/
 ```
 
 ## Notes
