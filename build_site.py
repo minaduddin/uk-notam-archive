@@ -335,7 +335,7 @@ SEARCH_JS = r"""
     if (ev) ev.preventDefault();
     const day = els.day.value || todayUTC(), near = parseNear(els.near.value), nm = Math.max(0, +els.nm.value || 0);
     terms = tokens(els.q.value.trim());
-    if (near === undefined) { els.status.textContent = 'Near: enter "lat, lon" (e.g. 54.5277, -1.5021) or 5432N00130W.'; return; }
+    if (near === undefined) { els.status.textContent = 'Near: enter "lat, lon" (e.g. 51.4700, -0.4543) or 5128N00027W.'; return; }
     const p = new URLSearchParams(); if (els.q.value.trim()) p.set('q', els.q.value.trim()); if (els.day.value) p.set('day', els.day.value);
     if (els.near.value.trim()) { p.set('near', els.near.value.trim()); p.set('nm', nm); } if (els.show.value !== 'day') p.set('show', els.show.value);
     history.replaceState(null, '', p.toString() ? '?' + p : location.pathname);
@@ -391,11 +391,11 @@ def home_page(recs, by_loc):
 {DISCLAIMER}
 <form class="panel" id="f" autocomplete="off" role="search">
  <div class="row">
-  <label class="grow">Search NOTAMs<input id="q" type="search" placeholder="e.g. crane · EGNV · J3955/26 · drone · wind turbine" autofocus></label>
+  <label class="grow">Search NOTAMs<input id="q" type="search" placeholder="e.g. crane · EGLL · wind turbine · drone" autofocus></label>
   <label>Day (UTC)<input id="day" type="date"></label>
  </div>
  <div class="row">
-  <label>Near (lat, lon or 5432N00130W)<input id="near" placeholder="54.5277, -1.5021" size="22"></label>
+  <label>Near (lat, lon or 5128N00027W)<input id="near" placeholder="51.4700, -0.4543" size="22"></label>
   <label>Within (NM)<input id="nm" type="number" min="0" step="0.5" value="10" style="width:90px"></label>
   <label>Show<select id="show"><option value="day">Active on that day</option><option value="current">Current only</option><option value="all">Everything archived</option></select></label>
   <button type="submit">Search</button><button type="button" class="ghost" id="clear">Clear</button>
