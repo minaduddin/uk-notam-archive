@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.9167,
+  -3.3167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-26T20:00Z",
+ "id": "I7293/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "2000-0600",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 555452N 0031859W (CURRIE, \nEDINBURGH). FOR INFO 07927 557851 / 078890 29022. AR-2026-9922/01.",
+ "to": "2026-11-09T06:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  58.2167,
+  -6.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-18T05:50Z",
+ "id": "I6420/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "NDB MAST OBS LGT PSN 581255N 0061944W U/S (STORNOWAY AD) \nHGT 46FT AMSL/35FT AGL",
+ "to": "2026-12-16T18:45Z",
+ "type": "N",
+ "upper": ""
+}

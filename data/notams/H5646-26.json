@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.3667,
+  -1.4
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-13T07:00Z",
+ "id": "H5646/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SEP 13-OCT 24 0700-1900, OCT 25-DEC 11 0800-2000",
+ "text": "FLYING OF LARGE MODEL ACFT WI 0.55NM RADIUS OF 522203N 0012346W\n(SOUTH OF WOLSTON).  FOR INFO 075196 65738. AR-2026-8082/01.",
+ "to": "2026-12-11T20:00Z",
+ "type": "N",
+ "upper": "1900FT AMSL"
+}

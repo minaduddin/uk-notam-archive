@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.1667,
+  -0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:31Z",
+ "id": "Q237/26",
+ "loc": [
+  "EGXW"
+ ],
+ "lower": "",
+ "q": "MKLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "DANGEROUS AIR CARGO LOADING BAY NOT AVBL. CTC STATION OPS FOR \nALTERNATE PLAN.",
+ "to": "2026-11-26T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.3333,
+  -5.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T09:00Z",
+ "id": "E334/26",
+ "loc": [
+  "EGTP"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AERODROME CLOSED",
+ "to": "2026-11-14T17:00Z",
+ "type": "N",
+ "upper": ""
+}

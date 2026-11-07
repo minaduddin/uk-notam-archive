@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.75,
+  1.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-26T16:51Z",
+ "id": "N906/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "REPORT OF MULTI AIR NAV OBST LGT U/S PSN 514500N 0011434E\n(OFFSHORE, 4NM SE OF CLACTON-ON-SEA). HGT 470FT AMSL. \nAR-2026-10198/02.",
+ "to": "2026-11-22T23:59Z",
+ "type": "N",
+ "upper": ""
+}

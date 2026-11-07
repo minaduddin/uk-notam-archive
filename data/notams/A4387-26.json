@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4,
+  -0.0833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T08:00Z",
+ "id": "A4387/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UAS OPR WI 0.2NM RADIUS OF 512400N 0000519W (SOUTH NORWOOD, \nLONDON). MAX HGT 500FT AGL. FOR INFO 01992 924779. AR-2026-10461/01.",
+ "to": "2026-11-08T18:00Z",
+ "type": "N",
+ "upper": "900FT AMSL"
+}

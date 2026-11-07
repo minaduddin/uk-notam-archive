@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.1833,
+  -1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-01T05:00Z",
+ "id": "H5632/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WYLW",
+ "radius": 23,
+ "removed": null,
+ "sched": "OCT 01-24 0500-1800, OCT 25-DEC 15 0600-1900",
+ "text": "AERIAL SURVEY WI AREA BOUNDED BY \n542002N 0015252W - 540213N 0004547W - 540435N 0004621W - \n542254N 0012248W - 542002N 0015252W (BTN BELLERBY, BROMPTON AND \nLEAVENING).  FOR INFO 004553 738360. AR-2026-8093/01.",
+ "to": "2026-12-15T19:00Z",
+ "type": "N",
+ "upper": "6300FT AMSL"
+}

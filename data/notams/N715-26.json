@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.9667,
+  0.7167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-20T09:23Z",
+ "id": "N715/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "(MAST) POSITION 505744N 0004326E (ROTHER, EAST SUSSEX)\nIN LOW FLYING AREA 18 AND NIGHT ROTARY REGION 18\nHGT 320FT AMSL (120FT AGL) UNLIT. 26/08/222/LFC",
+ "to": "2026-11-18T23:59Z",
+ "type": "N",
+ "upper": ""
+}

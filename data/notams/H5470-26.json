@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.85,
+  -0.9667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-02T05:17Z",
+ "id": "H5470/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 2NM RADIUS OF 515053N 0005735W \n(WESTCOTT). MAX HGT 400FT AGL. FOR INFO 07852318946. AR-2026-7831/01.",
+ "to": "2026-11-30T15:57Z",
+ "type": "N",
+ "upper": "1000FT AMSL"
+}

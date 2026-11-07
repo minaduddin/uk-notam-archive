@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.8833,
+  -4.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-13T16:00Z",
+ "id": "H6231/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 515257N 0035939W (LLANDEILO). FOR\nINFO 07517 443514. AR-2026-8613/01.",
+ "to": "2026-11-13T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

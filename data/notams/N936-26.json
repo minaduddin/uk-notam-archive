@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.8667,
+  -1.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-04T11:06Z",
+ "id": "N936/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "AIR NAV OBST LGT UK0171A349F RTM RTM PONTOP PIKE MAST\nSINGLE U/S PSN 545207.98N 0014616.33W ELEV/HGT 1479FT/489FT",
+ "to": "2026-11-27T17:00Z",
+ "type": "R",
+ "upper": ""
+}

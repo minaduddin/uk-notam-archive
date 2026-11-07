@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T10:50Z",
+ "id": "Q193/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "NOISE EMBARGO IN FORCE. THAMES VALLEY AIR AMBULANCE AND NATIONAL \nPOLICE AIR SERVICE EXEMPT.",
+ "to": "2026-11-08T11:10Z",
+ "type": "N",
+ "upper": ""
+}

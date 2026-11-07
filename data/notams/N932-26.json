@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.7,
+  -1.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T00:00Z",
+ "id": "N932/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 504157N 0015541W (BOURNEMOUTH, CHRISTCHURCH) IN \nLOW FLYING AREA 18 AND NIGHT ROTARY REGION 18 HGT 114FT AGL 314FT \nAMSL. 26/11/014/LFC",
+ "to": "2027-02-05T23:59Z",
+ "type": "N",
+ "upper": ""
+}

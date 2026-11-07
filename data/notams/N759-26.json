@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4833,
+  -0.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-10T00:00Z",
+ "id": "N759/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPR PSN 512859N 0000409W (SOUTH BERMONDSEY, LONDON) UP TO \n404FT AGL/416FT AMSL. FOR INFO CTC 07970 304805. ON EXPIRY OF THIS \nNOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4 AR-2026-8212/01.",
+ "to": "2027-01-08T23:59Z",
+ "type": "N",
+ "upper": ""
+}

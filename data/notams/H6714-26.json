@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.1167,
+  -1.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-26T09:30Z",
+ "id": "H6714/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0930-2359",
+ "text": "UAS SWARM OPR WI 1NM RADIUS OF 530714N 0010118W (BLISTHORPE).\nSWARM MADE UP OF 1200 UAS. MAX HGT 600FT AGL. FOR INFO\n07547 155440. AR-2026-9479/02.",
+ "to": "2027-01-15T23:59Z",
+ "type": "N",
+ "upper": "1000FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.8667,
+  -4.4
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-27T08:00Z",
+ "id": "I6530/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "MOBILE CRANE OPR PSN 555211N 0042414W (GLASGOW). MAX HGT \n89FT AGL/115FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. SITE CTC \nCECILE LEFEVRE 07854 685092.",
+ "to": "2026-11-17T17:30Z",
+ "type": "N",
+ "upper": ""
+}

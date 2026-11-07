@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.9167,
+  -2.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-15T08:37Z",
+ "id": "H6918/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "text": "FLYING OF LARGE MODEL ACFT WI AREA BOUNDED BY:\n505527N 0020138W - 505544N 0020054W - 505518N 0020026W - \n505507N 0020051W - 505458N 0020112W - 505527N 0020138W (CASHMOOR).  \nFOR INFO 07909 022800. AR-2026-9838/01.",
+ "to": "2027-01-13T16:28Z",
+ "type": "N",
+ "upper": "1900FT AMSL"
+}

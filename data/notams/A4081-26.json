@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5167,
+  -0.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-20T06:34Z",
+ "id": "A4081/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "text": "UAS OPR WI AREA BOUNDED BY:\n513047N 0003007W - 513046N 0002940W - 513034N 0002936W - \n513032N 0003008W - 513047N 0003007W (IVER). MAX HGT 260FT AGL. \nFOR INFO 07745 966840. AR-2026-9855/01.",
+ "to": "2027-01-15T16:22Z",
+ "type": "N",
+ "upper": "400FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.0833,
+  -5.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T08:00Z",
+ "id": "Q158/26",
+ "loc": [
+  "EGDR"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 29 ACFT LAST LOOK CAMERAS AND SIGNAL LIGHT GUNS U/S.\nEXPECT LIGHT SIGNAL FROM VISUAL CONTROL POSITION.",
+ "to": "2026-12-18T17:00Z",
+ "type": "N",
+ "upper": ""
+}

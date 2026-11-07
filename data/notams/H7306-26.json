@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5167,
+  -1.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-03T06:00Z",
+ "id": "H7306/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0600-2000",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT UTILISING VISUAL OBSERVERS \n(EXTENDED LINE OF SIGHT) WI 1.5NM RADIUS OF 513106N 0011654W (EAST \nILSLEY). MAX HGT 500FT AGL. FOR INFO 07852 318946 / 07954 823065. \nAR-2026-10342/01.",
+ "to": "2027-01-25T20:00Z",
+ "type": "N",
+ "upper": "1200FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.0833,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-09T08:35Z",
+ "id": "N859/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UNLIT WIND TURBINE POSITION 520438N 0001002W\n(EYEWORTH, CENTRAL BEDFORDSHIRE) IN LOW FLYING AREA 6\nAND NIGHT ROTARY REGION 4B. HGT 270FT AMSL (150FT AGL) \n26/10/062/LFC",
+ "to": "2027-01-06T23:59Z",
+ "type": "N",
+ "upper": ""
+}

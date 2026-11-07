@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.7,
+  1.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-01T00:00Z",
+ "id": "B1603/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SELT",
+ "radius": 95,
+ "removed": null,
+ "sched": "",
+ "text": "SWANWICK (MIL) EAST WILL ONLY BE ABLE TO OFFER AN ATS\nTO HIGHEST PRIORITY TRAFFIC AND A SERVICE CANNOT BE GUARANTEED. \nSQUADRONS ARE REQUESTED TO ENGAGE WITH 78 SQN PLANS AT \nTHE EARLIEST OPPORTUNITY.",
+ "to": "2026-11-30T23:59Z",
+ "type": "N",
+ "upper": ""
+}

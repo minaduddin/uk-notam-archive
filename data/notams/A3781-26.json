@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4833,
+  -0.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-30T23:50Z",
+ "id": "A3781/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "TWY A NORTH CLSD BTN TWY C AND TWY E.",
+ "to": "2026-12-16T23:50Z",
+ "type": "N",
+ "upper": ""
+}

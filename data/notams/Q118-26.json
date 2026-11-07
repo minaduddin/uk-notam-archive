@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.7,
+  -3.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T06:00Z",
+ "id": "Q118/26",
+ "loc": [
+  "EGQS"
+ ],
+ "lower": "",
+ "q": "LAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 23 APPROACH LIGHTING PARTIALLY OBSCURED BY VEGETATION",
+ "to": "2026-11-23T23:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.1,
+  -5.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-31T11:45Z",
+ "id": "L6885/26",
+ "loc": [
+  "EGHC"
+ ],
+ "lower": "",
+ "q": "FAHX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "INCREASED BIRD ACTIVITY IN VICINITY OF AD",
+ "to": "2026-11-14T17:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.0167,
+  -7.45
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T08:45Z",
+ "id": "I7576/26",
+ "loc": [
+  "EGPR"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "DIFFICULT ENVIROMENT RESCUE CRAFT NOT AVBL",
+ "to": "2027-01-20T15:30Z",
+ "type": "N",
+ "upper": ""
+}

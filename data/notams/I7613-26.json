@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-04T08:34Z",
+ "id": "I7613/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "STANDS 403, 404, 405, 406 AND 407 CLSD.\nNOTAM WILL BE SUPERSEDED BY AIP SUP WEF 10 DEC 2026.",
+ "to": "2026-12-09T23:59Z",
+ "type": "R",
+ "upper": ""
+}

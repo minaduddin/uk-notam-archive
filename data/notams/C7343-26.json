@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.7333,
+  -3.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T20:15Z",
+ "id": "C7343/26",
+ "loc": [
+  "EGTE"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "text": "EXETER ATZ DEACTIVATED. ATS AND AD CLSD. BASED EMERG ROTARY ACFT \nMAY STILL OPR",
+ "to": "2026-11-08T02:00Z",
+ "type": "N",
+ "upper": ""
+}

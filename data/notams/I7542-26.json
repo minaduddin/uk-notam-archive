@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.4833,
+  -7.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-31T10:00Z",
+ "id": "I7542/26",
+ "loc": [
+  "EGPL"
+ ],
+ "lower": "",
+ "q": "STXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AIR TRAFFIC OPERATIONAL TELEPHONE NETWORK (ATOTN) U/S. CTC ATC\nON 01870 604830.",
+ "to": "2026-12-31T15:30Z",
+ "type": "R",
+ "upper": ""
+}

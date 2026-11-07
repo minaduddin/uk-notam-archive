@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.8167,
+  -1.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-07T07:47Z",
+ "id": "L6262/26",
+ "loc": [
+  "EGHF"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "JOINING PROCEDURES - BASE JOINS FOR RUNWAY 23 ARE PROHIBITED.\nSTANDARD JOIN FROM THE NORTH AMENDED:\nFOR RUNWAY 05 - REMAIN WEST AND OUTSIDE FLEETLANDS ATZ THEN JOIN\nDOWNWIND FOR RUNWAY 05. \nFOR RUNWAY 23 - ROUTE OVERHEAD WICKHAM VRP, MAINTAIN A SOUTHERLY\nHEADING AND 2100 UNTIL OVERHEAD THE SOLENT, THEN DESCEND TO JOIN\nDOWNWIND FOR RUNWAY 23.\nUK AIP EGHF AD 2.22-2 REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

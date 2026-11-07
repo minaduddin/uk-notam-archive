@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5,
+  0.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-21T05:28Z",
+ "id": "C6279/26",
+ "loc": [
+  "EGLC"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE OPR PSN 512931.0N 0000220.0E (EASTMOOR STREET, LONDON,\nSE78LX). MAX HGT 317FT AGL/321FT AMSL. REF 2026/CR/063.\nUK AIP EGLC AD 2.10 REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

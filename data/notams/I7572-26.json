@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T17:39Z",
+ "id": "I7572/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "LYAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "TWY LIMA AND EDGE LIGHTS AROUND TO STAND 6F ALTERNATE LIGHTS U/S.\nLEAD ON LIGHTS FROM TWY LIMA TO STAND 21 AND 22 U/S.)",
+ "to": "2026-11-08T17:00Z",
+ "type": "N",
+ "upper": ""
+}

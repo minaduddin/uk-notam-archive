@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.05,
+  -7.1667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T10:30Z",
+ "id": "I7167/26",
+ "loc": [
+  "EGAE"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 08/26 CLSD DUE ANNUAL EMERGENCY EXERCISE",
+ "to": "2026-11-10T13:30Z",
+ "type": "N",
+ "upper": ""
+}

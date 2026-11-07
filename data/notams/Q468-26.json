@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.6167,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T08:00Z",
+ "id": "Q468/26",
+ "loc": [
+  "EGXT"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AMENDED AD OPR HR:\n0830-1730",
+ "to": "2026-11-09T17:30Z",
+ "type": "N",
+ "upper": ""
+}

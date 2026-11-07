@@ -1,0 +1,24 @@
+{
+ "coord": [
+  56.55,
+  3.2167
+ ],
+ "est": false,
+ "fir": "ENXX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T08:00Z",
+ "id": "B1198/26",
+ "loc": [
+  "ENOR",
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UNMANNED ACFT (BLOS) WILL TAKE PLACE AT EKOFISK AREA INSIDE ENLE\n500M ZONE DUE INSPECTION, PSN 563243N 0031330E, RADIUS 0.3NM. MAX HGT\n100FT AGL. STATUS AVBL FM EKOFISK AFIS FREQ 130.555/118.055MHZ OR TEL\n+47 52027724",
+ "to": "2026-11-10T18:00Z",
+ "type": "N",
+ "upper": "100FT AMSL"
+}

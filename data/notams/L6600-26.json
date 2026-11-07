@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.9167,
+  -1.0833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-19T12:15Z",
+ "id": "L6600/26",
+ "loc": [
+  "EGBN"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "NOTTINGHAM ATZ/FRZ DEACTIVATED.\nAD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE SURRENDER \nOF LICENCE.",
+ "to": "2027-01-19T13:00Z",
+ "type": "N",
+ "upper": ""
+}

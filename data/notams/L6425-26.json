@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.8167,
+  -1.3
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T19:15Z",
+ "id": "L6425/26",
+ "loc": [
+  "EGTK"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 514831N 0011758W (YARNTON). FOR INFO \n07801 061879 / 07766 014187. AR-2026-9468/01.",
+ "to": "2026-11-14T19:45Z",
+ "type": "N",
+ "upper": "900FT AMSL"
+}

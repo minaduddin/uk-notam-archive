@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.55,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-25T01:00Z",
+ "id": "I6808/26",
+ "loc": [
+  "EGPE"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AD OPR HR AND RFFS CAT 6 HR CHANGED:\nMON-FRI 0645-2145\nSAT 0645-2100\nSUN 0645-2145\nUK AIP EGPE AD 2.3, AD 2.6, AD 2.17, AD 2.18 REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

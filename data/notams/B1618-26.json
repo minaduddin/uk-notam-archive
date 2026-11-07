@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.1167,
+  -4.0333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-13T00:00Z",
+ "id": "B1618/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "AFXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "EMERG TRANSPONDER MANDATORY ZONE INSTALLED WI AREA BOUNDED BY:\n551137N 0040215W - 550606N 0040838W - 550312N 0040022W - \n550858N 0035443W - 551137N 0040215W, BTN SFC/FL195 DUE TO LOWTHER \nPRIMARY RADAR MAINT. ALL ACFT OPR WI THIS AREA IN CONTROLLED \nAIRSPACE ARE REQ TO OPR A SVCBL TRANSPONDER.",
+ "to": "2027-01-12T23:59Z",
+ "type": "N",
+ "upper": ""
+}

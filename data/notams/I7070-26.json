@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.45,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T10:00Z",
+ "id": "I7070/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "NVAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "text": "VOR PTH/PERTH 110.40MHZ VOR U/S",
+ "to": "2026-11-09T15:00Z",
+ "type": "N",
+ "upper": ""
+}

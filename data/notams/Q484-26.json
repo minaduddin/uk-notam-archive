@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.3667,
+  -2.8667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-11T10:45Z",
+ "id": "Q484/26",
+ "loc": [
+  "EGQL"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "FLYING EMBARGO EXCEPT FOR ACFT IN EMERGENCY",
+ "to": "2026-11-11T11:15Z",
+ "type": "N",
+ "upper": ""
+}

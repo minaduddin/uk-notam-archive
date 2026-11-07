@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.45,
+  -1.9
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-06T16:00Z",
+ "id": "C7088/26",
+ "loc": [
+  "EGBB"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1600-2359",
+ "text": "UAS SWARM OPR WI 0.5NM RADIUS OF 522723N 0015408W (EDGBASTON,\nMOSELEY). SWARM MADE UP OF 750 UAS. MAX HGT 400FT AGL. FOR INFO\n07882 946825. AR-2026-10267/01.",
+ "to": "2026-11-07T23:59Z",
+ "type": "N",
+ "upper": "900FT AMSL"
+}

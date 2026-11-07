@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.8167,
+  -0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-07-25T07:00Z",
+ "id": "C4722/26",
+ "loc": [
+  "EGKA"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPR PSN 504849N 0002211W (WORTHING) MAX HEIGHT 290FT\nAGL/ 315FT AMSL",
+ "to": "2027-10-13T18:00Z",
+ "type": "N",
+ "upper": ""
+}

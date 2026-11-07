@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-24T09:00Z",
+ "id": "I5617/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "NO TRAINING CIRCUITS OR TRAINING SORTIES OF LESS THAN 30 MINS",
+ "to": "2026-11-24T17:00Z",
+ "type": "N",
+ "upper": ""
+}

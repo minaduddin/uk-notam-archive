@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.4833,
+  -4.7
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T08:30Z",
+ "id": "H7430/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "0830-1700",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 562922N 0044217W, (SLIABH CHRIONACH, ARGYLL AND \nBUTE) LOW FLYING AREA 14 AND NIGHT SECTOR 1A. MAX HGT 500FT AGL. \nACFT MAY BE RESTRICTED IN ABILITY TO MANOEUVRE AND UNABLE TO COMPLY \nWITH RAC OPS CTC 07776 462424. 26/11/046/LFC",
+ "to": "2026-11-11T17:00Z",
+ "type": "N",
+ "upper": "4000FT AMSL"
+}

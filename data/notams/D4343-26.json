@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.7667,
+  -4.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T09:00Z",
+ "id": "D4343/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 8,
+ "removed": null,
+ "sched": "",
+ "text": "THE FOLLOWING LLANBEDR DANGER AREAS ARE ACTIVATED:\nEGD217A 0900-1700 SFC-2000FT AMSL\nEGD217C 0900-1700 SFC-2000FT AMSL\nEGD217E 0900-1700 SFC-2000FT AMSL\nEGD217I 0900-1700 2000FT AMSL-6000FT AMSL",
+ "to": "2026-11-13T17:00Z",
+ "type": "N",
+ "upper": "6000FT AMSL"
+}

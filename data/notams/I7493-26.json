@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.0,
+  -3.4
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T01:00Z",
+ "id": "I7493/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 560001N 0032415W\n(QUEENSFERRY).  FOR INFO 07975 626753. AR-2026-10368/01.",
+ "to": "2026-11-07T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

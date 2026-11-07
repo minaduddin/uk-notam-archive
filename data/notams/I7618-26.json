@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.7333,
+  -4.8167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T12:00Z",
+ "id": "I7618/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "text": "MODEL ROCKET FIRING WI 2NM RADIUS OF 554336N 0044836W (FAIRLIE\nMOOR ROCKET SITE). LAUNCH SUBJ ATC CLR. FOR INFO 07733 250135.\nAR-2026-10371/01.",
+ "to": "2026-11-14T16:00Z",
+ "type": "N",
+ "upper": "16000FT AMSL"
+}

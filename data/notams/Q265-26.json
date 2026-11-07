@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.0667,
+  -5.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T01:34Z",
+ "id": "Q265/26",
+ "loc": [
+  "EGDR"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "OBST LGT U/S AT PSN 500359N 0051423W (RNAS CULDROSE RECEIVER SITE)\n100FT AGL / 560FT AMSL",
+ "to": "2026-11-13T14:00Z",
+ "type": "N",
+ "upper": ""
+}

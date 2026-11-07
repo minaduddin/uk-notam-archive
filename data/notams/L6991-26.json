@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.2,
+  -3.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-04T13:10Z",
+ "id": "L6991/26",
+ "loc": [
+  "EGNR"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-1630",
+ "text": "LIT CRANE OPR PSN 531209N 0030017W (3273M 327 DEG MAG FM\nHAWARDEN ARP) MAX HGT 176FT AMSL/157FT AGL",
+ "to": "2026-12-14T16:30Z",
+ "type": "N",
+ "upper": ""
+}

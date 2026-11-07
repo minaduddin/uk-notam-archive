@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-13T14:18Z",
+ "id": "I6259/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "STEEL PLATE ON TWY CHARLIE BETWEEN HOLDS C1 AN C2.",
+ "to": "2026-11-30T23:59Z",
+ "type": "N",
+ "upper": ""
+}

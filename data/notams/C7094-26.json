@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.45,
+  -0.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-04T10:00Z",
+ "id": "C7094/26",
+ "loc": [
+  "EGLC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "04 05 09 1000-1400",
+ "text": "UAS OPR WI 0.05NM RADIUS OF 512709N 0000601W (BROCKWELL PARK, \nLONDON). MAX HGT 400FT AGL. FOR INFO 07866 050765 / 07866 050766.\nAR-2026-10318/01.",
+ "to": "2026-11-09T14:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

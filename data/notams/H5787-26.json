@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.75,
+  -0.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-09T09:00Z",
+ "id": "H5787/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SEP 09-OCT 24 0900-2000, OCT 25-NOV 09 1000-2100",
+ "text": "UAS SWARM OPR WI 0.2NM RADIUS OF 504455N 0004609W (CHURCH \nNORTON). SWARM MADE UP OF 54 UAS. MAX HGT 600FT AGL. FOR INFO 07782 \n5633178. AR-2026-8321/01.",
+ "to": "2026-11-09T21:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

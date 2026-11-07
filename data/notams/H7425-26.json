@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.3833,
+  -1.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T09:00Z",
+ "id": "H7425/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WLLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0900-1400",
+ "text": "MET BALLOON RELEASE/S WI 1NM RADIUS OF 532321N 0012614W\n(SHEFFIELD). THIS ACTIVITY WILL NOT BE WHOLLY CONTAINED WI\nLATERAL DIMENSION AS NOTIFIED.  FOR INFO 01142 131050 /\n01142 131050. AR-2026-6760/11.",
+ "to": "2026-11-13T14:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

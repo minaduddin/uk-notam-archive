@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.0,
+  1.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:00Z",
+ "id": "J3824/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 12,
+ "removed": null,
+ "sched": "0000-1700",
+ "text": "TEMPO DANGER AREA (TDA) EGD098C ACTIVATED. AIP SUP 109/2026 \nREFERS. BEYOND VISUAL LINE OF SIGHT UAS OPS CONTAINED WHOLLY WI THE \nTDA. A SPECIAL USE AIRSPACE ACTIVITY INFORMATION SERVICE (SUAAIS) \nWILL BE AVBL FM EITHER LONDON INFO ON FREQ 124.600MHZ (OPR H24) OR \nFM LYDD ATC ON CH 120.705 LYDD APPROACH DURING THE HR OF WATCH. \nAR-2023-11556/87.",
+ "to": "2026-11-30T17:00Z",
+ "type": "N",
+ "upper": "1500FT AMSL"
+}

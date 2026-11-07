@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5167,
+  -0.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-30T08:18Z",
+ "id": "N842/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "MULTIPLE CRANES OPR PSN 513118N 0000131W (LONDON) UP TO 391FT \nAGL, 423FT AMSL. FOR INFO CONTACT 0208 735 5900. ON EXPIRY OF THIS \nNOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4. \nAR-2026-6771/01.",
+ "to": "2026-12-29T23:59Z",
+ "type": "N",
+ "upper": ""
+}

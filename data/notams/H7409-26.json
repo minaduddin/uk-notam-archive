@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.2,
+  -4.4
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-11T07:00Z",
+ "id": "H7409/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 4,
+ "removed": null,
+ "sched": "",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 3NM RADIUS OF \n561228N 0042404W (CALLANDER). MAX HGT 400FT AGL. \nFOR INFO 07786 553317. AR-2026-10591/01.",
+ "to": "2026-11-11T19:00Z",
+ "type": "N",
+ "upper": "2800FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.9333,
+  0.6833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T10:30Z",
+ "id": "L7035/26",
+ "loc": [
+  "EGSR"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UAS OPR WI 0.08NM RADIUS OF 515549N 0004057E (EARLS COLNE). MAX\nHGT 394FT AGL. FOR INFO 07880 197908 / 07557 805527.\nAR-2026-10633/01.",
+ "to": "2026-11-10T13:30Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.6833,
+  -1.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-05T11:49Z",
+ "id": "Q428/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "THE FLW COORDINATION IS MANDATORY FOR ALL TRANSIENT ARR REQUIRING\nUPLOAD OR DOWNLOAD SERVICES - NO ARR PRIOR TO 0700. ANY B747 ACFT\nARR MUST BE MIN 4HR APART",
+ "to": "2026-12-31T23:59Z",
+ "type": "R",
+ "upper": ""
+}

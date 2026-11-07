@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.0333,
+  -2.6833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-01T14:00Z",
+ "id": "H5983/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "OCT 01-24 1400-2000, OCT 25-DEC 23 1500-2100",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 530229N 0024103W (BICKLEY\nMOSS).  FOR INFO 01829 830730. AR-2026-8558/01.",
+ "to": "2026-12-23T21:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

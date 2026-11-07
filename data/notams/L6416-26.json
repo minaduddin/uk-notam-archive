@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.9333,
+  -2.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T00:00Z",
+ "id": "L6416/26",
+ "loc": [
+  "EGHG"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPR PSN 505559N 0023959W (214 DEG MAG, 0.57NM FM YEOVIL\nWESTLANDS ARP). MAX HGT 122FT AGL/280FT AMSL.",
+ "to": "2026-12-04T23:59Z",
+ "type": "N",
+ "upper": ""
+}

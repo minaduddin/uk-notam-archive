@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.2,
+  -3.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-23T00:00Z",
+ "id": "L6629/26",
+ "loc": [
+  "EGNR"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE OPR PSN 531130N 0030123W (3402M 297 DEG MAG FM HAWARDEN \nARP) MAX HGT 254FT AMSL 157FT AGL.",
+ "to": "2027-01-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

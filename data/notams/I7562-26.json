@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.4,
+  -7.65
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T11:30Z",
+ "id": "I7562/26",
+ "loc": [
+  "EGAB"
+ ],
+ "lower": "",
+ "q": "FPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "HELIPAD NUMBER 3 CLSD DUE WIP",
+ "to": "2026-12-31T16:00Z",
+ "type": "N",
+ "upper": ""
+}

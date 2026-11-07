@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.4667,
+  -2.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-19T00:00Z",
+ "id": "N864/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE PSN 532801N 0020556W (DUKINFIELD, GREATER MANCHESTER)\nIN LOW FLYING AREA 8 AND NIGHT SECTOR 3A. HGT 137FT AGL 500FT AMSL. \n26/10/074/LFC",
+ "to": "2027-01-16T23:59Z",
+ "type": "N",
+ "upper": ""
+}

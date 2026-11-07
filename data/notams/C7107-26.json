@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.7167,
+  -3.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-11T14:00Z",
+ "id": "C7107/26",
+ "loc": [
+  "EGTE"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1400-2200",
+ "text": "UAS SWARM OPR WI 0.1NM RADIUS OF 504308N 0033244W (MIDDLEMOOR). \nSWARM MADE UP OF 100 UAS. MAX HGT 400FT AGL. FOR INFO 07481 557474. \nAR-2026-10332/01.",
+ "to": "2026-11-13T22:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

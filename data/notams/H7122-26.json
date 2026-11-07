@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.3667,
+  -1.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-26T16:00Z",
+ "id": "H7122/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "1600-0800",
+ "text": "FLARE FIRING WI 2.5NM RADIUS OF 542211N 0014603W (CATTERICK\nGARRISON). FLARES WILL DESCEND BY PARACHUTE. FOR INFO 01748 875503\n/ 07514 944447. AR-2026-10182/01.",
+ "to": "2027-01-20T08:00Z",
+ "type": "N",
+ "upper": "1500FT AMSL"
+}

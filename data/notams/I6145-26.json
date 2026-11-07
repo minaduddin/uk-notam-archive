@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.1333,
+  -1.7333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-23T09:30Z",
+ "id": "I6145/26",
+ "loc": [
+  "EGNT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SEP 23-OCT 24 0930-2100, OCT 25-DEC 16 1030-2200",
+ "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 550742N 0014412W\n(MORPETH).  FOR INFO 07595 033089. AR-2026-8384/01.",
+ "to": "2026-12-16T22:00Z",
+ "type": "N",
+ "upper": "1400FT AMSL"
+}

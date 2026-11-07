@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3833,
+  -0.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-24T22:59Z",
+ "id": "L5949/26",
+ "loc": [
+  "EGTF"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPR PSN 512306N 0003019W (KENNET LANE, CHERTSEY) HGT 31FT \nAGL, 105FT AMSL.",
+ "to": "2026-12-24T22:58Z",
+ "type": "N",
+ "upper": ""
+}

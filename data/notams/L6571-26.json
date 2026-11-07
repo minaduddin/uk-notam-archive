@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.35,
+  0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-19T08:00Z",
+ "id": "L6571/26",
+ "loc": [
+  "EGTO"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "MOBILE CRANE OPERATING INTERMITTENTLY WI 500M RADIUS PSN \n512129N 0003253E (CAPSTONE OAKS, CHATHAM) MAX HEIGHT 100FT AGL. MAX \nELEV 444FT AMSL. CRANE EQUIPPED WITH STEADY RED OBST LGT",
+ "to": "2027-01-18T17:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.0833,
+  -4.8
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T19:00Z",
+ "id": "H6867/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1900-0700",
+ "text": "FLARE FIRING WI 0.7NM RADIUS OF 560504N 0044747W (GARELOCHHEAD).\nFLARES WILL DESCEND BY PARACHUTE. FOR INFO 07957585678 /\n07774 008983 / 07717 542336 / 07624 625510. AR-2026-9770/01.",
+ "to": "2026-11-25T07:00Z",
+ "type": "N",
+ "upper": "3700FT AMSL"
+}

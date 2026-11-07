@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.0333,
+  -1.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-21T00:00Z",
+ "id": "N779/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 520226N 0010729W (TURWESTON, BUCKINGHAMSHIRE)\nIN LOW FLYING AREA 4 AND NIGHT ROTARY REGION 4A\nHGT 200FT AGL/550FT AMSL. 26/09/142/LFC",
+ "to": "2026-12-21T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.1833,
+  -1.3
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T17:00Z",
+ "id": "H7056/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASERS, FIREWORKS WI 1NM RADIUS OF 521039N 0011813W (UPPER\nBODDINGTON). FIREWORKS UP TO 400FT AGL. FOR INFO 07343 073191.\nAR-2026-9981/01.",
+ "to": "2026-11-08T21:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

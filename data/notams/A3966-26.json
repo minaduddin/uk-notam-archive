@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.6833,
+  1.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-07T14:11Z",
+ "id": "A3966/26",
+ "loc": [
+  "EGSH"
+ ],
+ "lower": "",
+ "q": "IDLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "DME ASSOCIATED WITH ILS RWY 27 ID TONE NOT SYNCHRONISED WITH LOC. \nDME AND LOC INH CH46X 110.900MHZ REMAIN OPR.",
+ "to": "2027-01-07T21:30Z",
+ "type": "N",
+ "upper": ""
+}

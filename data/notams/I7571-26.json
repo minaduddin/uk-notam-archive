@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T17:34Z",
+ "id": "I7571/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "LXAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "VARIOUS CENTRELINE LIGHTS ON TWY LIMA U/S.",
+ "to": "2026-11-08T17:00Z",
+ "type": "N",
+ "upper": ""
+}

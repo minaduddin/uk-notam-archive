@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.9333,
+  -3.3167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-05T07:00Z",
+ "id": "I5966/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPR PSN 555613N 0031911W (EDINBURGH PARK, VCY EDINBURGH AD)\nMAX HGT 157FT AGL / 308FT AMSL. CRANE WILL BE LOWERED DURING LVP",
+ "to": "2029-09-05T20:00Z",
+ "type": "N",
+ "upper": ""
+}

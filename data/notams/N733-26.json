@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.7,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-31T00:00Z",
+ "id": "N733/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 534217N 0015127W (CALDERDALE, WEST YORKSHIRE) IN\nLOW FLYING AREA 8 AND NIGHT SECTOR 3A HGT 770FT AMSL (270FT AGL).\n26/08/289/LFC",
+ "to": "2026-11-20T23:59Z",
+ "type": "N",
+ "upper": ""
+}

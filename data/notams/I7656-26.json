@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T06:00Z",
+ "id": "I7656/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MRLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 17/35 TAXI ONLY",
+ "to": "2026-11-13T17:00Z",
+ "type": "N",
+ "upper": ""
+}

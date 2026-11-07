@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5667,
+  -1.8
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T13:00Z",
+ "id": "H7115/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 513359N 0014825W (SWINDON).\nFOR INFO 07467 547348. AR-2026-10126/01.",
+ "to": "2026-11-14T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

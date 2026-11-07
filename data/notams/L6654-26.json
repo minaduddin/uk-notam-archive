@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.6,
+  -1.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T15:00Z",
+ "id": "L6654/26",
+ "loc": [
+  "EGBG"
+ ],
+ "lower": "SFC",
+ "q": "WALW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "text": "AIR DISPLAYS WI 2NM RADIUS OF 523624N 0010152W (LEICESTER).  FOR\nINFO 07894 725340. AR-2026-9434/01.",
+ "to": "2026-11-08T17:00Z",
+ "type": "N",
+ "upper": "4100FT AMSL"
+}

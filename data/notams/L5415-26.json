@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3167,
+  -0.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-04T10:25Z",
+ "id": "L5415/26",
+ "loc": [
+  "EGLK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "TWY E CLSD BTN E2 TO WESTERN HANGARS",
+ "to": "2026-11-30T18:00Z",
+ "type": "N",
+ "upper": ""
+}

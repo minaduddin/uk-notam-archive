@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.9667,
+  -0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:33Z",
+ "id": "Q239/26",
+ "loc": [
+  "EGYE"
+ ],
+ "lower": "",
+ "q": "PILT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "SRA ONLY AVBL WITH PRIOR PERMISSION FM TERMINAL ATC CENTRE.",
+ "to": "2026-11-30T17:30Z",
+ "type": "N",
+ "upper": ""
+}

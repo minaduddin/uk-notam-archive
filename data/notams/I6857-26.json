@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.6167,
+  -5.8667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-07T04:48Z",
+ "id": "I6857/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "",
+ "q": "LPXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AMEND RWY 04 PAPI DUE RELOCATION - LEFT/3DEG, MEHT 52FT, DIST FM\nTHR 314M.\nRWY 22 PAPI MEHT CHANGED TO 52FT.\nUK AIP AD 2.14, AD 2.24 AND DIGITAL DATASET REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

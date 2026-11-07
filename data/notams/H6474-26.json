@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.9833,
+  -1.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-30T06:03Z",
+ "id": "H6474/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 505833N 0010222W\n(RAMSDEAN). FOR INFO 07739 347722. AR-2026-9187/01.",
+ "to": "2026-12-28T16:04Z",
+ "type": "N",
+ "upper": "2300FT AMSL"
+}

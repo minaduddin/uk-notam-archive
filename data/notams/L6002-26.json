@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.5167,
+  -2.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-26T12:17Z",
+ "id": "L6002/26",
+ "loc": [
+  "EGBO"
+ ],
+ "lower": "",
+ "q": "MRLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 04/22 CLSD FOR TKOF AND LDG. AVBL FOR TAXIING ONLY",
+ "to": "2026-12-18T17:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.7167,
+  -2.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-12T13:00Z",
+ "id": "H7371/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UAS SWARM OPR WI AREA BOUNDED BY 514334N 0020118W - \n514348N 0020049W - 514339N 0020028W - 514331N 0020015W - \n514322N 0020021W - 514318N 0020021W - 514310N 0020024W - \n514307N 0020100W - 514316N 0020101W - 514334N 0020118W \n(CIRENCESTER). SWARM MADE UP OF 25 UAS. MAX HGT 160FT AGL. FOR INFO \n07752 050515 / 07400 661129. AR-2026-10558/01.",
+ "to": "2026-11-12T21:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

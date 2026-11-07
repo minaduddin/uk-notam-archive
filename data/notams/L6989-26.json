@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.9,
+  -2.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T07:30Z",
+ "id": "L6989/26",
+ "loc": [
+  "EGBJ"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0730-0800",
+ "text": "UAS OPR WI 0.5NM RADIUS OF 515336N 0020957W (STAVERTON) MAX HGT \n400FT AGL 501FT AMSL",
+ "to": "2026-11-10T08:00Z",
+ "type": "N",
+ "upper": "501FT AMSL"
+}

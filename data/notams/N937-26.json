@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.7,
+  -2.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-06T12:20Z",
+ "id": "N937/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "(UNLIT TOWER) PSN 504140N 0021434W (WAREHAM, DORSET)\nIN LOW FLYING AREA 2 AND NIGHT ROTORY REGION 2. HGT 270FT AMSL  \n(165FT AGL) UNLIT. 26/11/047/LFC",
+ "to": "2027-02-04T23:59Z",
+ "type": "N",
+ "upper": ""
+}

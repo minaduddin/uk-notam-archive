@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.0667,
+  -0.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-12T10:00Z",
+ "id": "L6961/26",
+ "loc": [
+  "EGTH"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UAS OPR WI 0.2NM RADIUS OF 520400N 0001937W (SOUTHILL). MAX HGT\n200FT AGL. FOR INFO 07913 819283. AR-2026-10476/01.",
+ "to": "2026-11-12T14:00Z",
+ "type": "N",
+ "upper": "400FT AMSL"
+}

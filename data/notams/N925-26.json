@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.4167,
+  -1.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-06T00:00Z",
+ "id": "N925/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 522452N 0012818W (COVENTRY, WEST MIDLANDS) IN \nLOW FLYING AREA 8 AND NIGHT SECTOR 5F HGT 90FT AGL 390FT AMSL. \n26/11/008/LFC",
+ "to": "2027-01-06T23:59Z",
+ "type": "N",
+ "upper": ""
+}

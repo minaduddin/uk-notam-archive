@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.1,
+  -4.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T07:00Z",
+ "id": "C7160/26",
+ "loc": [
+  "EGNS"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0700-1730",
+ "text": "CRANE OPR PSN 540545N 0043732W (VCY ISLE OF MAN AD) MAX JIB HGT\n80FT AGL 195FT AMSL.",
+ "to": "2026-12-19T17:30Z",
+ "type": "N",
+ "upper": ""
+}

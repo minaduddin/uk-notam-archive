@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.9833,
+  0.7333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-20T08:49Z",
+ "id": "N713/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "(WATER TOWER) PSN 505837N 0004347E (ROTHER, EAST SUSSEX)\nIN LOW FLYING AREA 18 AND NIGHT ROTARY REGION 18\nHGT 300FT AMSL (100FT AGL) UNLIT. 26/08/218/LFC",
+ "to": "2026-11-18T23:59Z",
+ "type": "N",
+ "upper": ""
+}

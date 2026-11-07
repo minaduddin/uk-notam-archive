@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4167,
+  -2.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-03T16:00Z",
+ "id": "C7109/26",
+ "loc": [
+  "EGGD"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2300",
+ "text": "LASERS, SEARCHLIGHTS, FIREWORKS WI 1NM RADIUS OF 512452N 0022810W\n(KEYNSHAM). FIREWORKS (05-07 NOV) UP TO 600FT AGL. FOR INFO 07717\n067871 / 07891 509521 / 07891 509521. AR-2026-10334/01.",
+ "to": "2026-11-07T23:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.7,
+  -1.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T00:01Z",
+ "id": "H7348/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT UTILISING VISUAL OBSERVERS \n(EXTENDED LINE OF SIGHT) WI 0.25NM RADIUS OF 534137N 0011618W \n(KNOTTINGLEY). MAX HGT 165FT AGL. FOR INFO 00447762568181 / \n07710700830. AR-2026-10511/01.",
+ "to": "2027-01-31T23:59Z",
+ "type": "N",
+ "upper": "400FT AMSL"
+}

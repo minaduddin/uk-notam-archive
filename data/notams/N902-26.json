@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.25,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-27T00:00Z",
+ "id": "N902/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 511524N 0010554W (FURLONG, BASINGSTOKE) IN LOW \nFLYING AREA 1B AND NIGHT ROTARY REGION 1. HGT 170FT AGL / \n500FT AMSL. 26/10/153/LFC",
+ "to": "2026-12-18T23:59Z",
+ "type": "N",
+ "upper": ""
+}

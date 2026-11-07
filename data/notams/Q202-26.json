@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-13T00:00Z",
+ "id": "Q202/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AD ONLY ACCEPTING OPERATIONALLY ESSENTIAL VISITORS.",
+ "to": "2026-12-31T23:59Z",
+ "type": "N",
+ "upper": ""
+}

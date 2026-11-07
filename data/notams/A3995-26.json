@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4667,
+  -0.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T22:30Z",
+ "id": "A3995/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "2230-0430",
+ "text": "LIT CRANE OPR AT PSN 512739N 0002745W (HEATHROW AD).\nMAX HGT 230FT AGL, 307FT AMSL. CRANE WILL ONLY OPR\nWHEN RWY 09R/27L IS CLSD. NO OPS IN LVP. CRANE REF 2026091784.",
+ "to": "2026-11-14T04:30Z",
+ "type": "N",
+ "upper": ""
+}

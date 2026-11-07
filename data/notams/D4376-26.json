@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.05,
+  -2.5833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T16:00Z",
+ "id": "D4376/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "DANGER AREA EGD510C SPADEADAM ACTIVE\nNO SPECIAL USE AIRSPACE CROSSING SERVICE AVAILABLE",
+ "to": "2026-11-10T17:00Z",
+ "type": "N",
+ "upper": "5500FT AMSL"
+}

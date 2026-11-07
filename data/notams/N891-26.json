@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.7167,
+  -1.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-20T15:30Z",
+ "id": "N891/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE POSITION LAT/LONG 534242N 0010727W\n(EGGBOROUGH, NORTH YORKSHIRE) IN LOW FLYING AREA 11 \nAND NIGHT SECTOR 3A. HGT 250FT AMSL (200FT AGL) 26/10/129/LFC",
+ "to": "2027-01-17T23:59Z",
+ "type": "N",
+ "upper": ""
+}

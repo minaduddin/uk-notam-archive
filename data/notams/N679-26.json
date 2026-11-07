@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.4333,
+  -2.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-11T00:00Z",
+ "id": "N679/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 532531N 0021415W (WEST DIDSBURY, MANCHESTER)\nIN LOW FLYING AREA 8 AND NIGHT SECTOR 3A. HGT 360FT AMSL (230FT \nAGL). 26/08/095/LFC",
+ "to": "2026-11-08T23:59Z",
+ "type": "N",
+ "upper": ""
+}

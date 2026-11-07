@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.95,
+  -3.0833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T09:00Z",
+ "id": "H7424/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WLLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0900-1400",
+ "text": "MET BALLOON RELEASE/S WI 1NM RADIUS OF 525632N 0030441W (CHIRK).\nTHIS ACTIVITY WILL NOT BE WHOLLY CONTAINED WI LATERAL DIMENSION\nAS NOTIFIED.  FOR INFO 01142 131050 / 07753 650414. AR-2026-6765/07.",
+ "to": "2026-11-13T14:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

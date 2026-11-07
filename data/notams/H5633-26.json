@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.6667,
+  -2.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-01T05:00Z",
+ "id": "H5633/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WYLW",
+ "radius": 5,
+ "removed": null,
+ "sched": "OCT 01-24 0500-1800, OCT 25-DEC 15 0600-1900",
+ "text": "AERIAL SURVEY WI AREA BOUNDED BY \n524248N 0025549W - 523657N 0025404W - 523612N 0024707W - \n523833N 0024748W - 524248N 0025549W (PONTESBURY).  \nFOR INFO 004553738360. AR-2026-8094/01.",
+ "to": "2026-12-15T19:00Z",
+ "type": "N",
+ "upper": "6100FT AMSL"
+}

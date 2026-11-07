@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-14T18:36Z",
+ "id": "I7040/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "STAND 106 CLSD",
+ "to": "2026-12-31T12:00Z",
+ "type": "N",
+ "upper": ""
+}

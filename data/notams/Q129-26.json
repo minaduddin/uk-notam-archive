@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.55,
+  -0.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:00Z",
+ "id": "Q129/26",
+ "loc": [
+  "EGWU"
+ ],
+ "lower": "",
+ "q": "PIAU",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 07 RNP APCH NOT AVBL EXCEPT TO PRE-AUTHORISED TRIAL ACFT.\nFOR INFO CTC 020 8833 8364.",
+ "to": "2027-01-27T23:59Z",
+ "type": "N",
+ "upper": ""
+}

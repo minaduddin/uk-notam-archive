@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.25,
+  -0.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T17:00Z",
+ "id": "C7089/26",
+ "loc": [
+  "EGLF"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UAS SWARM OPR WI 0.1NM RADIUS OF 511439N 0004524W (ALDERSHOT). \nSWARM MADE UP OF 150 UAS. MAX HGT 400FT AGL. FOR INFO 07405 188200. \nAR-2026-10247/01.",
+ "to": "2026-11-07T21:30Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}

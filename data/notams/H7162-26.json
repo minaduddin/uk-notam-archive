@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.95,
+  -2.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T17:00Z",
+ "id": "H7162/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WPLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "PJE WI 0.5NM RADIUS OF 525707N 0024027W (ALKINGTON). DROP HGT \nSUBJ ATC CLR. FOR INFO 07525 344067. AR-2026-10250/02.",
+ "to": "2026-11-07T22:00Z",
+ "type": "N",
+ "upper": "5400FT AMSL"
+}

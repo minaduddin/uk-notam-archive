@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.0167,
+  -3.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-28T00:00Z",
+ "id": "N908/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE OPR PSN 530032N 0033048W (LLANGWM, CONWY) IN LOW FLYING \nAREA 7 AND NIGHT SECTOR 5E. HGT 270FT AGL 1800FT AMSL. 26/10/166/LFC",
+ "to": "2027-01-27T23:59Z",
+ "type": "N",
+ "upper": ""
+}

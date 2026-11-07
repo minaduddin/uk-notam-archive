@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.7,
+  -3.9333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-01T06:18Z",
+ "id": "H6421/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "text": "FLYING OF LARGE MODEL ACFT WI 0.5NM RADIUS OF 554159N 0035550W\n(NETHERBURN).  FOR INFO 07808772189. AR-2026-9082/01.",
+ "to": "2026-12-25T15:47Z",
+ "type": "N",
+ "upper": "1800FT AMSL"
+}

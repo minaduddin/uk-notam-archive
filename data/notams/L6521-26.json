@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.2,
+  -3.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-22T06:00Z",
+ "id": "L6521/26",
+ "loc": [
+  "EGNR"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "OCT 22-24 0600-1900, OCT 25-JAN 22 0700-1900",
+ "text": "(LIT) CRANE OPR PSN 531153N 0030135W 3950M 305 DEG MAG FROM \nHAWARDEN ARP. MAX HGT 203FT AMSL, 132FT AGL.",
+ "to": "2027-01-22T19:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-05T13:18Z",
+ "id": "Q432/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MXLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "TWY TANGO, TWY FOXTROT, AND 40'S BUBBLE APRON LTD TO DAYTIME USE \nONLY DUE TO ALL TWY LIGHTS U/S",
+ "to": "2026-12-31T23:59Z",
+ "type": "N",
+ "upper": ""
+}

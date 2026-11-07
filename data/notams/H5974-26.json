@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.1667,
+  1.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-14T07:00Z",
+ "id": "H5974/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SEP 14-OCT 23 0700-1700 EXC SAT SUN, OCT 26-DEC 08 0800-1800 EXC \nSAT SUN",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 0.5NM RADIUS OF \n520950N 0012303E (WICKHAM MARKET). MAX HGT 657FT AGL. FOR INFO 07818\n502243. AR-2026-8545/01.",
+ "to": "2026-12-08T18:00Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.3,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-17T00:00Z",
+ "id": "N681/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 531741N 0043556W (HOLYHEAD, ISLE OF ANGLESEY)\nIN LOW FLYING AREA 7 AND NIGHT SECTOR VALLEY HELICOPTER NIGHT \nTRAINING AREA. HGT 190FT AMSL (141FT AGL). 26/08/101/LFC",
+ "to": "2026-11-14T23:59Z",
+ "type": "N",
+ "upper": ""
+}

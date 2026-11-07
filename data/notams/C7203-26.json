@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.45,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-31T23:30Z",
+ "id": "C7203/26",
+ "loc": [
+  "EGBB"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "FIXED WING ACFT GROUPS 1-3 (MTOW 2000KG AND UNDER) NOT ACPT. HEL \nREMAIN PERMISSABLE. EMERG ACFT EXEMPT",
+ "to": "2027-01-31T23:59Z",
+ "type": "R",
+ "upper": ""
+}

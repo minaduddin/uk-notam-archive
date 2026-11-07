@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.3833,
+  1.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T17:00Z",
+ "id": "H7344/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "3000FT AMSL",
+ "q": "WFLW",
+ "radius": 24,
+ "removed": null,
+ "sched": "",
+ "text": "MULTIPLE MIL ACFT WILL CONDUCT AIR TO AIR REFUELING WI AREA\nBOUNDED BY 520442N 0013054E - 520737N 0013539E - 524037N 0004515E\n- 523755N 0004024E - 520442N 0013054E (RENDLESHAM). ACFT MAY BE\nUNABLE TO COMPLY WITH RAC. FOR INFO 01638 542073. AR-2026-10481/01.",
+ "to": "2026-11-09T22:30Z",
+ "type": "N",
+ "upper": "10000FT AMSL"
+}

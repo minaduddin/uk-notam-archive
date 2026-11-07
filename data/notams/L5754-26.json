@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5833,
+  -0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-12T00:01Z",
+ "id": "L5754/26",
+ "loc": [
+  "EGLD"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPR PSN 513527N 0003306W (GERRARDS CROSS), LIT AT NIGHT. \nHGT 289FT AGL / 528FT AMSL",
+ "to": "2026-11-10T23:59Z",
+ "type": "N",
+ "upper": ""
+}

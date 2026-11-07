@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.0833,
+  -4.6167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-27T06:00Z",
+ "id": "C6404/26",
+ "loc": [
+  "EGNS"
+ ],
+ "lower": "",
+ "q": "CAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "FULL DUPLEX CROSS-COUPLING UHF TO VHF TRIAL. PILOTS WILL HEAR BOTH\nSIDES OF TRANSMISSIONS TO VEHICLE DRIVERS. REPORT ANY SAFETY\nOBSERVATIONS TO ATC VIA RTF OR TELEPHONE +44 1624 827546.",
+ "to": "2026-12-29T19:45Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.8667,
+  -4.3167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-14T00:00Z",
+ "id": "N772/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 555154N 0041920W (GOVAN, GLASGOW)\nIN LOW FLYING AREA 16 AND NIGHT SECTOR 2B.\nHGT 200FT AMSL (130FT AGL). 26/09/077/LFC",
+ "to": "2026-12-12T23:59Z",
+ "type": "N",
+ "upper": ""
+}

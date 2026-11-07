@@ -1,0 +1,23 @@
+{
+ "coord": [
+  58.4333,
+  -3.0833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T10:00Z",
+ "id": "I7669/26",
+ "loc": [
+  "EGPC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UAS OPR AT PSN 582628N 0030513W 0.5NM RADIUS (WICK HARBOUR)\nSFC-250FT AGL/250FT AMSL",
+ "to": "2026-11-08T12:00Z",
+ "type": "N",
+ "upper": "250FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.25,
+  0.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-11T15:30Z",
+ "id": "H7049/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "NOV 11-13 16-22 26-29 1530-2200, DEC 02-25 1530-2200, DEC 27-JAN \n03 1530-2200",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 511458N 0003750E \n(BROOMFIELD).  FOR INFO 07932 737797 / 07875 797675. AR-2026-9961/03.",
+ "to": "2027-01-03T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

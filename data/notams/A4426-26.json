@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5,
+  -0.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-04T07:49Z",
+ "id": "A4426/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-1800 EXC SUN",
+ "text": "LIT CRANE OPR WITHIN AN AREA BOUNDED BY 513013N 0002446W -\n513013N 0002443W - 513011N 0002444W - 513011N 0002446W (HAYES).\nMAX HGT 157FT AGL / 267FT AMSL. NO OPS DURING LOW VIS. CRANE REF\n2026081477.",
+ "to": "2026-11-24T18:00Z",
+ "type": "R",
+ "upper": ""
+}

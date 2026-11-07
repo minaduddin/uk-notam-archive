@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3333,
+  -0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-06T12:06Z",
+ "id": "J3949/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDXX",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "AIP SUP 091/2026 TEMPORARY DANGER AREA EGD191 (COBHAM), BVLOS RPAS\nOPERATIONS - EXTEND END DATE TO 17 JANUARY 2027.",
+ "to": "2027-01-17T00:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

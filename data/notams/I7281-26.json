@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.65,
+  -6.2333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-26T08:00Z",
+ "id": "I7281/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-1700",
+ "text": "MULTIPLE CRANES OPR PSN 543917.94N 0061406.57W (ALDERGROVE)\nMAX HGT 90.88FT AGL, 283.35FT AMSL.",
+ "to": "2026-11-20T17:00Z",
+ "type": "N",
+ "upper": ""
+}

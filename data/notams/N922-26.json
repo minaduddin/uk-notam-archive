@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3833,
+  -2.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-03T00:00Z",
+ "id": "N922/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE PSN 512247N 0021942W (BATH AND NORTH EAST SOMERSET) IN \nLOW FLYING AREA 2 AND NIGHT ROTARY REGION 2 HGT 110FT AGL 760FT \nAMSL. 26/11/005/LFC",
+ "to": "2026-12-17T23:59Z",
+ "type": "N",
+ "upper": ""
+}

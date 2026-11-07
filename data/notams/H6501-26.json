@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4833,
+  0.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-13T16:30Z",
+ "id": "H6501/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 512913N 0002029E (GRAYS, ESSEX).\nFOR INFO 07903 580772. AR-2026-9219/01.",
+ "to": "2026-11-13T20:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

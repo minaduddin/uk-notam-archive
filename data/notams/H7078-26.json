@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.7333,
+  -0.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-21T11:20Z",
+ "id": "H7078/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "OCT 21 1120-1700, OCT 22-24 0800-1700, OCT 25-JAN 15 0800-1800",
+ "text": "AREA OF INTENSE AERIAL ACTIVITY WI 1NM RADIUS OF 514343N 0002251W\n(PLAISTOWS MICROLIGHT SITE).  INCREASED MICROLIGHT TRAINING,\nAICFT JOINING CIRCUIT FROM MULTIPLE DIRECTIONS. AIR GROUND CH \n129.830. FOR INFO 07855 424049 / 07786 034439. AR-2026-10128/03.",
+ "to": "2027-01-15T18:00Z",
+ "type": "N",
+ "upper": "2100FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.6,
+  -2.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-16T22:59Z",
+ "id": "H6073/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 0.1NM RADIUS OF \n533604N 0020722W (NEWHEY, MANCHESTER). MAX HGT 165FT AGL. FOR INFO\n077625 68181 / 07710 700830. AR-2026-8700/01.",
+ "to": "2026-12-10T23:59Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}

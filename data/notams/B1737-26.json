@@ -1,0 +1,23 @@
+{
+ "coord": [
+  58.8167,
+  0.1
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T11:00Z",
+ "id": "B1737/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "CACF",
+ "radius": 217,
+ "removed": null,
+ "sched": "",
+ "text": "SCOTTISH FIS FREQ 134.850MHZ (AREA B) NOT AVBL DUE MAINT.\nPILOTS ARE REQ TO USE ALTN FREQ 133.875MHZ.",
+ "to": "2026-11-10T12:00Z",
+ "type": "N",
+ "upper": ""
+}

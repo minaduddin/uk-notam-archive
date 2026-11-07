@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.55,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-06T21:45Z",
+ "id": "I7529/26",
+ "loc": [
+  "EGPE"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "FRI 2145-2200",
+ "text": "INVERNESS ATZ ACTIVATED. AD/ATS/MET/RFFS HR OF OPR\nEXTENDED AIRPORT REMAINS STRICTLY PPR.",
+ "to": "2026-12-18T22:00Z",
+ "type": "N",
+ "upper": ""
+}

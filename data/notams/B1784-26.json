@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.6833,
+  1.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-26T06:00Z",
+ "id": "B1784/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SELT",
+ "radius": 30,
+ "removed": null,
+ "sched": "",
+ "text": "NORWICH LOWER AIRSPACE RADAR SERVICE, INCLUDING CLASS D AIRSPACE \nTRANSITS, MAY NOT BE AVBL DUE CONTROLLER SHORTAGE. PILOTS ARE \nENCOURAGED TO MAKE USE OF THE FREQ MONITORING CODE IF REMAINING \nOUTSIDE CONTROLLED AIRSPACE AND TO CARRY AND USE ELECTRONIC \nCONSPICUITY DEVICES.",
+ "to": "2026-11-30T21:30Z",
+ "type": "N",
+ "upper": ""
+}

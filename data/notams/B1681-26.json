@@ -1,0 +1,24 @@
+{
+ "coord": [
+  55.0667,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T10:00Z",
+ "id": "B1681/26",
+ "loc": [
+  "EGPX",
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "AFXX",
+ "radius": 999,
+ "removed": null,
+ "sched": "",
+ "text": "VARIOUS AD ARE TO OBSERVE A TEMPORARY CESSATION OF RADIO FREQ FOR \nTHE TWO MINUTE SILENCE ON REMEMBRANCE DAY. DURING THE TWO MINUTE \nSILENCE NO RADIO TRANSMISSIONS WILL BE MADE, EXCEPT IN AN \nEMERGENCY. MORE INFO IS TO BE PROVIDED BY RELEVANT ATC AND FIS",
+ "to": "2026-11-08T11:30Z",
+ "type": "N",
+ "upper": ""
+}

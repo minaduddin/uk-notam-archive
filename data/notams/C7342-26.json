@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.95,
+  0.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T17:02Z",
+ "id": "C7342/26",
+ "loc": [
+  "EGMD"
+ ],
+ "lower": "",
+ "q": "ICAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "ILS RWY 21 NOT AVBL",
+ "to": "2026-12-15T19:00Z",
+ "type": "R",
+ "upper": ""
+}

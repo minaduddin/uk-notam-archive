@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.8667,
+  -0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T00:00Z",
+ "id": "A4282/26",
+ "loc": [
+  "EGGW"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AD CLSD DUE WIP",
+ "to": "2026-11-14T05:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.55,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-24T00:00Z",
+ "id": "N723/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPERATING AT PSN: 513236N 0001028W (SOUTH HAMPSTEAD, \nLONDON) UP TO 438FT AGL/624FT AMSL. FOR INFO CONTACT 07928 397930. \nON EXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR \n5.4 AR-2026-7719/01.",
+ "to": "2026-12-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

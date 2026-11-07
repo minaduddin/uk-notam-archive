@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4833,
+  -0.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T08:00Z",
+ "id": "A4487/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-1700",
+ "text": "LIT CRANE OPR PSN \n512917N 0003002W - 512916N 0003000W - 512915N 0003002W - \n512915N 0003003W - 512917N 0003002W (HEATHROW). MAX HGT 276FT AGL / \n359FT AMSL. NO CRANE OPR IN LVP. CRANE WILL ONLY OPR WHEN ON \nWESTERLY OPERATIONS. CRANE REF 20260916127.",
+ "to": "2026-11-30T17:00Z",
+ "type": "N",
+ "upper": ""
+}

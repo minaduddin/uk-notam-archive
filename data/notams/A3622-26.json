@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4833,
+  -0.3
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-12T15:00Z",
+ "id": "A3622/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "NOV 12-15 1500-2200, NOV 17-22 1500-2200, NOV 24-DEC 24 \n1500-2200,  DEC 26-JAN 03 1500-2200",
+ "text": "SEARCHLIGHT DISPLAY WI 0.5NM RADIUS OF 512846N 0001745W (KEW).\nFOR INFO 07961 488480. AR-2026-7880/01.",
+ "to": "2027-01-03T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

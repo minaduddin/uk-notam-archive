@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.6,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-12T09:00Z",
+ "id": "I7643/26",
+ "loc": [
+  "EGPE"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LIVE FIRING WI 1.5NM RADIUS OF 573558N 0040325W (FORT GEORGE).\nINCREASE TO AIR DANGER HEIGHT. FOR INFO 074230 18050. \nAR-2026-10493/01.",
+ "to": "2026-11-12T16:00Z",
+ "type": "N",
+ "upper": "1100FT AMSL"
+}

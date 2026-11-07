@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.5667,
+  -4.7833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-11T09:00Z",
+ "id": "H7393/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WPLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "text": "DROPPING OF ARTICLES WI 5NM RADIUS OF 563348N 0044710W (BLACK\nMOUNT). FOR INFO 01993 896789. AR-2026-10544/01.",
+ "to": "2026-11-11T17:45Z",
+ "type": "N",
+ "upper": "8700FT AMSL"
+}

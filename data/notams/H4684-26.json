@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.9167,
+  0.9667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-18T04:42Z",
+ "id": "H4684/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 525528N 0005747E\n(LANGHAM, NORFOLK).  FOR INFO 07710 924721. AR-2026-6746/01.",
+ "to": "2026-11-14T16:03Z",
+ "type": "N",
+ "upper": "1700FT AMSL"
+}

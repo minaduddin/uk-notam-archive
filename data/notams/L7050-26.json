@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.2,
+  -1.6
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-06T18:38Z",
+ "id": "L7050/26",
+ "loc": [
+  "EGBW"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "MULTIPLE CRANES OPR WI 0.2NM OF PSN 521153N 0013618W (SEWAGE \nTREATMENT WORKS, WELLESBOURNE, 045 DEG MAG 890M FM WELLESBOURNE \nARP). MAX HGT 310FT AMSL/ 160FT AGL",
+ "to": "2026-11-26T18:00Z",
+ "type": "N",
+ "upper": ""
+}

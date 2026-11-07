@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.6833,
+  -1.8167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:16Z",
+ "id": "Q219/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "OBST LIGHT LOC RWY 27 U/S PSN 514058.9712N 0014903.54W (FAIRFORD) \n301FT AMSL/15FT AGL.",
+ "to": "2026-12-30T23:59Z",
+ "type": "N",
+ "upper": ""
+}

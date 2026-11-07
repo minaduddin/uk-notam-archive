@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.4167,
+  -1.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-21T00:00Z",
+ "id": "N883/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 522453N 0014012W (BERKSWELL, BALSALL COMMON)\nIN LOW FLYING AREA 8 AND NIGHT SECTOR 5F HGT 100FT AGL 420FT AMSL. \n26/10/109/LFC",
+ "to": "2026-11-21T23:59Z",
+ "type": "N",
+ "upper": ""
+}

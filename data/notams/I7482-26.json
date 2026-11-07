@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.8667,
+  -4.4
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-29T10:37Z",
+ "id": "I7482/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "MOBILE CRANE OPR PSN 555212N 0042420W (GLASGOW).\nMAX HGT 146FT AGL / 169FT AMSL (APRX). JIB WILL BE LOWERED IN\nLVP. SITE CONTACT DAMIAN GORNALL 07538056560.",
+ "to": "2026-12-31T17:00Z",
+ "type": "N",
+ "upper": ""
+}

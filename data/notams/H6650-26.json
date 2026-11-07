@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5167,
+  -2.6
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-11T07:00Z",
+ "id": "H6650/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "OCT 11-24 0700-1600, OCT 25-JAN 08 0800-1700",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 0.3NM RADIUS OF \n513112N 0023620W (BERWICK LODGE). MAX HGT 400FT AGL. FOR INFO \n07852 318946/ 07954 823066. AR-2026-9425/01.",
+ "to": "2027-01-08T17:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.2167,
+  -0.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T10:50Z",
+ "id": "L6926/26",
+ "loc": [
+  "EGKR"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AD CLSD. NO ENGINE GROUND RUNS. EMERG SERVICE HEL MAY STILL OPR",
+ "to": "2026-11-08T11:05Z",
+ "type": "N",
+ "upper": ""
+}

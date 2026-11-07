@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.0333,
+  -4.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T13:45Z",
+ "id": "D4394/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 23,
+ "removed": null,
+ "sched": "",
+ "text": "DANGER AREA EGD008C PLYMOUTH ACTIVATED.",
+ "to": "2026-11-09T14:30Z",
+ "type": "N",
+ "upper": "39000FT AMSL"
+}

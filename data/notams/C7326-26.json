@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.75,
+  -1.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-11T17:00Z",
+ "id": "C7326/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 504510N 0015259W (BOURNEMOUTH).\nFOR INFO 02034 220777. AR-2026-10627/01.",
+ "to": "2026-11-11T21:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

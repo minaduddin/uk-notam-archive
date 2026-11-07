@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.5167,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-30T13:19Z",
+ "id": "I7515/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "MPXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AGNIS AND PAPA LIGHTING ON STANDS 1A-4, 7 AND 8 U/S. ALL PARKING \nON APRONS ALPHA AND BRAVO IS UNDER MARSHALLERS GUIDANCE.",
+ "to": "2026-11-26T13:30Z",
+ "type": "R",
+ "upper": ""
+}

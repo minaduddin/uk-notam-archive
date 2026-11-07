@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:00Z",
+ "id": "Q146/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MKLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "PROTECTIVE AIRCRAFT SHELTER (PAS) 37, 40, 41, AND 42 CLOSED",
+ "to": "2026-12-31T23:59Z",
+ "type": "N",
+ "upper": ""
+}

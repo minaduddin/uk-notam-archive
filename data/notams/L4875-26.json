@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.9,
+  -2.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-12T06:27Z",
+ "id": "L4875/26",
+ "loc": [
+  "EGBJ"
+ ],
+ "lower": "",
+ "q": "PIXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "INSTRUMENT APPROACH CHART RNP RWY 26 (AIRAC 10/2026 WEF 01 OCT\n2026) - AMEND MOCA BTW 5NM AND 3NM TO READ 1110(1023)\nUK AIP AD 2.EGBJ-8-7 REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.2333,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T01:01Z",
+ "id": "Q255/26",
+ "loc": [
+  "EGVO"
+ ],
+ "lower": "",
+ "q": "LYAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "TWY EDGE AND CL LIGHTS U/S FM B2 TO RWY 09/27 OR BRAVO LOOP",
+ "to": "2027-01-05T14:25Z",
+ "type": "N",
+ "upper": ""
+}

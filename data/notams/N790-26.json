@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.0333,
+  -2.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-16T17:05Z",
+ "id": "N790/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UNLIT MAST PSN 540215N 0020239W (CRACOE, NORTH YORKSHIRE) IN LOW \nFLYING AREA 17 AND NIGHT SECTOR 3BW. HGT 800FT AMSL (110FT AGL). \n26/09/181/LFC",
+ "to": "2026-12-16T23:59Z",
+ "type": "N",
+ "upper": ""
+}

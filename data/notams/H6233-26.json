@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.5333,
+  -1.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T16:00Z",
+ "id": "H6233/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 523130N 0012159W (HINCKLEY).  FOR\nINFO 07517443514. AR-2026-7742/01.",
+ "to": "2026-11-14T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.4667,
+  -2.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T08:00Z",
+ "id": "L6878/26",
+ "loc": [
+  "EGCB"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPR WI 0.1NM RADIUS OF PSN 532825.25N 0022156.05W \n(MANCHESTER) ELEV 168FT AMSL (HGT 99FT AGL)",
+ "to": "2027-03-05T16:00Z",
+ "type": "N",
+ "upper": ""
+}

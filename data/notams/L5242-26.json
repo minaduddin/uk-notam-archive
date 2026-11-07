@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.75,
+  -2.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-27T13:19Z",
+ "id": "L5242/26",
+ "loc": [
+  "EGNO"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AD OPERATIONAL HOURS AND TWR SERVICE HOURS AMENDED.\nMON-THU 0730-1900 (0630-1800)\nFRI 0730-1700 (0630-1600)\nUK AIP EGNO AD 2.3, AD 2.18 AND DIGITAL DATASET REFERS.",
+ "to": "PERM",
+ "type": "R",
+ "upper": ""
+}

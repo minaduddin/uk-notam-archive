@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.7333,
+  1.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T07:07Z",
+ "id": "A4405/26",
+ "loc": [
+  "EGSH"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI AREA BOUNDED BY \n524521N 0010721E - 524603N 0010942E - 524207N 0011259E - \n524124N 0011057E - 524521N 0010721E (SWANNINGTON). MAX HGT 400FT \nAGL. FOR INFO 07356 081615 / 02045 743019. AR-2026-10483/01.",
+ "to": "2026-11-13T16:04Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

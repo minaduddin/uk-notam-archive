@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.9833,
+  0.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-06T20:36Z",
+ "id": "N938/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "AIR NAV OBST LGT UK0230A022F RTM RTM HEATHFIELD MAST SINGLE U/S\nPSN 505836.28N 0001349.84E, EIGHT 443FT AGL, ELEV 952FT AMSL.",
+ "to": "2026-12-06T12:00Z",
+ "type": "N",
+ "upper": ""
+}

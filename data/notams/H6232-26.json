@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5833,
+  -3.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-13T16:00Z",
+ "id": "H6232/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2300",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 513510N 0025933W (NEWPORT).  FOR\nINFO 07446 244884 / 07717 411807. AR-2026-8254/01.",
+ "to": "2026-11-14T23:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

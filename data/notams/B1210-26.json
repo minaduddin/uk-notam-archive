@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.4333,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-25T00:00Z",
+ "id": "B1210/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SEAH",
+ "radius": 60,
+ "removed": null,
+ "sched": "",
+ "text": "AMEND NEWQUAY LOWER AIRSPACE RADAR SERVICE AVAILABILITY TO \n0700-1930 (0630-2030).\nUK AIP ENR 1.6,PARA 4.1.6 REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

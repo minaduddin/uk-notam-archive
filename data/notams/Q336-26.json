@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-03T08:53Z",
+ "id": "Q336/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "TAXITRAK SIERRA CLSD FROM ROMEO SOUTH TO YANKEE SOUTH",
+ "to": "2026-12-17T23:59Z",
+ "type": "R",
+ "upper": ""
+}

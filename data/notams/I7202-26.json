@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.6333,
+  -5.85
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-25T07:30Z",
+ "id": "I7202/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0730-1700",
+ "text": "MOBILE CRANE AND PILING RIG OPR PSN 543759N 0055105W (BELFAST\nCITY). MOBILE CRANE MAX HGT 77FT AGL/83FT AMSL. PILING RIG MAX HGT\n53FT AGL/59FT AMSL",
+ "to": "2027-01-18T17:00Z",
+ "type": "N",
+ "upper": ""
+}

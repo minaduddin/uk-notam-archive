@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.7667,
+  -1.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-20T00:00Z",
+ "id": "N880/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 514533N 0011550W (LITTLE CLARENDON, OXFORD)\nIN LOW FLYING AREA 1C AND NIGHT ROTARY REGION 1\nHGT 229FT AGL 500FT AMSL. 26/10/106/LFC",
+ "to": "2027-01-20T23:59Z",
+ "type": "N",
+ "upper": ""
+}

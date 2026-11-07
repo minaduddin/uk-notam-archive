@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:00Z",
+ "id": "Q81/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "HARDSTANDS 16B, 17, AND 18 CLSD DUE WIP",
+ "to": "2026-12-08T17:00Z",
+ "type": "N",
+ "upper": ""
+}

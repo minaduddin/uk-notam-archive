@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.1833,
+  -1.3
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T19:30Z",
+ "id": "H6494/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 521043N 0011816W (UPPER BODDINGTON).\nFOR INFO 07704732209. AR-2026-9097/01.",
+ "to": "2026-11-08T20:30Z",
+ "type": "N",
+ "upper": "1000FT AMSL"
+}

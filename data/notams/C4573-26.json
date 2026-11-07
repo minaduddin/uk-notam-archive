@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.75,
+  -3.4
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-25T00:01Z",
+ "id": "C4573/26",
+ "loc": [
+  "EGTE"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "TOWER CRANE OPR 504508N 0032407W (CRANBROOK) MAX HGT 267FT AMSL, \n171FT AGL",
+ "to": "2026-11-25T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.7833,
+  -1.45
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T14:00Z",
+ "id": "C7261/26",
+ "loc": [
+  "EGNM"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1400-2300",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 534703N 0012711W \n(SWILLINGTON, WEST YORKSHIRE). \nFOR INFO 07919 090990 / 01189 894519. AR-2026-10520/01.",
+ "to": "2026-12-31T23:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

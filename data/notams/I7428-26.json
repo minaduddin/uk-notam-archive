@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T21:00Z",
+ "id": "I7428/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MRLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "02-07 2100-0500, 08 2100-0400",
+ "text": "RWY 07/25 NOT AVBL FOR LDG TFC. AVBL FOR RWY 25 DEP FM BRAVO ONLY.",
+ "to": "2026-11-09T04:00Z",
+ "type": "N",
+ "upper": ""
+}

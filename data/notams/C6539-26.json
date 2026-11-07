@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.8333,
+  -1.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-12T00:00Z",
+ "id": "C6539/26",
+ "loc": [
+  "EGNX"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "TANGO TAXILANE CLOSED.\nNOTAM WILL BE SUPERSEDED BY AIP SUP WEF 12 NOV 2026.",
+ "to": "2026-11-11T23:59Z",
+ "type": "N",
+ "upper": ""
+}

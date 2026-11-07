@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-07-10T06:48Z",
+ "id": "I4730/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "FMXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AMEND ASSOCIATED MET OFFICE FROM EXETER TO NETWORK OPERATIONS\nCENTRE NORTHOLT.\nUK AIP EGAA AD 2.11-1 AND AD 2.11-3 REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

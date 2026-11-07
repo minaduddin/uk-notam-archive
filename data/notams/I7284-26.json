@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.4833,
+  -4.55
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-12T22:00Z",
+ "id": "I7284/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 16,
+ "removed": null,
+ "sched": "2200-0700",
+ "text": "PRESTWICK RADAR REDUCED FLOW RATE DUE TO ATC SINGLE CONTROLLER. \nACFT WISHING TO USE PRESTWICK AS AN ALTN MAY EXPERIENCE DELAYS. ALL \nACFT INBOUND TO PRESTWICK ARE TO MONITOR 121.5MHZ AS MANDATED.",
+ "to": "2026-11-14T07:00Z",
+ "type": "N",
+ "upper": ""
+}

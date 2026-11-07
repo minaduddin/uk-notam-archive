@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.6667,
+  -2.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T00:00Z",
+ "id": "L6976/26",
+ "loc": [
+  "EGBP"
+ ],
+ "lower": "",
+ "q": "AZAH",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "REVISED KEMBLE ATZ HOURS: 0900-1700 AND BY ARRANGEMENT.\nUK AIP EGBP AD 2.17 REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

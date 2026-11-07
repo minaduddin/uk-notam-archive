@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.4333,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-03T08:00Z",
+ "id": "C7149/26",
+ "loc": [
+  "EGHQ"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "03 05 0800-1700, 10-12 0800-1700, 17-19 0800-1700, 24-26 0800-1700",
+ "text": "CRANE OPR PSN 502620N 0050020W (RAF ST MAWGAN). MAX HGT 100FT AGL,\n377FT AMSL",
+ "to": "2026-11-26T17:00Z",
+ "type": "N",
+ "upper": ""
+}

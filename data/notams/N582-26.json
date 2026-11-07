@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.3167,
+  -1.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-07-20T00:00Z",
+ "id": "N582/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 521910N 0012857W\n(WESTON UNDER WETHERLEY, WARWICKSHIRE) IN LOW FLYING AREA 4 AND \nNIGHT ROTARY REGION 4C. HGT 450FT AMSL (100FT AGL). 26/07/199/LFC",
+ "to": "2027-10-17T22:59Z",
+ "type": "N",
+ "upper": ""
+}

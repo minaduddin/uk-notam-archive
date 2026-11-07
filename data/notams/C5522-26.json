@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.75,
+  -3.4
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-20T12:58Z",
+ "id": "C5522/26",
+ "loc": [
+  "EGTE"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "AUG 20 1258-1530, AUG 21-OCT 24 0700-1530, OCT 25-NOV 20 0800-1630",
+ "text": "CRANE OPR 504501N 0032354W (CRANBROOK, EXETER). MAX HGT 248FT AMSL\n/ 142FT AGL",
+ "to": "2026-11-20T16:30Z",
+ "type": "N",
+ "upper": ""
+}

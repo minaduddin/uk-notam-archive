@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.1833,
+  -0.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T07:00Z",
+ "id": "Q93/26",
+ "loc": [
+  "EGXW"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0700-1800",
+ "text": "CRANE OPR PSN 531031N 0002954W (RAF WADDINGTON) HGT 132FT AGL, \n323FT AMSL",
+ "to": "2026-12-04T18:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.9167,
+  -1.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T17:00Z",
+ "id": "H6776/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1700-0230",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 545452N 0012317W (STADIUM OF\nLIGHT, SUNDERLAND).  FOR INFO 07514944791. AR-2026-9608/01.",
+ "to": "2026-11-28T02:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

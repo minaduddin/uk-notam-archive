@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T07:34Z",
+ "id": "Q303/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MKLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "PROTECTIVE ACFT SHELTER (PAS) 22 TOW OPERATIONS ONLY",
+ "to": "2027-01-01T12:30Z",
+ "type": "N",
+ "upper": ""
+}

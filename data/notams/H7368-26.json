@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.6333,
+  -4.7667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T13:00Z",
+ "id": "H7368/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WPLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "text": "DROPPING OF ARTICLES WI 5NM RADIUS OF 563740N 0044530W\n(RANNNOCH). FOR INFO 01993 896789. AR-2026-10543/01.",
+ "to": "2026-11-09T18:00Z",
+ "type": "N",
+ "upper": "8700FT AMSL"
+}

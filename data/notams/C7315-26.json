@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.5667,
+  -0.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-06T06:00Z",
+ "id": "C7315/26",
+ "loc": [
+  "EGNJ"
+ ],
+ "lower": "",
+ "q": "AZAH",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "text": "HUMBERSIDE ATZ, ATS AND AD HR OF SERVICE ARE NOW:\nFRI   0600-0630(PPR), 0730-1800, 2040-2135(PPR)\nSAT   0600-0630(PPR), 0900-1800, 2040-2135(PPR)\nSUN   0600-0630(PPR), 0730-0830(PPR), 0900-1800, 2040-2135(PPR)\nPILOTS ARE REQ TO AVOID PLANNING AN ARR OR DEP LATER THAN CLOSING \nTIMES MINUS 15 MINS. INBOUND ACFT SHOULD ALLOW SUFFICIENT TIME TO \nRECEIVE AN ATS AFTER AD REOPENING.",
+ "to": "2026-11-08T21:35Z",
+ "type": "N",
+ "upper": ""
+}

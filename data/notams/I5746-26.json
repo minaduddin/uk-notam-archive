@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.5,
+  -6.8667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-26T00:00Z",
+ "id": "I5746/26",
+ "loc": [
+  "EGPU"
+ ],
+ "lower": "",
+ "q": "FFCH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RESCUE AND FIRE FIGHTING CATEGORY CHANGED TO RFF CAT A3 (ON \nOCCASIONS PROVIDED WITH RFF CAT 2 UNDER REMISSION). RFF CAT A4 BY \nPPR ARRANGEMENT. \nUK AIP EGPU AD 2.6 AND DIGITAL DATASET REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

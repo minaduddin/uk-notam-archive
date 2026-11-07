@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.9833,
+  0.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-01T00:00Z",
+ "id": "C6468/26",
+ "loc": [
+  "EGMD"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE OPR PSN 505915N 0005611E (NEW ROMNEY, LYDD) MAX HGT \n115FT AGL/125FT AMSL.",
+ "to": "2026-12-18T23:59Z",
+ "type": "N",
+ "upper": ""
+}

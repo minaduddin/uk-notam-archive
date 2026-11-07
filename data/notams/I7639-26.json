@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.4833,
+  -7.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-05T11:35Z",
+ "id": "I7639/26",
+ "loc": [
+  "EGPL"
+ ],
+ "lower": "",
+ "q": "FMLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 06 ANEMOMETER U/S. SURFACE WIND REPORTS DERIVED FROM RWY\n24 ANEMOMETER.",
+ "to": "2026-11-11T16:30Z",
+ "type": "N",
+ "upper": ""
+}

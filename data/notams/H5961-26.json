@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.6667,
+  -2.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-11T09:00Z",
+ "id": "H5961/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 0.1NM RADIUS OF \n554009N 0022005W (COLDSTREAM). MAX HGT 165FT AGL. FOR INFO 07762 \n568181 /07710 700830. AR-2026-8284/01.",
+ "to": "2026-12-01T23:59Z",
+ "type": "N",
+ "upper": "400FT AMSL"
+}

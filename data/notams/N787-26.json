@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.4833,
+  -1.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-14T23:00Z",
+ "id": "N787/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "OBST WINDMILL AT PSN 572903N 0011956W (OFFSHORE, 16NM EAST OF\nPETERHEAD) UP TO 575FT AMSL. FOR INFO CTC 07715 069068. ON\nEXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR\n5.4 AR-2026-8627/01.",
+ "to": "2026-12-14T00:00Z",
+ "type": "N",
+ "upper": ""
+}

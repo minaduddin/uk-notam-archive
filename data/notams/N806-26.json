@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3167,
+  -1.8333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-21T07:07Z",
+ "id": "N806/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UNLIT MAST PSN 511846N 0015007W (NORTH NEWNTON, WILTSHIRE) IN LOW \nFLYING AREA 1A AND NIGHT ROTARY REGION 1. HGT 120FT AGL 520FT AMSL\n26/09/208/LFC",
+ "to": "2026-12-21T23:59Z",
+ "type": "N",
+ "upper": ""
+}

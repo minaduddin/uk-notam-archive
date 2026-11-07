@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.6,
+  -5.85
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T18:30Z",
+ "id": "I6805/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 543540N 0055033W (BELFAST).\nFOR INFO 07474 424212 / 07853 652486. AR-2026-9350/01.",
+ "to": "2026-11-14T21:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

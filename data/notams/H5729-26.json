@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.1167,
+  -2.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-03T15:05Z",
+ "id": "H5729/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "MON-FRI SR-SS",
+ "text": "UAS OPR WI 1NM RADIUS OF 510636N 0020223W (CHILMARK). MAX HGT\n1000FT AGL. FOR INFO 07826 918598. AR-2026-7527/02.",
+ "to": "2026-11-18T16:17Z",
+ "type": "R",
+ "upper": "1700FT AMSL"
+}

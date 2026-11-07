@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.4833,
+  -2.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-28T09:00Z",
+ "id": "H7183/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0900-2100",
+ "text": "FLYING OF LARGE MODEL ACFT WI 0.3NM RADIUS OF 532854N 0022839W\n(GLAZEBURY). FOR INFO 079694 60032. AR-2026-10291/01.",
+ "to": "2027-01-25T21:00Z",
+ "type": "N",
+ "upper": "1600FT AMSL"
+}

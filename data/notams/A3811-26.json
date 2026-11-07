@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5667,
+  0.7333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-28T10:05Z",
+ "id": "A3811/26",
+ "loc": [
+  "EGMC"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPR PSN 513336.44N 0004330.01E (HDG 118 DEG MAG, 2460M FM\nSOUTHEND ARP). MAX HGT 113FT AGL/165FT AMSL. NOTAM WILL BE \nSUPERSEDED BY DIGITAL OBSTACLE DATASET WEF 24 DEC 2026.",
+ "to": "2026-12-24T23:59Z",
+ "type": "R",
+ "upper": ""
+}

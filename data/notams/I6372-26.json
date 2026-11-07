@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-16T09:13Z",
+ "id": "I6372/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "STANDS 20 AND 22 CLSD",
+ "to": "2026-11-30T12:00Z",
+ "type": "N",
+ "upper": ""
+}

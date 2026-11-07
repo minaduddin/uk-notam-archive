@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.4,
+  -7.65
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T11:33Z",
+ "id": "I7564/26",
+ "loc": [
+  "EGAB"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "TWY D CLSD DUE WIP",
+ "to": "2026-12-31T16:00Z",
+ "type": "N",
+ "upper": ""
+}

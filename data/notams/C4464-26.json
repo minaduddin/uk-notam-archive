@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.8333,
+  -0.3
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-07-07T05:09Z",
+ "id": "C4464/26",
+ "loc": [
+  "EGKA"
+ ],
+ "lower": "",
+ "q": "SPXX",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "ATS AIRSPACE - ADD SHOREHAM ATZ HOURS\nMON-FRI   0800-2000 (0700-1900)\nSAT       0900-2000 (0800-1900)\nSUN       0900-1900 (0800-1800)\nREMOVE 'ATZ HOURS COINCIDENT WITH APPROACH/TOWER/A/G HOURS' FROM\nREMARKS IN AD 2.18.\nUK AIP EGKA AD 2.17-6, AD 2.18-7 AND DIGITAL DATASET REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

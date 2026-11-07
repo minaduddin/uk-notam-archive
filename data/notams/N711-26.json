@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.1,
+  0.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-19T17:00Z",
+ "id": "N711/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UNLIT MAST PSN 510546N 0002957E (CRANBROOK AND SISSINGHURST, \nHARTLEY)IN LOW FLYING AREA 18 AND NIGHT ROTARY REGION 18. HGT 600FT \nAMSL (100FT AGL). 26/08/212/LFC",
+ "to": "2026-11-19T23:59Z",
+ "type": "N",
+ "upper": ""
+}

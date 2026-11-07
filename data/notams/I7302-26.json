@@ -1,0 +1,23 @@
+{
+ "coord": [
+  59.35,
+  -2.95
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-23T11:43Z",
+ "id": "I7302/26",
+ "loc": [
+  "EGEW"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 13/31 CLSD DUE WATERLOGGING",
+ "to": "2027-01-23T11:30Z",
+ "type": "N",
+ "upper": ""
+}

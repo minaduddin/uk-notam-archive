@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5,
+  -1.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-07T13:30Z",
+ "id": "H5801/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SEP 07 1330-1700, SEP 08-OCT 24 0700-1700, OCT 25-DEC 06 0800-1800",
+ "text": "UAS OPR WI 0.34NM RADIUS OF 512938N 0011253W (HAMPSTEAD NORRIS).\nMAX HGT 400FT AGL. FOR INFO 07309 919170 / 07309 919318 / 07309\n919218. AR-2026-8356/01.",
+ "to": "2026-12-06T18:00Z",
+ "type": "N",
+ "upper": "1000FT AMSL"
+}

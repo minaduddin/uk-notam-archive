@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.2,
+  -1.9667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T00:00Z",
+ "id": "H7386/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "ROXX",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "E BAND HIGH INTENSITY RADIO TRANSMISSION AREA (HIRTA) OPR WI 1NM \nOF PSN 511154N 0015809W (CHITTERNE, WILTSHIRE) LOW FLYING AREA 1A \nAND NIGHT ROTORY REGION 1. MAX HGT 809FT AGL. 26/11/034/LFC\nSAFE DISTANCES\nCIVILIAN ACFT                    0.1200NM        409FT AGL\nLOW                              0.0763NM        144FT AGL\nMEDIUM                           0.0893NM        222FT AGL\nHIGH                             0.1246NM        436FT AGL\nPULSE LOW                        0.0870NM        209FT AGL\nPULSE MEDIUM                     0.1201NM        109FT AGL\nPULSE HIGH                       0.1861NM        809FT AGL",
+ "to": "2026-11-13T23:59Z",
+ "type": "N",
+ "upper": "1309FT AMSL"
+}

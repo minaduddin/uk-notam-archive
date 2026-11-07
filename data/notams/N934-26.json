@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.6,
+  -1.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-04T00:00Z",
+ "id": "N934/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPERATING AT PSN: 543548N 0011024W (SOUTH BANK, NORTH\nYORKSHIRE) UP TO 488FT AGL/493FT AMSL. FOR INFO CONTACT\n0031650 185250. ON EXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED\nIN THE UK AIP ENR 5.4 AR-2026-10489/02.",
+ "to": "2026-11-11T23:59Z",
+ "type": "N",
+ "upper": ""
+}

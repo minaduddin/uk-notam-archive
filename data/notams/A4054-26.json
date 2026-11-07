@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.35,
+  -2.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-13T13:19Z",
+ "id": "A4054/26",
+ "loc": [
+  "EGCC"
+ ],
+ "lower": "",
+ "q": "ICXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "SUP 102/2026 MANCHESTER AIRPORT (EGCC) - RWY 05L ILS OUTAGE\nSUP CANCELLED",
+ "to": "2026-11-11T23:59Z",
+ "type": "N",
+ "upper": ""
+}

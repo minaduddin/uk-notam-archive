@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.95,
+  -1.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T16:00Z",
+ "id": "H6902/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "NOV 14-22 25-29 1600-2330, DEC 02-06  09-24 1600-2330, DEC 26 - \nJAN 07 1600-2330",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 525653N 0011234W (WOLLATON\nPARK, NOTTINGHAM). FOR INFO 07805 005035. AR-2026-9800/01.",
+ "to": "2027-01-07T23:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

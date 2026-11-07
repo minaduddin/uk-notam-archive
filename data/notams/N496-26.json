@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.6167,
+  -2.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-31T23:00Z",
+ "id": "N496/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "OBST STACK AT PSN 523636N 0020038W (BLOXWICH) UP TO 338FT\nAGL/823FT AMSL. FOR INFO CONTACT 07776 697592. ON EXPIRY OF THIS\nNOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4\nAR-2026-5104/01.",
+ "to": "2026-11-30T00:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.1667,
+  -2.9833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-31T09:30Z",
+ "id": "L6874/26",
+ "loc": [
+  "EGNR"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "31 0930-1330, 06 1930-2230, 08 0930-2030",
+ "text": "LIT FLOODLIGHTS OPR PSN 531018N 0025858W (735M 203 DEG MAG FROM \nHAWARDEN ARP). MAX HGT 78FT AMSL/50FT AGL.",
+ "to": "2026-11-08T20:30Z",
+ "type": "N",
+ "upper": ""
+}

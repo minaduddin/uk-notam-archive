@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-09T07:11Z",
+ "id": "I6906/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "STEEL PLATE TWY MIKE 100M WEST OF M4",
+ "to": "2027-01-09T12:00Z",
+ "type": "N",
+ "upper": ""
+}

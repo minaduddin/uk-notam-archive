@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.7,
+  -4.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T10:00Z",
+ "id": "H7341/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "09 1000-1700, 11-13 0001-0630",
+ "text": "TACTICAL LANDINGS. MIL ACFT WILL CONDUCT TACTICAL LANDINGS WI 5NM\nRADIUS OF 514219N 0042135W (PEMBREY).  FOR INFO 07812 705717.\nAR-2026-10523/01.",
+ "to": "2026-11-13T06:30Z",
+ "type": "N",
+ "upper": "5700FT AMSL"
+}

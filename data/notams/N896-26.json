@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.8667,
+  -0.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-24T17:59Z",
+ "id": "N896/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UNLIT MAST PSN 515205N 0004529W (ASTON ABBOTTS, BUCKINGHAMSHIRE) \nIN LOW FLYING AREA 6 AND NIGHT ROTARY REGION 4A. HGT 550FT AMSL \n(120FT AGL) 26/10/063/LFC",
+ "to": "2027-01-06T23:59Z",
+ "type": "N",
+ "upper": ""
+}

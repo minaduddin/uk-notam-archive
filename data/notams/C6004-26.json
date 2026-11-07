@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.45,
+  -1.7
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-14T00:00Z",
+ "id": "C6004/26",
+ "loc": [
+  "EGBB"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRAWLER CRANE OPR 522641N 0014155W (105 DEG MAG 3506M FM\nBIRMINGHAM ARP) MAX HGT 131FT AGL / 459FT AMSL",
+ "to": "2026-11-14T23:59Z",
+ "type": "N",
+ "upper": ""
+}

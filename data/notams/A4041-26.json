@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.8667,
+  0.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T14:00Z",
+ "id": "A4041/26",
+ "loc": [
+  "EGSS"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UAS SWARM OPR WI 0.5NM RADIUS OF 515218N 0000311E (BISHOP'S\nSTORTFORD). SWARM MADE UP OF 100 UAS. MAX HGT 580FT AGL. FOR INFO\n07706 693320. AR-2026-9654/01.",
+ "to": "2026-11-07T23:59Z",
+ "type": "N",
+ "upper": "1000FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.2,
+  -2.9833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T10:00Z",
+ "id": "H7035/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "UAS SWARM AND LASER DISPLAY OPR WI 1NM RADIUS OF 561159N 0025916W\n(METHIL). SWARM MADE UP OF 200 UAS. UAS MAX HGT 600FT AGL. FOR\nINFO 07904 547596 / 07747 097574. AR-2026-9983/01.",
+ "to": "2026-11-07T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}

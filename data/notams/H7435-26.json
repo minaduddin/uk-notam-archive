@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.2833,
+  0.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-13T17:00Z",
+ "id": "H7435/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 511729N 0001253E (SEAL).  FOR INFO\n02034 220777. AR-2026-10630/01.",
+ "to": "2026-11-13T21:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

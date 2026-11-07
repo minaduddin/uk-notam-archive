@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.0333,
+  -1.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-27T07:00Z",
+ "id": "I7242/26",
+ "loc": [
+  "EGNT"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "STAND 30 CLOSED",
+ "to": "2026-12-04T17:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.45,
+  -3.0333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T08:45Z",
+ "id": "I7506/26",
+ "loc": [
+  "EGPN"
+ ],
+ "lower": "",
+ "q": "AZAH",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "REVISED DUNDEE ATZ AND AD OPR HR:\nMON-FRI 0745-1830\nSAT-SUN 0845-1530\nOPERATING TIMES FOR AIRCRAFT ARRIVING OR DEPARTING REQUIRING\nADDITIONAL NATIONAL AVIATION SAFETY PLAN (NASP) CHECKS ARE MON-FRI\n0700-1900, SAT-SUN 0800-1600. OUTSIDE OF THESE TIMES ON REQUEST BY\nEMAIL TO INFODUNDEE(AT)HIAL.CO.UK.\nUK AIP AD 2.3, AD 2.17, AD 2.18, AD 2.19, AD 2.20 REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

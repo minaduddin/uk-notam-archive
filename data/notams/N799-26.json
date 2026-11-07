@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.2,
+  -2.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-18T08:52Z",
+ "id": "N799/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UNLIT SUSPENDED WIRES WI 0.5NM EITHER SIDE OF TRACK AND 0.5NM \nRADIUS OF PSN 541219N 0020602W - 541213N 0020554W (BUCKDEN WOOD \nLANE, NORTH YORKSHIRE). HGT 1150FT AMSL (150FT AGL) IN LOW FLYING \nAREA 17 AND NIGHT ROTARY REGION 3BE. 26/09/191/LFC",
+ "to": "2026-12-18T23:59Z",
+ "type": "N",
+ "upper": ""
+}

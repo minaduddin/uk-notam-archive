@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4167,
+  -0.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-12T18:00Z",
+ "id": "A4022/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASERS AND FIREWORKS WI 1NM RADIUS OF 512450N 0001601W (NEW \nMALDEN, LONDON). FIREWORKS UP TO 150FT AGL. FOR INFO 07882 508881.\nAR-2026-9317/01.",
+ "to": "2026-11-12T19:30Z",
+ "type": "N",
+ "upper": "7400FT AMSL"
+}

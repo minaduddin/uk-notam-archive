@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.2167,
+  -0.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T19:30Z",
+ "id": "H6890/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 511328N 0001300W (REIGATE). FOR INFO \n07492 306906. AR-2026-9727/01.",
+ "to": "2026-11-14T20:15Z",
+ "type": "N",
+ "upper": "650FT AMSL"
+}

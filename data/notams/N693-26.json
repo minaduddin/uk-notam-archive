@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.95,
+  -3.15
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-18T00:00Z",
+ "id": "N693/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE PSN 555719N 0030859W (WILLOWBRAE, CITY OF EDINBURGH) IN \nLOW FLYING AREA 16 AND NIGHT SECTOR 2A. HGT 420FT AMSL (289FT AGL). \n26/08/186/LFC",
+ "to": "2026-11-14T22:59Z",
+ "type": "N",
+ "upper": ""
+}

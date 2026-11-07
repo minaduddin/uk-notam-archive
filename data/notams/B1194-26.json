@@ -1,0 +1,24 @@
+{
+ "coord": [
+  58.3667,
+  1.9
+ ],
+ "est": false,
+ "fir": "ENXX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T12:00Z",
+ "id": "B1194/26",
+ "loc": [
+  "ENOR",
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "NDAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "text": "DME SPA/SLEIPNER A CH102X U/S",
+ "to": "2026-11-17T16:00Z",
+ "type": "N",
+ "upper": ""
+}

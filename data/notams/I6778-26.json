@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.5167,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-03T08:40Z",
+ "id": "I6778/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "FAHX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "HIGH BIRD ACTIVITY ON AND AROUND THE AIRFIELD DUE TO MIGRATORY\nBIRDS",
+ "to": "2026-11-30T23:59Z",
+ "type": "N",
+ "upper": ""
+}

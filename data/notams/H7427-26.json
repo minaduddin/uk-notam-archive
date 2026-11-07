@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.3833,
+  -5.5167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T08:00Z",
+ "id": "H7427/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 562234N 0053115W (ARGYLL AND BUTE) LOW FLYING AREA \n14 AND NIGHT SECTOR 1A. MAX HGT 500FT AGL. ACFT MAY BE RESTRICTED IN \nABILITY TO MANOEUVRE AND UNABLE TO COMPLY WITH RAC OPS \nCTC 01667 464404. 26/11/044/LFC",
+ "to": "2026-11-09T20:00Z",
+ "type": "N",
+ "upper": "1500FT AMSL"
+}

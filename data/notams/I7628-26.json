@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.6833,
+  -6.25
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-04T18:28Z",
+ "id": "I7628/26",
+ "loc": [
+  "EGPI"
+ ],
+ "lower": "",
+ "q": "NBAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "NDB LAY/ISLAY 395KHZ U/S",
+ "to": "2026-12-31T18:40Z",
+ "type": "N",
+ "upper": ""
+}

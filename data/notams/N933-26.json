@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5167,
+  -0.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-06T00:00Z",
+ "id": "N933/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 513119N 0000714W (HOLBORN, LONDON) IN LOW FLYING \nTHAMES VALLEY AVOIDANCE AREA DAY AND NIGHT HGT 288FT AGL 388FT AMSL. \n26/11/015/LFC",
+ "to": "2027-02-04T23:59Z",
+ "type": "N",
+ "upper": ""
+}

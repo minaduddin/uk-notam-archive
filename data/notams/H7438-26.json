@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.1667,
+  1.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-12T15:00Z",
+ "id": "H7438/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "THU-SUN 1500-2330",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 521022N 0011154E (FRAMSDEN).\nFOR INFO 07590 767499. AR-2026-10608/02.",
+ "to": "2026-12-06T23:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

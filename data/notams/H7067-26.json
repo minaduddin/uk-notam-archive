@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.5333,
+  -2.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T16:45Z",
+ "id": "H7067/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 533143N 0021551W (PRESTWICH).  FOR\nINFO 07501 085780 / 07733 112272. AR-2026-10009/01.",
+ "to": "2026-11-07T21:30Z",
+ "type": "N",
+ "upper": "900FT AMSL"
+}

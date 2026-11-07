@@ -1,0 +1,23 @@
+{
+ "coord": [
+  59.15,
+  -2.6333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-26T09:50Z",
+ "id": "I7374/26",
+ "loc": [
+  "EGER"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 10/28 CLSD DUE WATERLOGGING",
+ "to": "2027-01-26T09:00Z",
+ "type": "N",
+ "upper": ""
+}

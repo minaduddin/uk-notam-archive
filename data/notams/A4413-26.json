@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.6,
+  -0.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T19:00Z",
+ "id": "A4413/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "text": "LASER DISPLAY WI 5NM RADIUS OF 513538N 0001959W (HARROW). FOR \nINFO 00447711 855295. AR-2026-10538/01.",
+ "to": "2026-11-07T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

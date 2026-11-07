@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.7667,
+  -1.9167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T19:30Z",
+ "id": "C6628/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1930-2000",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 504550N 0015507W (BROADSTONE,\nBOURNEMOUTH). FOR INFO 07770 594889 / 07841 134296.\nAR-2026-9437/01.",
+ "to": "2026-11-08T20:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

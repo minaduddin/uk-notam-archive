@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5333,
+  -0.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-18T00:00Z",
+ "id": "N692/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 513130N 0001904W (PERIVALE, LONDON BOROUGH OF \nEALING) IN LOW FLYING AREA THAMES VALLEY AVOIDANCE AREA DAY AND \nNIGHT. HGT 360FT AMSL (246FT AGL). 26/08/185/LFC",
+ "to": "2026-11-14T22:59Z",
+ "type": "N",
+ "upper": ""
+}

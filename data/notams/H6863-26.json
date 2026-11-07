@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4833,
+  -3.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T16:00Z",
+ "id": "H6863/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2230",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 512903N 0031105W (BUTE \nPARK, CARDIFF).  FOR INFO 07464 712630 / 07903 648968. \nAR-2026-9694/02.",
+ "to": "2026-12-31T22:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

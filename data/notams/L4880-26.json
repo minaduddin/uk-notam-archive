@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.65,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-25T05:05Z",
+ "id": "L4880/26",
+ "loc": [
+  "EGLJ"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "text": "FLYING OF LARGE MODEL ACFT WI 0.3NM RADIUS OF 513922N 0010616W\n(CHALGROVE).  FOR INFO 07742 646565. AR-2026-7301/01.",
+ "to": "2026-11-22T16:06Z",
+ "type": "N",
+ "upper": "1300FT AMSL"
+}

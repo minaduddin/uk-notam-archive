@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.7,
+  -3.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:17Z",
+ "id": "Q220/26",
+ "loc": [
+  "EGQS"
+ ],
+ "lower": "",
+ "q": "PIAU",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RNP APCH RWY 23 NOT AVBL. \nUK MIL AIP AD 2-EGQS-1-32-RNP RWY 23 REFERS.",
+ "to": "2026-12-14T13:13Z",
+ "type": "N",
+ "upper": ""
+}

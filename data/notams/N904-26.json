@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.4833,
+  -1.9167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T00:00Z",
+ "id": "N904/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE PSN 522900N 0015446W (BIRMINGHAM, WEST MIDLANDS) IN LOW \nFLYING AREA 8 AND NIGHT SECTOR 5F. HGT 230FT AGL, 830FT AMSL. \n26/10/155/LFC",
+ "to": "2027-01-02T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3833,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-13T17:30Z",
+ "id": "A4440/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 512239N 0002844W (CHERTSEY). FOR \nINFO 07973 478944. AR-2026-10103/01.",
+ "to": "2026-11-13T20:30Z",
+ "type": "N",
+ "upper": "400FT AMSL"
+}

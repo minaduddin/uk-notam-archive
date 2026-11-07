@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.65,
+  -3.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-28T19:48Z",
+ "id": "N914/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UNLIT MAST PSN 503900N 0033808W (TEIGNBRIDGE, DEVON) IN LOW \nFLYING AREA 2 AND NIGHT ROTARY REGION 2. HGT 500FT AMSL / 100FT AGL. \n26/10/180/LFC",
+ "to": "2027-01-27T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.9167,
+  -3.35
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-05T08:00Z",
+ "id": "I6843/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPR PSN 555524N 0032035W (RATHO, VCY EDINBURGH AD)\nMAX HGT 103FT AGL/303FT AMSL. CRANE WILL BE LOWERED DURING LVP.",
+ "to": "2026-12-15T18:00Z",
+ "type": "N",
+ "upper": ""
+}

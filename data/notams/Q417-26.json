@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.65,
+  0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-05T00:00Z",
+ "id": "Q417/26",
+ "loc": [
+  "EGYM"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AD OPR HR:\nTHU      1145-1300\nFRI      0830-1300\nSAT-SUN  CLSD",
+ "to": "2026-11-08T23:59Z",
+ "type": "N",
+ "upper": ""
+}

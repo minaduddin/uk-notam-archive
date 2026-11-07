@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.4167,
+  -5.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-05T14:00Z",
+ "id": "H6944/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1400-2330",
+ "text": "UAS SWARM OPR WI 0.5NM RADIUS OF 502452N 0050348W (NEWQUAY).\nSWARM MADE UP OF 200 UAS. MAX HGT 400FT AGL. FOR INFO\n020 31 516891. AR-2026-9886/01.",
+ "to": "2026-11-08T23:30Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

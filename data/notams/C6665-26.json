@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3,
+  -0.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-13T19:30Z",
+ "id": "C6665/26",
+ "loc": [
+  "EGLF"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 511820N 0004724W (FARNBOROUGH). FOR \nINFO 07889 401637 / 01252 666846 / 07725 550895 / 01252 666846.\nAR-2026-9226/01.",
+ "to": "2026-11-13T20:00Z",
+ "type": "N",
+ "upper": "1300FT AMSL"
+}

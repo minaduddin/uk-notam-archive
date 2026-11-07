@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.6167,
+  -5.8833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-14T07:00Z",
+ "id": "I6175/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0700-1700",
+ "text": "MOBILE CRANE OPR PSN 543710N 0055235W (BELFAST CITY). MAX HGT\n131FT AGL/140FT AMSL.",
+ "to": "2026-12-07T17:00Z",
+ "type": "N",
+ "upper": ""
+}

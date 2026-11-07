@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-04T16:32Z",
+ "id": "Q403/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MKLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "CAUTION: PARKING SPOT C19 CLOSED.",
+ "to": "2026-11-13T18:00Z",
+ "type": "N",
+ "upper": ""
+}

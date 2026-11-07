@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3167,
+  -0.7167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T19:30Z",
+ "id": "C6990/26",
+ "loc": [
+  "EGLF"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "09 1930-2359, 10-11 0001-2359, 12 0001-0630",
+ "text": "ILLUMINANTS WI 0.4NM RADIUS OF 511848N 0004240W (FRIMLEY). \nILLUMINANTS WILL DESCEND BY PARACHUTE. FOR INFO 07484 516900 /\n07350 432476. AR-2026-10204/01.",
+ "to": "2026-11-12T06:30Z",
+ "type": "N",
+ "upper": "1333FT AMSL"
+}

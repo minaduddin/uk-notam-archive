@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.0833,
+  0.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T13:00Z",
+ "id": "L7034/26",
+ "loc": [
+  "EGSU"
+ ],
+ "lower": "SFC",
+ "q": "WALW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "text": "AIR DISPLAYS WI 2NM RADIUS PSN 520527N 0000756E (DUXFORD AD).\nUP TO 2000FT AGL / 2126FT AMSL",
+ "to": "2026-11-08T16:00Z",
+ "type": "N",
+ "upper": "2126FT AMSL"
+}

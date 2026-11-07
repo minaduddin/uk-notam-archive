@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.25,
+  -4.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T00:00Z",
+ "id": "Q460/26",
+ "loc": [
+  "EGOV"
+ ],
+ "lower": "",
+ "q": "SPAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "VALLEY ATS AND AD OPENING HOURS\nMON-THU - 0900-2020\nFRI - CLOSED",
+ "to": "2026-11-13T23:59Z",
+ "type": "N",
+ "upper": ""
+}

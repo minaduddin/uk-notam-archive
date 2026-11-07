@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.4333,
+  -0.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T07:12Z",
+ "id": "H7286/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "text": "FLYING OF LARGE MODEL ACFT WI 0.5NM RADIUS OF 532534N 0002805W\n(BISHOP NORTON).  FOR INFO 07851 515104 / 07769 786270.\nAR-2026-10426/01.",
+ "to": "2027-01-28T16:37Z",
+ "type": "N",
+ "upper": "1600FT AMSL"
+}

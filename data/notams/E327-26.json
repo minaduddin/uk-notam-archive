@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.9333,
+  -2.8167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T09:00Z",
+ "id": "E327/26",
+ "loc": [
+  "EGNC"
+ ],
+ "lower": "",
+ "q": "STLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "A/G SERVICE NOT AVBL.",
+ "to": "2026-11-09T17:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.8167,
+  1.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T18:00Z",
+ "id": "H5313/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASERS, FIREWORKS WI 1NM RADIUS OF 524925N 0012218E (NORTH \nWALSHAM). FIREWORKS UP TO 300FT AGL. FOR INFO 07477 999336. \nAR-2026-7556/01.",
+ "to": "2026-11-08T20:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.6167,
+  -5.8667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-07-17T13:52Z",
+ "id": "I4890/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "",
+ "q": "FMXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "METEOROLOGICAL INFORMATION PROVIDED - ROWS 1 AND 3 CHANGE FROM:\nMET OFFICE EXETER TO: NETWORK OPERATIONS CENTRE NORTHOLT.\nUK AIP EGAC AD 2.11 REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

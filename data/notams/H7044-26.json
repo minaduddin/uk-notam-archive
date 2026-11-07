@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.7833,
+  -0.7333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-03T09:00Z",
+ "id": "H7044/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0900-2300",
+ "text": "UAS SWARM OPR WI 0.3NM RADIUS OF 504720N 0004402W (ALDWICK,\nBOGNOR REGIS). SWARM MADE UP OF 400 UAS. MAX HGT 400FT AGL. FOR\nINFO 0044 7525 916291. AR-2026-9995/01.",
+ "to": "2026-11-10T23:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

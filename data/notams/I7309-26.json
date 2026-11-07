@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.6667,
+  -6.2333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T07:00Z",
+ "id": "I7309/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "NVXX",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "text": "VOR/DME BEL/BELFAST 117.20MHZ CH119X THERE MAY BE OBSERVATIONS OF\nDVOR BEARING FLUCTUATIONS WI THE 185-225 DEG. MAG. SECTOR RADIALS FM \nTHE BELFAST VOR/DME STATION, DUE TEMPO MOBILE CRANE IN THE VCY",
+ "to": "2026-11-20T18:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.6167,
+  -2.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-21T11:00Z",
+ "id": "H7043/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "OCT 21-24 1100-2100, OCT 25-DEC 31 1200-2200",
+ "text": "UAS SWARM OPR WI 0.1NM RADIUS OF 533719N 0024624W (MAWDESLEY).\nSWARM MADE UP OF 250 UAS. MAX HGT 400FT AGL. FOR INFO 07481 557474. \nAR-2026-10079/02.",
+ "to": "2026-12-31T22:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

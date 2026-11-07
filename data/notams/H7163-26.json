@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.0,
+  -2.9667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T09:00Z",
+ "id": "H7163/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0900-1700",
+ "text": "UAS OPR WI 0.12NM RADIUS OF 510019N 0025800W (WRANTAGE). MAX HGT\n250FT AGL. FOR INFO 07769 690946. AR-2026-10156/01.",
+ "to": "2027-01-10T17:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

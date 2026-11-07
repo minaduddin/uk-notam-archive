@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.0333,
+  -1.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-28T16:18Z",
+ "id": "I7468/26",
+ "loc": [
+  "EGNT"
+ ],
+ "lower": "",
+ "q": "MPXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "STAND ENTRY GUIDANCE SYSTEM U/S ON STANDS 1, 6, 9 AND 12.\nACFT SHOULD EXPECT MARSHALLING ONTO STAND, MARSHALLER WILL BE \nPOSITIONED AT HEAD OF STAND.",
+ "to": "2026-12-04T17:00Z",
+ "type": "R",
+ "upper": ""
+}

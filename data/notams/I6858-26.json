@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.05,
+  -7.1667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-07T05:37Z",
+ "id": "I6858/26",
+ "loc": [
+  "EGAE"
+ ],
+ "lower": "",
+ "q": "FAHX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "FLOCKS OF MIGRATING SWANS AROUND THE LOUGH FOYLE AREA AND \nSURROUNDING FARMLAND. INCREASED ACTIVITY AROUND SUNRISE AND SUNSET. \nATC MAY VARY THE DEP AND ARR RWY BASED ON ACTIVITY. AIRCREW ARE \nADVISED TO EXER CTN ON APCH AND DEP",
+ "to": "2026-12-31T23:59Z",
+ "type": "N",
+ "upper": ""
+}

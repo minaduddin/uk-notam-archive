@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.8667,
+  -1.7
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T08:30Z",
+ "id": "Q352/26",
+ "loc": [
+  "EGVL"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 2,
+ "removed": null,
+ "sched": "0830-1800",
+ "text": "LITTLE RISSINGTON ATZ DEACTIVATED. AD CLSD.",
+ "to": "2026-11-15T18:00Z",
+ "type": "N",
+ "upper": ""
+}

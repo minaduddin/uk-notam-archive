@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.9667,
+  -2.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T10:00Z",
+ "id": "H7406/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WELW",
+ "radius": 18,
+ "removed": null,
+ "sched": "1000-2000",
+ "text": "EXER GUARDIAN DEFENDER. UP TO 6 MIL HEL WILL OPR IN FORMATION BTN \nTHE FOLLOWING POINTS:\n510000N 0023800W TILSHEAD \n504310N 0020138W UPTON\n511240N 0015806W VCY YEOVILTON AD\nACFT MAY BE UNABLE TO COMPLY WITH RAC. FOR INFO 07896 232995 /\n01935 454432. AR-2026-10575/01.",
+ "to": "2026-11-12T20:00Z",
+ "type": "N",
+ "upper": "2900FT AMSL"
+}

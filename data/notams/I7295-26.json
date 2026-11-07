@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.0333,
+  -1.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T08:00Z",
+ "id": "I7295/26",
+ "loc": [
+  "EGNT"
+ ],
+ "lower": "",
+ "q": "IUXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "ILS CAT 3 APCH MAY NOT BE AVBL DUE HIGH VOLTAGE GENERATOR \nTESTING. ILS CAT 3 WILL REMAIN AVBL DURING LOW VISIBILITY.",
+ "to": "2026-11-10T18:00Z",
+ "type": "N",
+ "upper": ""
+}

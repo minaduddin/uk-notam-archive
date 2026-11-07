@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.45,
+  1.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T17:00Z",
+ "id": "H7398/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "text": "NIGHT FLYING WI 2.5NM RADIUS OF 522726N 0010941E (TIBENHAM AD).\nFOR INFO 07801 563098. AR-2026-10574/01.",
+ "to": "2026-11-09T22:00Z",
+ "type": "N",
+ "upper": "2800FT AMSL"
+}

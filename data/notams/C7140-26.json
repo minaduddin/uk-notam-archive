@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T08:00Z",
+ "id": "C7140/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "STAND 5 CLSD",
+ "to": "2026-11-24T23:30Z",
+ "type": "N",
+ "upper": ""
+}

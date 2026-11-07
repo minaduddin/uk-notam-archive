@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:13Z",
+ "id": "Q217/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "NNXX",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "text": "TACAN BZN/BRIZE NORTON FREQ 111.9HZ CH56X USABLE AREA AID ONLY \nDUE TO CALIBRATION RESTRICTION.",
+ "to": "2026-11-13T08:00Z",
+ "type": "N",
+ "upper": ""
+}

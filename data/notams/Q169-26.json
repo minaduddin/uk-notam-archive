@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.15,
+  -1.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T08:30Z",
+ "id": "Q169/26",
+ "loc": [
+  "EGDM"
+ ],
+ "lower": "",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "0830-1730",
+ "text": "GROUND TRANSPONDER TESTING. MODE S TEST TRANSPONDER LOCATED PSN \n510846N 0014531W (AMESBURY). POSSIBLE FALSE AIRCRAFT INDICATIONS\nMAY OCCUR WI 2NM RADIUS. MAY INDICATE A SPEED OF 300KTS AND\n99000FT AGL. DIRECT OVERFLIGHT BELOW 100FT SHOULD BE AVOIDED. \nSFC-UNL. FOR INFO 01980 663052. AR-2026-10378/01.",
+ "to": "2026-11-13T17:30Z",
+ "type": "N",
+ "upper": ""
+}

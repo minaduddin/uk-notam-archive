@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.2833,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T08:00Z",
+ "id": "L6982/26",
+ "loc": [
+  "EGNE"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "0800-1800",
+ "text": "AD NOT AVBL TO VISITING ACFT OTHER THAN THOSE WITH SPECIFIC \nWRITTEN AUTHORISATION FROM THE AIRPORT MANAGER. MORE INFORMATION +44\n01777838521",
+ "to": "2026-11-10T18:00Z",
+ "type": "N",
+ "upper": ""
+}

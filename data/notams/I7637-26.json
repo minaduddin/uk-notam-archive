@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.85,
+  -4.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T08:00Z",
+ "id": "I7637/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "MOBILE CRANE OPR PSN 555116N 0042201W (GLASGOW).\nMAX HGT 83FT AGL / 120FT AMSL (APRX). JIB WILL BE LOWERED IN LVP.\nSITE CTC DANNY MCLINDEN 07813 64274.",
+ "to": "2026-11-09T17:00Z",
+ "type": "N",
+ "upper": ""
+}

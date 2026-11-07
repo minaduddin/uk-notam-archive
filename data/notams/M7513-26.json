@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.65,
+  -4.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T09:00Z",
+ "id": "M7513/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 35,
+ "removed": null,
+ "sched": "",
+ "text": "THE FOLLOWING ABERPORTH DANGER AREAS ARE ACTIVATED:\nEGD201H 0900-1600 SFC-FL660\nEGD201J 0900-1600 SFC-FL660",
+ "to": "2026-11-09T16:00Z",
+ "type": "N",
+ "upper": "FL660"
+}

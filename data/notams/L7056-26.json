@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.2167,
+  -0.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T08:53Z",
+ "id": "L7056/26",
+ "loc": [
+  "EGKR"
+ ],
+ "lower": "",
+ "q": "MRLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 07R/25L CLSD TO FIXED-WING ACFT DUE TO SFC CONDITION.",
+ "to": "2026-11-10T17:00Z",
+ "type": "N",
+ "upper": ""
+}

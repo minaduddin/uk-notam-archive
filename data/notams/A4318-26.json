@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.2,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-12T14:00Z",
+ "id": "A4318/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "text": "CAMBRIDGE ATZ DEACTIVATED, AD CLSD, ATS NOT AVBL",
+ "to": "2026-11-12T18:00Z",
+ "type": "N",
+ "upper": ""
+}

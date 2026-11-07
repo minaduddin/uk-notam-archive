@@ -1,0 +1,23 @@
+{
+ "coord": [
+  59.8833,
+  -1.3
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-28T15:27Z",
+ "id": "I7462/26",
+ "loc": [
+  "EGPB"
+ ],
+ "lower": "",
+ "q": "FUAU",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AVGAS NOT AVBL",
+ "to": "2026-11-30T20:00Z",
+ "type": "R",
+ "upper": ""
+}

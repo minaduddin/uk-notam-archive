@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.9833,
+  -3.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-29T13:10Z",
+ "id": "N915/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "REPORT OF AIR NAV OBST LGT U/S WI AREA BOUNDED BY \n535948N 0031530W - 535818N 0031530W - 535818N 0031330W - \n535948N 0031330W - 535948N 0031530W \n(OFFSHORE, 14NM WEST OF COCKERHAM). HGT 378FT AMSL. \nAR-2026-10385/01.",
+ "to": "2027-01-25T00:00Z",
+ "type": "N",
+ "upper": ""
+}

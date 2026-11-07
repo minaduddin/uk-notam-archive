@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.4167,
+  -1.8667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T23:30Z",
+ "id": "C6878/26",
+ "loc": [
+  "EGBB"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 20,
+ "removed": null,
+ "sched": "MON-FRI 2330-0600",
+ "text": "BIRMINGHAM CTA/CTR DEACTIVATED. ATC CLSD. AD CLSD. PILOTS ARE TO \nMAKE BLIND TRANSMISSIONS WHEN LEAVING THE LATERAL CONFINES OF THE \nCTR/CTA. CLOSURE DUE TO AIRFIELD WINTER MAINT. AIP SUPPLEMENT \n110/2026 REFERS.",
+ "to": "2026-12-05T06:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.0167,
+  -2.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-04T16:00Z",
+ "id": "H7052/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2300",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 540037N 0024709W (GALGATE).\nFOR INFO 07484 277722. AR-2026-10013/01.",
+ "to": "2026-11-10T23:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

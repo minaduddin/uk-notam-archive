@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.95,
+  0.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-12T07:00Z",
+ "id": "A3909/26",
+ "loc": [
+  "EGSS"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "OCT 12-24 0700-2100, OCT 25-NOV 22 0800-2200",
+ "text": "FLYING OF LARGE MODEL ACFT WI 0.5NM RADIUS OF 515642N 0001607E\n(HENHAM).  FOR INFO 07847 427866. AR-2026-9371/02.",
+ "to": "2026-11-22T22:00Z",
+ "type": "N",
+ "upper": "2000FT AMSL"
+}

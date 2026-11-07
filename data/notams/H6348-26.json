@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.6167,
+  -2.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T09:00Z",
+ "id": "H6348/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0900-2300",
+ "text": "UAS SWARM OPR WI AREA BOUNDED BY 503625N 0022719W - \n503633N 0022721W - 503642N 0022721W - 503715N 0022716W - \n503736N 0022637W - 503727N 0022515W - 503648N 0022515W -\n503619N 0022544W - 503614N 0022700W - 503625N 0022719W (WEYMOUTH). \nSWARM MADE UP OF 500 UAS. MAX HGT 400FT AGL. FOR INFO 07738 612566. \nAR-2026-7406/03.",
+ "to": "2026-11-08T23:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

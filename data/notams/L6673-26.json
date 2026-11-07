@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.8667,
+  -1.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T19:00Z",
+ "id": "L6673/26",
+ "loc": [
+  "EGBD"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "FIREWORKS WI 0.1NM RADIUS OF 525147N 0013748W (MARSTON ON DOVE).\nFOR INFO 07837 511949. AR-2026-7120/01.",
+ "to": "2026-11-08T20:00Z",
+ "type": "N",
+ "upper": "400FT AMSL"
+}

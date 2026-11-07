@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.5167,
+  -2.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T17:45Z",
+ "id": "L6990/26",
+ "loc": [
+  "EGBO"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 523119N 0021557W (HALFPENNY GREEN).\nFOR INFO 07966 364016 / 01384 221000. AR-2026-9907/01.",
+ "to": "2026-11-14T18:00Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}

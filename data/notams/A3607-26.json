@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-25T01:00Z",
+ "id": "A3607/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "PNTT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "TRIGGER NOTAM - AIP SUP 104/2026 WEF 25 OCT 26 0100 UNTIL 28 MAR \n27 0059. LONDON HEATHROW, LONDON GATWICK AND LONDON STANSTED \nAIRPORTS NOISE RESTRICTIONS NOTICE (NO. 2) 2026 - REPLACES SUP \n010/2026 AS OF 25 OCTOBER 2026",
+ "to": "2026-11-07T23:59Z",
+ "type": "N",
+ "upper": ""
+}

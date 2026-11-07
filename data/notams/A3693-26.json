@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.2333,
+  -2.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T15:30Z",
+ "id": "A3693/26",
+ "loc": [
+  "EGGP"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "NOV 09-15 20-22 25-29 DEC 02-06 09-23 DEC 27-31 JAN 01-03 \n1530-2230",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 531337N 0025258W (UPTON).\nFOR INFO 07939 132102 / 07545 042832. AR-2026-8803/01.",
+ "to": "2027-01-03T22:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

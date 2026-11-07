@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.1333,
+  -3.5
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T13:00Z",
+ "id": "H7061/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "UAS SWARM OPR WI 1NM RADIUS OF 560747N 0033014W (HILL END). SWARM\nMADE UP OF 250 UAS. MAX HGT 600FT AGL. FOR INFO 07412 220027.\nAR-2026-10105/01.",
+ "to": "2026-11-07T23:59Z",
+ "type": "N",
+ "upper": "1800FT AMSL"
+}

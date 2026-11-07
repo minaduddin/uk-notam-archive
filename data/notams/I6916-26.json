@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-09T10:26Z",
+ "id": "I6916/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 25 THRESHOLD ALL 180 DEGREE TURNS TO BE MADE IN AN \nANTICLOCKWISE DIRECTION DUE TO WIP ON TWY ALPHA.",
+ "to": "2026-11-21T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.4333,
+  -5.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-30T16:01Z",
+ "id": "I7523/26",
+ "loc": [
+  "EGEC"
+ ],
+ "lower": "",
+ "q": "FWAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "WINDSOCK U/S RWY 29",
+ "to": "2026-11-13T16:00Z",
+ "type": "N",
+ "upper": ""
+}

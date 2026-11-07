@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3167,
+  -2.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T00:00Z",
+ "id": "H7384/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "ROXX",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "E BAND HIGH INTENSITY RADIO TRANSMISSION AREA (HIRTA) OPR WI 1NM \nOF PSN 511849N 0020657W (KEEVIL, WILTSHIRE) LOW FLYING AREA 1A AND \nNIGHT ROTORY REGION 1. MAX HGT 808FT AGL. 26/11/031/LFC\nSAFE DISTANCES\nCIVILIAN ACFT                    0.1146NM       409FT AGL\nHIGH                             0.1191NM       436FT AGL\nPULSE MEDIUM                     0.1146NM       409FT AGL\nPULSE HIGH                       0.1807NM       080FT AGL",
+ "to": "2026-11-13T23:59Z",
+ "type": "N",
+ "upper": "1108FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5333,
+  0.7167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-26T18:30Z",
+ "id": "A3568/26",
+ "loc": [
+  "EGMC"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SEP 26 OCT 03 10 17 24 1830-1845, OCT 31 NOV 07 14 1930-1945",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 513150N 0004325E (SOUTHEND-ON-SEA).\nFOR INFO 07534 310542. AR-2026-8590/01.",
+ "to": "2026-11-14T19:45Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

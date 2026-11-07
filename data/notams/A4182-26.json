@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.65,
+  1.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T19:40Z",
+ "id": "A4182/26",
+ "loc": [
+  "EGSH"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1940-1950 2115-2130",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 523856N 0011038E (NORFOLK\nSHOWGROUND).  FOR INFO 07809 572799. AR-2026-10018/01.",
+ "to": "2026-11-07T21:30Z",
+ "type": "N",
+ "upper": "1000FT AMSL"
+}

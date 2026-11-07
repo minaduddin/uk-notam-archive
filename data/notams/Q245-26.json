@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.25,
+  -4.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:39Z",
+ "id": "Q245/26",
+ "loc": [
+  "EGOV"
+ ],
+ "lower": "",
+ "q": "PILT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 13/31 AND 01/19 RNP APPROACH PROCEDURES LNAV ONLY",
+ "to": "2026-11-20T23:59Z",
+ "type": "N",
+ "upper": ""
+}

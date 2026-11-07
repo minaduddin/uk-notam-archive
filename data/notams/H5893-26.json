@@ -1,0 +1,23 @@
+{
+ "coord": [
+  58.9333,
+  -3.3
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-26T06:06Z",
+ "id": "H5893/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 1.4NM RADIUS OF \n585608N 0031815W (STROMNESS, ORKNEY ISLANDS). MAX HGT 263FT AGL. FOR \nINFO 07852 318946. AR-2026-8130/02.",
+ "to": "2026-12-23T15:19Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

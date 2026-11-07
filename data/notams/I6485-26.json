@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.4333,
+  -5.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-29T00:00Z",
+ "id": "I6485/26",
+ "loc": [
+  "EGEC"
+ ],
+ "lower": "",
+ "q": "PIXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "INSTRUMENT APPROACH CHARTS RNP RWY 11 AND RWY 29 - AMEND NORTH OF\nRWY 11/29 VM(C)OCA (OCH AAL) CAT C TO 1560(1521) AND CAT D TO\n1950(1911). UK AIP AD 2.EGEC-8-1/8-2 REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

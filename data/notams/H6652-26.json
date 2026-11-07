@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.15,
+  -1.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-16T07:00Z",
+ "id": "H6652/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIVE FIRING WI 0.7NM RADIUS OF 510911N 0012307W (MOODY'S DOWN\nSMALL ARMS RANGE). INCREASE TO AIR DANGER HEIGHT. FOR INFO\n07901 116931 / 07484 516900. AR-2026-9421/01.",
+ "to": "2027-01-10T23:59Z",
+ "type": "N",
+ "upper": "1000FT AMSL"
+}

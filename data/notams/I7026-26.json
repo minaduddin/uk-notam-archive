@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.6667,
+  -5.6667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T18:00Z",
+ "id": "I7026/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 543949N 0054001W (BANGOR,\nNORTHERN IRELAND).  FOR INFO 07714 765512 / 02871 341459.\nAR-2026-9812/03.",
+ "to": "2026-11-14T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

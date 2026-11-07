@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.6167,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-11T10:45Z",
+ "id": "Q392/26",
+ "loc": [
+  "EGXT"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "NOISE AND FLYING EMBARGO IN FORCE",
+ "to": "2026-11-11T11:15Z",
+ "type": "N",
+ "upper": ""
+}

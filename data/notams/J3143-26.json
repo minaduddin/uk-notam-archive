@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.9333,
+  0.0
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-11T07:40Z",
+ "id": "J3143/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDXX",
+ "radius": 72,
+ "removed": null,
+ "sched": "",
+ "text": "AIP SUP 080/2026 TEMPORARY DANGER AREA EGD789 (CENTRAL NORTH SEA -\nNORTH) BVLOS OPERATIONS - EXTENDED UNTIL 24 NOVEMBER 2026.",
+ "to": "2026-11-24T23:59Z",
+ "type": "N",
+ "upper": "1300FT AMSL"
+}

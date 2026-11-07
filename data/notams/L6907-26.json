@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.1833,
+  -2.9833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T08:30Z",
+ "id": "L6907/26",
+ "loc": [
+  "EGNR"
+ ],
+ "lower": "",
+ "q": "IDLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "DME ASSOCIATED WITH ILS RWY 04 NOT AVBL BELOW 4500FT IN SECTOR\n240-270 MAG IN EXCESS OF 15NM DUE TERRAIN EFFECTS",
+ "to": "2026-11-30T21:00Z",
+ "type": "N",
+ "upper": ""
+}

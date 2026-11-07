@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.6167,
+  0.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T07:00Z",
+ "id": "H7014/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 1NM RADIUS OF \n513702N 0003138E (WICKFORD). CONCURRENT OPR OF MULTIPLE UAS. \nMAX HGT 394FT AGL. FOR INFO 07359 527977. AR-2026-9958/01.",
+ "to": "2026-11-08T14:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5667,
+  -2.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T09:00Z",
+ "id": "H7039/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0900-1600",
+ "text": "LIVE FIRING WI 1NM RADIUS OF 513403N 0024526W (ROGIET MOOR SMALL\nARMS RANGE). INCREASE TO AIR DANGER HEIGHT. FOR INFO 01874 635599.\nAR-2026-10007/01.",
+ "to": "2026-12-31T16:00Z",
+ "type": "N",
+ "upper": "900FT AMSL"
+}

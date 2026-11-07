@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.8167,
+  -0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-25T16:27Z",
+ "id": "C6381/26",
+ "loc": [
+  "EGKA"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPR PSN 504838N 0002209W (MARINE PLACE, WORTHING) MAX\nHGT 299FT AGL/ 303FT AMSL",
+ "to": "2026-11-16T19:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4833,
+  -1.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T10:00Z",
+ "id": "H6028/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WCLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "KITE FLYING WI 0.25NM RADIUS OF 512924N 0014641W (BARBURY \nCASTLE). MAX HGT 500FT AGL. FOR INFO 07739 035921. AR-2025-9965/10.",
+ "to": "2026-11-08T18:00Z",
+ "type": "N",
+ "upper": "1400FT AMSL"
+}

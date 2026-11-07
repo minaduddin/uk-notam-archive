@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.4,
+  -3.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T09:30Z",
+ "id": "B1409/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "NMAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "text": "VOR/DME WAL/WALLASEY 114.10MHZ CH088X BOTH PARTS U/S",
+ "to": "2026-11-10T14:30Z",
+ "type": "N",
+ "upper": ""
+}

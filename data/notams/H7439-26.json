@@ -1,0 +1,24 @@
+{
+ "coord": [
+  55.0667,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T06:00Z",
+ "id": "H7439/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WYLW",
+ "radius": 999,
+ "removed": null,
+ "sched": "",
+ "text": "PIPELINE INSPECTION NOTIFICATION PROCEDURE SYSTEM (PINS)\nWILL TAKE PLACE IN THE FOLLOWING LOW FLYING AREAS -\n1, 2, 3, 4, 5, 6, 7N, 7S, 8, 9, 10, 11N, 11S, 12,\n18, 19, THAMES VALLEY AVOIDANCE AREA\nMAX HEIGHT 2000FT AGL. 26/11/048/LFC",
+ "to": "2026-11-09T16:00Z",
+ "type": "N",
+ "upper": "6500FT AMSL"
+}

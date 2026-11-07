@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.6833,
+  1.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T21:30Z",
+ "id": "A4346/26",
+ "loc": [
+  "EGSH"
+ ],
+ "lower": "",
+ "q": "LRAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "2130-0600",
+ "text": "ALL LIGHTING ON RWY 09/27 NOT AVBL DUE WIP. PILOT CONTROLLED\nLIGHTING (PCL) NOT AVBL. VEHICLES AND PERSONNEL OPR WI RWY\n09/27",
+ "to": "2026-11-13T06:00Z",
+ "type": "N",
+ "upper": ""
+}

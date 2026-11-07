@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.8833,
+  -4.4333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-26T06:30Z",
+ "id": "I7030/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "MOBILE CRANE OPR PSN 555250N 0042603W (GLASGOW). \nMAX HGT 81FT AGL/91FT AMSL (APRX). JIB WILL BE LOWERED IN LVP.\nSITE CTC DAVID RICKSON 07715 484197",
+ "to": "2026-11-28T17:00Z",
+ "type": "N",
+ "upper": ""
+}

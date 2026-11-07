@@ -1,0 +1,24 @@
+{
+ "coord": [
+  55.0667,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-11T08:27Z",
+ "id": "U6768/26",
+ "loc": [
+  "EGPX",
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OAXX",
+ "radius": 999,
+ "removed": null,
+ "sched": "",
+ "text": "UNIFORM SERIES NOTAM THAT HAVE AN EFFECTIVE DATE OF 01 NOV 26 OR \nBEYOND WILL BE ISSUED AS A QUEBEC SERIES. AIC Y100/26 DATED 17 SEP \nWILL REFER. ADDRESSES THAT RECEIVE A UNIFORM SERIES NOTAM WILL BE \nAUTOMATICALLY TRANSFERRED TO THE QUEBEC SERIES.",
+ "to": "2026-11-13T23:59Z",
+ "type": "N",
+ "upper": ""
+}

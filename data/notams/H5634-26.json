@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.75,
+  -4.65
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-01T05:00Z",
+ "id": "H5634/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WYLW",
+ "radius": 13,
+ "removed": null,
+ "sched": "OCT 01-24 0500-1800, OCT 25-NOV 30 0600-1900",
+ "text": "AERIAL SURVEY WI AREA BOUNDED BY \n515129N 0045454W - 514834N 0042133W - 514040N 0045708W - \n515129N 0045454W (BTN PEMBROKE DOCK, SCOLTON AND LLANGYNOG).  FOR \nINFO 004553738360. AR-2026-8051/01.",
+ "to": "2026-11-30T19:00Z",
+ "type": "N",
+ "upper": "5700FT AMSL"
+}

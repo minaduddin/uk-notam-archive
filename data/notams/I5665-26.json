@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.6833,
+  -6.2667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-24T07:30Z",
+ "id": "I5665/26",
+ "loc": [
+  "EGPI"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPR 554118N 0061557W (0.36NM /661M HDG 328 DEG MAG ISLAY \nARP) MAX HGT 99FT AGL /101FT AMSL",
+ "to": "2026-12-31T18:40Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.1167,
+  -2.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-29T07:00Z",
+ "id": "H5167/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "AUG 29-OCT 25 0700-2000 , OCT 26-NOV 22 0800-2100",
+ "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 510718N 0021047W\n(CHICKLADE).  FOR INFO 07962 013388 / 079620 13388. AR-2026-7392/01.",
+ "to": "2026-11-22T21:00Z",
+ "type": "N",
+ "upper": "2300FT AMSL"
+}

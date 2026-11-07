@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.7167,
+  -3.7667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-07T13:30Z",
+ "id": "H6014/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "OCT 07-24 1330-2230, OCT 25-NOV 08 1430-2330",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 564239N 0034556W (LINN OF TUMMEL).\nFOR INFO 07399 078719. AR-2026-7968/01.",
+ "to": "2026-11-08T23:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.6333,
+  -3.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T00:00Z",
+ "id": "N930/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UNLIT CRANE AT PSN 513816N 0035606W (LANDORE, SWANSEA) IN LOW \nFLYING AREA 7 AND NIGHT ROTARY 7S HGT 104FT AGL 204FT AMSL. \n26/11/012/LFC",
+ "to": "2027-02-07T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.2,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-06T08:46Z",
+ "id": "A4462/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "GRASS TWY LIMA CLSD BTN L1 AND L3",
+ "to": "2026-12-31T18:00Z",
+ "type": "R",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.95,
+  0.9
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T18:00Z",
+ "id": "C6434/26",
+ "loc": [
+  "EGMD"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "TUE THU 1800-2100",
+ "text": "UAS OPR WI 0.2NM RADIUS OF 505639N 0005410E (LYDD). MAX HGT 400FT\nAGL. FOR INFO 01622 798669 / 07929 377319. AR-2026-9115/01.",
+ "to": "2026-11-19T21:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

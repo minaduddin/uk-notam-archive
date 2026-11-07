@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.4667,
+  -2.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-05T00:00Z",
+ "id": "N748/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 532756N 0021331W (BRUNSWICK, MANCHESTER) IN LOW \nFLYING AREA 8 AND NIGHT SECTOR 3A. HGT 462FT AMSL (262FT AGL). \n26/09/020/LFC",
+ "to": "2026-12-05T23:59Z",
+ "type": "N",
+ "upper": ""
+}

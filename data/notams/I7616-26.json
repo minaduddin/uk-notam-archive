@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.6667,
+  -6.2333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-04T09:12Z",
+ "id": "I7616/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "NVAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "04-06 0700-1700, 09-13 0700-1700, 16-20 0700-1700",
+ "text": "VOR/DME BEL/BELFAST 117.20MHZ CH119X VOR PART U/S",
+ "to": "2026-11-20T17:00Z",
+ "type": "R",
+ "upper": ""
+}

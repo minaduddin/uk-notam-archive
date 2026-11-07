@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.8,
+  -0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T16:00Z",
+ "id": "A4089/26",
+ "loc": [
+  "EGGW"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "NOV 10-NOV 22 1600-2230, NOV 26-DEC 24 1600-2230, DEC 26-JAN 02 \n1600-2230",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 514748N 0003325W (LITTLE\nGADDESDEN).  FOR INFO 07798 861495. AR-2026-9409/01.",
+ "to": "2027-01-02T22:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

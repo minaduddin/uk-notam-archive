@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.9,
+  -4.4167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-13T06:00Z",
+ "id": "I6389/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "MOBILE CRANE OPR PSN 555330N 0042437W (GLASGOW).\nMAX HGT 105FT AGL / 124FT AMSL (APRX). JIB WILL BE LOWERED IN\nLVP. SITE CONTACT HARNAIK CHOLIA 07557495327.",
+ "to": "2026-11-20T18:00Z",
+ "type": "N",
+ "upper": ""
+}

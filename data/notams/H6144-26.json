@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.65,
+  -3.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T16:00Z",
+ "id": "H6144/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 513851N 0030303W (ST DIALS,\nCWMBRAN). FOR INFO 07517 443514. AR-2026-7744/01.",
+ "to": "2026-11-07T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

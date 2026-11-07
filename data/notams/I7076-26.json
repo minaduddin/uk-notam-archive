@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.55,
+  -4.0333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-15T18:28Z",
+ "id": "I7076/26",
+ "loc": [
+  "EGPE"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "OBST LIGHT U/S ON 23 ANEMOMOTER MAST PSN 573242.82N 0040219.56W \n(INVERNESS AD) 32FT AGL 55FT AMSL.",
+ "to": "2026-11-12T21:45Z",
+ "type": "N",
+ "upper": ""
+}

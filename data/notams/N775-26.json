@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5667,
+  -0.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:00Z",
+ "id": "N775/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPERATING AT PSN: 513419N 0002003W (HARROW) UP TO 354FT \nAGL, 600FT AMSL. FOR INFO CONTACT 07721 211088. ON EXPIRY OF THIS \nNOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4. \nAR-2026-8495/01.",
+ "to": "2026-12-31T23:59Z",
+ "type": "N",
+ "upper": ""
+}

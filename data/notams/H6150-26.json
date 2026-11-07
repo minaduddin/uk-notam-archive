@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.8667,
+  -2.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-12T09:00Z",
+ "id": "H6150/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0900-2300",
+ "text": "UAS SWARM OPR WI 0.3NM RADIUS OF 545142N 0025600W (DURDAR). SWARM\nMADE UP OF 700 UAS. MAX HGT 400FT AGL. FOR INFO 07738 612566.\nAR-2026-7918/01.",
+ "to": "2026-11-19T23:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

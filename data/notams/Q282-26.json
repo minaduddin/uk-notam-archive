@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.1333,
+  -1.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T02:35Z",
+ "id": "Q282/26",
+ "loc": [
+  "EGXZ"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SUN 1000-1700",
+ "text": "FLYING OF LARGE MODEL ACFT WI AREA BOUNDED BY:\n540730N 0012447W - 540857N 0012600W - 540902N 0012419W - \n540748N 0012408W - 540730N 0012447W (DISHFORTH). FOR INFO 07905 \n466815 / 07761 480111. AR-2026-6886/03.",
+ "to": "2026-11-08T17:00Z",
+ "type": "N",
+ "upper": "1700FT AMSL"
+}

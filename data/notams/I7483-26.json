@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T00:00Z",
+ "id": "I7483/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "08 09 15 16 22 23 29 30 0000-0530",
+ "text": "RWY 06/24 CLSD TO FIXED WING ACFT ONLY",
+ "to": "2026-11-30T05:30Z",
+ "type": "N",
+ "upper": ""
+}

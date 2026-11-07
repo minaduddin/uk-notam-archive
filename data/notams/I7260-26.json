@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.05,
+  -7.1667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-25T00:00Z",
+ "id": "I7260/26",
+ "loc": [
+  "EGAE"
+ ],
+ "lower": "",
+ "q": "FUAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "FUELLING HOURS CHANGED TO\nMON-FRI 0530-2200 (0430-2100)\nSAT 0530-1800 (0430-1700)\nSUN 0800-2200 (0700-2100)\nAND BY ARRANGEMENT.\nUK AIP EGAE AD 2.3 REFERES.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

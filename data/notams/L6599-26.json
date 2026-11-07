@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.35,
+  -0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T10:50Z",
+ "id": "L6599/26",
+ "loc": [
+  "EGTF"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "08 11 1050-1110",
+ "text": "AD CLOSED TO ALL TRAFFIC. NO ENGINE GROUND RUNNING PERMITTED\nSCHEDULE",
+ "to": "2026-11-11T11:10Z",
+ "type": "N",
+ "upper": ""
+}

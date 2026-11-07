@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.4167,
+  0.7
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T09:00Z",
+ "id": "H7369/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "0900-2359",
+ "text": "LIVE FIRING WI 2NM RADIUS OF 522432N 0004132E (THETFORD RANGE).\nINCREASE TO AIR DANGER HGT. FOR INFO 07500 224483/07818 900806. \nAR-2026-10468/01.",
+ "to": "2026-11-12T23:59Z",
+ "type": "N",
+ "upper": "1000FT AMSL"
+}

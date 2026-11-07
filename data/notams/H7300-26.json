@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.6667,
+  -0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-31T06:49Z",
+ "id": "H7300/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "text": "FLYING OF LARGE MODEL ACFT WI 0.5NM RADIUS OF 533943N 0003340W\n(1NM NE OF WINTERTON).  FOR INFO 07508 525011. AR-2026-8486/01.",
+ "to": "2026-12-18T15:42Z",
+ "type": "R",
+ "upper": "1600FT AMSL"
+}

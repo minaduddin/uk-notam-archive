@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.35,
+  0.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-03T07:00Z",
+ "id": "Q159/26",
+ "loc": [
+  "EGXH"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0700-1700",
+ "text": "UAS OPR WI 1NM RADIUS OF 522051N 0004652E (RAF HONNINGTON). MAX\nHGT 400FT AGL. FOR INFO 07546 626868. AR-2026-10355/01.",
+ "to": "2026-11-08T17:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

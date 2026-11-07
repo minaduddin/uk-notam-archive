@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4333,
+  -2.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-17T06:36Z",
+ "id": "H6926/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SAT SUN SR-SS",
+ "text": "GLIDER ACTIVITY WITH WINCH LAUNCH WI 2NM RADIUS OF \n512628N 0021645W (COLERNE AIRFIELD). MAX HGT 3000FT AGL.  \nFOR INFO 07958 570587. AR-2026-9868/02.",
+ "to": "2027-01-10T16:22Z",
+ "type": "N",
+ "upper": "3700FT AMSL"
+}

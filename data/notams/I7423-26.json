@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.8667,
+  -4.4333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T23:00Z",
+ "id": "I7423/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "MRAP",
+ "radius": 5,
+ "removed": null,
+ "sched": "SUN-THU 2300-0600",
+ "text": "RWY 05/23 AVAILABLE STRICTLY PPR DUE WIP",
+ "to": "2026-11-20T06:00Z",
+ "type": "N",
+ "upper": ""
+}

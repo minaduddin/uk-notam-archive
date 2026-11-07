@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3833,
+  0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-24T00:00Z",
+ "id": "L5701/26",
+ "loc": [
+  "EGTO"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 512253N 0003126E (CHATHAM, KENT). HGT 283FT \nAMSL, 224FT AGL",
+ "to": "2026-12-24T23:59Z",
+ "type": "N",
+ "upper": ""
+}

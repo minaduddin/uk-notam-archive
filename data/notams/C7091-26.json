@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.8333,
+  -0.3
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-27T12:47Z",
+ "id": "C7091/26",
+ "loc": [
+  "EGKA"
+ ],
+ "lower": "",
+ "q": "LBAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "ABN U/S",
+ "to": "2027-01-25T20:00Z",
+ "type": "N",
+ "upper": ""
+}

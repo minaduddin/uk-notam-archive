@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.6833,
+  -6.2667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-29T11:18Z",
+ "id": "I6641/26",
+ "loc": [
+  "EGPI"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "REPLACE PCN WITH PCR\nRWY 12/30 PCR 130/F/D/Y/U\nRWY 07/25 PCR 130/F/D/Y/U\nMAIN APRON PCR 130/F/D/Y/U\nUK AIP EGPI AD 2.8, AD 2.12, AD 2.EGPI-2-1 REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

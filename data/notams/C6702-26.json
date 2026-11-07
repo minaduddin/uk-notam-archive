@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.45,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-11T16:33Z",
+ "id": "C6702/26",
+ "loc": [
+  "EGBB"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "METAL PLATE ON TWY DELTA AT DELTA 5.",
+ "to": "2027-01-10T23:59Z",
+ "type": "N",
+ "upper": ""
+}

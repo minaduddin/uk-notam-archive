@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.2,
+  0.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T18:00Z",
+ "id": "H6466/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 511130N 0001916E (TUDELEY,\nTONBRIDGE).  FOR INFO 07412 670371. AR-2026-9154/01.",
+ "to": "2026-11-08T18:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

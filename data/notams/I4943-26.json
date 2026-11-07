@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.5167,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-07-20T13:31Z",
+ "id": "I4943/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "FMXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "METEOROLOGICAL INFORMATION PROVIDED - ROWS 1 AND 3 CHANGE FROM:\nMET OFFICE EXETER TO: NETWORK OPERATIONS CENTRE NORTHOLT.\nUK AIP EGPK AD 2.11 REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T09:30Z",
+ "id": "Q351/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "BENSON MATZ ACTIVATED",
+ "to": "2026-11-08T14:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.6167,
+  -4.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T09:00Z",
+ "id": "M7521/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 50,
+ "removed": null,
+ "sched": "",
+ "text": "THE FOLLOWING NORTH WALES MILITARY TRAINING AREAS ACTIVATED:\nNORTH LOW 0900-2020 FL195-FL260\nNORTH LOW 1000-1115 FL195-FL285\nNORTH HIGH 1000-1115 FL285-FL660\nSOUTH LOW 0900-2020 FL195-FL260\nSOUTH LOW 1000-1115 FL195-FL285\nSOUTH HIGH 1000-1115 FL285-FL660",
+ "to": "2026-11-09T20:20Z",
+ "type": "N",
+ "upper": "FL660"
+}

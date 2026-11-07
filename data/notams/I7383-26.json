@@ -1,0 +1,23 @@
+{
+ "coord": [
+  59.25,
+  -2.5833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-26T15:12Z",
+ "id": "I7383/26",
+ "loc": [
+  "EGES"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 10/28 AND RWY 16/34 CLSD DUE WATERLOGGING",
+ "to": "2027-01-26T09:00Z",
+ "type": "N",
+ "upper": ""
+}

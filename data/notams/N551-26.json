@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5,
+  -0.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-22T07:00Z",
+ "id": "N551/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPERATING AT PSN: 513026N 0000643W (WATERLOO, LONDON) UP TO\n502FT AGL/513FT AMSL. FOR INFO CONTACT 07949 202809. ON EXPIRY OF\nTHIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4\nAR-2026-5682/01.",
+ "to": "2026-11-20T08:00Z",
+ "type": "N",
+ "upper": ""
+}

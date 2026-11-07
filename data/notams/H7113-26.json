@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.9,
+  -4.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T13:00Z",
+ "id": "H7113/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASERS AND SEARCHLIGHTS WI 1NM RADIUS OF 505334N 0040150W \n(DOLTON). FOR INFO 07467 547348. AR-2026-10124/01.",
+ "to": "2026-11-07T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

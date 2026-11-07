@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.4333,
+  0.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-13T18:00Z",
+ "id": "H6606/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASERS, FIREWORKS WI 1NM RADIUS OF 522627N 0005530E (EAST\nHARLING). FIREWORKS UP TO 300FT AGL. FOR INFO 07477 999336.\nAR-2026-9342/01.",
+ "to": "2026-11-13T20:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.7167,
+  -5.1667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T08:30Z",
+ "id": "H7429/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 564251N 0051017W, (TOM LAIN, NORTH BALLACHULISH) \nLOW FLYING AREA 14 AND NIGHT SECTOR 1A. MAX HGT 500FT AGL. ACFT MAY \nBE RESTRICTED IN ABILITY TO MANOEUVRE AND UNABLE TO COMPLY WITH RAC \nOPS \nCTC 07776 462424. 26/11/045/LFC",
+ "to": "2026-11-09T17:00Z",
+ "type": "N",
+ "upper": "2500FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.4833,
+  -7.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T11:22Z",
+ "id": "I7680/26",
+ "loc": [
+  "EGPL"
+ ],
+ "lower": "",
+ "q": "MRHW",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "WIP RWY 06/24. DRAINAGE GULLEYS OUTSIDE OF RWY DECLARED WIDTH \nCOVERED WITH STEEL PLATES.",
+ "to": "2026-12-03T16:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.1333,
+  -3.8333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-28T19:00Z",
+ "id": "N736/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 4,
+ "removed": null,
+ "sched": "",
+ "text": "REPORT OF AIR NAV OBST LGT U/S WI AREA BOUNDED BY \n540931N 0034935W - 540803N 0034454W - 540749N 0034611W - \n540456N 0034909W - 540647N 0035506W - 540810N 0035508W - \n540757N 0035338W - 540931N 0034935W (WALNEY).  \nHGT 640FT AGL / 700FT AMSL. AR-2026-7998/01.",
+ "to": "2026-11-25T00:00Z",
+ "type": "N",
+ "upper": ""
+}

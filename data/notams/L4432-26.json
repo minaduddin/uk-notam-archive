@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.5,
+  1.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T00:00Z",
+ "id": "L4432/26",
+ "loc": [
+  "EGSV"
+ ],
+ "lower": "",
+ "q": "FATT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "TRIGGER NOTAM - AIP SUP 083/2026 WEF 09 NOV 2026 UNTIL 31 MAR \n2027. OLD BUCKENHAM AIRPORT (EGSV) - WINTER GRASS CLOSURE 2026 - \n2027.",
+ "to": "2026-11-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

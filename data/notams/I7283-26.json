@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.4833,
+  -4.55
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-13T02:00Z",
+ "id": "I7283/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 16,
+ "removed": null,
+ "sched": "0200-0300",
+ "text": "PRESTWICK CTA/CTR/ATZ DEACTIVATED. ATS NOT AVBL DUE MANDATED\nCONTROLLER BREAKS. PILOTS TRANSITING THE AREA ARE ADVISED TO MONITOR \nCH 129.455",
+ "to": "2026-11-14T03:00Z",
+ "type": "N",
+ "upper": ""
+}

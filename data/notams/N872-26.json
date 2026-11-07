@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.35,
+  -1.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-16T00:00Z",
+ "id": "N872/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 522039N 0013132W (STONELEIGH, WARWICKSHIRE)\nIN LOW FLYING AREA 8 AND NIGHT SECTOR 5F.\nHGT 132FT AGL 360FT AMSL. 26/10/091/LFC",
+ "to": "2026-12-15T23:59Z",
+ "type": "N",
+ "upper": ""
+}

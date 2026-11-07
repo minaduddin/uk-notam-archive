@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.1833,
+  -4.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T13:45Z",
+ "id": "D4393/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 14,
+ "removed": null,
+ "sched": "",
+ "text": "DANGER AREA EGD009A WEMBURY ACTIVATED",
+ "to": "2026-11-09T14:30Z",
+ "type": "N",
+ "upper": "39000FT AMSL"
+}

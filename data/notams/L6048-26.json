@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.65,
+  -0.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-29T06:32Z",
+ "id": "L6048/26",
+ "loc": [
+  "EGTR"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "OBSTACLE LIGHT SOUTH OF RUNWAY 08 THR U/S, PSN \n513917N 0001957W(ELSTREE AD) HGT 20FT AGL 345FT AMSL",
+ "to": "2026-12-31T18:00Z",
+ "type": "R",
+ "upper": ""
+}

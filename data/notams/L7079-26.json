@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.4667,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-07T16:48Z",
+ "id": "L7079/26",
+ "loc": [
+  "EGLW"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "OBST LIGHT U/S PSN 512759N 0001051W (BUILDING, 375M SOUTH OF \nHELIPORT). MAX HGT HEIGHT 184FT AMSL, 167FT AGL",
+ "to": "2026-12-07T23:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3167,
+  -1.9833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-21T07:00Z",
+ "id": "N804/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UNLIT MAST PSN 511909N 0015914W (POTTERNE, WILTSHIRE) IN LOW \nFLYING AREA 1A AND NIGHT ROTARY REGION 1. HGT 120FT AGL 420FT AMSL. \n26/09/206/LFC",
+ "to": "2026-12-21T23:59Z",
+ "type": "N",
+ "upper": ""
+}

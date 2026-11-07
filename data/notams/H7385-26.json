@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.3667,
+  -4.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T16:45Z",
+ "id": "H7385/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "3000FT AMSL",
+ "q": "WELW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "text": "AIR EXER. WILL CONDUCT HIGH ENERGY MANOEUVRES IN SUPPORT OF \nGROUND OPS WI 5NM RADIUS OF 502149N 0040806W (PLYMOUTH). ACFT MAY \nOPERATE AT SPEEDS OF UP TO 450 KNOTS IAS AND MAY BE UNABLE TO COMPLY \nWITH RAC. FOR FURTHER INFO AIC Y007/2023 REFERS. FOR INFO\n07564 564308 / 07817 765185. AR-2026-10554/01.",
+ "to": "2026-11-10T18:30Z",
+ "type": "N",
+ "upper": "20000FT AMSL"
+}

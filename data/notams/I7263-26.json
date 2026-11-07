@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.0333,
+  -1.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-22T07:51Z",
+ "id": "I7263/26",
+ "loc": [
+  "EGNT"
+ ],
+ "lower": "",
+ "q": "MPXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "ACFT ALLOCATED TO STANDS 12, 19, 21 OR 25 SHALL FOLLOW MARSHALLER\nINSTRUCTIONS AT ALL TIMES. FOLLOW ME AVBL ON REQ DUE APRON LINE \nMARKING CHANGES NOT YET APPLIED TO ACFT GROUND \nMOVEMENT/PARKING/DOCKING CHART.",
+ "to": "2026-12-31T23:59Z",
+ "type": "R",
+ "upper": ""
+}

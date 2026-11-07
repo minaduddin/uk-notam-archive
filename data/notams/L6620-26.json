@@ -1,0 +1,23 @@
+{
+ "coord": [
+  50.8667,
+  -0.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-20T10:39Z",
+ "id": "L6620/26",
+ "loc": [
+  "EGHR"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 10/28 CLSD.",
+ "to": "2026-11-30T16:00Z",
+ "type": "R",
+ "upper": ""
+}

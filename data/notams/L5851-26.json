@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.4667,
+  -2.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-05T07:00Z",
+ "id": "L5851/26",
+ "loc": [
+  "EGCB"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0700-1700",
+ "text": "LIT CRANE OPR WI 0.1NM RADIUS OF 532759.90N 0022203.79W (0.83 NM \n110 DEG MAG FM MANCHESTER BARTON ARP) MAX HGT 227FT AMSL/157FT AGL. \nREF  EGCB-0433. NOTAM WILL BE SUPERSEDED BY AIP SUP WEF 12 NOV 2026. \nCRANE REF EGCB-0433",
+ "to": "2026-11-12T17:00Z",
+ "type": "N",
+ "upper": ""
+}

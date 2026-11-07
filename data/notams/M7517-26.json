@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.6667,
+  0.1
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T10:00Z",
+ "id": "M7517/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "FL100",
+ "q": "RDCA",
+ "radius": 72,
+ "removed": null,
+ "sched": "",
+ "text": "THE FOLLOWING CENTRAL COMPLEX DANGER AREAS ARE ACTIVATED:\nEGD613A 1000-1300 FL100-FL660\nEGD613B 1000-1300 FL100-FL660\nEGD613C 1000-1300 FL100-FL660\nEGD613D 1000-1300 FL100-FL660",
+ "to": "2026-11-09T13:00Z",
+ "type": "N",
+ "upper": "FL660"
+}

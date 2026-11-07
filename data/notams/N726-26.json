@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.9667,
+  -1.0833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-25T00:00Z",
+ "id": "N726/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 535734N 0010516W (BISHOPHILL, YORK) IN LOW \nFLYING AREA 11 AND NIGHT SECTOR 4BW HGT 300FT AMSL (200FT AGL). \n26/08/258/LFC",
+ "to": "2026-11-24T23:59Z",
+ "type": "N",
+ "upper": ""
+}

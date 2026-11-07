@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.0,
+  -2.65
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T00:00Z",
+ "id": "Q111/26",
+ "loc": [
+  "EGDY"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AD OPERATING HOURS\nMON TO WED  1000-1700 AND 1800-2230       \nTHU         1000-1700    \nFRI         0900-1300",
+ "to": "2026-11-13T23:59Z",
+ "type": "N",
+ "upper": ""
+}

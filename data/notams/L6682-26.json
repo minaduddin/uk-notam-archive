@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.65,
+  -0.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-22T14:10Z",
+ "id": "L6682/26",
+ "loc": [
+  "EGTR"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "TWY CHARLIE AND DELTA CLSD DUE WATERLOGGING.",
+ "to": "2027-01-16T23:59Z",
+ "type": "N",
+ "upper": ""
+}

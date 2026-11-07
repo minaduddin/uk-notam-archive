@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.7833,
+  -3.9833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-12T09:00Z",
+ "id": "H7411/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WPLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "text": "DROPPING OF ARTICLES WI 5NM RADIUS OF 564705N 0035919W (BLAIR\nATHOLL). FOR INFO 01993 896789. AR-2026-10545/01.",
+ "to": "2026-11-12T17:30Z",
+ "type": "N",
+ "upper": "7700FT AMSL"
+}

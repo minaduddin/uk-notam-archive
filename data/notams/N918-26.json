@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.6167,
+  -1.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T08:14Z",
+ "id": "N918/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "AIR NAV OBST LGT UK0171A239F BLDG RTM EMLEY MOOR TOWER SINGLE U/S\nPSN 533643.37N 0013952.06W 1927FT AMSL 1084FT AGL",
+ "to": "2026-12-02T12:00Z",
+ "type": "R",
+ "upper": ""
+}

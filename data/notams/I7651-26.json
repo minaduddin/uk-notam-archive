@@ -1,0 +1,23 @@
+{
+ "coord": [
+  59.8833,
+  -1.3
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-05T21:08Z",
+ "id": "I7651/26",
+ "loc": [
+  "EGPB"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "THU 2108-0715, FRI 2015-0730, SAT 1600-1115, SUN 2000-0715",
+ "text": "RWY 09/27 CLSD DUE MAINT ON ROAD CROSSING RWY 09. 1HR NOTICE \nREQUIRED TO OPEN RWY 09/27 FOR AIR AMBULANCE AND SAR FLIGHTS.",
+ "to": "2026-11-09T07:15Z",
+ "type": "N",
+ "upper": ""
+}

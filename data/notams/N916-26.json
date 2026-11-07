@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.95,
+  -3.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-29T13:15Z",
+ "id": "N916/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "REPORT OF AIR NAV OBST LGT U/S AT PSN: 535646N 0032917W\n(OFFSHORE, 17NM NW OF BLACKPOOL). HGT 479FT AMSL. \nAR-2026-10387/01.",
+ "to": "2027-01-27T00:00Z",
+ "type": "N",
+ "upper": ""
+}

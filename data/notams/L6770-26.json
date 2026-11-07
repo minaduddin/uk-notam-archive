@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.2167,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-26T09:28Z",
+ "id": "L6770/26",
+ "loc": [
+  "EGKR"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE OPR PSN 511311N 0001028W (EARLSWOOD) MAX HGT 170FT AGL/ \n370FT AMSL.",
+ "to": "2026-12-18T17:00Z",
+ "type": "N",
+ "upper": ""
+}

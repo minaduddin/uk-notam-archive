@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.1167,
+  0.8667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-14T18:30Z",
+ "id": "H6809/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "LASERS, FIREWORKS WI 1NM RADIUS OF 510653N 0005221E (KINGSNORTH,\nASHFORD). FIREWORKS UP TO 150FT AGL. FOR INFO 07412 670371.\nAR-2026-9666/01.",
+ "to": "2026-11-14T19:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

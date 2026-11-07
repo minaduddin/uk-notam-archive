@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.5,
+  -2.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-05T08:00Z",
+ "id": "H6574/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "OCT 05-24 0800-1600, OCT 25-NOV 13 0900-1700",
+ "text": "UAS SWARM OPR WI 0.1NM RADIUS OF 513011N 0023154W (HAMBROOK). \nSWARM MADE UP OF 25 UAS. MAX HGT 35FT AGL. FOR INFO 07400 661129/\n07752 050515. AR-2026-9322/01.",
+ "to": "2026-11-13T17:00Z",
+ "type": "N",
+ "upper": "200FT AMSL"
+}

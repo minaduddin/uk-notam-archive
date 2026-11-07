@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.8833,
+  0.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T01:45Z",
+ "id": "A4287/26",
+ "loc": [
+  "EGSS"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 04/22 CLSD DUE MAINT",
+ "to": "2026-11-09T05:45Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.8667,
+  -4.4333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-14T08:40Z",
+ "id": "I7023/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 05/23 ENTRY/EXIT B1 CLSD DUE WIP",
+ "to": "2027-01-04T23:59Z",
+ "type": "R",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.5333,
+  -1.4167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-06T12:15Z",
+ "id": "J3950/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDXX",
+ "radius": 16,
+ "removed": null,
+ "sched": "",
+ "text": "AIP SUP 107/2026 TEMPORARY DANGER AREA EGD598 (EMBLETON,\nNORTHUMBRIA) BVLOS RPAS OPERATIONS TRIALS - CANCELLED.",
+ "to": "2026-12-10T00:00Z",
+ "type": "N",
+ "upper": "5000FT AMSL"
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.4833,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-09-22T07:00Z",
+ "id": "I6360/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0700-1700",
+ "text": "CRANE OPR PSN 552927N 0043606W (ST CUTHBERTS GOLF COURSE, \nPRESTWICK)HGT 100FT AGL 139FT AMSL",
+ "to": "2026-11-18T17:00Z",
+ "type": "N",
+ "upper": ""
+}

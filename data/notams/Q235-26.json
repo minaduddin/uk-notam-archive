@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.1667,
+  -0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:30Z",
+ "id": "Q235/26",
+ "loc": [
+  "EGXW"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RWY 02 NONSTANDARD DANGEROUS AIR CARGO NOSE WHEEL MARKING, 23M\nFM THE SOUTHERN ROTARY HYDRAULIC ARRESTOR GEAR",
+ "to": "2026-11-25T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.7,
+  1.4
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T19:00Z",
+ "id": "A3494/26",
+ "loc": [
+  "EGSH"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 524203N 0012348E (WROXHAM).  FOR\nINFO 07774 180158. AR-2026-8400/01.",
+ "to": "2026-11-08T20:30Z",
+ "type": "N",
+ "upper": "300FT AMSL"
+}

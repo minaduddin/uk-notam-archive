@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3667,
+  -0.0833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-01T00:00Z",
+ "id": "N826/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 512228N 0000528W (SELHURST, LONDON)\nIN LOW FLYING THAMES VALLEY AVOIDANCE AREA DAY AND NIGHT\nHGT 210FT AGL 510FT AMSL. 26/09/299/LFC",
+ "to": "2027-01-01T23:59Z",
+ "type": "N",
+ "upper": ""
+}

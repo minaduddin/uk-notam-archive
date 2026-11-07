@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.5167,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T02:00Z",
+ "id": "I7379/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "MON FRI SAT SUN 0200-0330, TUE 0130-0900 1700-0900, WED 1700-0330",
+ "text": "PAX HANDLING AND TERMINAL BLDG SER NOT AVBL, ACFT STANDS AVBL FOR \nFUEL AND GO ONLY",
+ "to": "2026-11-29T03:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.25,
+  -4.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-11T10:45Z",
+ "id": "Q457/26",
+ "loc": [
+  "EGOV"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "NOISE EMBARGO, NO TAKEOFFS, LANDINGS OR ENGINE RUNS TO BE \nCONDUCTED DURING THIS TIME.",
+ "to": "2026-11-11T11:10Z",
+ "type": "N",
+ "upper": ""
+}

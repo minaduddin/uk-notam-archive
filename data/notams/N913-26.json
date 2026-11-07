@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.6,
+  -1.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-10T00:00Z",
+ "id": "N913/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPERATING AT PSN: 543608N 0010938W (TEES DOCK, \nMIDDLESBOROUGH) UP TO 361FT AGL/378FT AMSL. FOR INFO CONTACT 07770 \n928348. ON EXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK \nAIP ENR 5.4 \nAR-2026-10369/01.",
+ "to": "2026-11-13T23:59Z",
+ "type": "N",
+ "upper": ""
+}

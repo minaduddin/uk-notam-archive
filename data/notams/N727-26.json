@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.3833,
+  -1.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-25T00:00Z",
+ "id": "N727/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "LIT CRANE AT PSN 522255N 0011632W (RUGBY, WARWICKSHIRE) IN LOW \nFLYING AREA 6 AND NIGHT ROTARY REGION 4C HGT 390FT AMSL (90FT AGL). \n26/08/259/LFC",
+ "to": "2026-11-24T23:59Z",
+ "type": "N",
+ "upper": ""
+}

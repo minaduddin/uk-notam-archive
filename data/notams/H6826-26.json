@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.5333,
+  0.7167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-02T08:00Z",
+ "id": "H6826/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WELW",
+ "radius": 6,
+ "removed": null,
+ "sched": "0800-2300",
+ "text": "EXER TALON STORM. MULTIPLE HEL WILL CONDUCT HIGH ENERGY \nMANOEUVRES WI 5NM RADIUS OF 523227N 0004240E (THETFORD). ACFT MAY BE \nUNABLE TO COMPLY WITH RAC. FOR INFO 01449 728240. AR-2026-9708/01.",
+ "to": "2026-11-13T23:00Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}

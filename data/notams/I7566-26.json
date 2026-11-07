@@ -1,0 +1,23 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T13:45Z",
+ "id": "I7566/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "STEEL PLATE ON TWY CHARLIE SOUTH OF CL EAST OF C2 HOLD",
+ "to": "2027-01-30T17:00Z",
+ "type": "N",
+ "upper": ""
+}

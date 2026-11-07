@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.6667,
+  -1.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-08T09:00Z",
+ "id": "C5472/26",
+ "loc": [
+  "EGNX"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "text": "MODEL ROCKET FIRING WI 2NM RADIUS OF 524011N 0013113W (NORTON\nJUXTA TWYCROSS). LAUNCH SUBJ ATC CLR. FOR INFO 07415 698420.\nAR-2026-382/01.",
+ "to": "2026-11-08T18:00Z",
+ "type": "N",
+ "upper": "8500FT AMSL"
+}

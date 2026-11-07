@@ -1,0 +1,23 @@
+{
+ "coord": [
+  55.5,
+  -4.5833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-10-24T05:00Z",
+ "id": "I7244/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0500-2000",
+ "text": "CRANE OPR AT 553000N 0043502W (PRESTWICK AIRPORT) HGT 145FT AGL\n/195FT AMSL. RWY 02 TRANSITONAL SURFACE INFRINGED BY 34FT. RWY 20 \nTRANSITIONAL SURFACE INFRINGED BY 64FT.",
+ "to": "2026-12-31T20:00Z",
+ "type": "N",
+ "upper": ""
+}

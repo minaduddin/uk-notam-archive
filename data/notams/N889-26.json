@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.5,
+  -2.2
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-01T00:00Z",
+ "id": "N889/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 7,
+ "removed": null,
+ "sched": "",
+ "text": "CRANE OPR WI 6NM OF 563010N 0021159W (OFFSHORE, 17NM EAST OF\nCARNOUSTIE) UP TO 657FT AMSL. FOR INFO CONTACT 07932 229828. ON\nEXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR\n5.4 AR-2026-10005/01.",
+ "to": "2027-01-30T00:00Z",
+ "type": "N",
+ "upper": ""
+}

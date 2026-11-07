@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.6,
+  -4.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-08-09T08:00Z",
+ "id": "L4798/26",
+ "loc": [
+  "EGFH"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "SUN H24",
+ "text": "AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE TO NO\nRFFS COVER",
+ "to": "2026-11-08T16:00Z",
+ "type": "N",
+ "upper": ""
+}

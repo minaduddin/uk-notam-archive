@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.1333,
+  -2.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-07T22:22Z",
+ "from": "2026-11-09T19:00Z",
+ "id": "H7405/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 7,
+ "removed": null,
+ "sched": "1900-2300",
+ "text": "MULTIPLE HEL OPR WITHOUT LGT WI AREA BOUNDED BY 511018N 0020921W \n- 510938N 0015224W - 510505N 0015252W - 510527N 0020948W -\n511018N 0020921W (BETWEEN TYTHERINGTON AND WILTON).  FOR INFO\n01264 784722. AR-2026-10582/01.",
+ "to": "2026-11-10T23:00Z",
+ "type": "N",
+ "upper": "2800FT AMSL"
+}
