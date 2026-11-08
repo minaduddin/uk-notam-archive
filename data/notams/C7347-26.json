@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.5667,
+  -0.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T14:38Z",
+ "from": "2026-11-08T13:05Z",
+ "id": "C7347/26",
+ "loc": [
+  "EGNJ"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "text": "HUMBERSIDE PRIMARY RADAR U/S, SSR COVERAGE EXTREMLY LIMITED \nWITHIN 10NM BELOW 2000FT. NO INSTR APP AVBL",
+ "to": "2026-11-09T11:00Z",
+ "type": "N",
+ "upper": ""
+}
