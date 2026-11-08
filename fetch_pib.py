@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Download the UK NATS Pre-flight Information Bulletin (PIB.xml) and keep a copy in data/PIB.xml.
+"""Download the UK NATS Pre-flight Information Bulletin (PIB.xml) and save it as data/PIB.xml.
 
-The file is only rewritten when the NOTAMs in it changed, so the git history holds one commit per real change.
+build_site.py turns it into one record per NOTAM in data/notams/. The raw file itself is not
+committed; one gzipped copy per day is kept in the repository's Releases.
 Standard library only. Exit code 0 = finished (changed or not), 1 = download kept failing or the file was not a valid PIB.
 Writes "changed=true|false" and "notams=N" to $GITHUB_OUTPUT when run inside GitHub Actions.
 """
