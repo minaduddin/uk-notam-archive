@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.0167,
+  -4.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T21:13Z",
+ "from": "2026-11-08T20:45Z",
+ "id": "C7358/26",
+ "loc": [
+  "EGNS"
+ ],
+ "lower": "",
+ "q": "AECA",
+ "radius": 21,
+ "removed": null,
+ "sched": "",
+ "summary": "Isle of Man controlled airspace activated around Isle of Man Airport (EGNS), with a radius of 21 nautical miles; aerodrome access by prior permission only.",
+ "summary_of": "3dbfbe61c855",
+ "text": "ISLE OF MAN CTA/CTR/ATZ ACTIVATED. AD AND ATS EXTENDED. AD PPR\nONLY. CONTACT ATC 01624 827548.",
+ "to": "2026-11-08T21:45Z",
+ "type": "N",
+ "upper": ""
+}
