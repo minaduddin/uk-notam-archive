@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Leuchars ground frequency 275.375 and tower frequency 119.23 megahertz unavailable due to maintenance, with alternatives given.",
+ "summary_of": "f7ffd97a3ba2",
  "text": "LEUCHARS GND FREQ 275.375MHZ AND TWR FREQ 119.23MHZ NOT AVBL DUE \nMAINT. ALTN TWR FREQ 309.605MHZ AND GND FREQ 299.750MHZ",
  "to": "2026-11-11T17:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "",
+ "summary": "Humberside primary radar unserviceable; secondary radar coverage extremely limited within 10 nautical miles below 2,000 feet, with no instrument approach.",
+ "summary_of": "59dc21b5cd31",
  "text": "HUMBERSIDE PRIMARY RADAR U/S, SSR COVERAGE EXTREMLY LIMITED \nWITHIN 10NM BELOW 2000FT. NO INSTR APP AVBL",
  "to": "2026-11-09T11:00Z",
  "type": "N",

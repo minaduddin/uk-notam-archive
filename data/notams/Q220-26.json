@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Required navigation performance approach to runway 23 not available at EGQS.",
+ "summary_of": "fa10a15dd035",
  "text": "RNP APCH RWY 23 NOT AVBL. \nUK MIL AIP AD 2-EGQS-1-32-RNP RWY 23 REFERS.",
  "to": "2026-12-14T13:13Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "0900-1500",
+ "summary": "Large model aircraft flying within 1 nautical mile of Colmworth up to 1,300 feet above sea level, daily between 0900 and 1500.",
+ "summary_of": "cdb9a193ae21",
  "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 521200N 0002130W\n(COLMWORTH). FOR INFO 07876 200320. AR-2026-10456/01.",
  "to": "2026-12-31T15:00Z",
  "type": "N",

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1,
+  -1.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T17:12Z",
+ "from": "2026-11-15T16:00Z",
+ "id": "H7320/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "NOV 15-29 1600-2000, DEC 05-06 12-13 17-31 1600-2000",
+ "summary": "Searchlight display within 1 nautical mile of Kitwood, at all heights, on selected dates in November and December between 1600 and 2000.",
+ "summary_of": "749330186f79",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 510622N 0010325W (KITWOOD).\nFOR INFO 07764 494726. AR-2026-10446/01.",
+ "to": "2026-12-31T20:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

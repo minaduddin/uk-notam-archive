@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Instrument landing system for runway 05/28 at EGDM unavailable for maintenance.",
+ "summary_of": "77175626ac03",
  "text": "ILS RWY 05/28 NOT AVBL DUE MAINT",
  "to": "2026-11-09T15:00Z",
  "type": "N",

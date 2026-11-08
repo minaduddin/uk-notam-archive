@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.3833,
+  -1.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T17:12Z",
+ "from": "2026-11-15T16:00Z",
+ "id": "H6672/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Sheffield at all heights.",
+ "summary_of": "18eb26a50c7e",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 532243N 0012840W (SHEFFIELD).  FOR\nINFO 07916 151704. AR-2026-9452/01.",
+ "to": "2026-11-15T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

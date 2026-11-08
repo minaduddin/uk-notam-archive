@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway Bravo closed between hardstands 17 and 18 at EGUN due to work; non-illuminated low-profile barricades are sited.",
+ "summary_of": "fcbcc15e0eb4",
  "text": "TWY BRAVO CLSD BTN HARDSTAND 17 AND HARDSTAND 18 DUE WIP.\nCAUTION: NON-ILLUMINATED LOW-PROFILE BARRICADES SITED.",
  "to": "2026-12-08T17:00Z",
  "type": "N",

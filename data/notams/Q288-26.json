@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Benson aerodrome traffic zone and military traffic zone callsign changed from 'Benson Zone' to 'Southern Mil'.",
+ "summary_of": "4d487509de52",
  "text": "BENSON ATZ/MATZ - AMEND 'BENSON ZONE' CALLSIGN TO 'SOUTHERN MIL'\nUK AIP ENR 2.2 AND DIGITAL DATASET REFERS.",
  "to": "PERM",
  "type": "N",

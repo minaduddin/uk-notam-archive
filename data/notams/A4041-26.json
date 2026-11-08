@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": "2026-11-08T00:09Z",
  "sched": "",
+ "summary": "Drone swarm of 100 drones within 0.5 nautical miles of Bishop's Stortford, up to 580 ft above ground.",
+ "summary_of": "835a05373c87",
  "text": "UAS SWARM OPR WI 0.5NM RADIUS OF 515218N 0000311E (BISHOP'S\nSTORTFORD). SWARM MADE UP OF 100 UAS. MAX HGT 580FT AGL. FOR INFO\n07706 693320. AR-2026-9654/01.",
  "to": "2026-11-07T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": "2026-11-08T12:47Z",
  "sched": "",
+ "summary": "Drone operation within 0.5 nautical miles of Wick Harbour, up to 250 feet.",
+ "summary_of": "51b4c0b88073",
  "text": "UAS OPR AT PSN 582628N 0030513W 0.5NM RADIUS (WICK HARBOUR)\nSFC-250FT AGL/250FT AMSL",
  "to": "2026-11-08T12:00Z",
  "type": "N",

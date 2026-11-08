@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Rescue and fire cover at EGNV upgraded to category 7 at set times on Monday, Thursday, Friday and Sunday.",
+ "summary_of": "4f8b3c99b83a",
  "text": "RFFS CAT UPGRADED TO CAT 7\nMON: 1105-1230\nTHU: 1815-1940\nFRI: 1140-1305\nSUN: 1650-1815",
  "to": "2026-11-15T18:15Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Precision approach radar for runway 05/23 at EGUW unavailable due to maintenance.",
+ "summary_of": "6de9fc50996c",
  "text": "PAR RWY 05/23 NOT AVBL DUE MAINT",
  "to": "2026-11-30T23:59Z",
  "type": "R",

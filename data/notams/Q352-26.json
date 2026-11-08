@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "0830-1800",
+ "summary": "Little Rissington aerodrome closed and its traffic zone deactivated daily from 0830 to 1800.",
+ "summary_of": "4ac0fa1ce730",
  "text": "LITTLE RISSINGTON ATZ DEACTIVATED. AD CLSD.",
  "to": "2026-11-15T18:00Z",
  "type": "N",

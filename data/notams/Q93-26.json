@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0700-1800",
+ "summary": "Crane at RAF Waddington, 132 feet above ground level, operating 07:00 to 18:00 daily.",
+ "summary_of": "b4944bce570f",
  "text": "CRANE OPR PSN 531031N 0002954W (RAF WADDINGTON) HGT 132FT AGL, \n323FT AMSL",
  "to": "2026-12-04T18:00Z",
  "type": "N",

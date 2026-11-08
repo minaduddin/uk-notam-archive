@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "SUN H24",
+ "summary": "EGFH aerodrome unavailable on Sundays, all day, to aircraft needing a licensed aerodrome due to fire cover.",
+ "summary_of": "d5dba67da40a",
  "text": "AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE RFFS\nCOVER",
  "to": "2027-01-31T16:00Z",
  "type": "R",

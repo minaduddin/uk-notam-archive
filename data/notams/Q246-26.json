@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Instrument landing system glidepath flags may appear on runway 23 at EGUW when crossing from the extreme left while below the glidepath.",
+ "summary_of": "8cf6e29318eb",
  "text": "RWY 23 ILS GLIDEPATH FLAGS MAY BE EXPERIENCED WHEN CROSSING\nFROM EXTREME LEFT WHILST BELOW GLIDEPATH",
  "to": "2026-11-26T23:59Z",
  "type": "N",

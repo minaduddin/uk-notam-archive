@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Surveillance radar approach not available at EGVP.",
+ "summary_of": "30f49e073d33",
  "text": "SRA NOT AVBL",
  "to": "2026-12-01T02:00Z",
  "type": "N",

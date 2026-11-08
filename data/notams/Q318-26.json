@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Obstacle light out of service on building 539 at Mildenhall aerodrome, 54 feet above ground level.",
+ "summary_of": "cba82ca2e762",
  "text": "OBST LGT U/S PSN 522201.6N 0002817.7E (MILDENHALL AD, BULIDING \n539) 54FT AGL, 80FT AMSL.",
  "to": "2027-01-02T23:59Z",
  "type": "N",

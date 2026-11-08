@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Parking slot 32 closed at EGDM.",
+ "summary_of": "a6f3f43ff1f8",
  "text": "PARKING SLOT 32 CLOSED",
  "to": "2026-11-21T18:00Z",
  "type": "N",

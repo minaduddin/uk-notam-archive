@@ -1,0 +1,25 @@
+{
+ "coord": [
+  59.8833,
+  -1.3
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-08T17:12Z",
+ "from": "2026-11-08T17:00Z",
+ "id": "I7697/26",
+ "loc": [
+  "EGPB"
+ ],
+ "lower": "",
+ "q": "SFXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Flight information service officer training on 118.255 MHz, callsign Sumburgh Information, with air traffic monitoring at all times.",
+ "summary_of": "fc2ccfaecbd9",
+ "text": "FLIGHT INFORMATION SERVICE OFFICER TRAINING TAKING PLACE ON\n118.255MHZ CALLSIGN 'SUMBURGH INFORMATION'. ATC MONITORING AT \nALL TIMES.",
+ "to": "2026-11-08T18:45Z",
+ "type": "N",
+ "upper": ""
+}

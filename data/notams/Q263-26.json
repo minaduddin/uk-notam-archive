@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Instrument landing system for runway 25 at EGXC is misaligned, with localiser course 253 degrees against runway heading 251 degrees.",
+ "summary_of": "a54c94edd38a",
  "text": "ILS RWY 25, MISALIGNMENT BTN RWY QFU (251 DEG) AND LOC COURSE \nDIRECTION (253 DEG)",
  "to": "2026-12-23T23:59Z",
  "type": "N",

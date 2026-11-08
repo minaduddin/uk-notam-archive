@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "MON 1200-1245, WED 1300-1345",
+ "summary": "Diversions to EGXC from aircraft not based there are restricted to visual flying and need air traffic approval, Monday 1200-1245 and Wednesday 1300-1345.",
+ "summary_of": "12b4f3b2961d",
  "text": "DIVERSION REQUESTS FM NON-STN BASED ACFT LIMITED/RESTRICTED TO \nVFR ONLY AND SUBJ ATC PRIOR APPROVAL DUE TO STAFFING RESTRICTIONS",
  "to": "2026-11-11T13:45Z",
  "type": "N",

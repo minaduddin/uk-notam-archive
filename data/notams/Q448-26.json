@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Noise embargo at EGXW.",
+ "summary_of": "62f8f136dd29",
  "text": "NOISE EMBARGO",
  "to": "2026-11-11T11:15Z",
  "type": "N",

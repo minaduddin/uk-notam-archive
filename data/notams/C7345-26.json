@@ -16,6 +16,8 @@
  "radius": 18,
  "removed": "2026-11-08T06:55Z",
  "sched": "",
+ "summary": "Leeds Bradford airspace deactivated and aerodrome closed; suitably equipped aircraft should monitor Leeds radar on 134.580 and set code 2677.",
+ "summary_of": "6671cc83d443",
  "text": "LEEDS BRADFORD CTA, CTR, ATZ DEACTIVATED, AD CLSD, ATS NOT\nAVBL.SUITABLY EQUIPPED ACFT WI LEEDS BRADFORD AIRSPACE SHOULD \nMONITOR LEEDS RADAR ON CH 134.580 AND SQUAWK EITHER 2677, ANY \nDISCRETE TASK SPECIFIC CODE, OR ANY DISCRETE CODE ALLOCATED BY \nANOTHER UNIT. MET OBS UNVERIFIED",
  "to": "2026-11-08T06:00Z",
  "type": "N",

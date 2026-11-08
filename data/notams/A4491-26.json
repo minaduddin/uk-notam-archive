@@ -16,6 +16,8 @@
  "radius": 22,
  "removed": "2026-11-08T02:50Z",
  "sched": "",
+ "summary": "Southend airspace deactivated and aerodrome closed, with no air traffic services available.",
+ "summary_of": "144db3d46901",
  "text": "SOUTHEND CTA, CTR, ATZ DEACTIVATED. AD CLOSED. NO ATS AVBL.",
  "to": "2026-11-08T01:30Z",
  "type": "N",

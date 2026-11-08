@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": "2026-11-07T22:24Z",
  "sched": "",
+ "summary": "Parachute jumping within 0.5 nautical miles of Alkington, up to 5,400 feet above mean sea level, subject to air traffic control clearance.",
+ "summary_of": "9f93ccdd2269",
  "text": "PJE WI 0.5NM RADIUS OF 525707N 0024027W (ALKINGTON). DROP HGT \nSUBJ ATC CLR. FOR INFO 07525 344067. AR-2026-10250/02.",
  "to": "2026-11-07T22:00Z",
  "type": "N",

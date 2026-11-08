@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": "2026-11-08T14:38Z",
  "sched": "",
+ "summary": "Drones flown beyond visual line of sight within 1 nautical mile of Wickford, up to 394 ft above ground.",
+ "summary_of": "88be1789a05b",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 1NM RADIUS OF \n513702N 0003138E (WICKFORD). CONCURRENT OPR OF MULTIPLE UAS. \nMAX HGT 394FT AGL. FOR INFO 07359 527977. AR-2026-9958/01.",
  "to": "2026-11-08T14:00Z",
  "type": "N",

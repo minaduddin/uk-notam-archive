@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway Bravo closed near parking spots 1 to 6 at EGUB.",
+ "summary_of": "de2f3063c05c",
  "text": "TWY BRAVO CLSD IN THE VCY OF PARKING SPOTS 1-6",
  "to": "2026-11-13T17:00Z",
  "type": "R",

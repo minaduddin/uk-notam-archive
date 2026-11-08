@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Flying embargo at EGQL except for aircraft in an emergency.",
+ "summary_of": "5fdd9545226d",
  "text": "FLYING EMBARGO EXCEPT FOR ACFT IN EMERGENCY",
  "to": "2026-11-11T11:15Z",
  "type": "N",

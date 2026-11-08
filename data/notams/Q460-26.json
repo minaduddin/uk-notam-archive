@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Valley air traffic and aerodrome opening hours: 09:00 to 20:20 Monday to Thursday, closed Friday.",
+ "summary_of": "6263bd27a53c",
  "text": "VALLEY ATS AND AD OPENING HOURS\nMON-THU - 0900-2020\nFRI - CLOSED",
  "to": "2026-11-13T23:59Z",
  "type": "N",

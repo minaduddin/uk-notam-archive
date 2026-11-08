@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Standard departure routes MAXOB2A and MAXOB2B not available at EGVA.",
+ "summary_of": "0b7e5cb967ad",
  "text": "SID MAXOB2A AND MAXOB2B NOT AVBL.",
  "to": "2026-11-26T23:59Z",
  "type": "N",

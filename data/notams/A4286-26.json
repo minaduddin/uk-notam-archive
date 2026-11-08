@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": "2026-11-08T06:55Z",
  "sched": "",
+ "summary": "Runway 04/22 closed for maintenance at EGSS.",
+ "summary_of": "52e26d31fe22",
  "text": "RWY 04/22 CLSD DUE MAINT",
  "to": "2026-11-08T05:45Z",
  "type": "N",

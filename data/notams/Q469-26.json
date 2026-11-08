@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Wittering air traffic service unavailable at EGXT; aerodrome closed but may still be active.",
+ "summary_of": "77c084001603",
  "text": "WITTERING ATS NOT AVBL, AD CLSD BUT MAY STILL BE ACTIVE.",
  "to": "2026-11-09T08:00Z",
  "type": "N",

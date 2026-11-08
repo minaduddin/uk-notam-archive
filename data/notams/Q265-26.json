@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Obstruction light unserviceable at the Culdrose receiver site, 100 feet above ground.",
+ "summary_of": "860cfad24a1a",
  "text": "OBST LGT U/S AT PSN 500359N 0051423W (RNAS CULDROSE RECEIVER SITE)\n100FT AGL / 560FT AMSL",
  "to": "2026-11-13T14:00Z",
  "type": "N",

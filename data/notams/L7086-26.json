@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Kemble aerodrome not available to visiting aircraft without prior arrangement; based operators may fly in daylight with valid out-of-hours indemnity.",
+ "summary_of": "3ae0945de6f1",
  "text": "AD NOT AVBL TO VISITING ACFT UNLESS PRIOR ARRANGEMENT HAS BEEN \nMADE WITH KEMBLE OPS, BASED OPERATORS MAY OPR WITH A VALID OUT OF \nHOURS INDEMNITY DURING DAYLIGHT HR.",
  "to": "2026-11-09T17:00Z",
  "type": "N",

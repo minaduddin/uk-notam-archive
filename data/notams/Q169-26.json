@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "0830-1730",
+ "summary": "Ground transponder testing at Amesbury, EGDM, between 0830 and 1730, may cause false aircraft indications within 3 nautical miles.",
+ "summary_of": "c3f1cf9478d8",
  "text": "GROUND TRANSPONDER TESTING. MODE S TEST TRANSPONDER LOCATED PSN \n510846N 0014531W (AMESBURY). POSSIBLE FALSE AIRCRAFT INDICATIONS\nMAY OCCUR WI 2NM RADIUS. MAY INDICATE A SPEED OF 300KTS AND\n99000FT AGL. DIRECT OVERFLIGHT BELOW 100FT SHOULD BE AVOIDED. \nSFC-UNL. FOR INFO 01980 663052. AR-2026-10378/01.",
  "to": "2026-11-13T17:30Z",
  "type": "N",

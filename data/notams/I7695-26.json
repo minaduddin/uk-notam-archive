@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": "2026-11-08T16:13Z",
  "sched": "",
+ "summary": "Flight information service officer training at Sumburgh on radio frequency 118.255 megahertz, with air traffic control monitoring at all times.",
+ "summary_of": "fc2ccfaecbd9",
  "text": "FLIGHT INFORMATION SERVICE OFFICER TRAINING TAKING PLACE ON\n118.255MHZ CALLSIGN 'SUMBURGH INFORMATION'. ATC MONITORING AT \nALL TIMES.",
  "to": "2026-11-08T15:30Z",
  "type": "N",

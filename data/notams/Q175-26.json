@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aerodrome operating hours amended at EGYD, now 1100 to 2030.",
+ "summary_of": "464945b357cc",
  "text": "AMENDED AD OPR HR\n09-12 1100-2030",
  "to": "2026-11-12T20:30Z",
  "type": "N",

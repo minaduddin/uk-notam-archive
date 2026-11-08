@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Amended aerodrome operating hours at EGXE: Monday to Friday 0900 to 2200.",
+ "summary_of": "3e5f626c54c8",
  "text": "AMENDED AD OPR HR:\nMON-FRI 0900-2200",
  "to": "2026-12-03T22:00Z",
  "type": "N",

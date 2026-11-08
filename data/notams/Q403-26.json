@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Parking spot C19 closed at EGUL.",
+ "summary_of": "451a066908f4",
  "text": "CAUTION: PARKING SPOT C19 CLOSED.",
  "to": "2026-11-13T18:00Z",
  "type": "N",

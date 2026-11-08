@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Obstruction light unserviceable on the Watchman radar tower north-east of Honington runway, 36 feet above ground.",
+ "summary_of": "c05585715fde",
  "text": "OBSTRUCTION LIGHT U/S PSN 522047N 0004712E (WATCHMAN RADAR TOWER, \nNE OF HONINGTON RWY) HGT 36FT AGL / 210FT AMSL",
  "to": "2026-11-20T10:22Z",
  "type": "N",

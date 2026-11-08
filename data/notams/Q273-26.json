@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Tactical navigation checkpoint sign at point 4 north at EGUL is unserviceable.",
+ "summary_of": "7edad04fc64b",
  "text": "TACAN CHECKPOINT SIGN AT POINT 4 NORTH U/S",
  "to": "2026-11-10T22:00Z",
  "type": "N",

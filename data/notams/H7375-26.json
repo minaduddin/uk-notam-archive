@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": "2026-11-08T00:09Z",
  "sched": "",
+ "summary": "Swarm of 200 drones operating within 1 nautical mile of Thorney Island, up to 400 feet above ground level.",
+ "summary_of": "32c4ab15e3a5",
  "text": "UAS SWARM OPR WI 1NM RADIUS OF 504913N 0005455W (THORNEY ISLAND).\nSWARM MADE UP OF 200 UAS. MAX HGT 400FT AGL. \nFOR INFO 07547 155440. AR-2026-10508/01.",
  "to": "2026-11-07T23:59Z",
  "type": "N",

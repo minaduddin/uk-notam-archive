@@ -17,6 +17,8 @@
  "radius": 999,
  "removed": null,
  "sched": "",
+ "summary": "From 1 November 2026, uniform series NOTAMs for EGPX and EGTT will be issued as Quebec series.",
+ "summary_of": "7e7b6744e2d9",
  "text": "UNIFORM SERIES NOTAM THAT HAVE AN EFFECTIVE DATE OF 01 NOV 26 OR \nBEYOND WILL BE ISSUED AS A QUEBEC SERIES. AIC Y100/26 DATED 17 SEP \nWILL REFER. ADDRESSES THAT RECEIVE A UNIFORM SERIES NOTAM WILL BE \nAUTOMATICALLY TRANSFERRED TO THE QUEBEC SERIES.",
  "to": "2026-11-13T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": "2026-11-08T09:45Z",
  "sched": "",
+ "summary": "Runway 26 windsock not available at EGQL.",
+ "summary_of": "77048cb29c66",
  "text": "RWY 26 WINDSOCK NOT AVBL.",
  "to": "2026-11-28T23:59Z",
  "type": "N",

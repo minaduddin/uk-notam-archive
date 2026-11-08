@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Required navigation performance procedures may not be provided at EGXT because of limited qualified controller availability.",
+ "summary_of": "57b43b13386c",
  "text": "RNP REQUIRED NAVIGATION PERFORMANCE MAY NOT BE GIVEN\nDUE TO LIMITED QUALIFIED CONTROLLER AVAILABILITY.",
  "to": "2026-11-30T17:30Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway Charlie at EGXC closed due to work in progress.",
+ "summary_of": "92792a532e97",
  "text": "TWY CHARLIE CLSD DUE WIP",
  "to": "2027-01-31T23:59Z",
  "type": "R",

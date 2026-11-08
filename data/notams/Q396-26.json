@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Approach lights for runway 24 out of service at EGDR.",
+ "summary_of": "9ee4593a82fa",
  "text": "RWY 24 APCH LIGHTS U/S",
  "to": "2027-02-04T15:00Z",
  "type": "N",

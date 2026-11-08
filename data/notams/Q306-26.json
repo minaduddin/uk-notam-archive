@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Required navigation performance approach to runway 05/23 at EGDM is not available.",
+ "summary_of": "7282c3c70f34",
  "text": "RNP APCH RWY 05/23 NOT AVBL.",
  "to": "2026-11-30T23:59Z",
  "type": "N",

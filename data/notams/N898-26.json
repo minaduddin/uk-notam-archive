@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": "2026-11-08T00:09Z",
  "sched": "",
+ "summary": "Obstacle warning light out of service on an offshore structure up to 493ft above sea level, 44 nautical miles east of Great Yarmouth.",
+ "summary_of": "35aab48bd22b",
  "text": "AIR NAV OBST LGT U/S AT PSN 524211N 0025559E (OFFSHORE, 44NM EAST\nOF GREAT YARMOUTH) UP TO 493FT AMSL. FOR INFO CCT 07827 822375. ON \nEXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4 \nAR-2026-9450/01.",
  "to": "2026-11-07T23:59Z",
  "type": "N",

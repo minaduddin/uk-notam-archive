@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": "2026-11-07T23:35Z",
  "sched": "",
+ "summary": "Swarm of 175 drones operating within 0.1 nautical miles of Southgate, London, up to 400 feet above ground level.",
+ "summary_of": "fd955ccfd2e8",
  "text": "UAS SWARM OPR WI 0.1NM RADIUS OF 513734N 0000743W (SOUTHGATE,\nLONDON). SWARM MADE UP OF 175 UAS. MAX HGT 400FT AGL. FOR INFO\n07405 188200 / 07570 043412. AR-2026-10397/01.",
  "to": "2026-11-07T22:30Z",
  "type": "N",

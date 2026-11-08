@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": "2026-11-08T00:09Z",
  "sched": "1600-2359",
+ "summary": "Drone swarm of 750 drones within 0.5 nautical miles of Edgbaston, Moseley, up to 400 ft above ground, from 4pm to midnight.",
+ "summary_of": "c89336cfa3d2",
  "text": "UAS SWARM OPR WI 0.5NM RADIUS OF 522723N 0015408W (EDGBASTON,\nMOSELEY). SWARM MADE UP OF 750 UAS. MAX HGT 400FT AGL. FOR INFO\n07882 946825. AR-2026-10267/01.",
  "to": "2026-11-07T23:59Z",
  "type": "N",

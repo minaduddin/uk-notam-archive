@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Gloucestershire direction-finding equipment, linked to approach frequency 128.555 MHz, is unserviceable.",
+ "summary_of": "1025b5c46ee2",
  "text": "GLOUCESTERSHIRE VDF ASSOCIATED WITH APP FREQ 128.555MHZ U/S",
  "to": "2026-11-09T09:00Z",
  "type": "N",

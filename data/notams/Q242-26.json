@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Tactical air navigation beacon at Valley, channel 21X, may experience unlocks between 045 and 055 degrees.",
+ "summary_of": "267c2f55c0e8",
  "text": "TACAN VLY/VALLEY CH 21X FREQ 108.4 MAY EXPERIENCE UNLOCKS BTN \n045-055 DEG",
  "to": "2026-11-24T23:59Z",
  "type": "N",

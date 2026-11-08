@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Hardstand 6 closed at EGVA.",
+ "summary_of": "9db977b60a99",
  "text": "HARDSTAND 6 CLSD.",
  "to": "2026-11-30T23:59Z",
  "type": "N",

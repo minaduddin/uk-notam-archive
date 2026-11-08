@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Both cables of the standard cable configuration for runway 05/23 at EGQS have been de-rigged.",
+ "summary_of": "f421a6e71521",
  "text": "STANDARD CABLE CONFIGURATION FOR RWY 05/23 IS NOW BOTH CABLES \nDE-RIGGED.",
  "to": "2026-12-24T07:00Z",
  "type": "N",

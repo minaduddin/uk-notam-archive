@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway edge and centre line lights unserviceable at EGVO from taxiway B2 to runway 09/27 or Bravo loop.",
+ "summary_of": "7943c3086fa8",
  "text": "TWY EDGE AND CL LIGHTS U/S FM B2 TO RWY 09/27 OR BRAVO LOOP",
  "to": "2027-01-05T14:25Z",
  "type": "N",

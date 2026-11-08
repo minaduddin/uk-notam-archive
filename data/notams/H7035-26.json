@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": "2026-11-08T00:09Z",
  "sched": "",
+ "summary": "Drone swarm of 200 drones and laser display within 1 nautical mile of Methil, drones up to 600 ft above ground.",
+ "summary_of": "edbafa6189a0",
  "text": "UAS SWARM AND LASER DISPLAY OPR WI 1NM RADIUS OF 561159N 0025916W\n(METHIL). SWARM MADE UP OF 200 UAS. UAS MAX HGT 600FT AGL. FOR\nINFO 07904 547596 / 07747 097574. AR-2026-9983/01.",
  "to": "2026-11-07T23:59Z",
  "type": "N",

@@ -18,6 +18,8 @@
  "radius": 999,
  "removed": null,
  "sched": "",
+ "summary": "Security advisory recommending UK operators avoid Mali's airspace below 25,000 feet above ground level, due to anti-aircraft weaponry and heightened military activity.",
+ "summary_of": "aebd831be8a7",
  "text": "SECURITY - HAZARDOUS SITUATION IN MALI. UK CIVIL AIR OPERATORS\nARE RECOMMENDED NOT TO ENTER FIR NIAMEY (DRRR) AND FIR DAKAR\n(GOOO) WI THE TERRITORY AND AIRSPACE OF MALI BELOW 25000FT ABOVE \nGROUND LEVEL (AGL). POTENTIAL RISK FROM ANTI-AIRCRAFT WEAPONRY AND\nHEIGHTENED MILITARY ACTIVITY. THIS SUPERSEDES THE ADVICE IN THE\nCURRENT UK AIP ENR 1.1. AR-2026-3729/07.",
  "to": "2027-01-24T15:00Z",
  "type": "R",

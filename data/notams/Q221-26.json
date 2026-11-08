@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aerodrome EGUW closed to all fixed-wing traffic due to work in progress running parallel to runway 05/23.",
+ "summary_of": "0bab1defbdf6",
  "text": "AD CLSD TO ALL FIXED WING TFC DUE WIP RUNNING PARALLEL TO RWY \n05/23.",
  "to": "2026-11-30T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxitrack Sierra limited to daytime use only at EGUL because all taxiway lights are unserviceable.",
+ "summary_of": "9b4f7ae38818",
  "text": "TAXITRAK SIERRA LTD TO DAYTIME USE ONLY BTN TAXITRAK VICTOR AND \nSOUTHEAST ARM/DEARM PAD (POINT4) DUE ALL TWY LIGHTS U/S.",
  "to": "2026-12-31T23:59Z",
  "type": "N",

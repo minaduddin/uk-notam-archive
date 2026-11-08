@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": "2026-11-08T16:13Z",
  "sched": "",
+ "summary": "Air displays within 2 nautical miles of Duxford aerodrome, up to 2,000 feet above ground level.",
+ "summary_of": "1f7ba47fa370",
  "text": "AIR DISPLAYS WI 2NM RADIUS PSN 520527N 0000756E (DUXFORD AD).\nUP TO 2000FT AGL / 2126FT AMSL",
  "to": "2026-11-08T16:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 09 glideslope at EGVA out of service; localiser only.",
+ "summary_of": "9277c7b8dea6",
  "text": "RWY 09 GLIDESLOPE U/S. LOCALIZER ONLY.",
  "to": "2026-11-20T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Benbecula locator beacon on 401 kHz is unserviceable.",
+ "summary_of": "653fec3753f9",
  "text": "LOCATOR BBA/BENBECULA 401KHZ U/S",
  "to": "2026-11-10T16:30Z",
  "type": "N",

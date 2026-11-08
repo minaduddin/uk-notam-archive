@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Instrument landing system for runway 23 at EGUW unavailable due to work in progress.",
+ "summary_of": "76e8f1fd3f91",
  "text": "ILS RWY 23 NOT AVBL DUE WIP",
  "to": "2026-11-30T23:59Z",
  "type": "N",

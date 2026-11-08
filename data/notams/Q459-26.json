@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Undercarriage check lights unavailable at EGXE.",
+ "summary_of": "7fd1041cf3b0",
  "text": "UNDERCARRIAGE CHECK LIGHTS NOT AVBL",
  "to": "2027-01-29T17:00Z",
  "type": "N",

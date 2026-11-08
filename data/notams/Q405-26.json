@@ -16,6 +16,8 @@
  "radius": 6,
  "removed": null,
  "sched": "09 1730-2030, 10-12 0800-2200",
+ "summary": "Aircraft will conduct tactical landings within 5 nautical miles of Honnington, from the surface to 5,300 feet above sea level, during set hours.",
+ "summary_of": "bcb227285375",
  "text": "TACTICAL LANDINGS. ACFT WILL CONDUCT TACTICAL LANDINGS WI 5NM\nRADIUS OF 522034N 0004623E (HONNINGTON). FOR INFO 07805 533174.\nAR-2026-10542/01.",
  "to": "2026-11-12T22:00Z",
  "type": "N",

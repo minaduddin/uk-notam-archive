@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Dangerous air cargo loading bay at EGXW is not available; contact station operations for the alternate plan.",
+ "summary_of": "3ae9481891b4",
  "text": "DANGEROUS AIR CARGO LOADING BAY NOT AVBL. CTC STATION OPS FOR \nALTERNATE PLAN.",
  "to": "2026-11-26T23:59Z",
  "type": "N",

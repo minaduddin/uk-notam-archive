@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Brize Norton tactical air navigation beacon at EGVN is restricted to aid-only use due to a calibration restriction, within 25 nautical miles.",
+ "summary_of": "4c38c633d9cb",
  "text": "TACAN BZN/BRIZE NORTON FREQ 111.9HZ CH56X USABLE AREA AID ONLY \nDUE TO CALIBRATION RESTRICTION.",
  "to": "2026-11-13T08:00Z",
  "type": "N",

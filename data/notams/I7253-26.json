@@ -16,6 +16,8 @@
  "radius": 16,
  "removed": "2026-11-08T03:51Z",
  "sched": "0200-0300",
+ "summary": "Prestwick controlled airspace deactivated between 2am and 3am, as air traffic service is unavailable during controller breaks.",
+ "summary_of": "5cd8939edc44",
  "text": "PRESTWICK CTA/CTR/ATZ DEACTIVATED. ATS NOT AVBL DUE CONTROLLER \nBREAKS. PILOTS TRANSITING THE AREA ARE ADVISED TO MONITOR 129.455MHZ",
  "to": "2026-11-08T03:00Z",
  "type": "N",

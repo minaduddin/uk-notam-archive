@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Precision approach radar not available at EGYD.",
+ "summary_of": "9a46dd4ba499",
  "text": "PAR NOT AVBL",
  "to": "2026-11-10T10:30Z",
  "type": "N",

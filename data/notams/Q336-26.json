@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway Sierra closed between Romeo South and Yankee South at EGUL.",
+ "summary_of": "7fb35b073d6f",
  "text": "TAXITRAK SIERRA CLSD FROM ROMEO SOUTH TO YANKEE SOUTH",
  "to": "2026-12-17T23:59Z",
  "type": "R",

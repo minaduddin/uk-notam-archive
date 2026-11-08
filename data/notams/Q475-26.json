@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Sinkhole near taxiway Alpha at EGOV: aircraft must not taxi or park over the marked 10-metre square area.",
+ "summary_of": "38ec4ed91746",
  "text": "SINK HOLE ON SOURTHERN EDGE OF AIRCRAFT SERVICING PLATFORM 3\nIN VCY OF TWY ALPHA PSN 531459N 0043200W WI 10M SQUARED \nAREA AS MARKED OUT BY BAD GROUND MARKERS. NO ACFT TO TAXI OR PARK \nOVER THIS AREA.",
  "to": "2027-02-06T23:59Z",
  "type": "N",

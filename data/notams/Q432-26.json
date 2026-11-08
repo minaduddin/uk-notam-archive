@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiways Tango and Foxtrot and the 40's Bubble apron at EGUL limited to daytime use as taxiway lights are out of service.",
+ "summary_of": "e0e68ffcf3c2",
  "text": "TWY TANGO, TWY FOXTROT, AND 40'S BUBBLE APRON LTD TO DAYTIME USE \nONLY DUE TO ALL TWY LIGHTS U/S",
  "to": "2026-12-31T23:59Z",
  "type": "N",

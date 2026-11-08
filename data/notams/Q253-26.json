@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "WED SAT SUN 1000-1700",
+ "summary": "Large model aircraft flying within 0.55 nautical miles of Boroughbridge, surface to 1,700 feet above sea level, Wednesdays, Saturdays and Sundays 1000 to 1700.",
+ "summary_of": "ff94220a964f",
  "text": "FLYING OF LARGE MODEL ACFT WI 0.55NM RADIUS OF 540817N 0012500W\n(BOROUGHBRIDGE).  FOR INFO 07749 736802. AR-2026-10141/05.",
  "to": "2027-01-17T17:00Z",
  "type": "N",

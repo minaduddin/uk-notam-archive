@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "EGYM aerodrome opening hours are 1145 to 1300 Thursday and 0830 to 1300 Friday, closed Saturday and Sunday.",
+ "summary_of": "ffdba4fae7c3",
  "text": "AD OPR HR:\nTHU      1145-1300\nFRI      0830-1300\nSAT-SUN  CLSD",
  "to": "2026-11-08T23:59Z",
  "type": "N",

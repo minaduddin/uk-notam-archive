@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Correction to flight publications at EGUL: protective aircraft shelters 20, 34, 35 and 36 are open for aircraft operations.",
+ "summary_of": "a594c1f14eab",
  "text": "CORRECTION TO AREA PLANNING 2 FLIGHT PUBLICATIONS:\nPROTECTIVE ACFT SHELTER (PAS) 20, 34, 35, AND 36 ARE OPEN FOR ACFT \nOPERATIONS.",
  "to": "2026-12-17T22:00Z",
  "type": "R",

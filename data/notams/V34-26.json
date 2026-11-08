@@ -18,6 +18,8 @@
  "radius": 999,
  "removed": null,
  "sched": "",
+ "summary": "Security advisory recommending UK operators avoid the Beirut airspace region in Lebanon, except certain flights, due to heightened military activity.",
+ "summary_of": "7f4cc807c07b",
  "text": "SECURITY - HAZARDOUS SITUATION IN LEBANON. UK REGISTERED AIR\nOPERATORS ARE RECOMMENDED NOT TO ENTER FIR BEIRUT (OLBB), EXCEPT\nFOR OPERATIONS TO/FROM OLBA WHICH COMMENCE ARRIVAL AND COMPLETE\nDEPARTURE OVER THE MEDITERRANEAN SEA. POTENTIAL RISK FROM\nHEIGHTENED MILITARY ACTIVITY. THIS SUPERCEDES THE INFORMATION\nCONTAINED IN THE UK CIVIL AIP ENR 1.1. AR-2026-3194/03.",
  "to": "PERM",
  "type": "R",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": "2026-11-08T00:09Z",
  "sched": "",
+ "summary": "Drone swarm of 250 drones within 1 nautical mile of Hill End, up to 600 ft above ground.",
+ "summary_of": "b3868d885022",
  "text": "UAS SWARM OPR WI 1NM RADIUS OF 560747N 0033014W (HILL END). SWARM\nMADE UP OF 250 UAS. MAX HGT 600FT AGL. FOR INFO 07412 220027.\nAR-2026-10105/01.",
  "to": "2026-11-07T23:59Z",
  "type": "N",

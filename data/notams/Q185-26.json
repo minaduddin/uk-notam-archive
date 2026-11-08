@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Laser display within 1 nautical mile of Broad Blunsdon, from ground level upwards, at EGVA.",
+ "summary_of": "edd209f26505",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 513638N 0014807W (BROAD BLUNSDON).\n FOR INFO 07412 670371. AR-2026-10416/01.",
  "to": "2026-11-13T18:50Z",
  "type": "N",

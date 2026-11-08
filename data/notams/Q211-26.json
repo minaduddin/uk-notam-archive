@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "South-west loop closed at EGVA due to equipment.",
+ "summary_of": "ceb9bcf0a46d",
  "text": "SW LOOP CLSD DUE EQUIPMENT.",
  "to": "2026-12-31T23:59Z",
  "type": "N",

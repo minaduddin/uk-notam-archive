@@ -16,6 +16,8 @@
  "radius": 14,
  "removed": "2026-11-08T11:37Z",
  "sched": "",
+ "summary": "Londonderry/Eglinton airspace and traffic zone activated; all movements by prior permission only, and departures must be airborne 15 minutes before closing.",
+ "summary_of": "152dc7d20675",
  "text": "LONDONDERRY/EGLINTON CTA/ATZ ACTIVATED, ATS, ATIS, AD, RFFS HR \nOF OPS EXTD. ALL MOVEMENTS STRICTLY PPR. ANY DEP MUST BE AIRBORNE \n15 MIN PRIOR TO CLOSE. CTC ATC ON +44 2871 813314)",
  "to": "2026-11-08T10:55Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Model rocket firing within 1 nautical mile of Redwick, up to 3,600 feet above sea level.",
+ "summary_of": "05636b5a84bb",
  "text": "MODEL ROCKET FIRING WI 1NM RADIUS OF 513327N 0025006W (REDWICK).\nFOR INFO 07772 185526. AR-2026-9959/01.",
  "to": "2026-11-15T16:00Z",
  "type": "N",

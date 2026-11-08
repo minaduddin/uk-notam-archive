@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "At EGVA, arrivals needing upload or download services must be coordinated, none before 0700, and Boeing 747s four hours apart.",
+ "summary_of": "bcb4c3c70aea",
  "text": "THE FLW COORDINATION IS MANDATORY FOR ALL TRANSIENT ARR REQUIRING\nUPLOAD OR DOWNLOAD SERVICES - NO ARR PRIOR TO 0700. ANY B747 ACFT\nARR MUST BE MIN 4HR APART",
  "to": "2026-12-31T23:59Z",
  "type": "R",

@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Tactical air navigation beacon at Marham, channel 24X, may cause aircrew to lose distance measuring equipment overhead and experience azimuth swings between 180 and 195 degrees.",
+ "summary_of": "796ed401e448",
  "text": "TACAN MAM/MARHAM 108.7MHZ CH24X AIRCREW MAY EXPERIENCE LOSS OF \nDME IN THE OVERHEAD AND MAY EXPERIENCE AZIMUTH SWINGS BTN 180 AND \n195 DEGREES",
  "to": "2026-11-20T23:59Z",
  "type": "N",

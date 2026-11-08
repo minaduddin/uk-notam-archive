@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aerodrome hours of operation at EGDI: Monday to Wednesday 1145-1645 and 1815-2215, Thursday 1330-1645, closed Friday.",
+ "summary_of": "e8697ec90bb8",
  "text": "AD HOURS OF OPERATION\nMON-WED  1145-1645 AND 1815-2215\nTHU      1330-1645\nFRI      CLSD",
  "to": "2026-12-18T23:59Z",
  "type": "N",

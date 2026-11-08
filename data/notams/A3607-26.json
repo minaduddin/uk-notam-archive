@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": "2026-11-08T00:09Z",
  "sched": "",
+ "summary": "Trigger notice concerning noise restrictions at London Heathrow, Gatwick and Stansted airports, listed under EGKK.",
+ "summary_of": "9b10aa2d6bbf",
  "text": "TRIGGER NOTAM - AIP SUP 104/2026 WEF 25 OCT 26 0100 UNTIL 28 MAR \n27 0059. LONDON HEATHROW, LONDON GATWICK AND LONDON STANSTED \nAIRPORTS NOISE RESTRICTIONS NOTICE (NO. 2) 2026 - REPLACES SUP \n010/2026 AS OF 25 OCTOBER 2026",
  "to": "2026-11-07T23:59Z",
  "type": "N",

@@ -17,6 +17,8 @@
  "radius": 999,
  "removed": null,
  "sched": "",
+ "summary": "Online military aeronautical publications are offline at EGTT and EGPX; products should be requested by email from the Ministry of Defence.",
+ "summary_of": "fef14053abf4",
  "text": "MILFLIP AND UKMILAIP ARE OFFLINE. ANY PRODUCTS REQUIRED SHOULD BE\nREQUESTED VIA THE NO 1 AIDU DATA AND OPERATIONS CENTRE MULTI-USER:\nUKSTRATCOM-DI-NCGI-AIDU-UKMILAIS AT MOD.GOV.UK",
  "to": "2026-11-10T23:59Z",
  "type": "N",

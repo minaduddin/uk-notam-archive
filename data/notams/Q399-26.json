@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "EGXC opening hours are 0845 to 1715 Monday to Thursday and 0845 to 1300 Friday, with aircraft able to operate outside these by prior agreement.",
+ "summary_of": "53fe007146a8",
  "text": "AD OPENING HR:\nMON 0845-1715\nTUE 0845-1715\nWED 0845-1715\nTHU 0845-1715\nFRI 0845-1300\nACFT MAY OPR OUTSIDE THE PUBLISHED TIMINGS BY PRIOR AGREEMENT",
  "to": "2026-11-13T17:15Z",
  "type": "N",
