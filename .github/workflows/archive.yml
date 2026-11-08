@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}       # "Run workflow" button: archive now and rebuild the website
   push:
     branches: [main]
-    paths: ["build_site.py"]  # rebuild the website when its code changes
+    paths: ["build_site.py", "summarize.py"]  # rebuild the website when its code changes
 
 concurrency:
   group: archive
@@ -19,7 +19,7 @@ jobs:
     permissions:
       contents: write         # commit data/notams/ and upload daily snapshots to Releases
     outputs:
-      deploy: ${{ steps.rec.outputs.records_changed == 'true' || github.event_name != 'schedule' }}
+      deploy: ${{ steps.rec.outputs.records_changed == 'true' || (steps.sum.outputs.summaries_written != '' && steps.sum.outputs.summaries_written != '0') || github.event_name != 'schedule' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -33,6 +33,12 @@ jobs:
       - name: Update NOTAM records
         id: rec
         run: python build_site.py --records
+      - name: Plain-English summaries
+        id: sum
+        continue-on-error: true   # an API problem never blocks the archive
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python summarize.py
       - name: Daily raw snapshot to Releases
         # One gzipped copy of the bulletin per day, kept as a Release file (not in the repo, so the repo stays small).
         # Monthly release "snapshots-YYYY-MM", file "PIB-YYYY-MM-DD.xml.gz" (first good download of the day, UTC).

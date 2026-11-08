@@ -14,7 +14,8 @@ Information Bulletin (PIB). Current and past NOTAMs, including cranes and other 
 - Search by NOTAM ID, location, Q-code or any words in the text
 - Pick a day to see what was in force then
 - Find NOTAMs within a distance of a point
-- Every NOTAM, current or past, has its own page
+- Every NOTAM, current or past, has its own page with a plain-English summary
+  (generated automatically and may contain mistakes: always read the full NOTAM text)
 - Pages per [location](https://minaduddin.github.io/uk-notam-archive/locations.html) and for current
   [cranes and obstacles](https://minaduddin.github.io/uk-notam-archive/obstacles.html)
 

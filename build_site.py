@@ -4,6 +4,7 @@
 1. records: reads data/PIB.xml and keeps one small JSON file per NOTAM in data/notams/<ID>.json
    (first time seen, and when it left the bulletin). A file is written only when a NOTAM is new,
    changes, or leaves the bulletin, so the history stays small.
+   summarize.py adds a short plain-English "summary" to each record (optional).
 2. site: writes a static website to _site/ that search engines can read:
      index.html            search page + links to every location and the newest NOTAMs
      notam/<ID>.html       one page per NOTAM (current and past)
@@ -136,6 +137,9 @@ def update_records():
         if r is None:
             r = dict(n, first_seen=iso(NOW), removed=None)
         elif any(r.get(k) != n[k] for k in FIELDS) or r.get("removed"):
+            if any(r.get(k) != n[k] for k in FIELDS):
+                r.pop("summary", None)      # content changed: summarize.py writes a new one
+                r.pop("summary_of", None)
             r.update(n)
             r["removed"] = None
         else:
@@ -176,6 +180,7 @@ button{font:inherit;font-weight:600;border:0;border-radius:9px;padding:10px 16px
 .n-head a.id{color:var(--ink)}.loc{font-weight:600}.meta{color:var(--muted);font-size:13px}
 .tag{font-size:11px;font-weight:700;padding:2px 8px;border-radius:99px;text-transform:uppercase;letter-spacing:.04em;white-space:nowrap}
 .t-current{color:var(--ok);background:var(--ok-bg)}.t-later{color:var(--fut);background:var(--fut-bg)}.t-ended{color:var(--old);background:var(--old-bg)}
+.sum{margin:0 0 6px;font-weight:600}.sum small{font-weight:400;color:var(--muted);margin-left:6px}
 .txt{white-space:pre-wrap;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;line-height:1.55;overflow-wrap:anywhere;margin:0}
 mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 1px}.more{display:block;margin:14px auto 0}
 .help{color:var(--muted);font-size:13px;margin-top:10px}.help code{background:var(--soft);color:var(--ink);padding:1px 5px;border-radius:5px}
@@ -239,12 +244,13 @@ def card(r, depth):
     return (f'<article class="n"><div class="n-head"><a class="id" href="{up}notam/{slug(r["id"])}.html">{e(r["id"])}</a>'
             f'<span class="loc">{loc}</span><span class="tag t-{st}">{label}</span>'
             f'<span class="meta">{fmt(r.get("from"))} → {fmt(r.get("to"))}{" (est)" if r.get("est") else ""}{alt}</span></div>'
-            f'<p class="txt">{e(short(r.get("text"), 400))}</p></article>')
+            + (f'<p class="sum">{e(r["summary"])}</p>' if r.get("summary") else "")
+            + f'<p class="txt">{e(short(r.get("text"), 400))}</p></article>')
 
 
 def title_of(r):
     where = " ".join(locs(r))
-    return f'NOTAM {r["id"]} {where}: {short(r.get("text"), 70)}'
+    return f'NOTAM {r["id"]} {where}: {short(r.get("summary") or r.get("text"), 70)}'
 
 
 def notam_page(r):
@@ -270,10 +276,11 @@ def notam_page(r):
         rows.append(("Left the bulletin", fmt(r["removed"])))
     table = "".join(f"<tr><th>{k}</th><td>{v}</td></tr>" for k, v in rows)
     title = title_of(r) + f" | {SITE_NAME}"
-    desc = f'NOTAM {r["id"]} ({" ".join(locs(r))}), valid {fmt(r.get("from"))} to {fmt(r.get("to"))}: {short(r.get("text"), 130)}'
+    desc = f'NOTAM {r["id"]} ({" ".join(locs(r))}), valid {fmt(r.get("from"))} to {fmt(r.get("to"))}: {short(r.get("summary") or r.get("text"), 130)}'
     crumbs = f'<nav class="crumbs"><a href="../">Home</a> › ' + (f'<a href="../location/{e(locs(r)[0])}.html">{e(locs(r)[0])}</a> › ' if locs(r) else "") + f'{e(r["id"])}</nav>'
     body = (f'{crumbs}<h1>NOTAM {e(r["id"])} · {e(" ".join(locs(r)))}</h1>'
-            f'<p class="sub">{e(short(r.get("text"), 160))}</p>{DISCLAIMER}'
+            + (f'<p class="sum">{e(r["summary"])}<small>Automatic summary: check the full NOTAM text below.</small></p>' if r.get("summary")
+               else f'<p class="sub">{e(short(r.get("text"), 160))}</p>') + f'{DISCLAIMER}'
             f'<div class="panel"><pre class="txt">{e(r.get("text"))}</pre></div>'
             f'<div class="panel"><table class="kv">{table}</table></div>'
             f'<p class="meta">Always check the current NOTAM with the official source: <a href="{NATS_URL}">NATS Pre-flight Information Bulletin</a>.</p>')
@@ -325,10 +332,10 @@ SEARCH_JS = r"""
     if (DATA) return DATA;
     const r = await fetch('notams.json', { cache: 'no-cache' }); if (!r.ok) throw new Error('could not load the NOTAM list (HTTP ' + r.status + ')');
     const j = await r.json();
-    DATA = { updated: j.updated, list: j.notams.map(([id, loc, q, from, to, est, removed, seen, lower, upper, sched, lat, lon, radius, text]) => {
-      const n = { id, loc, q, from, to, est, removed, seen, lower, upper, sched, coord: lat == null ? null : [lat, lon], radius, text,
+    DATA = { updated: j.updated, list: j.notams.map(([id, loc, q, from, to, est, removed, seen, lower, upper, sched, lat, lon, radius, text, summary]) => {
+      const n = { id, loc, q, from, to, est, removed, seen, lower, upper, sched, coord: lat == null ? null : [lat, lon], radius, text, summary,
         a: ms(from), b: Math.min(ms(to) ?? Infinity, removed ? ms(removed) : Infinity) };
-      n.hay = [id, loc, q ? 'Q' + q : '', sched, text].join(' ').toUpperCase(); return n; }) };
+      n.hay = [id, loc, q ? 'Q' + q : '', sched, text, summary].join(' ').toUpperCase(); return n; }) };
     return DATA;
   }
   async function run(ev) {
@@ -364,7 +371,7 @@ SEARCH_JS = r"""
       d.innerHTML = '<div class="n-head"><a class="id" href="notam/' + esc(slug) + '.html">' + hl(n.id) + '</a><span class="loc">' + hl(n.loc) + '</span>'
         + '<span class="tag t-' + st[0] + '">' + st[1] + '</span><span class="meta">' + fmt(n.from) + ' → ' + fmt(n.to) + (n.est ? ' (est)' : '') + alt
         + (n.q ? ' · Q' + esc(n.q) : '') + (n.dist != null ? ' · ' + n.dist.toFixed(1) + ' NM away' : '') + '</span></div>'
-        + (n.sched ? '<div class="meta">Schedule: ' + hl(n.sched) + '</div>' : '') + '<p class="txt">' + hl(n.text) + '</p>';
+        + (n.sched ? '<div class="meta">Schedule: ' + hl(n.sched) + '</div>' : '') + (n.summary ? '<p class="sum">' + hl(n.summary) + '</p>' : '') + '<p class="txt">' + hl(n.text) + '</p>';
       frag.appendChild(d);
     });
     els.list.appendChild(frag); shown = Math.min(results.length, shown + PAGE);
@@ -449,7 +456,7 @@ def build():
     for r in sorted(recs.values(), key=lambda r: r["id"]):
         c = r.get("coord") or [None, None]
         rows.append([r["id"], " ".join(locs(r)), r.get("q") or "", r.get("from"), r.get("to"), bool(r.get("est")), r.get("removed"), r.get("first_seen"),
-                     r.get("lower") or "", r.get("upper") or "", r.get("sched") or "", c[0], c[1], r.get("radius") or 0, r.get("text") or ""])
+                     r.get("lower") or "", r.get("upper") or "", r.get("sched") or "", c[0], c[1], r.get("radius") or 0, r.get("text") or "", r.get("summary") or ""])
     write("notams.json", json.dumps({"updated": iso(NOW), "notams": rows}, ensure_ascii=False, separators=(",", ":")))
     urls = [(f"{BASE}/", iso(NOW)), (f"{BASE}/obstacles.html", iso(NOW)), (f"{BASE}/locations.html", iso(NOW))]
     urls += [(f"{BASE}/location/{k}.html", iso(NOW)) for k in sorted(by_loc)]
