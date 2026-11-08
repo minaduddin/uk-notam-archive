@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5,
+  0.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T20:36Z",
+ "from": "2026-11-08T22:00Z",
+ "id": "C7357/26",
+ "loc": [
+  "EGLC"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Opening hours extended at London City Airport.",
+ "summary_of": "66b401aa28be",
+ "text": "AD OPENING HR EXTD",
+ "to": "2026-11-08T22:30Z",
+ "type": "N",
+ "upper": ""
+}
