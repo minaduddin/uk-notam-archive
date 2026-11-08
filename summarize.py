@@ -54,7 +54,7 @@ def ask(key, batch):
     items = [{"id": r["id"], "location": r.get("loc") or [r.get("fir")], "qcode": r.get("q"),
               "lower": r.get("lower"), "upper": r.get("upper"), "schedule": r.get("sched"),
               "radius_nm": r.get("radius"), "text": r.get("text")} for r in batch]
-    body = {"model": MODEL, "max_tokens": 4000,
+    body = {"model": MODEL, "max_tokens": 16000, "output_config": {"effort": "low"},   # thinking counts toward max_tokens
             "messages": [{"role": "user", "content": PROMPT + json.dumps(items, ensure_ascii=False, indent=1)}]}
     req = urllib.request.Request(API_URL, data=json.dumps(body).encode("utf-8"), method="POST",
                                  headers={"x-api-key": key, "anthropic-version": "2023-06-01",
@@ -72,7 +72,7 @@ def ask(key, batch):
     text = "".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text")
     start, end = text.find("{"), text.rfind("}")
     if start < 0 or end < start:
-        raise ValueError("no JSON in the reply")
+        raise ValueError(f"no JSON in the reply (stop_reason={data.get('stop_reason')}): {text[:200]!r}")
     return json.loads(text[start:end + 1])
 
 
