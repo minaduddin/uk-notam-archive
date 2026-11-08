@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3833,
+  -1.4
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T19:42Z",
+ "from": "2026-11-15T18:30Z",
+ "id": "H6239/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "THU- SUN 1830-2030",
+ "summary": "Searchlight display within 2 nautical miles of Wolston, Thursday to Sunday, 6.30pm to 8.30pm.",
+ "summary_of": "f5fa7b62fef6",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 522234N 0012340W (WOLSTON).\nFOR INFO 07757 302976. AR-2026-8727/01.",
+ "to": "2026-12-20T20:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

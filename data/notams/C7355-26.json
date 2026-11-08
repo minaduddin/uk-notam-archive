@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5333,
+  -1.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T19:42Z",
+ "from": "2026-11-08T19:15Z",
+ "id": "C7355/26",
+ "loc": [
+  "EGNV"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 12,
+ "removed": null,
+ "sched": "",
+ "summary": "Teesside International airspace deactivated and aerodrome closed, with air traffic services unavailable due to controller breaks.",
+ "summary_of": "5883ad4e1f27",
+ "text": "TEESSIDE INTERNATIONAL CTA/CTR/ATZ DEACTIVATED. AD CLSD. AIRSPACE\nREVERTS TO CLASS G. ATS NOT AVBL DUE MANDATED CONTROLLER BREAKS. \nHELIMED MAY STILL OPR FM THE HEL EMERG SERVICES BASES. PILOTS \nTRANSITTING THE AREA ARE ADVISED TO MONITOR CH119.805. TIMES MAY BE \nSUBJ TO SHORT NOTICE CHANGE. ALL DEP MUST BE AIRBORNE 10 MIN \nBFR CLOSURE.",
+ "to": "2026-11-08T20:15Z",
+ "type": "N",
+ "upper": ""
+}
