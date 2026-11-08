@@ -54,7 +54,7 @@ def ask(key, batch):
     items = [{"id": r["id"], "location": r.get("loc") or [r.get("fir")], "qcode": r.get("q"),
               "lower": r.get("lower"), "upper": r.get("upper"), "schedule": r.get("sched"),
               "radius_nm": r.get("radius"), "text": r.get("text")} for r in batch]
-    body = {"model": MODEL, "max_tokens": 4000, "temperature": 0,
+    body = {"model": MODEL, "max_tokens": 4000,
             "messages": [{"role": "user", "content": PROMPT + json.dumps(items, ensure_ascii=False, indent=1)}]}
     req = urllib.request.Request(API_URL, data=json.dumps(body).encode("utf-8"), method="POST",
                                  headers={"x-api-key": key, "anthropic-version": "2023-06-01",
