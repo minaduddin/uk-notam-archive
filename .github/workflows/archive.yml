@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
-      contents: write         # commit data/PIB.xml and data/notams/
+      contents: write         # commit data/notams/ and upload daily snapshots to Releases
     outputs:
       deploy: ${{ steps.rec.outputs.records_changed == 'true' || github.event_name != 'schedule' }}
     steps:
@@ -33,9 +33,30 @@ jobs:
       - name: Update NOTAM records
         id: rec
         run: python build_site.py --records
+      - name: Daily raw snapshot to Releases
+        # One gzipped copy of the bulletin per day, kept as a Release file (not in the repo, so the repo stays small).
+        # Monthly release "snapshots-YYYY-MM", file "PIB-YYYY-MM-DD.xml.gz" (first good download of the day, UTC).
+        if: github.event_name != 'push' && hashFiles('data/PIB.xml') != ''
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          month=$(date -u +%Y-%m); day=$(date -u +%Y-%m-%d)
+          tag="snapshots-$month"; file="PIB-$day.xml.gz"
+          if ! gh release view "$tag" >/dev/null 2>&1; then
+            gh release create "$tag" --title "Raw PIB snapshots $month" \
+              --notes "One gzipped copy of the NATS PIB per day (UTC), exactly as downloaded. Unofficial copy: do not use for flight planning." \
+              --latest=false || gh release view "$tag" >/dev/null
+          fi
+          if gh release view "$tag" --json assets -q '.assets[].name' | grep -qx "$file"; then
+            echo "$file already saved"; exit 0
+          fi
+          gzip -9 -c data/PIB.xml > "$RUNNER_TEMP/$file"
+          gh release upload "$tag" "$RUNNER_TEMP/$file"
+          echo "saved $file to $tag"
       - name: Commit if anything changed
         run: |
-          git add data/
+          git add data/notams/
           if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

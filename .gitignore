@@ -1,3 +1,4 @@
 data/*.tmp
+data/PIB.xml
 __pycache__/
 _site/
