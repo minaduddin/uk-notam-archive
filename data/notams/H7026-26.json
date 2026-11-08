@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.55,
+  -2.8333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T11:37Z",
+ "from": "2026-11-15T10:30Z",
+ "id": "H7026/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "MODEL ROCKET FIRING WI 1NM RADIUS OF 513327N 0025006W (REDWICK).\nFOR INFO 07772 185526. AR-2026-9959/01.",
+ "to": "2026-11-15T16:00Z",
+ "type": "N",
+ "upper": "3600FT AMSL"
+}

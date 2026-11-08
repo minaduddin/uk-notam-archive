@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.6667,
+  -2.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T11:37Z",
+ "from": "2026-11-08T10:51Z",
+ "id": "L7083/26",
+ "loc": [
+  "EGBP"
+ ],
+ "lower": "",
+ "q": "FFCG",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "RFFS DOWNGRADED TO CAT 1",
+ "to": "2026-11-08T17:00Z",
+ "type": "N",
+ "upper": ""
+}
