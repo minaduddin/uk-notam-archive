@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aerodrome beacon at EGPU is unserviceable.",
+ "summary_of": "23298187bf10",
  "text": "AD BEACON U/S",
  "to": "2026-11-30T11:00Z",
  "type": "N",

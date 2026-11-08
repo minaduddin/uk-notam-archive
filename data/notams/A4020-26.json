@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Flying of large model aircraft within 0.5 nautical miles of Frodsham, from sunrise to sunset.",
+ "summary_of": "94a97d3b6085",
  "text": "FLYING OF LARGE MODEL ACFT WI 0.5NM RADIUS OF 531732N 0024517W\n(FRODSHAM).  FOR INFO 07745 707697. AR-2026-9656/01.",
  "to": "2027-01-09T16:14Z",
  "type": "N",

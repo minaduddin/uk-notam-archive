@@ -16,6 +16,8 @@
  "radius": 11,
  "removed": null,
  "sched": "09 11 0900-2200, 10 12 0900-1630, 13 0900-1500, 16 17 0900-2200, \n18 19 0900-1630, 20 0900-1500",
+ "summary": "Exercise with multiple helicopters and fixed-wing aircraft conducting flare firing within 10 nautical miles of North Somercotes, up to 5,000 feet.",
+ "summary_of": "abdaa79d2052",
  "text": "EXER. MULTIPLE ROTARY AND FIXED WING ACFT WILL CONDUCT FLARE \nFIRING WI 10NM RADIUS OF 532829N 0000907E (NORTH SOMERCOTES). FOR \nINFO 01507 359126. AR-2026-9887/01.",
  "to": "2026-11-20T15:00Z",
  "type": "N",

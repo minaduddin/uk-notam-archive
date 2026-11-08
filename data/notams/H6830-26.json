@@ -16,6 +16,8 @@
  "radius": 6,
  "removed": null,
  "sched": "08 12 0800-2300, 13 0800-1600",
+ "summary": "Aircraft flying low level and making high energy manoeuvres within 5 nautical miles of Middleton, up to 1,100 ft.",
+ "summary_of": "6e972eb34b5d",
  "text": "EXER TALON STORM. ACFT WILL OPERATE LOW LEVEL AND WILL CONDUCT \nHIGH ENERGY MANOEUVRES WI 5NM RADIUS OF 511059N 0012241W \n(MIDDLETON). ACFT MAY BE UNABLE TO COMPLY WITH RAC. FOR INFO 01449 \n728240. AR-2026-9717/01.",
  "to": "2026-11-13T16:00Z",
  "type": "N",

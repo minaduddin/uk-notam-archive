@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway link 35 at Heathrow Airport is closed.",
+ "summary_of": "67da67bea932",
  "text": "TWY LINK 35 CLSD.",
  "to": "2027-01-15T23:50Z",
  "type": "N",

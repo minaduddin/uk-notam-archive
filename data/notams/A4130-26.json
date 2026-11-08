@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Lit construction equipment at Heathrow Airport taxiway A North, up to 30 ft above ground level, only when runway 09L/27R is closed.",
+ "summary_of": "ab4ebfb332cb",
  "text": "LIT CONSTRUCTION EQUIPMENT OPR AT PSN 512833N 0002826W\n(HEATHROW AD, TWY A(NORTH) BTN TWY C AND E). MAX HGT 30FT AGL/111FT\nAMSL. NO OPS IN LVP. ONLY OPR WHEN RWY 09L/27R IS CLOSED. \nCRANE REF 20261006129. UK EGLL OBST DATASET WEF 21 JAN 2027 REFERS.",
  "to": "PERM",
  "type": "N",

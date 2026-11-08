@@ -16,6 +16,8 @@
  "radius": 16,
  "removed": null,
  "sched": "2200-0700",
+ "summary": "Reduced arrival rate at Prestwick overnight, 2200 to 0700, due to a single air traffic controller; delays possible for diversions.",
+ "summary_of": "22bb5a48abd4",
  "text": "PRESTWICK RADAR REDUCED FLOW RATE DUE TO ATC SINGLE CONTROLLER. \nACFT WISHING TO USE PRESTWICK AS AN ALTN MAY EXPERIENCE DELAYS. ALL \nACFT INBOUND TO PRESTWICK ARE TO MONITOR 121.5MHZ AS MANDATED.",
  "to": "2026-11-14T07:00Z",
  "type": "N",

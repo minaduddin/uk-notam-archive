@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "1400-2200",
+ "summary": "Swarm of 100 drones within 0.1 nautical miles of Middlemoor, maximum height 400 feet above ground.",
+ "summary_of": "63789b686379",
  "text": "UAS SWARM OPR WI 0.1NM RADIUS OF 504308N 0033244W (MIDDLEMOOR). \nSWARM MADE UP OF 100 UAS. MAX HGT 400FT AGL. FOR INFO 07481 557474. \nAR-2026-10332/01.",
  "to": "2026-11-13T22:00Z",
  "type": "N",

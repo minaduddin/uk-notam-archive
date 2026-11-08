@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Distance-measuring equipment for the runway 27 instrument landing system at EGSH has an out-of-sync identification tone, but remains operational.",
+ "summary_of": "d77a99dea42a",
  "text": "DME ASSOCIATED WITH ILS RWY 27 ID TONE NOT SYNCHRONISED WITH LOC. \nDME AND LOC INH CH46X 110.900MHZ REMAIN OPR.",
  "to": "2027-01-07T21:30Z",
  "type": "N",

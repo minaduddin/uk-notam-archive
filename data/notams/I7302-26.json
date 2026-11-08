@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 13/31 closed at EGEW due to waterlogging.",
+ "summary_of": "2d39248204a3",
  "text": "RWY 13/31 CLSD DUE WATERLOGGING",
  "to": "2027-01-23T11:30Z",
  "type": "N",

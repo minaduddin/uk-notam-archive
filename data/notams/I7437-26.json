@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Revised Wick aerodrome operating hours at EGPC: Monday to Thursday 0745-1715, Friday 1515-1630, Saturday closed, Sunday 1615-1800.",
+ "summary_of": "52eccaff0f61",
  "text": "REVISED WICK ATZ AND AD OPR HR:\nMON-THU 0745-1715\nFRI     1515-1630\nSAT     CLSD\nSUN     1615-1800\nUK AIP EGPC AD 2.3, AD 2.17, AD 2.18 REFERS.",
  "to": "PERM",
  "type": "R",

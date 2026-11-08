@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "0900-1900",
+ "summary": "Large model aircraft flying within 1 nautical mile of Ravensden, up to 1,300 feet above sea level, 9am to 7pm.",
+ "summary_of": "981733fd57ec",
  "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 521126N 0002448W\n(RAVENSDEN).  FOR INFO 07876 200320. AR-2026-8373/01.",
  "to": "2026-12-31T19:00Z",
  "type": "N",

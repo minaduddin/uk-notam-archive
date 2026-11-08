@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Fuel hydrant system unavailable in Terminal 3 and Terminal 2 at EGCC.",
+ "summary_of": "7655b200240e",
  "text": "FUEL HYDRANT SYSTEM NOT AVBL IN TERMINAL 3 FROM 2130. \nFUEL HYDRANT SYSTEM NOT AVBL IN TERMINAL 2 FROM 2230",
  "to": "2026-11-10T04:30Z",
  "type": "N",

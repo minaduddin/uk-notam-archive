@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Notice relating to reconfiguration of the south-east ramp at Edinburgh Airport.",
+ "summary_of": "fb95b822d1e4",
  "text": "TRIGGER NOTAM - AIP SUP 116/2026 WEF 01 NOV 2026 UNTIL 31 MAR \n2027. EDINBURGH AIRPORT (EGPH) - SOUTHEAST RAMP RECONFIGURATION",
  "to": "2026-11-14T23:59Z",
  "type": "N",

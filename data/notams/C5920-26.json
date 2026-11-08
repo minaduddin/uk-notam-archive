@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0700-1800",
+ "summary": "Crane up to 83 ft above ground, 213 ft above sea level, near Exeter, daily from 0700 to 1800.",
+ "summary_of": "a1e970fcfe27",
  "text": "CRANE OPR 504341N 0032844W (EXETER) MAX HGT 213FT AMSL /83FT AGL.",
  "to": "2026-12-08T18:00Z",
  "type": "N",

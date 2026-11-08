@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Revised instrument approach minimums for runways 11 and 29 at EGEC, with altitudes raised to 1,560 ft and 1,950 ft.",
+ "summary_of": "8cb41d4b7d37",
  "text": "INSTRUMENT APPROACH CHARTS RNP RWY 11 AND RWY 29 - AMEND NORTH OF\nRWY 11/29 VM(C)OCA (OCH AAL) CAT C TO 1560(1521) AND CAT D TO\n1950(1911). UK AIP AD 2.EGEC-8-1/8-2 REFERS.",
  "to": "PERM",
  "type": "N",

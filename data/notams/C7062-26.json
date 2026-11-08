@@ -16,6 +16,8 @@
  "radius": 21,
  "removed": null,
  "sched": "01 05 09 12 13 17 18 25 29 1900-1935, 07 08 15 16 23 24 \n0800-0835, 20 21 28 0800-0835 1900-1935",
+ "summary": "Isle of Man controlled airspace deactivated and aerodrome, tower and approach closed at EGNS on certain days and evenings.",
+ "summary_of": "dabc67d30db2",
  "text": "ISLE OF MAN CTA/CTR/ATZ DEACTIVATED, AD/TWR/APP CLSD. \nLAST RWY MOVEMENT 15 MIN BEFORE CLOSURE.",
  "to": "2026-11-29T19:35Z",
  "type": "N",

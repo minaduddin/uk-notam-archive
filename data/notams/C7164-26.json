@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "1400-2200",
+ "summary": "Swarm of 100 drones operating within 0.1 nautical miles of Haye, up to 400 ft above ground, 1400 to 2200.",
+ "summary_of": "46b8efa0ccf1",
  "text": "UAS SWARM OPR WI 0.1NM RADIUS OF 512239N 0000122E (HAYE). SWARM\nMADE UP OF 100 UAS. MAX HGT 400FT AGL. FOR INFO 07481 557474.\nAR-2026-10331/01.",
  "to": "2026-11-08T22:00Z",
  "type": "N",

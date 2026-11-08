@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Steel plate on taxiway Alpha, 33 metres west of A9 at EGPH.",
+ "summary_of": "110f99ce46b1",
  "text": "STEEL PLATE TWY ALPHA 33M WEST OF A9",
  "to": "2026-11-30T23:59Z",
  "type": "N",

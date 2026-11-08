@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "1400-2200",
+ "summary": "Swarm of 150 drones operating within 0.1 nautical miles of Trimstone, up to 400 ft above ground level.",
+ "summary_of": "fd6b75649ee2",
  "text": "UAS SWARM OPR WI 0.1NM RADIUS OF 511007N 0041018W (TRIMSTONE).\nSWARM MADE UP OF 150 UAS. MAX HGT 400FT AGL. FOR INFO 07481 557474. \nAR-2026-10330/01.",
  "to": "2026-11-08T22:00Z",
  "type": "N",

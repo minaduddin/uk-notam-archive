@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Large model aircraft flying within 0.5 nautical miles of a point 1 nautical mile north-east of Winterton, up to 1,600 ft.",
+ "summary_of": "5073c11b865e",
  "text": "FLYING OF LARGE MODEL ACFT WI 0.5NM RADIUS OF 533943N 0003340W\n(1NM NE OF WINTERTON).  FOR INFO 07508 525011. AR-2026-8486/01.",
  "to": "2026-12-18T15:42Z",
  "type": "R",

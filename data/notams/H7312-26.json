@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Drones flying beyond visual line of sight within 0.1 nautical miles of Calverton, up to 110 ft above ground level.",
+ "summary_of": "8d03b1e2fe4a",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) WI 0.1NM RADIUS OF\n520248N 0004936W (CALVERTON). ATYPICAL UAS OPR MAX HGT 110FT AGL.\nFOR INFO 07762 568181 / 07710 700830. AR-2026-9993/04.",
  "to": "2027-01-10T23:59Z",
  "type": "N",

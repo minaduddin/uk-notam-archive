@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Air-to-ground radio service not available at EGNC.",
+ "summary_of": "41f683e2c100",
  "text": "A/G SERVICE NOT AVBL.",
  "to": "2026-11-09T17:00Z",
  "type": "N",

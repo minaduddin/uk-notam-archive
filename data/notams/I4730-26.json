@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Meteorological information at EGAA now provided by Network Operations Centre Northolt instead of Met Office Exeter.",
+ "summary_of": "bf8aa1d96f72",
  "text": "AMEND ASSOCIATED MET OFFICE FROM EXETER TO NETWORK OPERATIONS\nCENTRE NORTHOLT.\nUK AIP EGAA AD 2.11-1 AND AD 2.11-3 REFERS.",
  "to": "PERM",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aerodrome closed at EGTP.",
+ "summary_of": "167f0f66585c",
  "text": "AERODROME CLOSED",
  "to": "2026-11-14T17:00Z",
  "type": "N",

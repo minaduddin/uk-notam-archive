@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 04/22 closed at EGTP.",
+ "summary_of": "6d76ecc3b53f",
  "text": "RWY 04/22 CLOSED",
  "to": "2026-11-14T08:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway A North closed between taxiways C and E at EGLL.",
+ "summary_of": "81eca26e0975",
  "text": "TWY A NORTH CLSD BTN TWY C AND TWY E.",
  "to": "2026-12-16T23:50Z",
  "type": "N",

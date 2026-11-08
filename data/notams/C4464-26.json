@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Shoreham airspace hours set at 0800-2000 Monday to Friday, 0900-2000 Saturday and 0900-1900 Sunday.",
+ "summary_of": "15193af3e4af",
  "text": "ATS AIRSPACE - ADD SHOREHAM ATZ HOURS\nMON-FRI   0800-2000 (0700-1900)\nSAT       0900-2000 (0800-1900)\nSUN       0900-1900 (0800-1800)\nREMOVE 'ATZ HOURS COINCIDENT WITH APPROACH/TOWER/A/G HOURS' FROM\nREMARKS IN AD 2.18.\nUK AIP EGKA AD 2.17-6, AD 2.18-7 AND DIGITAL DATASET REFERS.",
  "to": "PERM",
  "type": "N",

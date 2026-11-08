@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway Alpha closed north of A6 at EGHI.",
+ "summary_of": "6d4aefce5e90",
  "text": "TWY ALPHA CLOSED NORTH OF A6",
  "to": "2026-11-09T16:00Z",
  "type": "N",

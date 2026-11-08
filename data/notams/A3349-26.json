@@ -16,6 +16,8 @@
  "radius": 12,
  "removed": null,
  "sched": "OCT 01-24 0500-1800, OCT 25 - NOV 30 0600-1900",
+ "summary": "Aerial survey flights in an area near Nantgawr, surface to 6,600 ft above sea level.",
+ "summary_of": "54bc4059e35a",
  "text": "AERIAL SURVEY WI AREA BOUNDED BY 514557N 0031740W - \n512903N 0030454W - 512358N 0032156W - 514557N 0031740W (NANTGAWR).  \nFOR INFO 00455 3738360. AR-2026-8049/02.",
  "to": "2026-11-30T19:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "",
+ "summary": "Londonderry/Eglinton aerodrome traffic zone hours changed, varying by day, and available by arrangement.",
+ "summary_of": "d3fa6f50042d",
  "text": "LONDONDERRY/EGLINTON ATZ HOURS OF APPLICABILITY TO READ\nMON 0625-0730 (0525-0630), 0830-1930 (0730-1830), 2030-2200\n(1930-2100)\nTUE-FRI 0625-0730 (0525-0630), 0830-1900 (0730-1800), 2000-2200\n(1900-2100)\nSAT 0625-0730 (0525-0630), 0900-1600 (0800-1500), 1700-1800\n(1600-1700)\nSUN 0855-0930 (0755-0830), 1230-1845 (1130-1745), 1930-2200\n(1830-2100) AND BY ARRANGEMENT.\nUK AIP EGAE AD 2.17 AND DIGITAL DATASET REFERS.",
  "to": "PERM",
  "type": "N",

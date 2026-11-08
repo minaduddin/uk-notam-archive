@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Helicopter air taxiing not permitted on runway 08/26 between runway 26 threshold and holding point Sierra at EGNJ.",
+ "summary_of": "d29fd30918c8",
  "text": "RWY 08/26 HEL AIR TAXI NOT PERMITTED BTN RWY 26 THR AND\nHOLDING POINT SIERRA",
  "to": "2026-12-01T21:45Z",
  "type": "N",

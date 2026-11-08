@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0800-1800 EXC SUN",
+ "summary": "Crane up to 157 ft above ground near Hayes, operating 0800 to 1800 except Sundays.",
+ "summary_of": "b02571c855b6",
  "text": "LIT CRANE OPR WITHIN AN AREA BOUNDED BY 513013N 0002446W -\n513013N 0002443W - 513011N 0002444W - 513011N 0002446W (HAYES).\nMAX HGT 157FT AGL / 267FT AMSL. NO OPS DURING LOW VIS. CRANE REF\n2026081477.",
  "to": "2026-11-24T18:00Z",
  "type": "R",

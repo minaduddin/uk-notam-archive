@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Fixed-wing aircraft weighing 2000 kg or less not permitted within 5 nautical miles of EGBB; helicopters remain permitted and emergency aircraft are exempt.",
+ "summary_of": "5ef548950f92",
  "text": "FIXED WING ACFT GROUPS 1-3 (MTOW 2000KG AND UNDER) NOT ACPT. HEL \nREMAIN PERMISSABLE. EMERG ACFT EXEMPT",
  "to": "2027-01-31T23:59Z",
  "type": "R",

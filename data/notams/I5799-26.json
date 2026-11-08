@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Instrument approaches at Cumbernauld Airport require a pre-booked approach time slot.",
+ "summary_of": "24740a5cd0b5",
  "text": "FLIGHT PROCEDURES - INSTRUMENT APPROACH PROCEDURES (IAP)\nTHE IAP MUST HAVE A WRITTEN PRE-BOOKED APPROACH TIME SLOT FROM\nCUMBERNAULD AIRPORT WEBSITE WWW.CUMBERNAULDAIRPORT.ORG WHICH MUST\nBE ADHERED TO. UK AIP EGPG AD 2.22-4/B REFERS.",
  "to": "PERM",
  "type": "N",

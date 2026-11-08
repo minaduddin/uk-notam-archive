@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "0900-2130",
+ "summary": "Searchlight display within 1 nautical mile of Greasby, from 0900 to 2130.",
+ "summary_of": "3aad6c7b83ef",
  "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 532244N 0030722W (GREASBY).\nFOR INFO 07513 103686. AR-2026-10433/01.",
  "to": "2027-01-10T21:30Z",
  "type": "N",

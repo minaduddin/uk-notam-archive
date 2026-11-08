@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0800-1700",
+ "summary": "Multiple cranes up to 90.88 feet high at Aldergrove, daily 0800 to 1700.",
+ "summary_of": "2d6625ac3739",
  "text": "MULTIPLE CRANES OPR PSN 543917.94N 0061406.57W (ALDERGROVE)\nMAX HGT 90.88FT AGL, 283.35FT AMSL.",
  "to": "2026-11-20T17:00Z",
  "type": "N",

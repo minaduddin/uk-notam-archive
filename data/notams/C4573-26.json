@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Tower crane at Cranbrook up to 171ft above ground level, 267ft above sea level.",
+ "summary_of": "b313878f0ba4",
  "text": "TOWER CRANE OPR 504508N 0032407W (CRANBROOK) MAX HGT 267FT AMSL, \n171FT AGL",
  "to": "2026-11-25T23:59Z",
  "type": "N",

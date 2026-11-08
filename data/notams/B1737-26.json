@@ -16,6 +16,8 @@
  "radius": 217,
  "removed": null,
  "sched": "",
+ "summary": "Scottish Flight Information Service frequency 134.850 MHz (Area B) is unavailable for maintenance, with 133.875 MHz to be used instead.",
+ "summary_of": "ca25c18c28fe",
  "text": "SCOTTISH FIS FREQ 134.850MHZ (AREA B) NOT AVBL DUE MAINT.\nPILOTS ARE REQ TO USE ALTN FREQ 133.875MHZ.",
  "to": "2026-11-10T12:00Z",
  "type": "N",

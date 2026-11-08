@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 07/25 not available for night or low visibility landings or departures at EGPI.",
+ "summary_of": "5629dd6cbaa1",
  "text": "RWY 07/25 NOT AVBL FOR NIGHT TIME OR LOW VIS LANDINGS/DEPARTURES",
  "to": "2026-11-30T18:40Z",
  "type": "N",

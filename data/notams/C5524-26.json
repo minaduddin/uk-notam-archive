@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "OCT 01-OCT 24 0700-1530, OCT 25-JAN 01 0800-1630",
+ "summary": "Crane up to 148 ft above ground, 247 ft above sea level, near Cranbrook, Exeter.",
+ "summary_of": "985228dc5a38",
  "text": "CRANE OPR 504503N 0032404W (CRANBROOK, EXETER) MAX HGT 247FT AMSL \n/ 148FT AGL.",
  "to": "2027-01-01T16:30Z",
  "type": "N",

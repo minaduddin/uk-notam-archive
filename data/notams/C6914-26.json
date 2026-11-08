@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Apron and taxiway pavement strength ratings replaced at EGHI, with new values for stands and taxiways.",
+ "summary_of": "1c4e6771ab71",
  "text": "REPLACE APRON PCN WITH PCR VALUES AS FOLLOWS:\nSTAND 2-4 PCR 360/F/B/W/U\nSTAND 5 PCR 560/R/C/W/T\nSTAND 6-14 PCR 171/F/C/W/U\nREPLACE TWY PCN WITH PCR VALUES AS FOLLOWS:\nTWY A (BTN A1-A5) PCR 250/F/C/X/U\nTWY A (NORTH OF A5) PCR 290/F/C/X/U\nTWY B PCR 350/R/B/W/U\nTWY CUL-DE-SAC PCR 360/F/B/X/U\nUK AIP EGHI AD 2.8 REFERS.",
  "to": "PERM",
  "type": "N",

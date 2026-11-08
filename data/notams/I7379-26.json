@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "MON FRI SAT SUN 0200-0330, TUE 0130-0900 1700-0900, WED 1700-0330",
+ "summary": "Passenger handling and terminal building services unavailable at Prestwick Airport during set overnight periods; stands available for fuelling and departures only.",
+ "summary_of": "cb0b255f9f61",
  "text": "PAX HANDLING AND TERMINAL BLDG SER NOT AVBL, ACFT STANDS AVBL FOR \nFUEL AND GO ONLY",
  "to": "2026-11-29T03:30Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Drone swarm of 500 drones operating within 0.8 nautical miles of Farley Hill, up to 400 feet above ground.",
+ "summary_of": "424aafbb8675",
  "text": "UAS SWARM OPR WI 0.8NM RADIUS OF 512237N 0005608W (FARLEY HILL).\nSWARM MADE UP OF 500 UAS. MAX HGT 400FT AGL. FOR INFO 07405 188200. \nAR-2026-7846/01.",
  "to": "2026-11-29T23:30Z",
  "type": "N",

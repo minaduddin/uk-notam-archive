@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "SEP 23-OCT 24 0930-2100, OCT 25-DEC 16 1030-2200",
+ "summary": "Large model aircraft flying within 1 nautical mile of Morpeth, from the surface to 1,400 ft, on set dates and times.",
+ "summary_of": "0b1a45b75a16",
  "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 550742N 0014412W\n(MORPETH).  FOR INFO 07595 033089. AR-2026-8384/01.",
  "to": "2026-12-16T22:00Z",
  "type": "N",

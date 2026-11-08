@@ -16,6 +16,8 @@
  "radius": 20,
  "removed": null,
  "sched": "MON-FRI 2330-0600",
+ "summary": "Birmingham controlled airspace deactivated and aerodrome closed at EGBB, Monday to Friday 2330 to 0600, for winter maintenance.",
+ "summary_of": "c4f07ac97dd3",
  "text": "BIRMINGHAM CTA/CTR DEACTIVATED. ATC CLSD. AD CLSD. PILOTS ARE TO \nMAKE BLIND TRANSMISSIONS WHEN LEAVING THE LATERAL CONFINES OF THE \nCTR/CTA. CLOSURE DUE TO AIRFIELD WINTER MAINT. AIP SUPPLEMENT \n110/2026 REFERS.",
  "to": "2026-12-05T06:00Z",
  "type": "N",

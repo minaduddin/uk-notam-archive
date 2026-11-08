@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Large model aircraft flying within 1 nautical mile of Ramsdean, up to 2,300 feet above sea level, between sunrise and sunset.",
+ "summary_of": "4e559f4080f2",
  "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 505833N 0010222W\n(RAMSDEAN). FOR INFO 07739 347722. AR-2026-9187/01.",
  "to": "2026-12-28T16:04Z",
  "type": "N",

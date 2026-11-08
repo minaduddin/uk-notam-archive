@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "07 2000-2020, 08 1800-1820",
+ "summary": "Fireworks within 0.5 nautical miles of Wood Green, up to 1,200 ft, in the evenings.",
+ "summary_of": "408d33b2c294",
  "text": "FIREWORKS WI 0.5NM RADIUS OF 513534N 0000740W (WOOD GREEN).  FOR\nINFO 07766 302000 / 07938 001511. AR-2026-9298/01.",
  "to": "2026-11-08T18:20Z",
  "type": "N",

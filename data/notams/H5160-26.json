@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "AUG 18 - OCT 24 1100-2259, OCT 25 - NOV 15 1200-2359",
+ "summary": "Drone swarm of 1,000 drones operating within 0.2 nautical miles of Norton St Philip, up to 400 feet above ground.",
+ "summary_of": "90c8a0cfd77d",
  "text": "UAS SWARM OPR WI 0.2NM RADIUS OF 511817N 0021844W (NORTON ST \nPHILLIP). SWARM MADE UP OF 1000 UAS. MAX HGT 400FT AGL. FOR INFO\n07915 311799. AR-2026-7398/01.",
  "to": "2026-11-15T23:59Z",
  "type": "N",

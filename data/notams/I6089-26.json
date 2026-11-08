@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Glasgow navigation beacon may show bearing fluctuations between 340 and 020 degrees magnetic due to a temporary crane nearby.",
+ "summary_of": "28b143a7496c",
  "text": "VOR/DME GOW/GLASGOW 115.40 MHZ CH101X THERE MAY BE OBSERVATIONS OF\nDVOR BEARING FLUCTUATIONS WITHIN THE 340-020 DEG. MAG. SECTOR\nRADIALS FROM THE GLASGOW VOR/DME STATION, DUE TO A TEMPORARY\nCRANE IN THE VICINITY",
  "to": "2027-01-15T17:30Z",
  "type": "N",

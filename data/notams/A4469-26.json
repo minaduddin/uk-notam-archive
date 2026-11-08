@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aviation petrol not available at EGSC.",
+ "summary_of": "63d2e2bdb3b8",
  "text": "AVGAS NOT AVBL",
  "to": "2026-11-13T12:00Z",
  "type": "N",

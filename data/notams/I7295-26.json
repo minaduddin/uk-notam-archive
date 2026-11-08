@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Instrument landing system for low-visibility approaches at EGNT may be unavailable during high-voltage generator testing.",
+ "summary_of": "13f6d73ded72",
  "text": "ILS CAT 3 APCH MAY NOT BE AVBL DUE HIGH VOLTAGE GENERATOR \nTESTING. ILS CAT 3 WILL REMAIN AVBL DURING LOW VISIBILITY.",
  "to": "2026-11-10T18:00Z",
  "type": "N",

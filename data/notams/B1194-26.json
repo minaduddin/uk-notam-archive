@@ -17,6 +17,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Distance measuring equipment at Sleipner A, channel 102X, is out of service at ENOR and EGPX.",
+ "summary_of": "a0babccff593",
  "text": "DME SPA/SLEIPNER A CH102X U/S",
  "to": "2026-11-17T16:00Z",
  "type": "N",

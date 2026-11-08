@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "OCT 12-24 0700-2100, OCT 25-NOV 22 0800-2200",
+ "summary": "Large model aircraft flying within half a nautical mile of Henham, surface to 2,000 ft above sea level.",
+ "summary_of": "a9001a7dfdc6",
  "text": "FLYING OF LARGE MODEL ACFT WI 0.5NM RADIUS OF 515642N 0001607E\n(HENHAM).  FOR INFO 07847 427866. AR-2026-9371/02.",
  "to": "2026-11-22T22:00Z",
  "type": "N",

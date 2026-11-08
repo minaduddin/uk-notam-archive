@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 13/31 closed due to waterlogging at aerodrome EGEN.",
+ "summary_of": "a013ea8f8c35",
  "text": "RWY 13/31 CLSD DUE WATERLOGGING.",
  "to": "2027-01-01T12:00Z",
  "type": "N",

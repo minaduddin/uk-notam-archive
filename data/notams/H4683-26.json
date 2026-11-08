@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Large model aircraft flying within 1 nautical mile of London Colney, up to 2,000 feet, from sunrise to sunset daily.",
+ "summary_of": "9e2152e605b9",
  "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 514301N 0001544W\n(LONDON COLNEY).  FOR INFO 07710 924721. AR-2026-6744/01.",
  "to": "2026-11-14T16:13Z",
  "type": "N",

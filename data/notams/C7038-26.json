@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Obstacle light on a 36.39 feet mast at Blackpool aerodrome out of service.",
+ "summary_of": "dc712d534019",
  "text": "NDB OBST LGT U/S PSN 534623.35N 0030140.59W (BLACKPOOL AD) \nMAST HGT 36.39FT AGL/65.25FT AMSL",
  "to": "2026-11-30T20:00Z",
  "type": "N",

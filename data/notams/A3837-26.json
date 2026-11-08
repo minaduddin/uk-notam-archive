@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "OCT 12-24 0700-1600, OCT 25-NOV 30 0800-1700",
+ "summary": "Crane up to 115 ft high near Southend.",
+ "summary_of": "05212d8c8379",
  "text": "CRANE OPR PSN 513337.37N 0004339.27E (HDG 116 DEG MAG, 2603M FM\nSOUTHEND ARP). MAX HGT 115FT AGL/171FT AMSL",
  "to": "2026-11-30T17:00Z",
  "type": "N",

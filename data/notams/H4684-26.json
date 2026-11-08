@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Large model aircraft flying within 1 nautical mile of Langham, Norfolk, up to 1,700 feet, from sunrise to sunset daily.",
+ "summary_of": "cb4efbdad2dc",
  "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 525528N 0005747E\n(LANGHAM, NORFOLK).  FOR INFO 07710 924721. AR-2026-6746/01.",
  "to": "2026-11-14T16:03Z",
  "type": "N",

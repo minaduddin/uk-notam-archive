@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "03 07 10-15 0900-1600",
+ "summary": "Live firing within 2 nautical miles of Barton Road small arms range, with air danger height, on selected days in October, 0900 to 1600.",
+ "summary_of": "bf7e12c0a42c",
  "text": "LIVE FIRING WI 2NM RADIUS OF 521147N 0000317E (BARTON ROAD SMALL\nARMS RANGE). INCREASE TO AIR DANGER HEIGHT. FOR INFO 07818 900806\n/ 07977 346026. AR-2026-10135/01.",
  "to": "2026-11-15T16:00Z",
  "type": "N",

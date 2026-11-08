@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1700-0700",
+ "summary": "Flare firing within 1.2 nautical miles of Rushmoor, up to 1,500 feet, with flares descending by parachute.",
+ "summary_of": "019e1eff4d2a",
  "text": "FLARE FIRING WI 1.2NM RADIUS OF 510927N 0004358W (RUSHMOOR).\nFLARES WILL DESCEND BY PARACHUTE. FOR INFO 07484 516900.\nAR-2026-9775/01.",
  "to": "2026-11-19T07:00Z",
  "type": "N",

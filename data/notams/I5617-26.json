@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "No training circuits or training flights shorter than 30 minutes at EGAA.",
+ "summary_of": "263385917bcc",
  "text": "NO TRAINING CIRCUITS OR TRAINING SORTIES OF LESS THAN 30 MINS",
  "to": "2026-11-24T17:00Z",
  "type": "N",

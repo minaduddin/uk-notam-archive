@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0800-1730",
+ "summary": "Unmanned aircraft flying within a tiny area around Milton, surface to 191 ft above sea level, between 0800 and 1730.",
+ "summary_of": "c369faac2811",
  "text": "UAS OPR 0.005NM RADIUS CENTERED PSN 521410N 0000916E (MILTON) \nSFC TO 191FT AMSL/165AGL",
  "to": "2026-11-15T17:30Z",
  "type": "N",

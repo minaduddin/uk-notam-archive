@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Crane up to 99 feet above ground level, about 0.36 nautical miles from Islay aerodrome.",
+ "summary_of": "aa8dd0bbf32b",
  "text": "CRANE OPR 554118N 0061557W (0.36NM /661M HDG 328 DEG MAG ISLAY \nARP) MAX HGT 99FT AGL /101FT AMSL",
  "to": "2026-12-31T18:40Z",
  "type": "N",

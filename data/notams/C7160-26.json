@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0700-1730",
+ "summary": "Crane up to 80 ft above ground near the Isle of Man aerodrome, 0700 to 1730.",
+ "summary_of": "89a9ca75bb9d",
  "text": "CRANE OPR PSN 540545N 0043732W (VCY ISLE OF MAN AD) MAX JIB HGT\n80FT AGL 195FT AMSL.",
  "to": "2026-12-19T17:30Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "2130-0600",
+ "summary": "All lighting on runway 09/27 at Shoreham is unavailable, including pilot controlled lighting, and vehicles and personnel are working on the runway.",
+ "summary_of": "cdae3e739346",
  "text": "ALL LIGHTING ON RWY 09/27 NOT AVBL DUE WIP. PILOT CONTROLLED\nLIGHTING (PCL) NOT AVBL. VEHICLES AND PERSONNEL OPR WI RWY\n09/27",
  "to": "2026-11-13T06:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Crane up to 66 ft above ground near Heathrow, operating only when runway 09L/27R is closed.",
+ "summary_of": "2dec272eb34a",
  "text": "LIT CRANE OPR PSN 512850N 0002633W (HEATHROW). MAX HGT 66FT AGL, \n150FT AMSL. CRANE WILL ONLY OPERATE WHEN RWY 09L/27R IS CLSD. NO \nCRANE OPR IN LVP REF 20261023153.",
  "to": "2026-11-27T04:30Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 05/23 entry and exit point B1 closed due to work in progress at EGPF.",
+ "summary_of": "e119a1ad370d",
  "text": "RWY 05/23 ENTRY/EXIT B1 CLSD DUE WIP",
  "to": "2027-01-04T23:59Z",
  "type": "R",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Laser display within 1 nautical mile of Brentwood.",
+ "summary_of": "d8ba92c266f4",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 513703N 0001903E (BRENTWOOD).  FOR\nINFO 07903 580772. AR-2026-9218/01.",
  "to": "2026-11-12T20:30Z",
  "type": "N",

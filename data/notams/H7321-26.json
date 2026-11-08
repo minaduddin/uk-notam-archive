@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Fly-in event within 2 nautical miles of Garton, up to 4,100 ft, between sunrise and sunset.",
+ "summary_of": "326f65b7456b",
  "text": "FLY-INS WI 2NM RADIUS OF 534810N 0000511W (GARTON). FOR INFO \n07488 237892. AR-2026-10449/01.",
  "to": "2026-11-08T16:14Z",
  "type": "N",

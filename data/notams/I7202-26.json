@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0730-1700",
+ "summary": "Mobile crane up to 77 feet and piling rig up to 53 feet above ground near Belfast City, between 0730 and 1700.",
+ "summary_of": "99d16f3ba9a9",
  "text": "MOBILE CRANE AND PILING RIG OPR PSN 543759N 0055105W (BELFAST\nCITY). MOBILE CRANE MAX HGT 77FT AGL/83FT AMSL. PILING RIG MAX HGT\n53FT AGL/59FT AMSL",
  "to": "2027-01-18T17:00Z",
  "type": "N",

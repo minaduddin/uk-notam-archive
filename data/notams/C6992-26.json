@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "09 1930-2359, 10-11 0001-2359, 12 0001-0630",
+ "summary": "Illuminants, which descend by parachute, within 0.32 nautical miles of Frimley, Surrey, up to 1376 feet above sea level.",
+ "summary_of": "31af79502274",
  "text": "ILLUMINANTS WI 0.32NM RADIUS OF 511822N 0004125W (FRIMLEY, \nSURREY). ILLUMINANTS WILL DESCEND BY PARACHUTE. FOR INFO \n07484 516900/07350 432476. AR-2026-10205/02.",
  "to": "2026-11-12T06:30Z",
  "type": "N",

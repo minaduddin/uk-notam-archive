@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "2000-0600",
+ "summary": "Laser display within 1 nautical mile of Currie, Edinburgh, 2000 to 0600.",
+ "summary_of": "fe82777b5ff0",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 555452N 0031859W (CURRIE, \nEDINBURGH). FOR INFO 07927 557851 / 078890 29022. AR-2026-9922/01.",
  "to": "2026-11-09T06:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "OCT 12-24 0700-2259, OCT 25-DEC 17 0800-2359, DEC 18 0800-1300",
+ "summary": "Live firing in an area bounded by stated coordinates near Monifieth, up to 750 feet above ground.",
+ "summary_of": "73d4337b2fb1",
  "text": "LIVE FIRING WI AREA BOUNDED BY \n562741N 0024748W - 562743N 0024129W - 562721N 0024128W - \n562718N 0024748W - 562741N 0024748W (MONIFIETH). HGT UP TO 750FT \nAGL. FOR INFO 07990 778961 / 07717 542336. AR-2026-8883/01.",
  "to": "2026-12-18T13:00Z",
  "type": "N",

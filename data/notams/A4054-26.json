@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Manchester Airport runway 05L instrument landing system outage notice has been cancelled.",
+ "summary_of": "aaf93002581b",
  "text": "SUP 102/2026 MANCHESTER AIRPORT (EGCC) - RWY 05L ILS OUTAGE\nSUP CANCELLED",
  "to": "2026-11-11T23:59Z",
  "type": "N",

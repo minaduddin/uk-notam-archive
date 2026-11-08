@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 23 approach at EGNV has its minimum safe altitude raised from 720 to 1020 feet.",
+ "summary_of": "d6e1cf9a6a77",
  "text": "INSTRUMENT APPROACH CHART NDB(L) RWY 23 - NDB(L) TD MOCA INCREASED\nFROM 720(604) TO 1020(904). \nUK AIP AD 2.EGNV-8-7 REFERS.",
  "to": "PERM",
  "type": "N",

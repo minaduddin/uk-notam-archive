@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "",
+ "summary": "Humberside airport's opening hours changed for Friday to Sunday, with early and late flights needing prior permission.",
+ "summary_of": "0c5b6c0328b9",
  "text": "HUMBERSIDE ATZ, ATS AND AD HR OF SERVICE ARE NOW:\nFRI   0600-0630(PPR), 0730-1800, 2040-2135(PPR)\nSAT   0600-0630(PPR), 0900-1800, 2040-2135(PPR)\nSUN   0600-0630(PPR), 0730-0830(PPR), 0900-1800, 2040-2135(PPR)\nPILOTS ARE REQ TO AVOID PLANNING AN ARR OR DEP LATER THAN CLOSING \nTIMES MINUS 15 MINS. INBOUND ACFT SHOULD ALLOW SUFFICIENT TIME TO \nRECEIVE AN ATS AFTER AD REOPENING.",
  "to": "2026-11-08T21:35Z",
  "type": "N",

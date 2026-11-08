@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 04 approach slope lights relocated and runway 22 lights height changed at EGAC.",
+ "summary_of": "8bc3a40da4a3",
  "text": "AMEND RWY 04 PAPI DUE RELOCATION - LEFT/3DEG, MEHT 52FT, DIST FM\nTHR 314M.\nRWY 22 PAPI MEHT CHANGED TO 52FT.\nUK AIP AD 2.14, AD 2.24 AND DIGITAL DATASET REFERS.",
  "to": "PERM",
  "type": "N",

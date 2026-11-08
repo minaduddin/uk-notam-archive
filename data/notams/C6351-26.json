@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1600-2359",
+ "summary": "Lasers and searchlights within 1 nautical mile of Tingley, daily from 1600 to 2359.",
+ "summary_of": "ffca0441e4b3",
  "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 534403N 0013323W (TINGLEY).\nFOR INFO 07917 669060. AR-2026-9016/01.",
  "to": "2026-12-23T23:59Z",
  "type": "N",

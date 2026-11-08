@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aircraft parking stand 12 closed at EGHI.",
+ "summary_of": "4ba3b1150f79",
  "text": "STAND 12 CLOSED",
  "to": "2026-12-30T23:59Z",
  "type": "N",

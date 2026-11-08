@@ -16,6 +16,8 @@
  "radius": 6,
  "removed": null,
  "sched": "",
+ "summary": "Multiple aircraft making high energy manoeuvres within 5 nautical miles of Tilshead, up to 20,000 ft.",
+ "summary_of": "c938bda540bb",
  "text": "AIR EXER. MULTIPLE MIXED ACFT WILL CONDUCT HIGH ENERGY MANOEUVRES\nIN SUPPORT OF GROUND OPS WI 5NM RADIUS OF 511225N 0015838W\n(TILSHEAD). ACFT MAY OPERATE AT SPEEDS OF UP TO 450 KNOTS IAS AND\nMAY BE UNABLE TO COMPLY WITH RAC. FOR FURTHER INFO AIC Y007/2023\nREFERS. FOR INFO 07972560659 / 07768199384. AR-2026-9250/01.",
  "to": "2026-11-10T23:59Z",
  "type": "N",

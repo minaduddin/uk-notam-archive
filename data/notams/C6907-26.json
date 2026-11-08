@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Pavement strength rating for runway 02/20 at EGHI replaced.",
+ "summary_of": "ca9b7741c74d",
  "text": "REPLACE RWY 02/20 PCN WITH PCR 550/R/B/X/U. UK AIP EGHI AD 2.12 \nREFERS.",
  "to": "PERM",
  "type": "N",

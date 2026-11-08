@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "SEP 01-04 07-11 14-18 21-25 28-30 OCT 01-02 05-09 12-16 19-23 \n0700-1600, OCT 26-30 NOV 02-06 09-13 16-20 23-27 0800-1700",
+ "summary": "Drones operating in an area near Greatham, up to 400 feet above ground, during daytime hours on set dates.",
+ "summary_of": "da646c317030",
  "text": "UAS OPR WI AREA BOUNDED BY:\n543658N 0010740W - 543707N 0010827W - 543726N 0010816W - \n543740N 0010803W - 543728N 0010717W - 543658N 0010740W (GREATHAM). \nMAX HGT 393FT AGL. FOR INFO 07345 423537. AR-2026-7283/03.",
  "to": "2026-11-27T17:00Z",
  "type": "N",

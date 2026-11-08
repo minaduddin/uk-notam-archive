@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Distance measuring equipment for the runway 09/27 landing system at EGPB is unserviceable.",
+ "summary_of": "161da62ca81b",
  "text": "DME ASSOCIATED WITH ILS RWY 09/27 U/S",
  "to": "2026-11-30T20:00Z",
  "type": "N",

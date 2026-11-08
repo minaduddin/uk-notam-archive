@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Crane up to 113 ft high near Southend.",
+ "summary_of": "c6583c7eda2b",
  "text": "CRANE OPR PSN 513336.44N 0004330.01E (HDG 118 DEG MAG, 2460M FM\nSOUTHEND ARP). MAX HGT 113FT AGL/165FT AMSL. NOTAM WILL BE \nSUPERSEDED BY DIGITAL OBSTACLE DATASET WEF 24 DEC 2026.",
  "to": "2026-12-24T23:59Z",
  "type": "R",

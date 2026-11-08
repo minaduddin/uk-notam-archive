@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "OCT 03-04 10-11 17-18 24 0700-1900, OCT 25 31 0800-2000, NOV 01 \n07-08 14-15 21-22 28-29 DEC 05-06 12-13 19-20 25-28 0800-2000",
+ "summary": "Movement restrictions for aircraft over 50 tonnes at EGLF on selected days, except emergencies and some flight categories.",
+ "summary_of": "c2c12ac73abb",
  "text": "MOVEMENT RESTRICTIONS IN PLACE FOR AIRCRAFT (EXCEPT FLIGHT CAT C \nOR D FLIGHTS) IN EXCESS OF 50 TONNES MTOW INCLUDING DIVERSIOINS \n(EXCEPT IN AN EMERGENCY).",
  "to": "2026-12-28T20:00Z",
  "type": "N",

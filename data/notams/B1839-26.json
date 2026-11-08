@@ -16,6 +16,8 @@
  "radius": 30,
  "removed": null,
  "sched": "",
+ "summary": "Marham lower airspace radar service operating hours listed for the 9th to the 13th.",
+ "summary_of": "e81dde243ab7",
  "text": "MARHAM LOWER AIRSPACE RADAR SERVICE OPR HOURS:\n09 1745-2230\n10 1030-2215\n11 1100-2200\n12 1030-2230\n13 1430-1545",
  "to": "2026-11-13T18:00Z",
  "type": "N",

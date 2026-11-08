@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "1900-0700",
+ "summary": "Flare firing within 0.7 nautical miles of a point 1 nautical mile west of Garelochhead, up to 2,700 feet, with flares descending by parachute.",
+ "summary_of": "b1e102f8a319",
  "text": "FLARE FIRING WI 0.7NM RADIUS OF 560451N 0045125W (1NM W OF \nGARELOCHHEAD). FLARES WILL DESCEND BY PARACHUTE. FOR INFO 07957 \n585678 / 07774 008983 / 07717 542336 / 07624 625510. AR-2026-9778/01.",
  "to": "2026-11-25T07:00Z",
  "type": "N",

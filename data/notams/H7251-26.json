@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Large model aircraft flying within 1 nautical mile of Knettishall, up to 1,200 ft, between sunrise and sunset.",
+ "summary_of": "81682011f0c7",
  "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 522242N 0005308E\n(KNETTISHALL).  FOR INFO 07914094525. AR-2026-10386/02.",
  "to": "2027-01-10T16:05Z",
  "type": "N",

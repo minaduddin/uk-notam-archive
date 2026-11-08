@@ -16,6 +16,8 @@
  "radius": 6,
  "removed": null,
  "sched": "0800-2300",
+ "summary": "Helicopters making high energy manoeuvres within 5 nautical miles of Thetford, up to 800 ft, from 0800 to 2300.",
+ "summary_of": "c7b41af73b5f",
  "text": "EXER TALON STORM. MULTIPLE HEL WILL CONDUCT HIGH ENERGY \nMANOEUVRES WI 5NM RADIUS OF 523227N 0004240E (THETFORD). ACFT MAY BE \nUNABLE TO COMPLY WITH RAC. FOR INFO 01449 728240. AR-2026-9708/01.",
  "to": "2026-11-13T23:00Z",
  "type": "N",

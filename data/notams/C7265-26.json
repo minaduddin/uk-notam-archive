@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0800-2255",
+ "summary": "Temporary crane up to 88 ft above ground at Blackpool, 0800 to 2255.",
+ "summary_of": "05a042f33248",
  "text": "TEMPORARY CRANE OPR PSN 534534.78N 0030006.26W (BLACKPOOL). MAX \nHGT\n106FT AMSL 88FT AGL.",
  "to": "2027-01-29T22:55Z",
  "type": "R",

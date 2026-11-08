@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "0900-1400",
+ "summary": "Meteorological balloon releases within 1 nautical mile of Sheffield, between 0900 and 1400.",
+ "summary_of": "c6d42d300f95",
  "text": "MET BALLOON RELEASE/S WI 1NM RADIUS OF 532321N 0012614W\n(SHEFFIELD). THIS ACTIVITY WILL NOT BE WHOLLY CONTAINED WI\nLATERAL DIMENSION AS NOTIFIED.  FOR INFO 01142 131050 /\n01142 131050. AR-2026-6760/11.",
  "to": "2026-11-13T14:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 6,
  "removed": null,
  "sched": "0800-2000",
+ "summary": "Civil aircraft carrying underslung loads within 2 nautical miles either side of a track near Kirklees, West Yorkshire, up to 500 ft above ground level.",
+ "summary_of": "a165a5f30c39",
  "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM EITHER SIDE OF TRACK AND 2NM RADIUS BTN PSN 533724N 0020132W - \n533711N 0015816W - 533423N 0015655W - 533354N 0015345W (KIRKLEES, \nWEST YORKSHIRE) LOW FLYING AREA 8 AND NIGHT SECTOR 3A. MAX HGT 500FT \nAGL. ACFT MAY BE RESTRICTED IN ABILITY TO MANOEUVRE AND UNABLE TO \nCOMPLY WITH RAC. OPS CTC 01667 464404. 26/10/195/LFC",
  "to": "2026-11-09T20:00Z",
  "type": "N",

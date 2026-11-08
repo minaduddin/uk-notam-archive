@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "MON-FRI 0000-2359",
+ "summary": "Runway 03L/21R closed at EGBK due to vehicle activity, on weekdays.",
+ "summary_of": "62c3b52fa45e",
  "text": "RWY 03L/21R CLSD DUE VEHICLE ACTIVITY",
  "to": "2026-11-20T23:59Z",
  "type": "N",

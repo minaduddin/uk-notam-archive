@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "TUE THU 1800-2100",
+ "summary": "Drone activity within 0.2 nautical miles of Lydd, up to 400 ft above ground, Tuesdays and Thursdays from 1800 to 2100.",
+ "summary_of": "086fdf62ae5e",
  "text": "UAS OPR WI 0.2NM RADIUS OF 505639N 0005410E (LYDD). MAX HGT 400FT\nAGL. FOR INFO 01622 798669 / 07929 377319. AR-2026-9115/01.",
  "to": "2026-11-19T21:00Z",
  "type": "N",

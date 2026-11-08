@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "04 05 09 1000-1400",
+ "summary": "Drone operations within 0.05 nautical miles of Brockwell Park, London, maximum height 400 feet above ground.",
+ "summary_of": "27598b3736b1",
  "text": "UAS OPR WI 0.05NM RADIUS OF 512709N 0000601W (BROCKWELL PARK, \nLONDON). MAX HGT 400FT AGL. FOR INFO 07866 050765 / 07866 050766.\nAR-2026-10318/01.",
  "to": "2026-11-09T14:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "09 1930-2311, 10 11 0000-2359, 12 0000-0630",
+ "summary": "Illuminants, which descend by parachute, within 0.32 nautical miles of Mytchett, up to 2326 feet above sea level.",
+ "summary_of": "77644bc812be",
  "text": "ILLUMINANTS WI 0.32NM RADIUS OF 511717N 0004226W (MYTCHETT).\nILLUMINANTS WILL DESCEND BY PARACHUTE. FOR INFO 07484 516900 /\n07350 432476. AR-2026-9699/01.",
  "to": "2026-11-12T06:30Z",
  "type": "N",

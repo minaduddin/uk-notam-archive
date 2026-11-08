@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Drones flying beyond visual line of sight within 2 nautical miles of Westcott, up to 400 feet above ground, from sunrise to sunset daily.",
+ "summary_of": "c513f5a54002",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 2NM RADIUS OF 515053N 0005735W \n(WESTCOTT). MAX HGT 400FT AGL. FOR INFO 07852318946. AR-2026-7831/01.",
  "to": "2026-11-30T15:57Z",
  "type": "N",

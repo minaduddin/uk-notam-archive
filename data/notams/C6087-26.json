@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Crane up to 123 ft above ground, 243 ft above sea level, near Darlington.",
+ "summary_of": "4bec1e45cb9e",
  "text": "CRANE OPR PSN 543059N 0013056W (DARLINGTON) \nMAX HGT 123FT AGL/243FT AMSL.",
  "to": "2026-11-24T17:00Z",
  "type": "N",

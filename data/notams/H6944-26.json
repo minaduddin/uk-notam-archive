@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "1400-2330",
+ "summary": "Drone swarm of 200 drones within 0.5 nautical miles of Newquay, up to 400 feet above ground, from 2pm to 11.30pm.",
+ "summary_of": "363e2f48ba95",
  "text": "UAS SWARM OPR WI 0.5NM RADIUS OF 502452N 0050348W (NEWQUAY).\nSWARM MADE UP OF 200 UAS. MAX HGT 400FT AGL. FOR INFO\n020 31 516891. AR-2026-9886/01.",
  "to": "2026-11-08T23:30Z",
  "type": "N",

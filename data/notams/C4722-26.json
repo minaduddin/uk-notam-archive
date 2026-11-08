@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Crane at Worthing up to 290ft above ground level, 315ft above sea level.",
+ "summary_of": "624a0d529603",
  "text": "CRANE OPR PSN 504849N 0002211W (WORTHING) MAX HEIGHT 290FT\nAGL/ 315FT AMSL",
  "to": "2027-10-13T18:00Z",
  "type": "N",

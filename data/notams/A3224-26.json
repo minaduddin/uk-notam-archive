@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "AUG 27-OCT 25 1800-2200, OCT 26-NOV 19 1900-2300",
+ "summary": "Laser display within 1 nautical mile of Cambridge, from ground level upwards.",
+ "summary_of": "a35d1f79d62d",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 521237N 0000536E (CAMBRIDGE). FOR \nINFO 07938 72150. AR-2026-7868/01.",
  "to": "2026-11-19T23:00Z",
  "type": "N",

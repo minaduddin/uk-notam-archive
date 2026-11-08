@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0700-1700",
+ "summary": "Crane up to 100 ft high at St Cuthberts Golf Course, Prestwick, daily from 0700 to 1700.",
+ "summary_of": "406570ff2de9",
  "text": "CRANE OPR PSN 552927N 0043606W (ST CUTHBERTS GOLF COURSE, \nPRESTWICK)HGT 100FT AGL 139FT AMSL",
  "to": "2026-11-18T17:00Z",
  "type": "N",

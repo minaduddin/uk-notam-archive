@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "0600-2000",
+ "summary": "Drones flying beyond visual line of sight within 1.5 nautical miles of East Ilsley, up to 500 ft above ground level.",
+ "summary_of": "054d48e2f081",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT UTILISING VISUAL OBSERVERS \n(EXTENDED LINE OF SIGHT) WI 1.5NM RADIUS OF 513106N 0011654W (EAST \nILSLEY). MAX HGT 500FT AGL. FOR INFO 07852 318946 / 07954 823065. \nAR-2026-10342/01.",
  "to": "2027-01-25T20:00Z",
  "type": "N",

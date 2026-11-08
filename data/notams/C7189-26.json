@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0800-1800",
+ "summary": "Crane up to 88 ft above ground near Bournemouth Airport, 0800 to 1800.",
+ "summary_of": "4935feb35943",
  "text": "CRANE OPR PSN 504659N 0015112W (297T 899M FM BOURNEMOUTH ARP) \nMAX JIB HGT 88FT AGL 127FT AMSL",
  "to": "2026-12-16T18:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Pavement strength ratings for runways 12/30 and 07/25 and the main apron changed to 130/F/D/Y/U at EGPI.",
+ "summary_of": "994879876f29",
  "text": "REPLACE PCN WITH PCR\nRWY 12/30 PCR 130/F/D/Y/U\nRWY 07/25 PCR 130/F/D/Y/U\nMAIN APRON PCR 130/F/D/Y/U\nUK AIP EGPI AD 2.8, AD 2.12, AD 2.EGPI-2-1 REFERS.",
  "to": "PERM",
  "type": "N",

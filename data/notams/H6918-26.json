@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Large model aircraft flying within a marked area at Cashmoor, up to 1,900 feet, during daylight.",
+ "summary_of": "5617e0480331",
  "text": "FLYING OF LARGE MODEL ACFT WI AREA BOUNDED BY:\n505527N 0020138W - 505544N 0020054W - 505518N 0020026W - \n505507N 0020051W - 505458N 0020112W - 505527N 0020138W (CASHMOOR).  \nFOR INFO 07909 022800. AR-2026-9838/01.",
  "to": "2027-01-13T16:28Z",
  "type": "N",

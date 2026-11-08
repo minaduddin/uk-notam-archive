@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Trigger notice for winter maintenance runway closures at Birmingham Airport.",
+ "summary_of": "44f25656c06e",
  "text": "TRIGGER NOTAM - AIP SUP 110/26 WEF 02 NOV 26 UNTIL 05 DEC 26. \nBIRMINGHAM AIRPORT (EGBB) - WINTER MAINTENANCE RWY CLOSURES",
  "to": "2026-11-15T23:59Z",
  "type": "N",

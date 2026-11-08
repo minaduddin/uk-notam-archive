@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Searchlight display within 1 nautical mile of Belfast, from the surface upwards.",
+ "summary_of": "1818aba02284",
  "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 543540N 0055033W (BELFAST).\nFOR INFO 07474 424212 / 07853 652486. AR-2026-9350/01.",
  "to": "2026-11-14T21:30Z",
  "type": "N",

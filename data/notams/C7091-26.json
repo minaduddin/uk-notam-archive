@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aerodrome beacon at EGKA out of service.",
+ "summary_of": "260dc3a539b2",
  "text": "ABN U/S",
  "to": "2027-01-25T20:00Z",
  "type": "N",

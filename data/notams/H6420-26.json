@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1600-2359",
+ "summary": "Lasers and searchlights within 1 nautical mile of Sandringham, 4pm to midnight.",
+ "summary_of": "d008c9284900",
  "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 524957N 0003020E\n(SANDRINGHAM).  FOR INFO 07917 669060 / 07917 669060.\nAR-2026-9004/01.",
  "to": "2026-12-24T23:59Z",
  "type": "N",

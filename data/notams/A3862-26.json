@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway Quebec Alpha closed between stands 560 and 555 at EGKK due to work in progress.",
+ "summary_of": "2c3b7b829b55",
  "text": "TWY QUEBEC ALPHA CLSD BTN STAND 560 AND STAND 555 DUE WIP",
  "to": "2026-11-27T17:00Z",
  "type": "N",

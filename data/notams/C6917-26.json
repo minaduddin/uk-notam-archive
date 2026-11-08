@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aerodrome at EGMD has revised opening hours due to staffing: 0830 to 1100, 1200 to 1400 and 1500 to 1700.",
+ "summary_of": "26b0c11a759b",
  "text": "AD REVISED OPR HOURS DUE STAFFING\n0830-1100 1200-1400 1500-1700",
  "to": "2026-11-12T19:00Z",
  "type": "N",

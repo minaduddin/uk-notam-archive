@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Fuelling hours changed at EGAE; details are given in the official UK flight information publication.",
+ "summary_of": "89182bb34f19",
  "text": "FUELLING HOURS CHANGED TO\nMON-FRI 0530-2200 (0430-2100)\nSAT 0530-1800 (0430-1700)\nSUN 0800-2200 (0700-2100)\nAND BY ARRANGEMENT.\nUK AIP EGAE AD 2.3 REFERES.",
  "to": "PERM",
  "type": "N",

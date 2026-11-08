@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Drones flying beyond visual line of sight over an area near Dereham, up to 400 ft above ground level, between sunrise and sunset.",
+ "summary_of": "54d55c26cb13",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI AREA BOUNDED BY:\n524142N 0005211E - 524246N 0005654E - 524239N 0005916E - \n524144N 0010036E - 524120N 0005947E - 524121N 0005546E - \n524020N 0005353E - 524142N 0005211E (DEREHAM). MAX HGT 400FT AGL. \nFOR INFO 07356 081615 / 02045 743019. AR-2026-10486/01.",
  "to": "2026-11-13T16:05Z",
  "type": "N",

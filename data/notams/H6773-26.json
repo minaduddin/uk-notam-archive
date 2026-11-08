@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Flying of large model aircraft within 0.4 nautical miles of Pontefract, up to 1,800 ft, between sunrise and sunset.",
+ "summary_of": "ecfd40584d20",
  "text": "FLYING OF LARGE MODEL ACFT WI 0.4NM RADIUS OF 534202N 0011955W\n(PONTEFRACT). FOR INFO 07802 725231. AR-2026-9605/01.",
  "to": "2027-01-16T16:17Z",
  "type": "N",

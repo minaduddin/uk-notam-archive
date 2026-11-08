@@ -16,6 +16,8 @@
  "radius": 12,
  "removed": null,
  "sched": "SAT-MON 0530-0600",
+ "summary": "Teesside International controlled airspace activated, with extended opening hours from 0530 to 0600 on Saturdays to Mondays, by prior permission only.",
+ "summary_of": "48eea6a70b8b",
  "text": "TEESSIDE INTERNATIONAL CTA/CTR/ATZ ACTIVATED. ATS OPR HR\nEXTENDED STRICTLY PPR ONLY.",
  "to": "2026-12-21T06:00Z",
  "type": "N",

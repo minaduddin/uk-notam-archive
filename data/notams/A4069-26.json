@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Entry and exit taxiways AB11 and A11 on Heathrow Airport runway 09L/27R are closed.",
+ "summary_of": "58413ef8bf3f",
  "text": "RWY 09L/27R ENRTY/EXIT AB11/A11 CLSD.",
  "to": "2026-12-16T23:50Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1500-1600, 1900-2000",
+ "summary": "Laser display within 1 nautical mile of Pagham, Bognor Regis, from ground level upwards.",
+ "summary_of": "159a09ce9199",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 504611N 0004441W (PAGHAM, BOGNOR\nREGIS).  FOR INFO 07889 907696 / 01462 817640. AR-2026-9752/01.",
  "to": "2026-11-14T20:00Z",
  "type": "N",

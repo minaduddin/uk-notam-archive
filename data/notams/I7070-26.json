@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Perth navigation beacon on 110.40 MHz is out of service.",
+ "summary_of": "360dca21c8d3",
  "text": "VOR PTH/PERTH 110.40MHZ VOR U/S",
  "to": "2026-11-09T15:00Z",
  "type": "N",

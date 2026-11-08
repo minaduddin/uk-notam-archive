@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Laser display within 1 nautical mile of Seal.",
+ "summary_of": "0ae473119b59",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 511729N 0001253E (SEAL).  FOR INFO\n02034 220777. AR-2026-10630/01.",
  "to": "2026-11-13T21:00Z",
  "type": "N",

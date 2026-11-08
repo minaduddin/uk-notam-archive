@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Meteorological information at EGPK now provided by Network Operations Centre Northolt instead of Met Office Exeter.",
+ "summary_of": "41cece35e2b5",
  "text": "METEOROLOGICAL INFORMATION PROVIDED - ROWS 1 AND 3 CHANGE FROM:\nMET OFFICE EXETER TO: NETWORK OPERATIONS CENTRE NORTHOLT.\nUK AIP EGPK AD 2.11 REFERS.",
  "to": "PERM",
  "type": "N",

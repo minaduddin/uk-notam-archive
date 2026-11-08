@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Stand 7W at EGGD is reached by taxiing through Stand 12 under marshaller guidance.",
+ "summary_of": "22798d1d7460",
  "text": "STAND 7W (STAND 7 FACING WEST) IS ACCESSED BY TAXIING THROUGH \nSTAND 12 UNDER MARSHALLER GUIDANCE.",
  "to": "2027-01-21T23:59Z",
  "type": "N",

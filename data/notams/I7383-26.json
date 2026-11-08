@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runways 10/28 and 16/34 closed at EGES due to waterlogging.",
+ "summary_of": "c1db11e3136f",
  "text": "RWY 10/28 AND RWY 16/34 CLSD DUE WATERLOGGING",
  "to": "2027-01-26T09:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 25 threshold 180-degree turns must be anticlockwise due to work on taxiway Alpha at EGAA.",
+ "summary_of": "260fa5b5c3e9",
  "text": "RWY 25 THRESHOLD ALL 180 DEGREE TURNS TO BE MADE IN AN \nANTICLOCKWISE DIRECTION DUE TO WIP ON TWY ALPHA.",
  "to": "2026-11-21T23:59Z",
  "type": "N",

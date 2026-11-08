@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "SR-SS EXC SAT SUN",
+ "summary": "Drone operations within 1 nautical mile of Compton Chamberlayne, up to 400 feet above ground, weekdays between sunrise and sunset.",
+ "summary_of": "3d81f2c5a5c5",
  "text": "UAS OPR WI 1NM RADIUS OF 510405N 0015526W (COMPTON CHAMBERLAYNE).\nMAX HGT 400FT AGL. FOR INFO 07826 918598. AR-2026-8723/01.",
  "to": "2026-12-24T16:05Z",
  "type": "N",

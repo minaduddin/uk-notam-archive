@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Drone swarm of 500 drones operating within 0.2 nautical miles of Winwick, up to 600 feet above ground.",
+ "summary_of": "ec06958a2faa",
  "text": "UAS SWARM OPR WI 0.2NM RADIUS OF 522126N 0010424W (WINWICK).\nSWARM MADE UP OF 500 UAS. MAX HGT 600FT AGL. FOR INFO 07970\n017256. AR-2026-7661/01.",
  "to": "2026-11-20T23:59Z",
  "type": "N",

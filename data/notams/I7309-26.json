@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Belfast navigation beacon at EGAA may show bearing fluctuations on 185 to 225 degree radials due to a nearby mobile crane.",
+ "summary_of": "7747ba75e79e",
  "text": "VOR/DME BEL/BELFAST 117.20MHZ CH119X THERE MAY BE OBSERVATIONS OF\nDVOR BEARING FLUCTUATIONS WI THE 185-225 DEG. MAG. SECTOR RADIALS FM \nTHE BELFAST VOR/DME STATION, DUE TEMPO MOBILE CRANE IN THE VCY",
  "to": "2026-11-20T18:00Z",
  "type": "N",

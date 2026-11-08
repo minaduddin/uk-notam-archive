@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "10 1800-2100, 12 1800-2100, 17 1800-2100, 19 1800-2100",
+ "summary": "Drone activity within 500 metres of Lydd Army Camp, up to 384 ft above ground, on selected days from 1800 to 2100.",
+ "summary_of": "a53d1b2f5675",
  "text": "UAS OPR WI 500M RADIUS OF PSN 505638.9N 0005410.0E (LYDD ARMY\nCAMP) MAX HGT 384FT AGL/400FT AMSL.",
  "to": "2026-11-19T21:00Z",
  "type": "N",

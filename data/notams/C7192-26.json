@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "OCT 31 1400-1800, NOV 01-DEC 31 0800-1800",
+ "summary": "Cranes up to 118 ft above ground within 0.2 nautical miles of a point near Bournemouth Airport, during late October to December.",
+ "summary_of": "503a80ab7c47",
  "text": "CRANES OPR WI 0.2NM OF PSN 504453N 0014914W (156T 3881M FM\nBOURNEMOUTH ARP) MAX JIB HGT 118FT AGL 152FT AMSL",
  "to": "2026-12-31T18:00Z",
  "type": "N",

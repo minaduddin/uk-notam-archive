@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1400-2200",
+ "summary": "Searchlight display within 1 nautical mile of Waddesdon, with no upper height limit, in the afternoon and evening.",
+ "summary_of": "783cced360af",
  "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 515029N 0005612W\n(WADDESDON). FOR INFO 07919 090990 / 01189 894519.\nAR-2026-10518/01.",
  "to": "2026-11-29T22:00Z",
  "type": "N",

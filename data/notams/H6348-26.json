@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "0900-2300",
+ "summary": "Drone swarm of 500 drones operating in an area bounded by stated coordinates near Weymouth, up to 400 feet above ground, 9am to 11pm.",
+ "summary_of": "8ad736e4fcfa",
  "text": "UAS SWARM OPR WI AREA BOUNDED BY 503625N 0022719W - \n503633N 0022721W - 503642N 0022721W - 503715N 0022716W - \n503736N 0022637W - 503727N 0022515W - 503648N 0022515W -\n503619N 0022544W - 503614N 0022700W - 503625N 0022719W (WEYMOUTH). \nSWARM MADE UP OF 500 UAS. MAX HGT 400FT AGL. FOR INFO 07738 612566. \nAR-2026-7406/03.",
  "to": "2026-11-08T23:00Z",
  "type": "N",

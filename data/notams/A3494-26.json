@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Fireworks within half a nautical mile of Wroxham, surface to 300 ft above sea level.",
+ "summary_of": "861dc5465988",
  "text": "FIREWORKS WI 0.5NM RADIUS OF 524203N 0012348E (WROXHAM).  FOR\nINFO 07774 180158. AR-2026-8400/01.",
  "to": "2026-11-08T20:30Z",
  "type": "N",

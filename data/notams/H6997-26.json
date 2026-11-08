@@ -16,6 +16,8 @@
  "radius": 6,
  "removed": null,
  "sched": "OCT 26 27 28 NOV 02 04 09 10 11 12 18 0900-2030",
+ "summary": "Flight trials by one PA31 aircraft performing manoeuvres within 5 nautical miles of Marfleet, between 1,000 and 6,100 feet.",
+ "summary_of": "c2864bf5a5ec",
  "text": "FLIGHT TRIALS, 1 PA31 CONDUCTING MANOEUVRES WI 5NM RADIUS OF\n534430N 0001648W (MARFLEET).  FOR INFO 079233 75175 / \n01302 230500. AR-2026-9929/01.",
  "to": "2026-11-18T20:30Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Unmanned aircraft operating in an area near Iver, up to 260 ft above ground level, from sunrise to sunset.",
+ "summary_of": "e5c79f4d71bc",
  "text": "UAS OPR WI AREA BOUNDED BY:\n513047N 0003007W - 513046N 0002940W - 513034N 0002936W - \n513032N 0003008W - 513047N 0003007W (IVER). MAX HGT 260FT AGL. \nFOR INFO 07745 966840. AR-2026-9855/01.",
  "to": "2027-01-15T16:22Z",
  "type": "N",

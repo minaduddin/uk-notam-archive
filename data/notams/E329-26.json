@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 17/35 closed at EGFD due to an obstruction on the runway.",
+ "summary_of": "a10aebf4e46e",
  "text": "RWY 17/35 CLSD DUE OBSTRUCTION ON RWY",
  "to": "2026-11-11T17:00Z",
  "type": "N",

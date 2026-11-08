@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "1200-2230",
+ "summary": "Swarm of 400 drones operating within 0.1 nautical miles of Tottenham, London, up to 500 ft above ground level, in the afternoon and evening.",
+ "summary_of": "421c33b1c54e",
  "text": "UAS SWARM OPR WI 0.1NM RADIUS OF 513615N 0000358W (TOTTENHAM, \nLONDON). SWARM MADE UP OF 400 UAS. MAX HGT 500FT AGL. FOR INFO\n07738 612566. AR-2026-10512/02.",
  "to": "2026-11-11T22:30Z",
  "type": "N",

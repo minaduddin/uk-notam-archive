@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Trigger notice pointing to winter closure information for Bristol Airport in an official aviation information update.",
+ "summary_of": "ec27774b03b8",
  "text": "TRIGGER NOTAM - AIP SUP 099/2026 WEF 08 NOV 26 UNTIL 04 DEC 26. \nBRISTOL AIRPORT (EGGD) - WINTER CLOSURE INFORMATION",
  "to": "2026-11-21T23:59Z",
  "type": "N",

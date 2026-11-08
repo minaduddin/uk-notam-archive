@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1600-2230",
+ "summary": "Lasers and searchlights within 1 nautical mile of Temple Newsam, Leeds, from ground level upwards.",
+ "summary_of": "bc3503c1dfbb",
  "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 534707N 0012706W (TEMPLE\nNEWSAM, LEEDS).  FOR INFO 07704 016136. AR-2026-9698/01.",
  "to": "2026-12-31T22:30Z",
  "type": "N",

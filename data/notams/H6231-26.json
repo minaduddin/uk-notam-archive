@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Laser display within 1 nautical mile of Llandeilo, with no upper height limit.",
+ "summary_of": "bb6bc3b50bac",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 515257N 0035939W (LLANDEILO). FOR\nINFO 07517 443514. AR-2026-8613/01.",
  "to": "2026-11-13T22:00Z",
  "type": "N",

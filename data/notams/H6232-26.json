@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1600-2300",
+ "summary": "Laser display within 1 nautical mile of Newport, 4pm to 11pm.",
+ "summary_of": "fc4d49adf042",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 513510N 0025933W (NEWPORT).  FOR\nINFO 07446 244884 / 07717 411807. AR-2026-8254/01.",
  "to": "2026-11-14T23:00Z",
  "type": "N",

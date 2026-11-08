@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Standard departure route unavailable at EGGP as the Wallasey navigation beacon is partly out of service.",
+ "summary_of": "90600072c317",
  "text": "SID NOT AVBL DUE VOR/DME WAL/ WALLASEY 114.10MHZ CH088X DVOR PART \nU/S. PILOTS SHOULD EXP A HEADING AND CLEARED LEVEL ON FIRST CTC WITH \nATC AS PART OF THEIR DEP INSTRUCTIONS. OPERATORS SHOULD FLIGHT PLAN \nAS NORMAL",
  "to": "2026-11-10T14:30Z",
  "type": "N",

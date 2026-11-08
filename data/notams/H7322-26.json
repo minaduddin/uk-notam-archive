@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Flare firing within 0.5 nautical miles of Braunton, up to 1,100 ft, with flares descending by parachute.",
+ "summary_of": "0ff3e0bb90e7",
  "text": "FLARE FIRING WI 0.5NM RADIUS OF 510437N 0041158W (BRAUNTON). \nFLARES WILL DESCEND BY PARACHUTE. FOR INFO 07483 755235. \nAR-2026-10352/01.",
  "to": "2026-11-12T23:59Z",
  "type": "N",

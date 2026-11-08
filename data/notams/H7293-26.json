@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1600-2300",
+ "summary": "Laser display within 1 nautical mile of Bishop Auckland, with no upper height limit, in the afternoon and evening.",
+ "summary_of": "c1b75769461f",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 543958N 0013958W (BISHOP\nAUCKLAND).  FOR INFO 07308 818998. AR-2026-10430/01.",
  "to": "2027-01-05T23:00Z",
  "type": "N",

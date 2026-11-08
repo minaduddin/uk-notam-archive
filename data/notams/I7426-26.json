@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "No out-of-hours movements at EGPU except air ambulance and search and rescue.",
+ "summary_of": "16c5e8d6d206",
  "text": "NO OUT OF HOURS MOVEMENTS EXCEPT AIR AMBULANCE AND SAR.",
  "to": "2026-11-30T12:00Z",
  "type": "R",

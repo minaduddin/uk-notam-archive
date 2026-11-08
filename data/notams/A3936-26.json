@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Manchester navigation beacon may show bearing fluctuations due to a temporary crane nearby.",
+ "summary_of": "f7523e6542f4",
  "text": "VOR/DME MCT/MANCHESTER 113.55 MHZ CH82Y THERE MAY BE OBSERVATIONS\nOF DVOR BEARING FLUCTUATIONS WITHIN THE 320-000 DEG. MAG. SECTOR\nRADIALS FROM THE MANCHESTER VOR/DME STATION, DUE TO A TEMPORARY\nCRANE IN THE VICINITY",
  "to": "2026-12-24T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Resurfacing works on Heathrow's northern runway 09L/27R are complete, and the related notice has been cancelled.",
+ "summary_of": "8c2d32468c60",
  "text": "AIP SUP 047/2026 LONDON HEATHROW AIRPORT (EGLL) - NORTHERN RUNWAY\n09L/27R RESURFACING WORKS 2026 - WORKS COMPLETED. SUP CANCELLED WIE.",
  "to": "2026-12-09T23:59Z",
  "type": "N",

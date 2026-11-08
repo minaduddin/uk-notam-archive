@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Crane at Shoreham-by-Sea, maximum height 110 feet above ground, 127 feet above sea level.",
+ "summary_of": "936fc7782b33",
  "text": "CRANE OPR PSN 504951N 0001502W (SHOREHAM-BY-SEA) MAX HEIGHT\n110FT AGL / 127FT AMSL",
  "to": "2027-01-29T18:00Z",
  "type": "N",

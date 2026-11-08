@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aerodrome opening hours changed at EGPE to 0645–2145 Monday to Friday and Sunday, 0645–2100 Saturday.",
+ "summary_of": "b0881f886cae",
  "text": "AD OPR HR AND RFFS CAT 6 HR CHANGED:\nMON-FRI 0645-2145\nSAT 0645-2100\nSUN 0645-2145\nUK AIP EGPE AD 2.3, AD 2.6, AD 2.17, AD 2.18 REFERS.",
  "to": "PERM",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "NOV 14-22 25-29 1600-2330, DEC 02-06  09-24 1600-2330, DEC 26 - \nJAN 07 1600-2330",
+ "summary": "Lasers and searchlights within 1 nautical mile of Wollaton Park, Nottingham, at ground level upwards.",
+ "summary_of": "ee90fe375ee3",
  "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 525653N 0011234W (WOLLATON\nPARK, NOTTINGHAM). FOR INFO 07805 005035. AR-2026-9800/01.",
  "to": "2027-01-07T23:30Z",
  "type": "N",

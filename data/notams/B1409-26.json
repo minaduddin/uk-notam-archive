@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Wallasey navigation beacon on 114.10 MHz is out of service in both parts.",
+ "summary_of": "b426eb1ae47e",
  "text": "VOR/DME WAL/WALLASEY 114.10MHZ CH088X BOTH PARTS U/S",
  "to": "2026-11-10T14:30Z",
  "type": "N",

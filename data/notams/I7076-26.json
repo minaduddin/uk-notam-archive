@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Obstacle light on a wind measuring mast at Inverness Airport is out of service; the light is 32 feet high.",
+ "summary_of": "03ce78afb985",
  "text": "OBST LIGHT U/S ON 23 ANEMOMOTER MAST PSN 573242.82N 0040219.56W \n(INVERNESS AD) 32FT AGL 55FT AMSL.",
  "to": "2026-11-12T21:45Z",
  "type": "N",

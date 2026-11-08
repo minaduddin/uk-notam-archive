@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0900-2300",
+ "summary": "Drone swarm of 700 drones operating within 0.3 nautical miles of Durdar, up to 400 feet above ground, 9am to 11pm.",
+ "summary_of": "185960a46370",
  "text": "UAS SWARM OPR WI 0.3NM RADIUS OF 545142N 0025600W (DURDAR). SWARM\nMADE UP OF 700 UAS. MAX HGT 400FT AGL. FOR INFO 07738 612566.\nAR-2026-7918/01.",
  "to": "2026-11-19T23:00Z",
  "type": "N",

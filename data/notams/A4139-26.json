@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Fireworks within 0.5 nautical miles of Goostrey, up to 900 ft above sea level.",
+ "summary_of": "e3e583d39168",
  "text": "FIREWORKS WI 0.5NM RADIUS OF 531331N 0022007W (GOOSTREY). FOR \nINFO 07595 160762. AR-2026-9653/01.",
  "to": "2026-11-08T19:30Z",
  "type": "N",

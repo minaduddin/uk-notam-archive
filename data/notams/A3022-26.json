@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Lit construction equipment up to 34 ft high at Heathrow, operating only when runway 09L/27R is closed.",
+ "summary_of": "6bde543e0929",
  "text": "LIT CONSTRUCTION EQPT OPR AT PSN 512839N 0002939W (HEATHROW AD). \nMAX HGT 34FT AGL/111FT AMSL. WILL ONLY OPR WHEN RWY 09L/27R IS CLSD. \nNO OPS IN LVP. CRANE REF 20260707134. UK EGLL OBST DATASET REFERS.",
  "to": "PERM",
  "type": "N",

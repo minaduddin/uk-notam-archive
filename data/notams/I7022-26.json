@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Narrowing of taxiway A at EGPF means larger aircraft must be guided by a follow-me vehicle past work at B1.",
+ "summary_of": "f0a109109e68",
  "text": "DUE TO NARROWING OF TWY A ALL CODE E/F ACFT WILL REQUIRE FOLLOW ME\nPAST WIP AT B1 TO ENSURE NO DEVIATION FROM TWY C/L",
  "to": "2027-01-04T23:59Z",
  "type": "R",

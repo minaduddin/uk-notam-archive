@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Wind speed sensor (anemometer) at the runway 23 touchdown zone at EGNV out of service.",
+ "summary_of": "a128b4203e4a",
  "text": "RWY 23 TDZ ANEMOMETER U/S",
  "to": "2026-11-13T22:00Z",
  "type": "N",

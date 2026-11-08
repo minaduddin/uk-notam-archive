@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "1930-2000",
+ "summary": "Fireworks within 0.5 nautical miles of Broadstone, Bournemouth, up to 500 feet above sea level.",
+ "summary_of": "47b6c67c6752",
  "text": "FIREWORKS WI 0.5NM RADIUS OF 504550N 0015507W (BROADSTONE,\nBOURNEMOUTH). FOR INFO 07770 594889 / 07841 134296.\nAR-2026-9437/01.",
  "to": "2026-11-08T20:00Z",
  "type": "N",

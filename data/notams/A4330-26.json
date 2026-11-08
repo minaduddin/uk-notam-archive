@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway Delta at Manchester Airport is closed between holding points D7 and D10.",
+ "summary_of": "ed7a7752db15",
  "text": "TWY DELTA IS CLSD BTN HOLDING POINTS D7 AND D10",
  "to": "2026-12-10T23:00Z",
  "type": "R",

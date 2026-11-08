@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0700-1900",
+ "summary": "Crane up to 115 ft above ground near Iver, operating 0700 to 1900 daily.",
+ "summary_of": "10e7e19d4bda",
  "text": "LIT CRANE OPR WI AREA BOUNDED BY \n513043N 0002955W - 513043N 0002947W - 513040N 0002945W - \n513040N 0002954W - 513043N 0002955W (IVER) MAX HGT 115FT AGL, \n230FT AMSL. NO CRANE OPR IN LVP. CRANE REF 2026103066.",
  "to": "2026-12-05T19:00Z",
  "type": "N",

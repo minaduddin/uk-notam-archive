@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxilane closed at EGNX.",
+ "summary_of": "b0c9a7f9e67f",
  "text": "TANGO TAXILANE CLOSED.\nNOTAM WILL BE SUPERSEDED BY AIP SUP WEF 12 NOV 2026.",
  "to": "2026-11-11T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Drone flights within 0.2 nautical miles of South Norwood, London, up to 500 ft above ground.",
+ "summary_of": "781b773bab0e",
  "text": "UAS OPR WI 0.2NM RADIUS OF 512400N 0000519W (SOUTH NORWOOD, \nLONDON). MAX HGT 500FT AGL. FOR INFO 01992 924779. AR-2026-10461/01.",
  "to": "2026-11-08T18:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1600-2230",
+ "summary": "Lasers and searchlights within 1 nautical mile of Bute Park, Cardiff, from ground level upwards.",
+ "summary_of": "72ba310bdf41",
  "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 512903N 0031105W (BUTE \nPARK, CARDIFF).  FOR INFO 07464 712630 / 07903 648968. \nAR-2026-9694/02.",
  "to": "2026-12-31T22:30Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1500-2330",
+ "summary": "Searchlight display within 1 nautical mile of Framsden, between 1500 and 2330.",
+ "summary_of": "a1f504063cd1",
  "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 521022N 0011154E (FRAMSDEN).\nFOR INFO 07590 767499. AR-2026-10608/03.",
  "to": "2026-12-19T23:30Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Laser display within 1 nautical mile of South Benfleet, from ground level upwards.",
+ "summary_of": "98e0a819ec20",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 513337N 0003341E (SOUTH BENFLEET).\n FOR INFO 07903 580772. AR-2026-9217/01.",
  "to": "2026-11-11T20:30Z",
  "type": "N",

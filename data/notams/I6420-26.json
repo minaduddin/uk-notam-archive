@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Obstruction light on the navigation beacon mast at Stornoway Airport is out of service; mast is 46 ft above sea level.",
+ "summary_of": "ae79cfd7a2a1",
  "text": "NDB MAST OBS LGT PSN 581255N 0061944W U/S (STORNOWAY AD) \nHGT 46FT AMSL/35FT AGL",
  "to": "2026-12-16T18:45Z",
  "type": "N",

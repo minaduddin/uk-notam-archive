@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0800-1700",
+ "summary": "Crane up to 276 ft above ground at Heathrow, operating 0800 to 1700 only during westerly operations.",
+ "summary_of": "e5f27dbb286f",
  "text": "LIT CRANE OPR PSN \n512917N 0003002W - 512916N 0003000W - 512915N 0003002W - \n512915N 0003003W - 512917N 0003002W (HEATHROW). MAX HGT 276FT AGL / \n359FT AMSL. NO CRANE OPR IN LVP. CRANE WILL ONLY OPR WHEN ON \nWESTERLY OPERATIONS. CRANE REF 20260916127.",
  "to": "2026-11-30T17:00Z",
  "type": "N",

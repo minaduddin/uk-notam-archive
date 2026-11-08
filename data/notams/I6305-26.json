@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Stand entry guidance out of service at stands 20, 27, 28 and 104 at EGPH; marshalling only.",
+ "summary_of": "e611ef7dce73",
  "text": "STAND ENTRY GUIDANCE U/S STANDS 20, 27, 28, 104. MARSHALLING ONLY",
  "to": "2026-12-14T12:00Z",
  "type": "N",

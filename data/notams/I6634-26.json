@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Warning of possible false glide path flags on the runway 08 instrument landing system at EGAE when well below the glide path.",
+ "summary_of": "3589bcfc5bff",
  "text": "RWY 08 ILS/GP IEGN WARNING - GP FLAGS MAY BE EXPERIENCED WHEN 8 \nDEG RIGHT OF THE OFFSET LOCALISER CENTRELINE AND WELL BELOW \nGLIDEPATH. UK AIP AD 2.19 AND DIGITAL DATASET REFERS.",
  "to": "PERM",
  "type": "N",

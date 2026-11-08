@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "",
+ "summary": "Underslung load operations within 2 nautical miles of a point at Tom Lain, North Ballachulish, up to 500 feet above ground level.",
+ "summary_of": "5dff7e2dfa87",
  "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 564251N 0051017W, (TOM LAIN, NORTH BALLACHULISH) \nLOW FLYING AREA 14 AND NIGHT SECTOR 1A. MAX HGT 500FT AGL. ACFT MAY \nBE RESTRICTED IN ABILITY TO MANOEUVRE AND UNABLE TO COMPLY WITH RAC \nOPS \nCTC 07776 462424. 26/11/045/LFC",
  "to": "2026-11-09T17:00Z",
  "type": "N",

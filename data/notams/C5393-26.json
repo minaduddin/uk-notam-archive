@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Lit crane at Littlestone up to 99ft above ground level, 107ft above sea level.",
+ "summary_of": "435a142c4a5d",
  "text": "LIT CRANE OPR PSN 505851N 0005738E (LITTLESTONE) MAX HGT 99FT \nAGL, 107FT AMSL",
  "to": "2026-11-17T23:59Z",
  "type": "N",

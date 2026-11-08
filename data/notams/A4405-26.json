@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Drone flights beyond visual line of sight near Swannington, up to 400 ft above ground, during daylight hours only.",
+ "summary_of": "530403e01d5f",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI AREA BOUNDED BY \n524521N 0010721E - 524603N 0010942E - 524207N 0011259E - \n524124N 0011057E - 524521N 0010721E (SWANNINGTON). MAX HGT 400FT \nAGL. FOR INFO 07356 081615 / 02045 743019. AR-2026-10483/01.",
  "to": "2026-11-13T16:04Z",
  "type": "N",

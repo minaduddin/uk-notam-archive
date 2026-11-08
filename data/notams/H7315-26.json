@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Drones flying beyond visual line of sight within 0.5 nautical miles of Lamesley, Tyne and Wear, up to 100 ft above ground level.",
+ "summary_of": "5374e0049317",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) WI 0.5NM RADIUS OF\n545547N 0013702W (LAMESLEY, TYNE AND WEAR). ATYPICAL UAS OPR MAX\nHGT 100FT AGL. FOR INFO 0044 7762 568181 / 07710 700830. \nAR-2026-10000/03.",
  "to": "2027-01-17T23:59Z",
  "type": "R",

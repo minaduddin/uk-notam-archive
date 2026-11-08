@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Stansted runway 22 approach chart was removed in error; the current chart is in the 09/2026 publication.",
+ "summary_of": "efee3202d651",
  "text": "AIRAC 10/2026 - LONDON STANSTED AD 2.24 CHARTS RELATED TO AN\nAERODROME. \nINSTRUMENT APPROACH PROCEDURE CODING TABLES - RNP Z RWY 22, RNP Y\nRWY 22C CHART WAS UNINTENTIONALLY REMOVED. REFER TO THE AIRAC\n09/2026 PUBLICATION FOR THE CURRENT VALID CHART.\nUK AIP AD 2.EGSS-8-10 REFERS.",
  "to": "PERM",
  "type": "N",

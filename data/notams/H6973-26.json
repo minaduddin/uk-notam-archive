@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1500-2300",
+ "summary": "Laser display within 1 nautical mile of a point 2 nautical miles south-east of Lamberhurst disused aerodrome, from 3pm to 11pm.",
+ "summary_of": "4d97d31426d8",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 510439N 0002709E (2NM SE OF \nLAMBERHURST DISUSED AD). FOR INFO 07923 371094 / 07796 968655.\nAR-2026-9890/01.",
  "to": "2027-01-03T23:00Z",
  "type": "N",

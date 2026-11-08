@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "",
+ "summary": "Humberside airport's opening hours changed, with early and late flights needing prior permission on certain days.",
+ "summary_of": "3e5d354ba27b",
  "text": "HUMBERSIDE ATZ, ATS AND AD HR OF SRVICE ARE NOW:\nMON-WED 0600-0630(PPR), 0730-0830, 0900-1100, 1145-1530, \n        1615-1800, 2040-2135(PPR)\nTHU-FRI 0600-0630(PPR), 0730-0830, 0900-1530, 1615-1800,\n        2040-2135(PPR)\nSAT-SUN 0600-0630(PPR), 0900-1530, 1615-1800, 2040-2135(PPR)\nPILOTS ARE REQ TO AVOID PLANNING AN ARR OR DEP LATER THAN CLOSING\nTIMES MINUS 15 MINS. INBOUND ACFT SHOULD ALLOW SUFFICIENT TIME TO\nRECEIVE AN ATS AFTER AD REOPENING.",
  "to": "2026-11-15T21:35Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 40,
  "removed": null,
  "sched": "NOV 06 13 0730-1700, 09 1700-1900, 10 0730-0900, 11 12 0730-0900 \n1700-1900",
+ "summary": "Warton lower airspace radar service not available on selected November days.",
+ "summary_of": "f01afee7ae03",
  "text": "WARTON LOWER AIRSPACE RADAR SERVICE NOT AVBL",
  "to": "2026-11-13T17:00Z",
  "type": "R",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Stand 1 closed at EGNM.",
+ "summary_of": "7e69bd15fefc",
  "text": "STAND 1 CLOSED.\nNOTAM WILL BE SUPERSEDED BY AIP SUP WEF 12 NOV 2026.",
  "to": "2026-11-12T00:00Z",
  "type": "N",

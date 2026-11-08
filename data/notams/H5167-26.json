@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "AUG 29-OCT 25 0700-2000 , OCT 26-NOV 22 0800-2100",
+ "summary": "Large model aircraft flying within 1 nautical mile of Chicklade, up to 2,300 feet, during daytime hours on set dates.",
+ "summary_of": "144cb5f790ab",
  "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 510718N 0021047W\n(CHICKLADE).  FOR INFO 07962 013388 / 079620 13388. AR-2026-7392/01.",
  "to": "2026-11-22T21:00Z",
  "type": "N",

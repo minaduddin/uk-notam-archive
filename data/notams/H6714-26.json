@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "0930-2359",
+ "summary": "Drone swarm of 1,200 drones within 1 nautical mile of Blisthorpe, up to 600 ft above ground.",
+ "summary_of": "4afba66cafd0",
  "text": "UAS SWARM OPR WI 1NM RADIUS OF 530714N 0010118W (BLISTHORPE).\nSWARM MADE UP OF 1200 UAS. MAX HGT 600FT AGL. FOR INFO\n07547 155440. AR-2026-9479/02.",
  "to": "2027-01-15T23:59Z",
  "type": "N",

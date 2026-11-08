@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1700-2300",
+ "summary": "Lasers and searchlights within 1 nautical mile of Siloth, with no upper height limit, in the evening.",
+ "summary_of": "2ddfdfe3100c",
  "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 545241N 0032251W (SILOTH).\nFOR INFO 07552 020973. AR-2026-10100/04.",
  "to": "2026-11-08T23:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Operating hours at EGAE aerodrome amended, varying by day of the week.",
+ "summary_of": "d8668bbe367e",
  "text": "AMEND AD OPR HR TO THE FOLLOWING:\nMON 0625-0730 (0525-0630), 0830-1930 (0730-1830), 2030-2200\n(1930-2100)\nTUE-FRI 0625-0730 (0525-0630), 0830-1900 (0730-1800), 2000-2200\n(1900-2100)\nSAT 0625-0730 (0525-0630), 0900-1600 (0800-1500), 1700-1800\n(1600-1700)\nSUN 0855-0930 (0755-0830), 1230-1845 (1130-1745), 1930-2200\n(1830-2100)\nUK AIP EGAE AD 2.3 REFERS.",
  "to": "PERM",
  "type": "N",

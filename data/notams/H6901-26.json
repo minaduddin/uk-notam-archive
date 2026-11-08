@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "NOV 13-22 25-29 1600- 2330, DEC 02-06 08-24 1600-2330, DEC 26-JAN \n07 1600-2330",
+ "summary": "Lasers and searchlights within 1 nautical mile of Trentham, at ground level upwards.",
+ "summary_of": "f31f0fd0cf53",
  "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 525748N 0021206W\n(TRENTHAM). FOR INFO 07805 005035. AR-2026-9799/01.",
  "to": "2027-01-07T23:30Z",
  "type": "N",

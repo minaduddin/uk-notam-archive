@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Drone operations within 1.08 nautical miles of Llanbedr, up to 1,800 feet above ground, between sunrise and sunset.",
+ "summary_of": "a3ce98a58df9",
  "text": "UAS OPR WI 1.08NM RADIUS OF 524901N 0040749W (LLANBEDR). MAX HGT\n1800FT AGL. FOR INFO 07375 905933. AR-2026-8880/01.",
  "to": "2026-12-20T16:02Z",
  "type": "N",

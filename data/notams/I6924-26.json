@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Temporary crane near Glasgow navigation beacon may cause bearing fluctuations on radials 070 to 110 degrees magnetic.",
+ "summary_of": "07a51da00b26",
  "text": "VOR/DME GOW/GLASGOW 115.40 MHZ CH101X THERE MAY BE OBSERVATIONS OF\nDVOR BEARING FLUCTUATIONS WITHIN THE 070-110 DEG. MAG. SECTOR\nRADIALS FROM THE GLASGOW VOR/DME STATION, DUE TO A TEMPORARY CRANE\nIN THE VICINITY",
  "to": "2027-01-26T23:59Z",
  "type": "N",

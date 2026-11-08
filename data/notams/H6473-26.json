@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "OCT 08-24 0800-2259, OCT 25-DEC 08 0900-2359",
+ "summary": "Live firing within 1 nautical mile of Garelochhead, up to 750 feet above ground.",
+ "summary_of": "010d0f3c8089",
  "text": "LIVE FIRING WI 1NM RADIUS OF 560538N 0044806W (GARELOCHHEAD). HGT\nUP TO 750FT AGL. FOR INFO 07810654948 / 07976154900.\nAR-2026-9185/01.",
  "to": "2026-12-08T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Laser display within 1 nautical mile of Eynsford, with no upper height limit.",
+ "summary_of": "c01c9d5e4f1f",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 512213N 0001248E (EYNSFORD). FOR \nINFO 07514 886539. AR-2026-10278/01.",
  "to": "2026-11-14T22:00Z",
  "type": "N",

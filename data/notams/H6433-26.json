@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "FRI-SUN 1600-2030",
+ "summary": "Parachute jumping within 2 nautical miles of Peterlee, Fridays to Sundays, with drop height subject to air traffic control clearance.",
+ "summary_of": "8c40c65f80c6",
  "text": "PJE WI 2NM RADIUS OF 544556N 0012310W (PETERLEE). DROP HGT SUBJ \nATC CLR. FOR INFO 07742 418841 / 01915 171234 / 07880 758621.\nAR-2026-9114/01.",
  "to": "2026-11-20T20:30Z",
  "type": "N",

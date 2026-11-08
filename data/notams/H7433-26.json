@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Drone operations within 2.5 nautical miles of Horninsham, up to 400 feet above ground level, between sunrise and sunset.",
+ "summary_of": "092d77da04d4",
  "text": "UAS OPR WI 2.5NM RADIUS OF 511038N 0021603W (HORNINSHAM). MAX HGT\n400FT AGL. FOR INFO 07502 107645. AR-2026-10632/01.",
  "to": "2026-11-11T16:27Z",
  "type": "N",

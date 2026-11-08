@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "",
+ "summary": "Cambridge aerodrome traffic zone has been deactivated, the aerodrome is closed and air traffic services are not available.",
+ "summary_of": "f2b020ea7442",
  "text": "CAMBRIDGE ATZ DEACTIVATED, AD CLSD, ATS NOT AVBL",
  "to": "2026-11-12T18:00Z",
  "type": "N",

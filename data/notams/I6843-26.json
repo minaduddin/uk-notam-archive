@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Crane up to 103 feet above ground near Ratho, in the vicinity of Edinburgh Airport.",
+ "summary_of": "108dd9f5e509",
  "text": "CRANE OPR PSN 555524N 0032035W (RATHO, VCY EDINBURGH AD)\nMAX HGT 103FT AGL/303FT AMSL. CRANE WILL BE LOWERED DURING LVP.",
  "to": "2026-12-15T18:00Z",
  "type": "N",

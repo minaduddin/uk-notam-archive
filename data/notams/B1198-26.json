@@ -17,6 +17,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Unmanned aircraft flights in the Ekofisk area within 0.3 nautical miles, up to 100 ft above ground.",
+ "summary_of": "166003449f9a",
  "text": "UNMANNED ACFT (BLOS) WILL TAKE PLACE AT EKOFISK AREA INSIDE ENLE\n500M ZONE DUE INSPECTION, PSN 563243N 0031330E, RADIUS 0.3NM. MAX HGT\n100FT AGL. STATUS AVBL FM EKOFISK AFIS FREQ 130.555/118.055MHZ OR TEL\n+47 52027724",
  "to": "2026-11-10T18:00Z",
  "type": "N",

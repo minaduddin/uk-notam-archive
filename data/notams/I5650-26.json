@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Apron echo edge lights unserviceable at EGAA.",
+ "summary_of": "092a4f95394d",
  "text": "APRON ECHO EDGE LIGHTS U/S",
  "to": "2026-11-19T23:00Z",
  "type": "N",

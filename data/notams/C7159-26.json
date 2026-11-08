@@ -16,6 +16,8 @@
  "radius": 21,
  "removed": null,
  "sched": "",
+ "summary": "Primary radar serving the Isle of Man is out of service, covering a radius of 21 nautical miles.",
+ "summary_of": "7a479ee7d718",
  "text": "ISLE OF MAN PSR U/S",
  "to": "2026-12-31T20:45Z",
  "type": "N",

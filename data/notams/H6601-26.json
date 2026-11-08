@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1600-0600",
+ "summary": "Lasers and searchlights within 1 nautical mile of Alton Towers, from 1600 to 0600 daily.",
+ "summary_of": "e20294987ee4",
  "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 525919N 0015332W \n(ALTON TOWERS). FOR INFO 07762 559983 / 07912 970097 / 07595 160762.\nAR-2026-9334/01.",
  "to": "2026-11-11T06:00Z",
  "type": "N",

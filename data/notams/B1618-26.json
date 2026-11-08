@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Emergency transponder mandatory zone up to 19,500ft in the EGPX area, for Lowther primary radar maintenance.",
+ "summary_of": "227b4f534168",
  "text": "EMERG TRANSPONDER MANDATORY ZONE INSTALLED WI AREA BOUNDED BY:\n551137N 0040215W - 550606N 0040838W - 550312N 0040022W - \n550858N 0035443W - 551137N 0040215W, BTN SFC/FL195 DUE TO LOWTHER \nPRIMARY RADAR MAINT. ALL ACFT OPR WI THIS AREA IN CONTROLLED \nAIRSPACE ARE REQ TO OPR A SVCBL TRANSPONDER.",
  "to": "2027-01-12T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Landing guidance equipment relocated at EGHH; glide path reference height now 53 ft.",
+ "summary_of": "06c7c2b41470",
  "text": "RADIO NAVIGATION AND LANDING AIDS - ILS/GP I-BMH RELOCATED TO \n504641.24N 0015050.10W. AMEND AIP ENTRY AS FOLLOWS:\n3 DEG ILS REF DATUM HGT 53FT.\nLOCALISER AND DME COVERAGE IS RESTRICTED TO 25NM AT +/- 10 DEG\n(STANDARD) AND 13NM AT +/- 35 DEG(NON-STANDARD) OF THE EXTENDED\nRUNWAY CENTRELINE.\nUK AIP EGHH AD 2.19 AND DIGITAL DATASET REFERS.",
  "to": "PERM",
  "type": "N",

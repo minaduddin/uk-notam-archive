@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Crane up to 299 ft above ground, 303 ft above sea level, at Marine Place, Worthing.",
+ "summary_of": "b20381da05df",
  "text": "CRANE OPR PSN 504838N 0002209W (MARINE PLACE, WORTHING) MAX\nHGT 299FT AGL/ 303FT AMSL",
  "to": "2026-11-16T19:00Z",
  "type": "N",

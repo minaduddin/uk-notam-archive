@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Fireworks within 0.5 nautical miles of Edgware, London, up to 700 feet above sea level.",
+ "summary_of": "da32bceb72c8",
  "text": "FIREWORKS WI 0.5NM RADIUS OF 513653N 0001735W (EDGWARE, LONDON).\nFOR INFO 07949 557217 / 07780 948094. AR-2026-8826/01.",
  "to": "2026-11-14T19:00Z",
  "type": "N",

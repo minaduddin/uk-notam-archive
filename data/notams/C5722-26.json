@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "",
+ "summary": "Radar at Humberside using backup equipment with reduced low-level coverage; aircraft within 20 nautical miles must call on 119.130.",
+ "summary_of": "6bea9faca5a9",
  "text": "HUMBERSIDE RADAR OPR USING BACKUP SECONDARY RADAR WITH REDUCED\nLOW LEVEL COVERAGE. ACFT OPR WI 20NM OF HUMBSERSIDE AD ARE REQ TO \nCALL HUMBERSIDE RADAR ON CH 119.130. ACFT MAY NOT BE VISIBLE DUE \nREDUCED SURVEILLANCE COVERAGE AT LOW LEVEL.",
  "to": "2026-11-30T21:45Z",
  "type": "N",

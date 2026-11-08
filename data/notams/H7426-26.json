@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "0900-1400",
+ "summary": "Meteorological balloon releases within 1 nautical mile of Bradfield, between 0900 and 1400.",
+ "summary_of": "ad4ccb904f03",
  "text": "MET BALLOON RELEASE/S WI 1NM RADIUS OF 532326N 0013910W\n(BRADFIELD). THIS ACTIVITY WILL NOT BE WHOLLY CONTAINED WI\nLATERAL DIMENSION AS NOTIFIED.  FOR INFO 01142 131050 /\n07753 650414. AR-2026-6762/08.",
  "to": "2026-11-13T14:00Z",
  "type": "N",

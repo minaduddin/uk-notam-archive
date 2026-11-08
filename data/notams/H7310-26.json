@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Drones flying beyond visual line of sight within 0.5 nautical miles of Bilsthorpe, Nottinghamshire, up to 165 ft above ground level.",
+ "summary_of": "16c531c90fc8",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) WI 0.5NM RADIUS OF\n530719N 0010247W (BILSTHORPE, NOTTINGHAMSHIRE). ATYPICAL UAS OPR\nMAX HGT 165FT AGL. FOR INFO 07762 568181 / 07538 5997873. \nAR-2026-8843/04.",
  "to": "2026-12-19T23:59Z",
  "type": "N",

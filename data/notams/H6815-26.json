@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "OCT 13-24 0800-1900, OCT 25-JAN 01 0900-2000",
+ "summary": "Flying of large model aircraft within 1 nautical mile of Newton Aycliffe, up to 2,200 ft.",
+ "summary_of": "7ebb5862c7b4",
  "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 543651N 0013655W \n(NEWTON AYCLIFFE).  FOR INFO 07580 093449. AR-2026-9652/01.",
  "to": "2027-01-01T20:00Z",
  "type": "N",

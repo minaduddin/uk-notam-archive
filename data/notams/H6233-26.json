@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Laser display within 1 nautical mile of Hinckley, with no upper height limit.",
+ "summary_of": "6728c634492c",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 523130N 0012159W (HINCKLEY).  FOR\nINFO 07517443514. AR-2026-7742/01.",
  "to": "2026-11-14T22:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 60,
  "removed": null,
  "sched": "",
+ "summary": "Amended hours for the Newquay lower airspace radar service.",
+ "summary_of": "7c32fcf60e5b",
  "text": "AMEND NEWQUAY LOWER AIRSPACE RADAR SERVICE AVAILABILITY TO \n0700-1930 (0630-2030).\nUK AIP ENR 1.6,PARA 4.1.6 REFERS.",
  "to": "PERM",
  "type": "N",

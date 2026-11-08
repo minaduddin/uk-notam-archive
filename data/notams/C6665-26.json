@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Fireworks within 0.5 nautical miles of Farnborough, up to 1300 feet above sea level.",
+ "summary_of": "6fe4372beb22",
  "text": "FIREWORKS WI 0.5NM RADIUS OF 511820N 0004724W (FARNBOROUGH). FOR \nINFO 07889 401637 / 01252 666846 / 07725 550895 / 01252 666846.\nAR-2026-9226/01.",
  "to": "2026-11-13T20:00Z",
  "type": "N",

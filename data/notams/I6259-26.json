@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Steel plate on taxiway Charlie between holding points C1 and C2 at EGAA.",
+ "summary_of": "9a738bf90338",
  "text": "STEEL PLATE ON TWY CHARLIE BETWEEN HOLDS C1 AN C2.",
  "to": "2026-11-30T23:59Z",
  "type": "N",

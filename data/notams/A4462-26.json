@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Section of grass taxiway Lima closed between taxiway L1 and L3 at EGSC.",
+ "summary_of": "6eff6bf20d10",
  "text": "GRASS TWY LIMA CLSD BTN L1 AND L3",
  "to": "2026-12-31T18:00Z",
  "type": "R",

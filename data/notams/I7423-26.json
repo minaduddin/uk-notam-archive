@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "SUN-THU 2300-0600",
+ "summary": "Runway 05/23 at EGPF available only with prior permission required, Sunday to Thursday 2300 to 0600, due to work in progress.",
+ "summary_of": "42d8eb391ae3",
  "text": "RWY 05/23 AVAILABLE STRICTLY PPR DUE WIP",
  "to": "2026-11-20T06:00Z",
  "type": "N",

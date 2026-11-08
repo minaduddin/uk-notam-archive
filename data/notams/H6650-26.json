@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "OCT 11-24 0700-1600, OCT 25-JAN 08 0800-1700",
+ "summary": "Drone flights beyond visual line of sight within 0.3 nautical miles of Berwick Lodge, up to 400 ft above ground.",
+ "summary_of": "90c233485bdb",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 0.3NM RADIUS OF \n513112N 0023620W (BERWICK LODGE). MAX HGT 400FT AGL. FOR INFO \n07852 318946/ 07954 823066. AR-2026-9425/01.",
  "to": "2027-01-08T17:00Z",
  "type": "N",
