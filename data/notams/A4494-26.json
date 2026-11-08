@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3833,
+  -3.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T08:49Z",
+ "from": "2026-11-08T07:30Z",
+ "id": "A4494/26",
+ "loc": [
+  "EGFF"
+ ],
+ "lower": "",
+ "q": "AEXX",
+ "radius": 22,
+ "removed": null,
+ "sched": "",
+ "text": "REQUESTS TO CROSS THE CARDIFF CTA/CTR MAY BE REFUSED OR DELAYED \nDUE ATC STAFFING. PILOTS SHOULD PLAN TO REMAIN CLEAR OF CARDIFF\nCONTROLLED AIRSPACE AND USE THE LISTENING SSR CODE 3636",
+ "to": "2026-11-08T17:00Z",
+ "type": "N",
+ "upper": ""
+}

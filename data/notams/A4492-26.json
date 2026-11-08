@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.35,
+  -2.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T08:49Z",
+ "from": "2026-11-08T07:02Z",
+ "id": "A4492/26",
+ "loc": [
+  "EGCC"
+ ],
+ "lower": "",
+ "q": "MXLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "INTERMEDIATE HOLDING POSITIONS NORTH OF ECHO 6 AND DELTA 6\nCURRENTLY HAVE REDUCED FUNCTIONALITY.",
+ "to": "2026-11-08T23:00Z",
+ "type": "N",
+ "upper": ""
+}

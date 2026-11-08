@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.9167,
+  -0.9833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T08:49Z",
+ "from": "2026-11-15T07:31Z",
+ "id": "H7412/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "text": "FLYING OF LARGE MODEL ACFT WI AREA BOUNDED BY 535536N 0005913W -\n535551N 0005806W - 535542N 0005750W - 535529N 0005809W - \n535513N 0005802W - 535500N 0005906W - 535536N 0005913W (ELVINGTON \nAD). FOR INFO 07557 513242. AR-2026-10594/01.",
+ "to": "2026-11-15T16:05Z",
+ "type": "N",
+ "upper": "1600FT AMSL"
+}

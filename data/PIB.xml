@@ -2,7 +2,7 @@
             DISCLAIMER: Briefing includes all NOTAM available. All Trigger NOTAM are valid
             only for two weeks. For the publication of ECAC States, please consult also the
             PAMS application.
-        --><Pib PIBType="F" PIBId="400000133817756" NewNOTAMDuration="250">
+        --><Pib PIBType="F" PIBId="400000133822258" NewNOTAMDuration="250">
     <AreaPIBHeader>
         <ShortSystemTitle>EAD</ShortSystemTitle>
         <SystemLogoFile>/ino_resources/logos/EAD_Logo.png</SystemLogoFile>
@@ -12,18 +12,18 @@
         <LogoFile>/ci/resource.do?id=07A26818B1F506F5E0530B751DC29CB2</LogoFile>
         <Traffic>IV</Traffic>
         <Validity>
-            <ValidFrom>2026-11-08T07:00:37+00:00</ValidFrom>
-            <ValidTo>2026-11-15T07:00:00+00:00</ValidTo>
+            <ValidFrom>2026-11-08T08:00:48+00:00</ValidFrom>
+            <ValidTo>2026-11-15T08:00:00+00:00</ValidTo>
         </Validity>
         <ProfileId>400000002351201</ProfileId>
         <ProfileName>All NOTAM</ProfileName>
         <ServiceType>FULL</ServiceType>
         <BriefingType>IM</BriefingType>
         <ContentExplanation>Aerodromes, En-route, Warnings, including miscellaneous information</ContentExplanation>
-        <Issued>2026-11-08T07:00:37+00:00</Issued>
+        <Issued>2026-11-08T08:00:48+00:00</Issued>
         <PIBSubject>All NOTAM</PIBSubject>
         <ScheduleName>Daily</ScheduleName>
-        <PibUid>EG712611080293</PibUid>
+        <PibUid>EG712611080354</PibUid>
         <FlightLevel>
             <LowerFL>0</LowerFL>
             <UpperFL>999</UpperFL>
@@ -5044,6 +5044,60 @@ FOR INFO 00455 3738360. AR-2026-8049/02.</ItemE>
                     <ItemG>6600FT AMSL</ItemG>
                     <Marker>+</Marker>
                     <NotamStoreDate>020920260737</NotamStoreDate>
+                </Notam>
+                <Notam OriginalMessage="false" PIBSection="AD">
+                    <NOF>EGGN</NOF>
+                    <Series>A</Series>
+                    <Number>4493</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGTT</FIR>
+                        <Code23>SP</Code23>
+                        <Code45>LT</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>BO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>105</Upper>
+                    </QLine>
+                    <Coordinates>5123N00310W</Coordinates>
+                    <Radius>22</Radius>
+                    <ItemA>EGFF</ItemA>
+                    <StartValidity>2611080730</StartValidity>
+                    <EndValidity>2611081700</EndValidity>
+                    <ItemE>BASIC SERVICE, TRAFFIC SERVICE AND DECONFLICTION SERVICE NOT
+AVBL FROM CARDIFF ATS. PILOTS ARE ENCOURAGED TO USE THE CARDIFF
+LISTENING SQUAWK 3636</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>081120260717</NotamStoreDate>
+                </Notam>
+                <Notam OriginalMessage="false" PIBSection="AD">
+                    <NOF>EGGN</NOF>
+                    <Series>A</Series>
+                    <Number>4494</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGTT</FIR>
+                        <Code23>AE</Code23>
+                        <Code45>XX</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>NBO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>105</Upper>
+                    </QLine>
+                    <Coordinates>5123N00310W</Coordinates>
+                    <Radius>22</Radius>
+                    <ItemA>EGFF</ItemA>
+                    <StartValidity>2611080730</StartValidity>
+                    <EndValidity>2611081700</EndValidity>
+                    <ItemE>REQUESTS TO CROSS THE CARDIFF CTA/CTR MAY BE REFUSED OR DELAYED 
+DUE ATC STAFFING. PILOTS SHOULD PLAN TO REMAIN CLEAR OF CARDIFF
+CONTROLLED AIRSPACE AND USE THE LISTENING SSR CODE 3636</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>081120260720</NotamStoreDate>
                 </Notam>
             </NotamList>
             <ObsoleteNotamList/>
@@ -10174,6 +10228,32 @@ AIRSPACE IN ACCORDANCE WITH LOCAL DECONFLICTION AGREEMENTS. FOR INFO
                     <ItemG>500FT AMSL</ItemG>
                     <Marker>+</Marker>
                     <NotamStoreDate>201020260950</NotamStoreDate>
+                </Notam>
+                <Notam OriginalMessage="false" PIBSection="AD">
+                    <NOF>EGGN</NOF>
+                    <Series>A</Series>
+                    <Number>4492</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGTT</FIR>
+                        <Code23>MX</Code23>
+                        <Code45>LT</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>M</Purpose>
+                        <Scope>A</Scope>
+                        <Lower>0</Lower>
+                        <Upper>999</Upper>
+                    </QLine>
+                    <Coordinates>5321N00217W</Coordinates>
+                    <Radius>5</Radius>
+                    <ItemA>EGCC</ItemA>
+                    <StartValidity>2611080702</StartValidity>
+                    <EndValidity>2611082300</EndValidity>
+                    <ItemE>INTERMEDIATE HOLDING POSITIONS NORTH OF ECHO 6 AND DELTA 6
+CURRENTLY HAVE REDUCED FUNCTIONALITY.</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>081120260702</NotamStoreDate>
                 </Notam>
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
@@ -23452,6 +23532,60 @@ HELIPORT). MAX HGT HEIGHT 184FT AMSL, 167FT AGL</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>071120261653</NotamStoreDate>
                 </Notam>
+                <Notam Reference="EGFF" OriginalMessage="false" PIBSection="FIR">
+                    <NOF>EGGN</NOF>
+                    <Series>A</Series>
+                    <Number>4493</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGTT</FIR>
+                        <Code23>SP</Code23>
+                        <Code45>LT</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>BO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>105</Upper>
+                    </QLine>
+                    <Coordinates>5123N00310W</Coordinates>
+                    <Radius>22</Radius>
+                    <ItemA>EGFF</ItemA>
+                    <StartValidity>2611080730</StartValidity>
+                    <EndValidity>2611081700</EndValidity>
+                    <ItemE>BASIC SERVICE, TRAFFIC SERVICE AND DECONFLICTION SERVICE NOT
+AVBL FROM CARDIFF ATS. PILOTS ARE ENCOURAGED TO USE THE CARDIFF
+LISTENING SQUAWK 3636</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>081120260717</NotamStoreDate>
+                </Notam>
+                <Notam Reference="EGFF" OriginalMessage="false" PIBSection="FIR">
+                    <NOF>EGGN</NOF>
+                    <Series>A</Series>
+                    <Number>4494</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGTT</FIR>
+                        <Code23>AE</Code23>
+                        <Code45>XX</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>NBO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>105</Upper>
+                    </QLine>
+                    <Coordinates>5123N00310W</Coordinates>
+                    <Radius>22</Radius>
+                    <ItemA>EGFF</ItemA>
+                    <StartValidity>2611080730</StartValidity>
+                    <EndValidity>2611081700</EndValidity>
+                    <ItemE>REQUESTS TO CROSS THE CARDIFF CTA/CTR MAY BE REFUSED OR DELAYED 
+DUE ATC STAFFING. PILOTS SHOULD PLAN TO REMAIN CLEAR OF CARDIFF
+CONTROLLED AIRSPACE AND USE THE LISTENING SSR CODE 3636</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>081120260720</NotamStoreDate>
+                </Notam>
                 <Notam OriginalMessage="false" PIBSection="FIR">
                     <NOF>EGGN</NOF>
                     <Series>B</Series>
@@ -35931,6 +36065,68 @@ INFO 07882 660685. AR-2026-10503/02.</ItemE>
                     <ItemG>700FT AMSL</ItemG>
                     <Marker>+</Marker>
                     <NotamStoreDate>051120261410</NotamStoreDate>
+                </Notam>
+                <Notam OriginalMessage="false" PIBSection="WAR">
+                    <NOF>EGGN</NOF>
+                    <Series>H</Series>
+                    <Number>7412</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGTT</FIR>
+                        <Code23>WU</Code23>
+                        <Code45>LW</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>BO</Purpose>
+                        <Scope>W</Scope>
+                        <Lower>0</Lower>
+                        <Upper>16</Upper>
+                    </QLine>
+                    <Coordinates>5355N00059W</Coordinates>
+                    <Radius>2</Radius>
+                    <ItemA>EGTT</ItemA>
+                    <StartValidity>2611150731</StartValidity>
+                    <EndValidity>2611151605</EndValidity>
+                    <ItemD>SR-SS</ItemD>
+                    <ItemE>FLYING OF LARGE MODEL ACFT WI AREA BOUNDED BY 535536N 0005913W -
+535551N 0005806W - 535542N 0005750W - 535529N 0005809W - 
+535513N 0005802W - 535500N 0005906W - 535536N 0005913W (ELVINGTON 
+AD). FOR INFO 07557 513242. AR-2026-10594/01.</ItemE>
+                    <ItemF>SFC</ItemF>
+                    <ItemG>1600FT AMSL</ItemG>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>051120261332</NotamStoreDate>
+                </Notam>
+                <Notam OriginalMessage="false" PIBSection="WAR">
+                    <NOF>EGGN</NOF>
+                    <Series>H</Series>
+                    <Number>6761</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGTT</FIR>
+                        <Code23>WU</Code23>
+                        <Code45>LW</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>BO</Purpose>
+                        <Scope>W</Scope>
+                        <Lower>0</Lower>
+                        <Upper>17</Upper>
+                    </QLine>
+                    <Coordinates>5408N00125W</Coordinates>
+                    <Radius>2</Radius>
+                    <ItemA>EGTT</ItemA>
+                    <StartValidity>2611150734</StartValidity>
+                    <EndValidity>2701241630</EndValidity>
+                    <ItemD>SUN SR-SS</ItemD>
+                    <ItemE>FLYING OF LARGE MODEL ACFT WI AREA BOUNDED BY 540734N 0012448W -
+540851N 0012556W - 540902N 0012450W - 540815N 0012404W - 
+540733N 0012446W - 540734N 0012448W (THIRSK).  FOR INFO 07905 466815 
+/ 07761 480111. AR-2026-9536/01.</ItemE>
+                    <ItemF>SFC</ItemF>
+                    <ItemG>1700FT AMSL</ItemG>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>081020261331</NotamStoreDate>
                 </Notam>
             </NotamList>
             <ObsoleteNotamList/>
