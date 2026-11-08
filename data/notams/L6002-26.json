@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 04/22 at EGBO closed for take-off and landing, available for taxiing only.",
+ "summary_of": "0cc6198b0bf6",
  "text": "RWY 04/22 CLSD FOR TKOF AND LDG. AVBL FOR TAXIING ONLY",
  "to": "2026-12-18T17:00Z",
  "type": "N",

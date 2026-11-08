@@ -16,6 +16,8 @@
  "radius": 4,
  "removed": null,
  "sched": "",
+ "summary": "Aviation obstacle light out of service in an area near Walney, with an obstacle 640 ft above ground level.",
+ "summary_of": "8d185f91b87e",
  "text": "REPORT OF AIR NAV OBST LGT U/S WI AREA BOUNDED BY \n540931N 0034935W - 540803N 0034454W - 540749N 0034611W - \n540456N 0034909W - 540647N 0035506W - 540810N 0035508W - \n540757N 0035338W - 540931N 0034935W (WALNEY).  \nHGT 640FT AGL / 700FT AMSL. AR-2026-7998/01.",
  "to": "2026-11-25T00:00Z",
  "type": "N",

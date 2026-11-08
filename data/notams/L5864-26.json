@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Lit crane up to 148 ft above ground near Manchester Barton Aerodrome.",
+ "summary_of": "ad8fd740147c",
  "text": "LIT CRANE OPR WI 0.2NM RADIUS OF 532821.59N 0022200.16W (0.82NM\n085 DEG MAG FM MANCHESTER BARTON ARP) MAX HGT 205FT AMSL/148FT AGL.\nCRANE REF EGCB-0436.\nNOTAM WILL BE SUPERSEDED BY AIP SUP WEF 12 NOV 2026.",
  "to": "2026-11-11T23:59Z",
  "type": "N",

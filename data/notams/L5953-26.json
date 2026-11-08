@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Distance measuring equipment for runway 35 instrument landing system at EGNL unavailable for maintenance.",
+ "summary_of": "4fabb45be9e1",
  "text": "DME ASSOCIATED WITH ILS RWY 35, NOT AVBL, RADIATING BUT ON MAINT.",
  "to": "2026-12-24T19:00Z",
  "type": "N",

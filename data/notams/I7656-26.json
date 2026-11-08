@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 17/35 at EGAA restricted to taxiing only.",
+ "summary_of": "abb50c52d8ff",
  "text": "RWY 17/35 TAXI ONLY",
  "to": "2026-11-13T17:00Z",
  "type": "N",

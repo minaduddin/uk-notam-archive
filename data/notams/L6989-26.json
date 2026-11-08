@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0730-0800",
+ "summary": "Drone operations within 0.5 nautical miles of Staverton, 0730-0800, up to 400 feet above ground level.",
+ "summary_of": "1192d1b753c1",
  "text": "UAS OPR WI 0.5NM RADIUS OF 515336N 0020957W (STAVERTON) MAX HGT \n400FT AGL 501FT AMSL",
  "to": "2026-11-10T08:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "OCT 22-24 0600-1900, OCT 25-JAN 22 0700-1900",
+ "summary": "Lit crane about 3,950 metres from Hawarden Airport, maximum height 203 feet above mean sea level and 132 feet above ground.",
+ "summary_of": "4c070d6c31d8",
  "text": "(LIT) CRANE OPR PSN 531153N 0030135W 3950M 305 DEG MAG FROM \nHAWARDEN ARP. MAX HGT 203FT AMSL, 132FT AGL.",
  "to": "2027-01-22T19:00Z",
  "type": "N",

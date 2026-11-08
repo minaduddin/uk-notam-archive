@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 04 instrument landing system glide path fly-up may not be maintained below glide path, 8 degrees right of centreline, at EGNR.",
+ "summary_of": "efa7b4aaa16d",
  "text": "ILS GP RWY 04 FULL SCALE FLY-UP MAY NOT BE MAINTAINED WHEN\nBELOW GP, AT 08 DEG RIGHT OF CL",
  "to": "2026-11-30T21:00Z",
  "type": "N",

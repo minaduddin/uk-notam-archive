@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "04-06 0700-1700, 09-13 0700-1700, 16-20 0700-1700",
+ "summary": "Part of the Belfast radio navigation beacon out of service at EGAA, 25 nautical mile radius, 0700 to 1700 on selected days.",
+ "summary_of": "d18d11dc2a1e",
  "text": "VOR/DME BEL/BELFAST 117.20MHZ CH119X VOR PART U/S",
  "to": "2026-11-20T17:00Z",
  "type": "R",

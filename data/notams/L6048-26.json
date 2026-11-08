@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Obstacle light south of runway 08 threshold at Elstree Aerodrome is unserviceable.",
+ "summary_of": "ea8286751669",
  "text": "OBSTACLE LIGHT SOUTH OF RUNWAY 08 THR U/S, PSN \n513917N 0001957W(ELSTREE AD) HGT 20FT AGL 345FT AMSL",
  "to": "2026-12-31T18:00Z",
  "type": "R",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "1700-2300",
+ "summary": "Illuminants within 0.59 nautical miles of Blackbushe, descending by parachute, up to 1240 feet above mean sea level, between 1700 and 2300.",
+ "summary_of": "9cb347818c0c",
  "text": "ILLUMINANTS WI 0.59NM RADIUS OF 511904N 0004747W (BLACKBUSHE).\nILLUMINANTS WILL DESCEND BY PARACHUTE. FOR INFO 07484 516900 /\n07350 432476. AR-2026-9869/01.",
  "to": "2026-11-12T23:00Z",
  "type": "N",

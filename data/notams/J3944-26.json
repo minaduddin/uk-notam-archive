@@ -16,6 +16,8 @@
  "radius": 10,
  "removed": null,
  "sched": "",
+ "summary": "Temporary danger area EGD496A activated near EGTT, up to 1,300 ft above sea level, for drone operations beyond visual line of sight.",
+ "summary_of": "cd52e9d12ecb",
  "text": "TEMPO DANGER AREA (TDA) EGD496A ACTIVATED. AIP SUP 108/2026\nREFERS. BEYOND VISUAL LINE OF SIGHT UAS OPS CONTAINED WHOLLY WI\nTHE TDA. A SPECIAL USE AIRSPACE ACTIVITY INFORMATION SERVICE\n(SUAAIS) WILL BE AVBL FM ANGLIA RADAR 128.925MHZ OR 125.275MHZ OR\nLONDON INFO 125.475MHZ. FOR INFO AND BOOKING CTC\nOPS(AT)FLYLOGIX.COM OR 07784 546062. AR-2026-7404/16.",
  "to": "2026-11-09T18:00Z",
  "type": "N",

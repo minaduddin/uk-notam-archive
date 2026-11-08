@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Stand entry guidance system unserviceable on stands 1, 6, 9 and 12 at EGNT; aircraft will be marshalled onto stands.",
+ "summary_of": "80cd557531f6",
  "text": "STAND ENTRY GUIDANCE SYSTEM U/S ON STANDS 1, 6, 9 AND 12.\nACFT SHOULD EXPECT MARSHALLING ONTO STAND, MARSHALLER WILL BE \nPOSITIONED AT HEAD OF STAND.",
  "to": "2026-12-04T17:00Z",
  "type": "R",

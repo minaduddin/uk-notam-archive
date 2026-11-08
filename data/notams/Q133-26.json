@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Embargo at EGXC: no take-offs, landings, circuits or practice diversions; taxiing and engine ground runs are permitted.",
+ "summary_of": "d3e5ae0e0fab",
  "text": "TYPE 3 EMBARGO NO TAKE OFFS, LANDINGS, CIRCUITS OR PRACTISE \nDIVERSIONS. TAXIING AND ENGINE GROUND RUNS ARE PERMITTED.",
  "to": "2026-11-11T11:15Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Holding point N2 closed at EGBJ due to work in progress.",
+ "summary_of": "d12426ed52b5",
  "text": "HOLDING POINT N2 CLSD DUE WIP",
  "to": "2026-11-27T19:30Z",
  "type": "R",

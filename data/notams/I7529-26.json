@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "FRI 2145-2200",
+ "summary": "Inverness aerodrome traffic zone activated; airport opening extended on Friday 21:45 to 22:00, strictly by prior permission.",
+ "summary_of": "f57ca84e4fce",
  "text": "INVERNESS ATZ ACTIVATED. AD/ATS/MET/RFFS HR OF OPR\nEXTENDED AIRPORT REMAINS STRICTLY PPR.",
  "to": "2026-12-18T22:00Z",
  "type": "N",

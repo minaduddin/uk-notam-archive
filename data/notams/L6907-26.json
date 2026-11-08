@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Distance measuring equipment for runway 04 instrument landing system unavailable below 4,500 ft, 240 to 270 degrees, beyond 15 nautical miles due to terrain.",
+ "summary_of": "bbfd790e53db",
  "text": "DME ASSOCIATED WITH ILS RWY 04 NOT AVBL BELOW 4500FT IN SECTOR\n240-270 MAG IN EXCESS OF 15NM DUE TERRAIN EFFECTS",
  "to": "2026-11-30T21:00Z",
  "type": "N",

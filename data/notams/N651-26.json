@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Crane operating up to 525 feet above ground level near Berkswell.",
+ "summary_of": "57f04b3ccd73",
  "text": "CRANE OPR AT PSN: 522357N 0013839W (BERKSWELL) UP TO 525FT AGL/\n869FT AMSL. FOR INFO CTC 07808 300759. ON EXPIRY OF THIS NOTAM \nDETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4 AR-2026-7064/02.",
  "to": "2026-11-10T00:00Z",
  "type": "N",

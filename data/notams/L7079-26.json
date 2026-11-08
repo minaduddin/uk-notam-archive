@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Obstacle light out of service on a building 375 metres south of the heliport at EGLW, up to 167 feet above ground level.",
+ "summary_of": "b63d00549f75",
  "text": "OBST LIGHT U/S PSN 512759N 0001051W (BUILDING, 375M SOUTH OF \nHELIPORT). MAX HGT HEIGHT 184FT AMSL, 167FT AGL",
  "to": "2026-12-07T23:00Z",
  "type": "N",

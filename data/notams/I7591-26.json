@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aircraft tug release point 1 out of service on Taxiway Lima at EGAA due to nearby work in progress.",
+ "summary_of": "2a88cd398460",
  "text": "ACFT TUG RELEASE POINT 1 (TRP1) U/S ON TWY LIMA DUE TO ADJACENT\nWIP",
  "to": "2026-11-30T23:59Z",
  "type": "N",

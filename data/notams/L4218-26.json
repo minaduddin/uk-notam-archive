@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0700-1700",
+ "summary": "Crane operating up to 158.6 ft above sea level, 0700 to 1700 daily, near Manchester Barton Aerodrome.",
+ "summary_of": "e6ef3fa733bc",
  "text": "CRANE OPR WI 0.1 NM RADIUS OF 532746.08N 0022231.84W (0.74 NM \n135.9 DEG MAG FM MANCHESTER BARTON ARP). MAX HGT 158.6 FT AMSL \n(100 FT AGL).",
  "to": "2026-11-27T17:00Z",
  "type": "N",

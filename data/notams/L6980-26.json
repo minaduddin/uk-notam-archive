@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Drone operations within 0.2 nautical miles of Churchdown, up to 50 feet above ground level.",
+ "summary_of": "e30d34b69701",
  "text": "UAS OPR WI 0.2NM RADIUS OF 515253N 0021137W (CHURCHDOWN) MAX HGT \n50FT AGL/151FT AMSL",
  "to": "2026-11-09T08:30Z",
  "type": "N",

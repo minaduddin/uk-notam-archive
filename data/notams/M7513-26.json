@@ -16,6 +16,8 @@
  "radius": 35,
  "removed": null,
  "sched": "",
+ "summary": "Aberporth danger areas activated from ground level up to 66,000 feet, between 09:00 and 16:00.",
+ "summary_of": "3c4821cbc60f",
  "text": "THE FOLLOWING ABERPORTH DANGER AREAS ARE ACTIVATED:\nEGD201H 0900-1600 SFC-FL660\nEGD201J 0900-1600 SFC-FL660",
  "to": "2026-11-09T16:00Z",
  "type": "N",

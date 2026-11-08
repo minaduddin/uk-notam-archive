@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0600-1900",
+ "summary": "Lit crane up to 131 ft above ground near Hawarden Airport, between 0600 and 1900 daily.",
+ "summary_of": "e6b73479e14a",
  "text": "(LIT) CRANE OPR PSN 531155N 0030125W 3827M 307 DEG MAG FROM HAWARD\nEN ARP. MAX HGT 176FT AMSL. 131FT AGL.",
  "to": "2026-12-08T19:00Z",
  "type": "N",

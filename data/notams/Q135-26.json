@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Brize Norton navigation beacon is out of service for maintenance.",
+ "summary_of": "7288395d8152",
  "text": "TACAN BZN/BRIZE NORTON FREQ 111.9MHZ CH56X U/S DUE MAINT",
  "to": "2026-11-10T15:00Z",
  "type": "N",

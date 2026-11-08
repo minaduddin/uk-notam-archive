@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "MON-FRI 0800-1700",
+ "summary": "Rescue and firefighting service downgraded to category 1 at EGBO, Monday to Friday from 0800 to 1700.",
+ "summary_of": "07cc7c50a9da",
  "text": "RFFS DOWNGRADED TO CAT 1",
  "to": "2027-01-15T17:00Z",
  "type": "N",

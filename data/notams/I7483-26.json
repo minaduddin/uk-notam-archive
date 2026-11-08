@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "08 09 15 16 22 23 29 30 0000-0530",
+ "summary": "Runway 06/24 at EGPH closed to all except fixed-wing aircraft, 00:00 to 05:30 on certain days.",
+ "summary_of": "c7eccffb3562",
  "text": "RWY 06/24 CLSD TO FIXED WING ACFT ONLY",
  "to": "2026-11-30T05:30Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 12,
  "removed": null,
  "sched": "",
+ "summary": "Eskmeals danger areas activated from ground level up to 40,000 feet above sea level, between 07:00 and 18:00.",
+ "summary_of": "06af20885311",
  "text": "THE FOLLOWING ESKMEALS DANGER AREAS ARE ACTIVATED:\nEGD406A 0700-1800 SFC-40000FT AMSL\nEGD406B 0700-1800 SFC-40000FT AMSL",
  "to": "2026-11-09T18:00Z",
  "type": "N",

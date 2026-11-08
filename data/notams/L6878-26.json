@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Crane up to 99 ft above ground within 0.1 nautical miles of a point at Manchester.",
+ "summary_of": "7084762b26dc",
  "text": "CRANE OPR WI 0.1NM RADIUS OF PSN 532825.25N 0022156.05W \n(MANCHESTER) ELEV 168FT AMSL (HGT 99FT AGL)",
  "to": "2027-03-05T16:00Z",
  "type": "N",

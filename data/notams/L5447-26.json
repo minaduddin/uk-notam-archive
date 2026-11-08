@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Revised minimum heights for the radio beacon and distance measuring approach to runway 21 at EGTC.",
+ "summary_of": "2bf6b36b646e",
  "text": "AMENDED OCA(OCH) FOR IAP NDB(L)/DME RWY 21. CAT A, B, C 735(377).\nVMC OCA AND OCH NOT APPLICABLE",
  "to": "2026-11-30T19:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Radio navigation aid frequency pairings amended for the runway 04 and 22 landing systems at EGNR.",
+ "summary_of": "df8aa1eb1c61",
  "text": "RADIO NAVIGATION AND LANDING AIDS - AMEND DME I-HWD AND I-HDN FREQ\nPAIRING AS FOLLOWS:\nDME I-HWD - FREQ PAIRED WITH ILS I-HWD. ZERO RANGE TO THR OF RWY\n04.\nDME I-HDN - FREQ PAIRED WITH ILS I-HDN. ZERO RANGE TO THR OF RWY\n22.\nUK AIP EGNR AD 2.19 AND DIGITAL DATASET REFERS.",
  "to": "PERM",
  "type": "N",

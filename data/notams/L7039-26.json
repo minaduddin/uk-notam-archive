@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aerodrome EGBO not available to aircraft not involved in a private event.",
+ "summary_of": "fc6198ef1507",
  "text": "AD NOT AVBL TO ACFT NOT INVOLVED IN PRIVATE EVENT",
  "to": "2026-11-12T17:00Z",
  "type": "N",

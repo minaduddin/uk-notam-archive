@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Distance measuring equipment associated with the instrument landing system on runway 05/23 at EGPF unserviceable.",
+ "summary_of": "fb004df21e98",
  "text": "DME ASSOCIATED WITH ILS RWY 05/23 U/S.",
  "to": "2026-11-30T17:00Z",
  "type": "N",

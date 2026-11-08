@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aerodrome and tower hours at EGNO amended, Monday to Thursday 0730 to 1900, Friday 0730 to 1700.",
+ "summary_of": "f9a42bfc76a2",
  "text": "AD OPERATIONAL HOURS AND TWR SERVICE HOURS AMENDED.\nMON-THU 0730-1900 (0630-1800)\nFRI 0730-1700 (0630-1600)\nUK AIP EGNO AD 2.3, AD 2.18 AND DIGITAL DATASET REFERS.",
  "to": "PERM",
  "type": "R",

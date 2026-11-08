@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "MON 1000-1600, TUE-THU 0900-1600, FRI 0900-1400",
+ "summary": "Unlicensed taxiway D at EGNE closed for automotive testing during set weekday hours; drones may operate in the closed area.",
+ "summary_of": "fc8f186d1b33",
  "text": "UNLICENCED TWY D CLSD FOR AUTOMOTIVE TESTING. UAS MAY BE USED IN\nCLSD AREA. MORE INFO ON +441777838521",
  "to": "2026-11-13T14:00Z",
  "type": "N",

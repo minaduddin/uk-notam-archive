@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Edge lights on runway 02/20 at EGTO are 50 per cent unserviceable.",
+ "summary_of": "bd1a1cf8e301",
  "text": "RWY 02/20 EDGE LGT 50 PER CENT U/S.",
  "to": "2027-01-17T17:00Z",
  "type": "N",

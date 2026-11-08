@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Unlit mast 100 feet high at Rother, East Sussex.",
+ "summary_of": "b5bffd57afd6",
  "text": "(MAST) POSITION 505959N 0002637E (ROTHER, EAST SUSSEX)\nIN LOW FLYING AREA 18 AND NIGHT ROTARY REGION 18\nHGT 400FT AMSL (100FT AGL) UNLIT. 26/08/221/LFC",
  "to": "2026-11-18T23:59Z",
  "type": "N",

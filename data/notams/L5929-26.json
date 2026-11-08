@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0600-2000",
+ "summary": "Crane up to 70 ft above ground near Sherburn in Elmet, between 0600 and 2000.",
+ "summary_of": "410bd01b9cd6",
  "text": "CRANE OPR WI 0.1NM RADIUS OF 534659.92N 0011412.05W\n(SHERBURN IN ELMET) HGT 97FT AMSL/70FT AGL",
  "to": "2026-12-07T20:00Z",
  "type": "N",

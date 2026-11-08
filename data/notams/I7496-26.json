@@ -16,6 +16,8 @@
  "radius": 16,
  "removed": null,
  "sched": "",
+ "summary": "Prestwick airspace zones deactivated and air traffic services unavailable due to controller breaks.",
+ "summary_of": "57de70988bbd",
  "text": "PRESTWICK CTA/CTR/ATZ DEACTIVATED. ATS NOT AVBL DUE CONTROLLER\nBREAKS. PILOTS TRANSITING THE AREA ARE ADVISED TO MONITOR 129.455",
  "to": "2026-11-12T03:00Z",
  "type": "N",

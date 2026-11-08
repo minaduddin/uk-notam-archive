@@ -16,6 +16,8 @@
  "radius": 50,
  "removed": null,
  "sched": "",
+ "summary": "North Wales military training areas activated between 19,500 and 66,000 feet, at various times between 09:00 and 20:20.",
+ "summary_of": "d92a41d378f7",
  "text": "THE FOLLOWING NORTH WALES MILITARY TRAINING AREAS ACTIVATED:\nNORTH LOW 0900-2020 FL195-FL260\nNORTH LOW 1000-1115 FL195-FL285\nNORTH HIGH 1000-1115 FL285-FL660\nSOUTH LOW 0900-2020 FL195-FL260\nSOUTH LOW 1000-1115 FL195-FL285\nSOUTH HIGH 1000-1115 FL285-FL660",
  "to": "2026-11-09T20:20Z",
  "type": "N",

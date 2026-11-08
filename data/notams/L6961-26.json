@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Drone operations within 0.2 nautical miles of a point at Southill, from ground level to 400 ft above sea level, maximum 200 ft above ground.",
+ "summary_of": "5416391bfe4b",
  "text": "UAS OPR WI 0.2NM RADIUS OF 520400N 0001937W (SOUTHILL). MAX HGT\n200FT AGL. FOR INFO 07913 819283. AR-2026-10476/01.",
  "to": "2026-11-12T14:00Z",
  "type": "N",

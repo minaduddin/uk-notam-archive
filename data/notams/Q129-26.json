@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 07 approach procedure at EGWU is not available except to pre-authorised trial aircraft.",
+ "summary_of": "480ae816ffad",
  "text": "RWY 07 RNP APCH NOT AVBL EXCEPT TO PRE-AUTHORISED TRIAL ACFT.\nFOR INFO CTC 020 8833 8364.",
  "to": "2027-01-27T23:59Z",
  "type": "N",

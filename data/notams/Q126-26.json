@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Apron lighting not available on hardstands 5 and 8 at EGUN.",
+ "summary_of": "ca10eee5cde5",
  "text": "APRON LGT NOT AVBL ON HARDSTAND 5 AND 8. LIGHT-ALL (ACFT GND\nEQPT) COORDINATION REQUIRED VIA TRANSIENT ALERT FOR ACFT PARKED AT \nTHIS LOCATION.",
  "to": "2026-11-26T23:59Z",
  "type": "N",

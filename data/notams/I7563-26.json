@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Precision approach path indicator lights on runway 14/32 at EGAB unserviceable.",
+ "summary_of": "8be6a379e07a",
  "text": "PAPI RWY 14/32 U/S",
  "to": "2026-12-31T16:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Aviation obstacle light out of service at Acton, London, with the obstacle 603 feet above ground level.",
+ "summary_of": "1867425b0401",
  "text": "AIR NAV OBST LGT U/S AT PSN 513120N 0001543W (ACTON, LONDON).\nHGT 603FT AGL/1100FT AMSL. AR-2026-9246/04.",
  "to": "2026-12-15T18:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "During closure hours at EGUN, weather observations are automated and may not reflect current conditions, and forecasts will not be updated.",
+ "summary_of": "7204e2514a1e",
  "text": "DURING AD CLSD HR ALL OBS WILL BE AUTOMATED AND MAY NOT \nACCURATELY REFLECT CURRENT COND, TAF WILL NOT BE PUBLISHED OR \nUPDATED AND PILOT TO MET SER VIA LAND MOBILE RADIO MAY NOT BE AVBL. \nFOR ANY UPDATES TO THE OBS OR FCST AND FOR PILOT TO MET SER (CTC \nBASE COMMAND POST) AND ASK TO BE FORWARDED TO THE STANDBY FORECASTER.",
  "to": "2026-11-13T06:00Z",
  "type": "N",

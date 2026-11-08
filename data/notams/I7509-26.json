@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "MON-FRI 0800-1600",
+ "summary": "Crane up to 83 feet high, about 0.6 nautical miles from Kirkwall, Monday to Friday 08:00 to 16:00.",
+ "summary_of": "7b967ad8efec",
  "text": "CRANE OPR AT PSN 585747N 0025500W (0.59NM (1086M) HDG 302 DEG MAG \nFM KIRKWALL ARP) MAX HGT 83FT AGL/96FT AMSL. LOWERED DURING LVP. CTC \nATC FOR INFO 01856 886206.",
  "to": "2027-01-29T16:00Z",
  "type": "N",

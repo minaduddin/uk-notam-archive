@@ -16,6 +16,8 @@
  "radius": 9,
  "removed": null,
  "sched": "",
+ "summary": "Shoeburyness danger areas activated from ground level up to 9,000 feet above sea level, between 08:00 and 18:00.",
+ "summary_of": "38ed2d4094b9",
  "text": "THE FOLLOWING SHOEBURYNESS DANGER AREAS ARE ACTIVATED:\nEGD138C 0800-1800 SFC-6000FT AMSL\nEGD138D 0800-1800 SFC-9000FT AMSL",
  "to": "2026-11-09T18:00Z",
  "type": "N",

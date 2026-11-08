@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Single obstacle light on Bilsdale mast out of service; mast height is 1004 feet.",
+ "summary_of": "cf25c9443b17",
  "text": "AIR NAV OBST LGT UK29460081F RTM BILSDALE MAST SINGLE U/S\nPSN 542130.85N 0010901.27W. ELEV/HGT 2248FT/1004FT",
  "to": "2026-12-17T20:00Z",
  "type": "N",

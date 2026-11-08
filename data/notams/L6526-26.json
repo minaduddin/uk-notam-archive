@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Apron A closed at EGNR.",
+ "summary_of": "2337eab6c40f",
  "text": "APRON A CLSD.",
  "to": "2026-11-22T23:00Z",
  "type": "N",

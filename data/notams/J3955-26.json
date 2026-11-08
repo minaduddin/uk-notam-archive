@@ -16,6 +16,8 @@
  "radius": 7,
  "removed": null,
  "sched": "",
+ "summary": "Temporary reserved area EGTR495 and transponder mandatory zone activated near EGNV, up to 700 ft above sea level.",
+ "summary_of": "fa62761f113d",
  "text": "TEMPO RESERVED AREA EGTR495 AND ASSOCIATED TEMPO TRANSPONDER\nMANDATORY ZONE ACT. AIP SUP 059/2026 REFERS. SPECIAL USE AIRSPACE \nCROSSING SERVICE VIA TEESSIDE RADAR CH118.855. SPECIAL USE AIRSPACE \nACTIVITY INFO SERVICE VIA LONDON INFO 125.475MHZ. FOR INFO CTC 01325\n331020",
  "to": "2026-11-09T16:05Z",
  "type": "N",

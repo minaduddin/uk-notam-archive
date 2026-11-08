@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Welshpool non-directional beacon, 323 kHz, is out of service.",
+ "summary_of": "6188ce40f002",
  "text": "NDB WPL/WELSHPOOL 323KHZ U/S",
  "to": "2026-11-14T09:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 29 last look cameras and signal light guns are out of service at EGDR; expect light signals from visual control.",
+ "summary_of": "e502d60139fa",
  "text": "RWY 29 ACFT LAST LOOK CAMERAS AND SIGNAL LIGHT GUNS U/S.\nEXPECT LIGHT SIGNAL FROM VISUAL CONTROL POSITION.",
  "to": "2026-12-18T17:00Z",
  "type": "N",

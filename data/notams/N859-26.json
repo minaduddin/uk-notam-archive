@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Unlit wind turbine at Eyeworth, Central Bedfordshire, 270 feet above sea level (150 feet above ground level), within Low Flying Area 6.",
+ "summary_of": "0b1e85fce039",
  "text": "UNLIT WIND TURBINE POSITION 520438N 0001002W\n(EYEWORTH, CENTRAL BEDFORDSHIRE) IN LOW FLYING AREA 6\nAND NIGHT ROTARY REGION 4B. HGT 270FT AMSL (150FT AGL) \n26/10/062/LFC",
  "to": "2027-01-06T23:59Z",
  "type": "N",

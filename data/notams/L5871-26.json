@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0700-1630",
+ "summary": "Crane up to 98 ft above ground near Cheltenham, between 0700 and 1630.",
+ "summary_of": "85c3f178915d",
  "text": "CRANE OPR PSN 515402N 0020751W (CHELTENHAM) MAX HGT 98FT AGL /\n199FT AMSL",
  "to": "2026-12-18T16:30Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 26 instrument approach minimum heights at EGBJ increased for all aircraft categories.",
+ "summary_of": "a7e4180aa2b5",
  "text": "INSTRUMENT APPROACH CHART ILS/DME/NDB(L) RWY 26 - CAT A OCA(OCH)\nINCREASED TO 278(191), CAT B OCA(OCH) INCREASED TO 285(198), CAT C\nOCA(OCH) INCREASED TO 294(207). UK AIP AD 2.EGBJ-8-4 REFERS. )",
  "to": "PERM",
  "type": "N",

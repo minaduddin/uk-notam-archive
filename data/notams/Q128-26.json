@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Some runway 25 approach procedures at EGWU are not available except to pre-authorised trial aircraft.",
+ "summary_of": "46146bee4e0c",
  "text": "RWY 25 RNP APCH AND RWY 25 RNP TO ILS APCH NOT AVBL EXCEPT TO\nPRE-AUTHORISED TRIAL ACFT. FOR INFO CTC 020 8833 8364.",
  "to": "2027-01-27T23:59Z",
  "type": "N",

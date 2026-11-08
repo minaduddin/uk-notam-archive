@@ -16,6 +16,8 @@
  "radius": 16,
  "removed": null,
  "sched": "",
+ "summary": "Prestwick Radar reduced flow rate due to a single controller; aircraft using Prestwick as an alternate may face delays.",
+ "summary_of": "0eab5391f7fc",
  "text": "PRESTWICK RADAR REDUCED FLOW RATE DUE ATC SINGLE CONTROLLER. ACFT \nWISHING TO USE PRESTWICK AS AN ALTN MAY EXPERIENCE DELAYS. ALL ACFT \nINBOUND TO MONITOR 121.5MHZ AS MANDATED.",
  "to": "2026-11-12T07:00Z",
  "type": "N",

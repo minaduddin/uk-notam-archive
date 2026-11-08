@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "1600-2300",
+ "summary": "Searchlight display within 1 nautical mile of Woodstock, between 1600 and 2300.",
+ "summary_of": "24024018599b",
  "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 515004N 0012200W \n(WOODSTOCK).  FOR INFO 01865 537101. AR-2026-10110/01.",
  "to": "2027-01-03T23:00Z",
  "type": "N",

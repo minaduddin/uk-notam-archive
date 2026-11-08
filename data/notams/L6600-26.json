@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Nottingham aerodrome traffic zone and flight restriction zone deactivated, and aerodrome unavailable to aircraft requiring a licensed aerodrome.",
+ "summary_of": "35427b91d24d",
  "text": "NOTTINGHAM ATZ/FRZ DEACTIVATED.\nAD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE SURRENDER \nOF LICENCE.",
  "to": "2027-01-19T13:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aerodrome EGSV closed.",
+ "summary_of": "e7ee520c608a",
  "text": "AD CLOSED",
  "to": "2026-11-10T11:35Z",
  "type": "N",

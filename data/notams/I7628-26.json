@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Islay radio beacon on 395 kHz out of service at EGPI.",
+ "summary_of": "e0c67f2d0342",
  "text": "NDB LAY/ISLAY 395KHZ U/S",
  "to": "2026-12-31T18:40Z",
  "type": "N",

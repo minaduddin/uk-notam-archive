@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Lossiemouth navigation beacon is out of service for maintenance.",
+ "summary_of": "8d54bdb650b6",
  "text": "TACAN LSM/LOSSIEMOUTH FREQ 111.300MHZ CH50X U/S DUE MAINT",
  "to": "2026-11-30T23:59Z",
  "type": "N",

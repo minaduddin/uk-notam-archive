@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0700-2000",
+ "summary": "Crane up to 165 ft above ground, 0.25 nautical miles from Yeovil Westland aerodrome, operating from 0700 to 2000.",
+ "summary_of": "7a7fe0540cb4",
  "text": "CRANE OPR PSN 505610N 0023927W (165 DEG MAG, 0.25NM FM YEOVIL\nWESTLAND ARP). MAX HGT 165FT AGL, 295FT AMSL.",
  "to": "2026-11-10T20:00Z",
  "type": "N",

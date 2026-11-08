@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Sections of taxiways Alpha, Bravo and Echo closed at EGCM, and a disused runway north of runway 06/24 is unavailable for taxiing.",
+ "summary_of": "8592c547bf03",
  "text": "TWY ALPHA BTN ATC AND A3, BRAVO AND ECHO CLSD. DISSUSED RWY NORTH \nOF 06/24 NOT AVBL FOR TAXI.",
  "to": "2026-11-08T18:00Z",
  "type": "N",

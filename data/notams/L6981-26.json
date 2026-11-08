@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "0800-1800",
+ "summary": "Aerodrome EGNE not available to aircraft needing a licensed aerodrome, 0800-1800, due to no rescue and firefighting cover.",
+ "summary_of": "032878285705",
  "text": "AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS",
  "to": "2026-11-10T18:00Z",
  "type": "N",

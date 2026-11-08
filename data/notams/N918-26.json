@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Single warning light on a building at Emley Moor Tower, 1,084 feet high, reported not working.",
+ "summary_of": "e6cc5fa3c488",
  "text": "AIR NAV OBST LGT UK0171A239F BLDG RTM EMLEY MOOR TOWER SINGLE U/S\nPSN 533643.37N 0013952.06W 1927FT AMSL 1084FT AGL",
  "to": "2026-12-02T12:00Z",
  "type": "R",

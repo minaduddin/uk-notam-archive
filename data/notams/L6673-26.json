@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Fireworks within 0.1 nautical miles of Marston on Dove, up to 400 feet above mean sea level.",
+ "summary_of": "2a5daaf42c4e",
  "text": "FIREWORKS WI 0.1NM RADIUS OF 525147N 0013748W (MARSTON ON DOVE).\nFOR INFO 07837 511949. AR-2026-7120/01.",
  "to": "2026-11-08T20:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "0800-1800",
+ "summary": "Aerodrome EGNE not available to visiting aircraft without written authorisation from the airport manager, 0800-1800.",
+ "summary_of": "0369de7eee25",
  "text": "AD NOT AVBL TO VISITING ACFT OTHER THAN THOSE WITH SPECIFIC \nWRITTEN AUTHORISATION FROM THE AIRPORT MANAGER. MORE INFORMATION +44\n01777838521",
  "to": "2026-11-10T18:00Z",
  "type": "N",

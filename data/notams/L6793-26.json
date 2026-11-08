@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0600-1800",
+ "summary": "Crane up to 131 ft above ground near Barnwood, operating from 0600 to 1800.",
+ "summary_of": "aee518c11a05",
  "text": "CRANE OPR 515159N 0021229W (BARNWOOD) MAX HGT 131FT AGL/232FT AMSL",
  "to": "2026-11-25T18:00Z",
  "type": "N",

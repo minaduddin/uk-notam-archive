@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Unlit mast 150 feet high at Maidstone, Kent.",
+ "summary_of": "af703c729785",
  "text": "(MAST) POSITION 511302N 0004026E (MAIDSTONE, KENT)\nIN LOW FLYING AREA 18 AND NIGHT ROTARY REGION 18\nHGT 650FT AMSL (150FT AGL) UNLIT. 26/08/224/LFC",
  "to": "2026-11-18T23:59Z",
  "type": "N",

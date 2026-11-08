@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Crane operating at Harrow, up to 354 feet above ground level.",
+ "summary_of": "2223bef4996d",
  "text": "CRANE OPERATING AT PSN: 513419N 0002003W (HARROW) UP TO 354FT \nAGL, 600FT AMSL. FOR INFO CONTACT 07721 211088. ON EXPIRY OF THIS \nNOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4. \nAR-2026-8495/01.",
  "to": "2026-12-31T23:59Z",
  "type": "N",

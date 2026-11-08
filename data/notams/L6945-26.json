@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "TUE 0800-1300, THU 0800-1800, SAT-SUN 0900-1800",
+ "summary": "Aerodrome unavailable to aircraft needing a licensed aerodrome, as no firefighting cover, Tuesday 0800-1300, Thursday 0800-1800, weekends 0900-1800.",
+ "summary_of": "e777822c35a5",
  "text": "AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS",
  "to": "2026-11-08T18:00Z",
  "type": "N",

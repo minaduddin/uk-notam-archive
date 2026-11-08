@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Edge lights on taxiway Lima to stand 6F, and lead-on lights to stands 21 and 22, unserviceable at EGAA.",
+ "summary_of": "1f2a1e755818",
  "text": "TWY LIMA AND EDGE LIGHTS AROUND TO STAND 6F ALTERNATE LIGHTS U/S.\nLEAD ON LIGHTS FROM TWY LIMA TO STAND 21 AND 22 U/S.)",
  "to": "2026-11-08T17:00Z",
  "type": "N",

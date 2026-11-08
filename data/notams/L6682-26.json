@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiways Charlie and Delta closed at EGTR due to waterlogging.",
+ "summary_of": "57248569a8fc",
  "text": "TWY CHARLIE AND DELTA CLSD DUE WATERLOGGING.",
  "to": "2027-01-16T23:59Z",
  "type": "N",

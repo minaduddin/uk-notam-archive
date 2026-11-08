@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Warning light on an offshore obstacle, 17 nautical miles north-west of Blackpool, reported not working.",
+ "summary_of": "8e2a5b1df707",
  "text": "REPORT OF AIR NAV OBST LGT U/S AT PSN: 535646N 0032917W\n(OFFSHORE, 17NM NW OF BLACKPOOL). HGT 479FT AMSL. \nAR-2026-10387/01.",
  "to": "2027-01-27T00:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 43,
  "removed": null,
  "sched": "06 0730-1700, 09 10 11 12 0730-0900 1700-1900, 13 0730-1700",
+ "summary": "Walney transponder mandatory zone, surface to 10,000 feet, and Burbo Bank transponder zones deactivated at set times.",
+ "summary_of": "50de602c855a",
  "text": "THE FOLLOWING AREAS ARE DEACTIVATED\nWALNEY TRANSPONDERMANDATRIY ZONE-SFC TO FL100\nBURBO BANK TRANSPONDER ZONE AREA A-SFC TO 3500FT\nBURBO BANK TRANSPONDER ZONE AREA B-SFC TO 2000FT\nBURBO BANK TRANSPONDER ZONE AREA C-SFC TO FL045",
  "to": "2026-11-13T17:00Z",
  "type": "R",

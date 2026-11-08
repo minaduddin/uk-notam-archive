@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "MON 1000-1600, WED 0900-1600",
+ "summary": "Holding point Bravo at EGNE closed on Mondays and Wednesdays during set hours.",
+ "summary_of": "15ca798ada29",
  "text": "HOLD POINT BRAVO CLSD",
  "to": "2026-11-11T16:00Z",
  "type": "N",

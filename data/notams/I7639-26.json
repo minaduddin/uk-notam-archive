@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 06 anemometer out of service at EGPL; wind reports for runway 06 are taken from runway 24.",
+ "summary_of": "1f564891e73d",
  "text": "RWY 06 ANEMOMETER U/S. SURFACE WIND REPORTS DERIVED FROM RWY\n24 ANEMOMETER.",
  "to": "2026-11-11T16:30Z",
  "type": "N",

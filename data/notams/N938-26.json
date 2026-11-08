@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Single obstacle light on the Heathfield mast, 443 feet above ground level, is out of service.",
+ "summary_of": "85d164879149",
  "text": "AIR NAV OBST LGT UK0230A022F RTM RTM HEATHFIELD MAST SINGLE U/S\nPSN 505836.28N 0001349.84E, EIGHT 443FT AGL, ELEV 952FT AMSL.",
  "to": "2026-12-06T12:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway Romeo closed between Golf apron and Taxiway Kilo at EGPK.",
+ "summary_of": "7fe12e49534b",
  "text": "TWY ROMEO CLSD BTN GOLF APRON AND TWY KILO",
  "to": "2026-11-10T13:00Z",
  "type": "N",

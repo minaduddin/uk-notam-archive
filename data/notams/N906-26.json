@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Warning light on an offshore obstacle, 4 nautical miles south-east of Clacton-on-Sea, reported not working.",
+ "summary_of": "86a9d7e965b5",
  "text": "REPORT OF MULTI AIR NAV OBST LGT U/S PSN 514500N 0011434E\n(OFFSHORE, 4NM SE OF CLACTON-ON-SEA). HGT 470FT AMSL. \nAR-2026-10198/02.",
  "to": "2026-11-22T23:59Z",
  "type": "N",

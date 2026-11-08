@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Trigger notice for the winter grass runway closure at Old Buckenham Airport.",
+ "summary_of": "97e79476123e",
  "text": "TRIGGER NOTAM - AIP SUP 083/2026 WEF 09 NOV 2026 UNTIL 31 MAR \n2027. OLD BUCKENHAM AIRPORT (EGSV) - WINTER GRASS CLOSURE 2026 - \n2027.",
  "to": "2026-11-23T23:59Z",
  "type": "N",

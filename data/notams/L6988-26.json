@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway A shoulder works at holding point A4 at EGTK; aircraft should keep west of the centreline and manoeuvre with caution.",
+ "summary_of": "7de585e5951c",
  "text": "TWY A WIP ON SHOULDER AT HOLDING POINT A4 BTN 1.5M AND 26M E\nOF CL. CODE A ACFT AND HELI DEVIATE W OF CL AND MANOEUVRE WITH \nCAUTION. CODE B AND CODE C ACFT EXPECT FOLLOW-ME.",
  "to": "2026-11-13T23:59Z",
  "type": "N",

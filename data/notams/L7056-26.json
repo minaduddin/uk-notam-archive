@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 07R/25L at EGKR closed to fixed-wing aircraft due to surface conditions.",
+ "summary_of": "79b33c86efb6",
  "text": "RWY 07R/25L CLSD TO FIXED-WING ACFT DUE TO SFC CONDITION.",
  "to": "2026-11-10T17:00Z",
  "type": "N",

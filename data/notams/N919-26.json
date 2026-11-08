@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Single warning light on a mast at Chillerton Down, 751 feet high, reported not working.",
+ "summary_of": "db47e93cd810",
  "text": "AIR NAV OBST LGT UK0230A002F RTM RTM CHILLERTON DOWN MAST SINGLE \nU/S PSN 503857.37N  0011943.83W 1300FT AMSL 751FT AGL",
  "to": "2026-12-01T12:00Z",
  "type": "N",

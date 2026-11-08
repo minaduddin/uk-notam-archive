@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0800-1630",
+ "summary": "Lit crane about 3.3 kilometres from Hawarden Airport, up to 157 feet above ground level, 0800-1630.",
+ "summary_of": "e47e4200878a",
  "text": "LIT CRANE OPR PSN 531209N 0030017W (3273M 327 DEG MAG FM\nHAWARDEN ARP) MAX HGT 176FT AMSL/157FT AGL",
  "to": "2026-12-14T16:30Z",
  "type": "N",

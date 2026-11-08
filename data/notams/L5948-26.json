@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Locator beacon near Barrow and Walney Island at EGNL unavailable while under maintenance.",
+ "summary_of": "c02d6ad25ba9",
  "text": "LOCATOR WL/BARROW/WALNEY ISLAND 385KHZ NOT AVBL, RADIATING BUT ON\nMAINT.",
  "to": "2026-12-24T19:00Z",
  "type": "N",

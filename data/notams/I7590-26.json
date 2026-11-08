@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway Alpha closed at EGAA due to nearby work in progress.",
+ "summary_of": "0047548de143",
  "text": "TWY ALPHA CLOSED DUE TO WIP",
  "to": "2026-11-30T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Multiple cranes within 0.2 nautical miles of the Sewage Treatment Works, Wellesbourne, up to 160 feet above ground level.",
+ "summary_of": "234e0fda2d30",
  "text": "MULTIPLE CRANES OPR WI 0.2NM OF PSN 521153N 0013618W (SEWAGE \nTREATMENT WORKS, WELLESBOURNE, 045 DEG MAG 890M FM WELLESBOURNE \nARP). MAX HGT 310FT AMSL/ 160FT AGL",
  "to": "2026-11-26T18:00Z",
  "type": "N",

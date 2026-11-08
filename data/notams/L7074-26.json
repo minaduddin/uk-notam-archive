@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "MON 1000-1600, WED 0900-1600",
+ "summary": "Runway 02/20 at EGNE closed to aircraft without written authorisation; unlicensed runway 14/32 open; drones permitted in closed area.",
+ "summary_of": "37b4ed19a229",
  "text": "RWY 02/20 NOT AVBL FOR ACFT OTHER THAN THOSE WITH SPECIFIC\nWRITTEN AUTHORISATION FROM THE AIRPORT MANAGER. UNLICENSED RWY\n14/32 AVBL. UAS MAY BE USED IN CLOSED AREA. MORE INFO ON \n+44 01777 838521",
  "to": "2026-11-11T16:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Mobile crane operating intermittently within 500 metres of Capstone Oaks, Chatham, maximum height 100 feet above ground level.",
+ "summary_of": "e27dc9589b9e",
  "text": "MOBILE CRANE OPERATING INTERMITTENTLY WI 500M RADIUS PSN \n512129N 0003253E (CAPSTONE OAKS, CHATHAM) MAX HEIGHT 100FT AGL. MAX \nELEV 444FT AMSL. CRANE EQUIPPED WITH STEADY RED OBST LGT",
  "to": "2027-01-18T17:00Z",
  "type": "N",

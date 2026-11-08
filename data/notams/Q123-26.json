@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway Bravo centreline offset due to ongoing work at EGXC; only Typhoon aircraft may taxi, with heads-up taxiing.",
+ "summary_of": "9e08d3cf4523",
  "text": "TWY BRAVO CENTERLINE OFFSET DUE WIP. TWY PERMITTED TO STN BASED\nTYPHOON ACFT HEADS UP TAXI ONLY",
  "to": "2026-12-31T23:59Z",
  "type": "N",

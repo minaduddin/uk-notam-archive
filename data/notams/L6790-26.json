@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Denham aerodrome traffic zone activated, with extended air traffic service hours.",
+ "summary_of": "5351000afd20",
  "text": "DENHAM ATZ ACTIVATED, ATS OPR HR EXTENDED",
  "to": "2026-11-09T07:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Air traffic operational telephone network unserviceable at EGPL.",
+ "summary_of": "27500998f4e1",
  "text": "AIR TRAFFIC OPERATIONAL TELEPHONE NETWORK (ATOTN) U/S. CTC ATC\nON 01870 604830.",
  "to": "2026-12-31T15:30Z",
  "type": "R",

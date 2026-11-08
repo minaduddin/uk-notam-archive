@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Amended minimum altitude for the instrument approach to runway 21 at EGTC, 740 ft for aircraft categories A to C.",
+ "summary_of": "ebaba9af4687",
  "text": "AMENDED OCA(OCH) FOR IAP RNP RWY21. CAT A, B, C 740(382).\nVMC OCA AND OCH NOT APPLICABLE",
  "to": "2026-11-30T19:00Z",
  "type": "R",

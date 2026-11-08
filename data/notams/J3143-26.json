@@ -16,6 +16,8 @@
  "radius": 72,
  "removed": null,
  "sched": "",
+ "summary": "Temporary danger area EGD789 for drone flights beyond visual line of sight in the central North Sea, 72 nautical mile radius, surface to 1,300 feet above mean sea level.",
+ "summary_of": "31d88b013c7d",
  "text": "AIP SUP 080/2026 TEMPORARY DANGER AREA EGD789 (CENTRAL NORTH SEA -\nNORTH) BVLOS OPERATIONS - EXTENDED UNTIL 24 NOVEMBER 2026.",
  "to": "2026-11-24T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 25,
  "removed": null,
  "sched": "",
+ "summary": "Warton navigation beacon out of service, though it may transmit for testing purposes.",
+ "summary_of": "c5237b7fc4f7",
  "text": "TACAN WTN/WARTON CH79X FREQ 1166MHZ U/S, MAY TRANSMIT FOR TEST\nPURPOSES",
  "to": "2027-01-22T23:59Z",
  "type": "R",

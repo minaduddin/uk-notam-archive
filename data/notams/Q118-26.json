@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 23 approach lighting at EGQS is partly obscured by vegetation.",
+ "summary_of": "bfc50688801d",
  "text": "RWY 23 APPROACH LIGHTING PARTIALLY OBSCURED BY VEGETATION",
  "to": "2026-11-23T23:30Z",
  "type": "N",

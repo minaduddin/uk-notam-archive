@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Revised aerodrome operating hours at EGCV, 0730 to 1700.",
+ "summary_of": "02891f63ecbd",
  "text": "REVISED AD OPR HR:\n0730-1700",
  "to": "2026-11-26T08:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Lit crane up to 330 feet above ground level in Bermondsey, London, within Thames Valley Avoidance Area.",
+ "summary_of": "f32ab29f77dd",
  "text": "LIT CRANE AT PSN 512902N 0000313W (BERMONDSEY, LONDON)\nIN LOW FLYING THAMES VALLEY AVOIDANCE AREA DAY AND NIGHT\nHGT 330FT AGL 370FT AMSL. 26/09/298/LFC",
  "to": "2027-01-03T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Revised minimum heights for the satellite navigation approach to runway 03 at EGTC.",
+ "summary_of": "52d1ecd21462",
  "text": "AMENDED OCA(OCH) FOR IAP RNP RWY 03. CAT A, B, C 735(377).\nVMC OCA AND OCH NOT APPLICABLE",
  "to": "2026-11-30T19:00Z",
  "type": "R",

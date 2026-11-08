@@ -16,6 +16,8 @@
  "radius": 49,
  "removed": null,
  "sched": "",
+ "summary": "Moray Firth danger areas activated from ground level up to 55,000 feet above sea level, between 14:00 and 15:45.",
+ "summary_of": "ba3569259d4b",
  "text": "THE FOLLOWING MORAY FIRTH DANGER AREAS ARE ACTIVATED:\nEGD809C 1400-1545 SFC-55000FT AMSL\nEGD809N 1400-1545 SFC-55000FT AMSL\nEGD809S 1400-1545 SFC-55000FT AMSL",
  "to": "2026-11-09T15:45Z",
  "type": "N",

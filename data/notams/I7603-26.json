@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Runway 02/20 closed at EGPK.",
+ "summary_of": "e00d88228575",
  "text": "RWY 02/20 CLSD",
  "to": "2026-11-09T12:00Z",
  "type": "N",

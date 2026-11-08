@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "0800-0830, 1630-1700",
+ "summary": "Aerodrome EGTC closed at set times, from 0800 to 0830 and from 1630 to 1700.",
+ "summary_of": "c0b2b975cdf8",
  "text": "AD CLSD",
  "to": "2026-11-12T17:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Warning light on an offshore obstacle, 14 nautical miles west of Cockerham, reported not working.",
+ "summary_of": "8119d2144815",
  "text": "REPORT OF AIR NAV OBST LGT U/S WI AREA BOUNDED BY \n535948N 0031530W - 535818N 0031530W - 535818N 0031330W - \n535948N 0031330W - 535948N 0031530W \n(OFFSHORE, 14NM WEST OF COCKERHAM). HGT 378FT AMSL. \nAR-2026-10385/01.",
  "to": "2027-01-25T00:00Z",
  "type": "N",

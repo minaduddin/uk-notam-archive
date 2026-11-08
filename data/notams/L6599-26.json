@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "08 11 1050-1110",
+ "summary": "Aerodrome EGTF closed to all traffic from 1050 to 1110, with no engine ground running permitted.",
+ "summary_of": "482d14100841",
  "text": "AD CLOSED TO ALL TRAFFIC. NO ENGINE GROUND RUNNING PERMITTED\nSCHEDULE",
  "to": "2026-11-11T11:10Z",
  "type": "N",

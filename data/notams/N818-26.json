@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Cranes operating in the vicinity of Blackwall, London, up to 374 feet above ground level.",
+ "summary_of": "bfd7deda395f",
  "text": "CRANES OPR VCY 513043N 0000011W (BLACKWALL, LONDON) UP TO\n374FT AGL/ 392FT AMSL. FOR INFO CONTACT 07551 673269. ON EXPIRY OF\nTHIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4\nAR-2026-8215/01.",
  "to": "2026-12-23T23:59Z",
  "type": "N",

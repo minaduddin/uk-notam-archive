@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Instrument approach chart for runway 26 at EGBJ amended, changing the minimum obstacle clearance altitude between 5 and 3 nautical miles.",
+ "summary_of": "03396e4bc96a",
  "text": "INSTRUMENT APPROACH CHART RNP RWY 26 (AIRAC 10/2026 WEF 01 OCT\n2026) - AMEND MOCA BTW 5NM AND 3NM TO READ 1110(1023)\nUK AIP AD 2.EGBJ-8-7 REFERS.",
  "to": "PERM",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Drone operations within 65 metres of a point at Hawarden aerodrome, up to 414 ft above sea level, maximum 393 ft above ground.",
+ "summary_of": "753ff6943dfd",
  "text": "UAS OPS WI 65M RADIUS 531214N 0030037W (HAWARDEN AERODROME). \nMAX HEIGHT 393FT AGL / 414FT AMSL.",
  "to": "2026-11-09T08:00Z",
  "type": "N",

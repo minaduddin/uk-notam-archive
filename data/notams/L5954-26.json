@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Glide path guidance for runway 35 at EGNL unavailable, under maintenance.",
+ "summary_of": "54c956396815",
  "text": "ILS GP RWY 35 NOT AVBL, RADIATING BUT ON MAINT.",
  "to": "2026-12-24T19:00Z",
  "type": "N",

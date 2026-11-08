@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Helipad number 3 closed at EGAB due to work in progress.",
+ "summary_of": "734b18d44925",
  "text": "HELIPAD NUMBER 3 CLSD DUE WIP",
  "to": "2026-12-31T16:00Z",
  "type": "N",

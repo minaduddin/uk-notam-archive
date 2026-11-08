@@ -1,0 +1,23 @@
+{
+ "coord": [
+  57.4833,
+  -7.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-08T16:13Z",
+ "from": "2026-11-08T15:56Z",
+ "id": "I7696/26",
+ "loc": [
+  "EGPL"
+ ],
+ "lower": "",
+ "q": "NLAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "LOCATOR BBA/BENBECULA 401KHZ U/S",
+ "to": "2026-11-10T16:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Aerodrome EGTO not available to aircraft needing a licensed aerodrome, due to no rescue and firefighting cover.",
+ "summary_of": "b37cf908aaa4",
  "text": "AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS",
  "to": "2026-11-08T17:30Z",
  "type": "N",
