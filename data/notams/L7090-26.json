@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8333,
+  -1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T18:06Z",
+ "from": "2026-11-08T17:45Z",
+ "id": "L7090/26",
+ "loc": [
+  "EGTK"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGTK closed; its aerodrome traffic zone remains active.",
+ "summary_of": "68a65b39350b",
+ "text": "AD CLOSED. ATZ REMAINS ACTIVE.",
+ "to": "2026-11-08T18:15Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.55,
+  -0.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T18:06Z",
+ "from": "2026-11-08T17:46Z",
+ "id": "Q489/26",
+ "loc": [
+  "EGWU"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGWU closed.",
+ "summary_of": "93dcd6ff7b5c",
+ "text": "AD CLOSED",
+ "to": "2026-11-08T22:00Z",
+ "type": "N",
+ "upper": ""
+}

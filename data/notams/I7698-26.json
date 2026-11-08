@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2167,
+  -6.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-08T18:06Z",
+ "from": "2026-11-08T17:00Z",
+ "id": "I7698/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Stornoway aerodrome traffic zone active; information and weather services open, fire cover available, and prior permission still required.",
+ "summary_of": "39b4a1c6cc95",
+ "text": "STORNOWAY ATZ ACTIVE. AD/FIS/MET SERVICE OPEN. RFFS CAT3 AVBL. AD\nREMAINS PPR.",
+ "to": "2026-11-08T19:00Z",
+ "type": "N",
+ "upper": ""
+}

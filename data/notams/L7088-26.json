@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1167,
+  -3.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T18:06Z",
+ "from": "2026-11-09T16:00Z",
+ "id": "L7088/26",
+ "loc": [
+  "EGNR"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 9,
+ "removed": null,
+ "sched": "09-13 1600-2100, 14 0830-1800",
+ "summary": "Hawarden radar service available only to pre-booked instrument flights due to staff shortage; the tower provides a basic service otherwise.",
+ "summary_of": "e4875b369b5f",
+ "text": "HAWARDEN RADAR SER WILL BE AVBL FOR PRE BOOKED IFR TFC ONLY DUE \nSTAFF SHORTAGE. FOR ALL OTHER TFC HAWARDEN RADIO MANDATORY ZONE \nCRITERIA APPLY. HAWARDEN RADAR CH 120.055 WILL BE BAND-BOXED WITH \nHAWARDEN TWR PROVIDING A BASIC SER ONLY.",
+ "to": "2026-11-14T18:00Z",
+ "type": "N",
+ "upper": ""
+}

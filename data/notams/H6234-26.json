@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.75,
+  -2.7333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T18:06Z",
+ "from": "2026-11-15T17:00Z",
+ "id": "H6234/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1700-2000",
+ "summary": "Laser display within 1 nautical mile of Higher Penwortham, Preston, between 1700 and 2000.",
+ "summary_of": "3311ad197bfa",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 534502N 0024403W \n(HIGHER PENWORTHAM, PRESTON).  FOR INFO 07810 634977. \nAR-2026-8605/01.",
+ "to": "2026-12-31T20:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

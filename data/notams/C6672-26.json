@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3,
+  -0.7
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T18:06Z",
+ "from": "2026-11-15T17:15Z",
+ "id": "C6672/26",
+ "loc": [
+  "EGLF"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Lasers and fireworks within 1 nautical mile of Frimley, with fireworks up to 150 feet above ground level.",
+ "summary_of": "07e238aa9aa9",
+ "text": "LASERS, FIREWORKS WI 1NM RADIUS OF 511823N 0004207W (FRIMLEY).\nFIREWORKS UP TO 150FT AGL. FOR INFO 07412 670371. AR-2026-8604/01.",
+ "to": "2026-11-15T17:45Z",
+ "type": "N",
+ "upper": "UNL"
+}
