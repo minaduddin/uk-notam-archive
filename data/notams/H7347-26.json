@@ -1,0 +1,23 @@
+{
+ "coord": [
+  52.2,
+  -0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T10:41Z",
+ "from": "2026-11-15T09:00Z",
+ "id": "H7347/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0900-1500",
+ "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 521200N 0002130W\n(COLMWORTH). FOR INFO 07876 200320. AR-2026-10456/01.",
+ "to": "2026-12-31T15:00Z",
+ "type": "N",
+ "upper": "1300FT AMSL"
+}

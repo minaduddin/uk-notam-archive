@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.45,
+  -3.0333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-08T10:41Z",
+ "from": "2026-11-08T10:00Z",
+ "id": "I7692/26",
+ "loc": [
+  "EGPN"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "text": "DUNDEE ATZ DEACTIVATED, AD CLOSED",
+ "to": "2026-11-08T10:15Z",
+ "type": "N",
+ "upper": ""
+}
