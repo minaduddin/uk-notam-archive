@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T23:10Z",
+ "from": "2026-11-09T23:30Z",
+ "id": "A4498/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "2330-0500",
+ "summary": "Taxiway Kilo closed east of stand 17 at EGKK, daily from 2330 to 0500.",
+ "summary_of": "c54d28752cec",
+ "text": "TWY KILO CLSD EAST OF STAND 17",
+ "to": "2026-11-14T05:00Z",
+ "type": "N",
+ "upper": ""
+}

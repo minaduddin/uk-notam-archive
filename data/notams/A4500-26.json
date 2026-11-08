@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T23:10Z",
+ "from": "2026-11-09T23:00Z",
+ "id": "A4500/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MYLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "2300-0500",
+ "summary": "Rapid exit taxiway Echo Romeo for runway 26L closed at EGKK, daily from 2300 to 0500.",
+ "summary_of": "9efdb47f8aa2",
+ "text": "RAPID EXIT TAXIWAY ECHO ROMEO FOR RWY 26L CLSD",
+ "to": "2026-11-13T05:00Z",
+ "type": "N",
+ "upper": ""
+}

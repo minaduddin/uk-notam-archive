@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T23:10Z",
+ "from": "2026-11-10T00:00Z",
+ "id": "A4503/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "0000-0500",
+ "summary": "Taxiway Papa closed at EGKK between taxiways Lima and Kilo, daily from midnight to 0500.",
+ "summary_of": "fc716eabd43e",
+ "text": "TWY PAPA CLSD BTN TWY LIMA AND TWY KILO",
+ "to": "2026-11-11T05:00Z",
+ "type": "N",
+ "upper": ""
+}

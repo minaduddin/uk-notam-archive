@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8,
+  -1.7333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T23:10Z",
+ "from": "2026-11-08T23:10Z",
+ "id": "C7359/26",
+ "loc": [
+  "EGNM"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 18,
+ "removed": null,
+ "sched": "",
+ "summary": "Leeds Bradford controlled airspace deactivated and aerodrome closed, with no air traffic control; airspace reverts to Class G.",
+ "summary_of": "f14e97402f02",
+ "text": "LEEDS BRADFORD CTA, CTR, ATTZ DEACTIVATED, AD CLOSED, NO ATC\nSERVICE AVAILABLE. LEEDS BRADFORD CONTROLLED AIRSPACE REVERTS\nTO CLASS G. DURING PERIODS OF CLOSURE. SUITABLY EQUIPPED ACFT\nWI LEEDS BRADFORD AIRSPACE DURING THESE PERIODS SHOULD MONITOR\nLEEDS RADAR ON CH 134.580 AND SQUAWK EITHER 2677, ANY DISCRETE\nTASK SPECIFIC CODE, OR ANY DISCRETE CODE ALLOCATED BY ANOTHER\nUNIT. MET OBSERVATIONS UNVERIFIED DURING PERIODS OF CLOSURE.",
+ "to": "2026-11-09T05:30Z",
+ "type": "N",
+ "upper": ""
+}
