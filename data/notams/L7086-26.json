@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.6667,
+  -2.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T15:35Z",
+ "from": "2026-11-09T09:00Z",
+ "id": "L7086/26",
+ "loc": [
+  "EGBP"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AD NOT AVBL TO VISITING ACFT UNLESS PRIOR ARRANGEMENT HAS BEEN \nMADE WITH KEMBLE OPS, BASED OPERATORS MAY OPR WITH A VALID OUT OF \nHOURS INDEMNITY DURING DAYLIGHT HR.",
+ "to": "2026-11-09T17:00Z",
+ "type": "N",
+ "upper": ""
+}

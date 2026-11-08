@@ -1,0 +1,23 @@
+{
+ "coord": [
+  56.4667,
+  -2.9667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-08T15:35Z",
+ "from": "2026-11-15T14:00Z",
+ "id": "I7160/26",
+ "loc": [
+  "EGPN"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "text": "UAS SWARM OPR WI 0.2NM RADIUS OF 562733N 0025802W (SLESSOR\nGARDENS, DUNDEE). SWARM MADE UP OF 150 UAS. MAX HGT 499FT AGL.\nFOR INFO 02031 516891. AR-2026-9952/01.",
+ "to": "2026-11-15T20:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}
