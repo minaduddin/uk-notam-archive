@@ -1,0 +1,23 @@
+{
+ "coord": [
+  51.3167,
+  -0.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T07:58Z",
+ "from": "2026-11-08T07:00Z",
+ "id": "L7081/26",
+ "loc": [
+  "EGLK"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "text": "AD CLSD ALL TRAFFIC DUE FOG",
+ "to": "2026-11-08T09:30Z",
+ "type": "N",
+ "upper": ""
+}
