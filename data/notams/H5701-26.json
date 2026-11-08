@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "SEP 18-OCT 24 0700-1900, OCT 25-DEC 16 0800-2000",
+ "summary": "Large model aircraft flying within 1 nautical mile of Wold Newton, up to 1,600 ft above sea level.",
+ "summary_of": "7ba5d29b439a",
  "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 540815N 0002238W \n(WOLD NEWTON). FOR INFO 074832 23878. AR-2026-8017/01.",
  "to": "2026-12-16T20:00Z",
  "type": "N",

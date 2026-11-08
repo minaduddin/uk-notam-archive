@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "High intensity radio transmission area within 1 nautical mile of Keevil, Wiltshire, up to 808 feet above ground.",
+ "summary_of": "285042dacb98",
  "text": "E BAND HIGH INTENSITY RADIO TRANSMISSION AREA (HIRTA) OPR WI 1NM \nOF PSN 511849N 0020657W (KEEVIL, WILTSHIRE) LOW FLYING AREA 1A AND \nNIGHT ROTORY REGION 1. MAX HGT 808FT AGL. 26/11/031/LFC\nSAFE DISTANCES\nCIVILIAN ACFT                    0.1146NM       409FT AGL\nHIGH                             0.1191NM       436FT AGL\nPULSE MEDIUM                     0.1146NM       409FT AGL\nPULSE HIGH                       0.1807NM       080FT AGL",
  "to": "2026-11-13T23:59Z",
  "type": "N",

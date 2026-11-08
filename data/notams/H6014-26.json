@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "OCT 07-24 1330-2230, OCT 25-NOV 08 1430-2330",
+ "summary": "Laser display within 1 nautical mile of Linn of Tummel.",
+ "summary_of": "56adc4161a14",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 564239N 0034556W (LINN OF TUMMEL).\nFOR INFO 07399 078719. AR-2026-7968/01.",
  "to": "2026-11-08T23:30Z",
  "type": "N",

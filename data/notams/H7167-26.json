@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "0700-1700",
+ "summary": "Large model aircraft within 1 nautical mile of Exbourne, up to 3,500 ft above sea level.",
+ "summary_of": "a9e7092d6451",
  "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 504836N 0040004W\n(EXBOURNE). FOR INFO 07474 552246 / 07879 352008. AR-2026-10243/01.",
  "to": "2026-11-30T17:00Z",
  "type": "N",

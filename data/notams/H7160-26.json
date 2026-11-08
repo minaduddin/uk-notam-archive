@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "High intensity radio transmission area within 1 nautical mile of Murton, Westmorland and Furness, up to 1,850 ft above sea level.",
+ "summary_of": "16b5a023f56d",
  "text": "E BAND HIGH INTENSITY RADIO TRANSMISSION AREA (HIRTA) OPR WI 1NM \nOF PSN 543341N 0022427W (MURTON, WESTMORLAND AND FURNESS) LOW\nFLYING AREA 17 AND NIGHT SECTOR 3BE. MAX HGT 569FT AGL. 26/10/150/LFC\n \nSAFE DISTANCES\nCIVILIAN ACFT                    0.1248NM        183FT AGL\nMIL ACFT SUSCEPTIBILITY \nLOW                              0.1262NM        188FT AGL\nMEDIUM                           0.1524NM        290FT AGL\nHIGH                             0.2238NM        569FT AGL",
  "to": "2026-11-15T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "SEP 09-OCT 24 0900-2000, OCT 25-NOV 09 1000-2100",
+ "summary": "Drone swarm of 54 drones operating within 0.2 nautical miles of Church Norton, up to 600 ft above ground level.",
+ "summary_of": "86c3c70b5311",
  "text": "UAS SWARM OPR WI 0.2NM RADIUS OF 504455N 0004609W (CHURCH \nNORTON). SWARM MADE UP OF 54 UAS. MAX HGT 600FT AGL. FOR INFO 07782 \n5633178. AR-2026-8321/01.",
  "to": "2026-11-09T21:00Z",
  "type": "N",

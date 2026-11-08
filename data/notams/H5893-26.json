@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Drones flying beyond visual line of sight within 1.4 nautical miles of Stromness, Orkney Islands, up to 263 ft above ground level.",
+ "summary_of": "2bd3e22e4011",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 1.4NM RADIUS OF \n585608N 0031815W (STROMNESS, ORKNEY ISLANDS). MAX HGT 263FT AGL. FOR \nINFO 07852 318946. AR-2026-8130/02.",
  "to": "2026-12-23T15:19Z",
  "type": "N",

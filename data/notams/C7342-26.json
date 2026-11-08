@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Instrument landing system for runway 21 is unavailable at EGMD.",
+ "summary_of": "79fa6436f5e6",
  "text": "ILS RWY 21 NOT AVBL",
  "to": "2026-12-15T19:00Z",
  "type": "R",

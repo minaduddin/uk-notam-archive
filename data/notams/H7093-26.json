@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0900-1800",
+ "summary": "Large model aircraft within 0.3 nautical miles of Tholthorpe, up to 1,600 ft above sea level.",
+ "summary_of": "db6cc5fce56b",
  "text": "FLYING OF LARGE MODEL ACFT WI 0.3NM RADIUS OF 540616N 0011524W\n(THOLTHORPE).  FOR INFO 07778 030714 / 07749 736802.\nAR-2026-10142/01.",
  "to": "2027-01-17T18:00Z",
  "type": "N",

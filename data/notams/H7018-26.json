@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0900-2300",
+ "summary": "Swarm of 300 drones operating within 0.2 nautical miles of Haxey, up to 400 ft above ground level, between 0900 and 2300.",
+ "summary_of": "9c1e65f9fd2b",
  "text": "UAS SWARM OPR WI 0.2NM RADIUS OF 532946N 0004915W (HAXEY). SWARM\nMADE UP OF 300 UAS. MAX HGT 400FT AGL. FOR INFO 07738 612566.\nAR-2026-9598/03.",
  "to": "2026-11-20T23:00Z",
  "type": "N",

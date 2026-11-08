@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "12 0900-2300, 15 0900-1500",
+ "summary": "Danger area EGD305 at Beckingham is active, from ground level up to 1,500 ft above mean sea level.",
+ "summary_of": "362557bd436e",
  "text": "DANGER AREA EGD305 BECKINGHAM ACTIVE",
  "to": "2026-11-15T15:00Z",
  "type": "N",

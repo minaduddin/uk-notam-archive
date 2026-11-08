@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Danger area EGD510C at Spadeadam is active, from ground level up to 5,500 ft above mean sea level.",
+ "summary_of": "1ea0c55bf08d",
  "text": "DANGER AREA EGD510C SPADEADAM ACTIVE\nNO SPECIAL USE AIRSPACE CROSSING SERVICE AVAILABLE",
  "to": "2026-11-10T17:00Z",
  "type": "N",

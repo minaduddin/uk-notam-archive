@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "SS-SR",
+ "summary": "Danger area EGD129 at Weston-on-the-Green activated from sunset to sunrise, up to flight level 120.",
+ "summary_of": "246a4d78bb5b",
  "text": "DANGER AREA EGD129 WESTON-ON-THE-GREEN ACTIVATED.  \nFOR INFO 01993 895052 / 07977 834403 / 07713 479300. AR-2026-0344/01.",
  "to": "2026-11-14T07:22Z",
  "type": "N",

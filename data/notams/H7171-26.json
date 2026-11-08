@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0800-1800",
+ "summary": "Drone operations within 0.5 nautical miles of Garton, up to 700 ft above ground level.",
+ "summary_of": "614eb5b065dd",
  "text": "UAS OPR WI 0.5NM RADIUS OF 534732N 0000459W (GARTON). MAX HGT \n700FT AGL. FOR INFO 07784 546062. AR-2026-10264/01.",
  "to": "2026-11-10T18:00Z",
  "type": "N",

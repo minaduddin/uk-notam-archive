@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "SEP 13-OCT 24 0700-1900, OCT 25-DEC 11 0800-2000",
+ "summary": "Large model aircraft flying within 0.55 nautical miles of a point south of Wolston, up to 1,900 ft above sea level.",
+ "summary_of": "8476ca355acc",
  "text": "FLYING OF LARGE MODEL ACFT WI 0.55NM RADIUS OF 522203N 0012346W\n(SOUTH OF WOLSTON).  FOR INFO 075196 65738. AR-2026-8082/01.",
  "to": "2026-12-11T20:00Z",
  "type": "N",

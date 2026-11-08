@@ -16,6 +16,8 @@
  "radius": 8,
  "removed": null,
  "sched": "",
+ "summary": "Llanbedr danger areas EGD217A, EGD217C, EGD217E and EGD217I activated between 0900 and 1700, up to 6,000 ft above mean sea level.",
+ "summary_of": "77b5cf67611b",
  "text": "THE FOLLOWING LLANBEDR DANGER AREAS ARE ACTIVATED:\nEGD217A 0900-1700 SFC-2000FT AMSL\nEGD217C 0900-1700 SFC-2000FT AMSL\nEGD217E 0900-1700 SFC-2000FT AMSL\nEGD217I 0900-1700 2000FT AMSL-6000FT AMSL",
  "to": "2026-11-13T17:00Z",
  "type": "N",

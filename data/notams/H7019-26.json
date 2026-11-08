@@ -16,6 +16,8 @@
  "radius": 7,
  "removed": null,
  "sched": "0900-2130",
+ "summary": "Flight trials within 6 nautical miles of Bedale, up to 6,600 ft above sea level.",
+ "summary_of": "4fa4d220eaec",
  "text": "FLIGHT TRIALS WI 6NM RADIUS OF 541801N 0013140W (BEDALE).  FOR\nINFO 07923 375175 / 01302 230500 / 01302 230500. AR-2026-9932/01.",
  "to": "2026-11-19T21:30Z",
  "type": "N",

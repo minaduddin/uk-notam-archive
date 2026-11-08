@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "OCT 01-24 1400-2000, OCT 25-DEC 23 1500-2100",
+ "summary": "Searchlight display within 1 nautical mile of Bickley Moss.",
+ "summary_of": "e0bfec6551d5",
  "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 530229N 0024103W (BICKLEY\nMOSS).  FOR INFO 01829 830730. AR-2026-8558/01.",
  "to": "2026-12-23T21:00Z",
  "type": "N",

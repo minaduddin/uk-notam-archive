@@ -16,6 +16,8 @@
  "radius": 12,
  "removed": null,
  "sched": "",
+ "summary": "Danger area EGD324B at Waddington Medium activated, from flight level 105 up to flight level 195.",
+ "summary_of": "8bbd799333c1",
  "text": "DANGER AREA EGD324B WADDINGTON MEDIUM ACTIVATED",
  "to": "2026-11-11T20:00Z",
  "type": "N",

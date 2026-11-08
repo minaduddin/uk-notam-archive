@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "High intensity radio transmission area within 1 nautical mile of Lyneham, Wiltshire, up to 809 feet above ground.",
+ "summary_of": "306243628cf6",
  "text": "E BAND HIGH INTENSITY RADIO TRANSMISSION AREA (HIRTA) OPR WI 1NM \nOF PSN 512957N 0015910W (LYNEHAM, WILTSHIRE) LOW FLYING AREA 2 AND \nNIGHT ROTORY REGION 2. MAX HGT 809FT AGL. 26/11/032/LFC\nSAFE DISTANCES\nCIVILIAN ACFT                    0.1200NM        409FT AGL\nLOW                              0.0763NM        144FT AGL\nMEDIUM                           0.0893NM        222FT AGL\nHIGH                             0.1246NM        436FT AGL\nPULSE LOW                        0.0870NM        209FT AGL\nPULSE MEDIUM                     0.1201NM        109FT AGL\nPULSE HIGH                       0.1861NM        809FT AGL",
  "to": "2026-11-13T23:59Z",
  "type": "N",

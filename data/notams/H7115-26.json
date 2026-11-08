@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Lasers and searchlights within 1 nautical mile of Swindon, with no upper height limit.",
+ "summary_of": "e89d28bb17b5",
  "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 513359N 0014825W (SWINDON).\nFOR INFO 07467 547348. AR-2026-10126/01.",
  "to": "2026-11-14T22:00Z",
  "type": "N",

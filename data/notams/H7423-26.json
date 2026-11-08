@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "0900-1400",
+ "summary": "Weather balloon releases within 1 nautical mile of Ashbourne, with no upper height limit, between 0900 and 1400.",
+ "summary_of": "b74a5e6adf13",
  "text": "MET BALLOON RELEASE/S WI 1NM RADIUS OF 530058N 0014431W \n(ASHBOURNE). THIS ACTIVITY WILL NOT BE WHOLLY CONTAINED WI LATERAL \nDIMENSION AS NOTIFIED.  FOR INFO 01142 131050 / 07753 650414. \nAR-2026-6767/08.",
  "to": "2026-11-13T14:00Z",
  "type": "N",

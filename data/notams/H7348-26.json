@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Drone flights beyond visual line of sight, using visual observers, within a quarter of a nautical mile of Knottingley, up to 165 feet above ground.",
+ "summary_of": "88de16676091",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT UTILISING VISUAL OBSERVERS \n(EXTENDED LINE OF SIGHT) WI 0.25NM RADIUS OF 534137N 0011618W \n(KNOTTINGLEY). MAX HGT 165FT AGL. FOR INFO 00447762568181 / \n07710700830. AR-2026-10511/01.",
  "to": "2027-01-31T23:59Z",
  "type": "N",

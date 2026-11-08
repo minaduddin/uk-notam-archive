@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "0900-2359",
+ "summary": "Live firing within 2 nautical miles of Thetford Range, up to 1,000 feet above sea level, between 0900 and 2359.",
+ "summary_of": "7eafaf2580d3",
  "text": "LIVE FIRING WI 2NM RADIUS OF 522432N 0004132E (THETFORD RANGE).\nINCREASE TO AIR DANGER HGT. FOR INFO 07500 224483/07818 900806. \nAR-2026-10468/01.",
  "to": "2026-11-12T23:59Z",
  "type": "N",

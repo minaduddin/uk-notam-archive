@@ -16,6 +16,8 @@
  "radius": 4,
  "removed": null,
  "sched": "",
+ "summary": "Drone flights beyond visual line of sight within 3 nautical miles of Callander, up to 400 feet above ground.",
+ "summary_of": "6a8c657808b0",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 3NM RADIUS OF \n561228N 0042404W (CALLANDER). MAX HGT 400FT AGL. \nFOR INFO 07786 553317. AR-2026-10591/01.",
  "to": "2026-11-11T19:00Z",
  "type": "N",

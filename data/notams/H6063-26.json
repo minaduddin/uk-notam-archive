@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "SEP 21-OCT 24 0800-1900, OCT 25-DEC 19 0900-2000",
+ "summary": "Large model aircraft flying within 0.3 nautical miles of Oxted, Surrey, up to 1,500 ft above sea level.",
+ "summary_of": "6450bb7e3c90",
  "text": "FLYING OF LARGE MODEL ACFT WI 0.3NM RADIUS OF 511327N 0000111W\n(OXTED, SURREY). FOR INFO 07966 439835. AR-2026-8034/05.",
  "to": "2026-12-19T20:00Z",
  "type": "N",

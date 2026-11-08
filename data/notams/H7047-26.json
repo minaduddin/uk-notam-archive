@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "MON-FRI 1000-1500",
+ "summary": "Drone operations in an area at Wootton, up to 390 ft above ground level.",
+ "summary_of": "10b68b8d0b48",
  "text": "UAS OPR WI AREA BOUNDED BY 520529N 0003104W - 520508N 0003010W -\n520443N 0003034W - 520509N 0003126W - 520529N 0003104W (WOOTTON).\nMAX HGT 390FT AGL. FOR INFO 07745 966840. AR-2026-10024/01.",
  "to": "2027-01-28T15:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 14,
  "removed": null,
  "sched": "",
+ "summary": "Danger area EGD001 at Trevose Head activated, from ground level up to 1,000 ft above mean sea level.",
+ "summary_of": "f804cee2daa5",
  "text": "DANGER AREA EGD001 TREVOSE HEAD ACTIVATED.",
  "to": "2026-11-11T18:00Z",
  "type": "N",

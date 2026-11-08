@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "MON-FRI 0800-1600",
+ "summary": "Drone operations beyond the pilot's direct line of sight in an area at Romford, up to 120 ft above ground level.",
+ "summary_of": "97063c76c30a",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) WI AREA BOUNDED BY\n513419N 0001012E - 513428N 0001050E - 513425N 0001051E - \n513422N 0001037E - 513421N 0001036E - 513420N 0001031E - \n513420N 0001029E - 513417N 0001013E - 513419N 0001012E (ROMFORD). \nATYPICAL UAS OPR MAX HGT 120FT AGL. FOR INFO 01912 961024. \nAR-2026-10109/01.",
  "to": "2027-01-01T16:00Z",
  "type": "N",

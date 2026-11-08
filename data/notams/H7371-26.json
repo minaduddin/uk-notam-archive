@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Drone swarm of 25 drones operating in an area near Cirencester, up to 160 feet above ground.",
+ "summary_of": "7c34dcf71487",
  "text": "UAS SWARM OPR WI AREA BOUNDED BY 514334N 0020118W - \n514348N 0020049W - 514339N 0020028W - 514331N 0020015W - \n514322N 0020021W - 514318N 0020021W - 514310N 0020024W - \n514307N 0020100W - 514316N 0020101W - 514334N 0020118W \n(CIRENCESTER). SWARM MADE UP OF 25 UAS. MAX HGT 160FT AGL. FOR INFO \n07752 050515 / 07400 661129. AR-2026-10558/01.",
  "to": "2026-11-12T21:00Z",
  "type": "N",

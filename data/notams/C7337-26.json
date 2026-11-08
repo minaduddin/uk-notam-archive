@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "",
+ "summary": "Primary radar at Humberside is out of service, and secondary radar coverage is limited.",
+ "summary_of": "d6d4d2d2d9e3",
  "text": "HUMBERSIDE PRIMARY RADAR U/S. LIMITED SSR COVERAGE",
  "to": "2026-11-11T18:00Z",
  "type": "R",

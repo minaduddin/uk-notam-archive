@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "",
+ "summary": "Drones flying beyond visual line of sight within 0.1 nautical miles of Newhey, Manchester, up to 165 ft above ground level.",
+ "summary_of": "0d0767c006ba",
  "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 0.1NM RADIUS OF \n533604N 0020722W (NEWHEY, MANCHESTER). MAX HGT 165FT AGL. FOR INFO\n077625 68181 / 07710 700830. AR-2026-8700/01.",
  "to": "2026-12-10T23:59Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "MON-FRI SR-SS",
+ "summary": "Drone operations within 1 nautical mile of Chilmark, up to 1,000 ft above ground level.",
+ "summary_of": "8f010d2d7aa6",
  "text": "UAS OPR WI 1NM RADIUS OF 510636N 0020223W (CHILMARK). MAX HGT\n1000FT AGL. FOR INFO 07826 918598. AR-2026-7527/02.",
  "to": "2026-11-18T16:17Z",
  "type": "R",

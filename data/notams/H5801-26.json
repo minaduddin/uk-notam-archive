@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "SEP 07 1330-1700, SEP 08-OCT 24 0700-1700, OCT 25-DEC 06 0800-1800",
+ "summary": "Drone operations within 0.34 nautical miles of Hampstead Norris, up to 400 ft above ground level.",
+ "summary_of": "889d43cf342d",
  "text": "UAS OPR WI 0.34NM RADIUS OF 512938N 0011253W (HAMPSTEAD NORRIS).\nMAX HGT 400FT AGL. FOR INFO 07309 919170 / 07309 919318 / 07309\n919218. AR-2026-8356/01.",
  "to": "2026-12-06T18:00Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "OCT 21-24 1100-2100, OCT 25-DEC 31 1200-2200",
+ "summary": "Swarm of 250 drones operating within 0.1 nautical miles of Mawdesley, up to 400 ft above ground level.",
+ "summary_of": "6814dcb979ef",
  "text": "UAS SWARM OPR WI 0.1NM RADIUS OF 533719N 0024624W (MAWDESLEY).\nSWARM MADE UP OF 250 UAS. MAX HGT 400FT AGL. FOR INFO 07481 557474. \nAR-2026-10079/02.",
  "to": "2026-12-31T22:00Z",
  "type": "N",

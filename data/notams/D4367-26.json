@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Danger area EGD324A at Waddington Low activated, from ground level up to flight level 105.",
+ "summary_of": "d60a7c07b5cf",
  "text": "DANGER AREA EGD324A WADDINGTON LOW ACTIVATED",
  "to": "2026-11-10T20:00Z",
  "type": "N",

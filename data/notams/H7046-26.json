@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "",
+ "summary": "Laser display within 1 nautical mile of Colchester, with no upper height limit.",
+ "summary_of": "e767b1dcd388",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 515241N 0005429E (COLCHESTER).\nFOR INFO 07412 670371. AR-2026-10016/01.",
  "to": "2026-11-13T19:30Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "SR-SS",
+ "summary": "Large model aircraft within 0.5 nautical miles of Wistow, up to 1,700 ft above sea level.",
+ "summary_of": "ed1c23082ab0",
  "text": "FLYING OF LARGE MODEL ACFT WI 0.5NM RADIUS OF 522402N 0000618W\n(WISTOW). FOR INFO 07586 292737. AR-2026-10118/01.",
  "to": "2027-01-25T16:34Z",
  "type": "N",

@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0900-1700",
+ "summary": "Drone operations within 0.12 nautical miles of Wrantage, up to 250 ft above ground level.",
+ "summary_of": "3eac13bfea61",
  "text": "UAS OPR WI 0.12NM RADIUS OF 510019N 0025800W (WRANTAGE). MAX HGT\n250FT AGL. FOR INFO 07769 690946. AR-2026-10156/01.",
  "to": "2027-01-10T17:00Z",
  "type": "N",

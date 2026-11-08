@@ -16,6 +16,8 @@
  "radius": 3,
  "removed": null,
  "sched": "1600-0800",
+ "summary": "Flare firing within 2.5 nautical miles of Catterick Garrison, up to 1,500 ft above sea level, with flares descending by parachute.",
+ "summary_of": "d366832cf95b",
  "text": "FLARE FIRING WI 2.5NM RADIUS OF 542211N 0014603W (CATTERICK\nGARRISON). FLARES WILL DESCEND BY PARACHUTE. FOR INFO 01748 875503\n/ 07514 944447. AR-2026-10182/01.",
  "to": "2027-01-20T08:00Z",
  "type": "N",

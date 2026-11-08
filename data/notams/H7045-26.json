@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "12 1630-2000, 14 1915-2110",
+ "summary": "Laser display within 1 nautical mile of Abingdon, with no upper height limit.",
+ "summary_of": "e3c30cb25267",
  "text": "LASER DISPLAY WI 1NM RADIUS OF 514126N 0011900W (ABINGDON).  FOR\nINFO 07412 670371. AR-2026-10025/01.",
  "to": "2026-11-14T21:10Z",
  "type": "N",

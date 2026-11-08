@@ -16,6 +16,8 @@
  "radius": 1,
  "removed": null,
  "sched": "0900-1800",
+ "summary": "Military aircraft must avoid an equestrian event near Downhead, Somerset, up to 3,000 feet, between 0900 and 1800.",
+ "summary_of": "5d450d9b1a00",
  "text": "MIL ACFT SHALL AVOID AN EQUESTRIAN EVENT WI 0.25NM RADIUS OF PSN \n511252N 0022635W (DOWNHEAD, SOMERSET) LOW FLYING AREA 2 AND NIGHT \nROTARY REGION 2 SFC TO 2000FT AGL. EVENT CTC 07971 207037. \n26/11/028/LFC",
  "to": "2027-01-27T18:00Z",
  "type": "N",

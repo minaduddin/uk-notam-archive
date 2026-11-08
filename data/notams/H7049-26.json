@@ -16,6 +16,8 @@
  "radius": 2,
  "removed": null,
  "sched": "NOV 11-13 16-22 26-29 1530-2200, DEC 02-25 1530-2200, DEC 27-JAN \n03 1530-2200",
+ "summary": "Searchlight display within 1 nautical mile of Broomfield, with no upper height limit.",
+ "summary_of": "52306bb94eee",
  "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 511458N 0003750E \n(BROOMFIELD).  FOR INFO 07932 737797 / 07875 797675. AR-2026-9961/03.",
  "to": "2027-01-03T22:00Z",
  "type": "N",
