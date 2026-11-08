@@ -1,0 +1,23 @@
+{
+ "coord": [
+  53.8,
+  -1.7333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-08T01:43Z",
+ "from": "2026-11-08T00:10Z",
+ "id": "C7345/26",
+ "loc": [
+  "EGNM"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 18,
+ "removed": null,
+ "sched": "",
+ "text": "LEEDS BRADFORD CTA, CTR, ATZ DEACTIVATED, AD CLSD, ATS NOT\nAVBL.SUITABLY EQUIPPED ACFT WI LEEDS BRADFORD AIRSPACE SHOULD \nMONITOR LEEDS RADAR ON CH 134.580 AND SQUAWK EITHER 2677, ANY \nDISCRETE TASK SPECIFIC CODE, OR ANY DISCRETE CODE ALLOCATED BY \nANOTHER UNIT. MET OBS UNVERIFIED",
+ "to": "2026-11-08T06:00Z",
+ "type": "N",
+ "upper": ""
+}

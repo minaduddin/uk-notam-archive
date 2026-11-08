@@ -2,7 +2,7 @@
             DISCLAIMER: Briefing includes all NOTAM available. All Trigger NOTAM are valid
             only for two weeks. For the publication of ECAC States, please consult also the
             PAMS application.
-        --><Pib PIBType="F" PIBId="400000133790385" NewNOTAMDuration="250">
+        --><Pib PIBType="F" PIBId="400000133794593" NewNOTAMDuration="250">
     <AreaPIBHeader>
         <ShortSystemTitle>EAD</ShortSystemTitle>
         <SystemLogoFile>/ino_resources/logos/EAD_Logo.png</SystemLogoFile>
@@ -12,18 +12,18 @@
         <LogoFile>/ci/resource.do?id=07A26818B1F506F5E0530B751DC29CB2</LogoFile>
         <Traffic>IV</Traffic>
         <Validity>
-            <ValidFrom>2026-11-08T00:00:32+00:00</ValidFrom>
-            <ValidTo>2026-11-15T00:00:00+00:00</ValidTo>
+            <ValidFrom>2026-11-08T01:00:36+00:00</ValidFrom>
+            <ValidTo>2026-11-15T01:00:00+00:00</ValidTo>
         </Validity>
         <ProfileId>400000002351201</ProfileId>
         <ProfileName>All NOTAM</ProfileName>
         <ServiceType>FULL</ServiceType>
         <BriefingType>IM</BriefingType>
         <ContentExplanation>Aerodromes, En-route, Warnings, including miscellaneous information</ContentExplanation>
-        <Issued>2026-11-08T00:00:32+00:00</Issued>
+        <Issued>2026-11-08T01:00:36+00:00</Issued>
         <PIBSubject>All NOTAM</PIBSubject>
         <ScheduleName>Daily</ScheduleName>
-        <PibUid>EG712611080002</PibUid>
+        <PibUid>EG712611080028</PibUid>
         <FlightLevel>
             <LowerFL>0</LowerFL>
             <UpperFL>999</UpperFL>
@@ -4466,32 +4466,6 @@ AR-2026-9437/01.</ItemE>
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
                     <Series>C</Series>
-                    <Number>7344</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>AC</Code23>
-                        <Code45>CD</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>NBO</Purpose>
-                        <Scope>AE</Scope>
-                        <Lower>0</Lower>
-                        <Upper>21</Upper>
-                    </QLine>
-                    <Coordinates>5047N00151W</Coordinates>
-                    <Radius>9</Radius>
-                    <ItemA>EGHH</ItemA>
-                    <StartValidity>2611072230</StartValidity>
-                    <EndValidity>2611080100</EndValidity>
-                    <ItemE>BOURNEMOUTH CTR, ATZ DEACTIVATED AD CLOSED. NATIONAL POLICE AIR
-SERVICE FLIGHTS MAY TAKE PLACE</ItemE>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>071120262231</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>C</Series>
                     <Number>7146</Number>
                     <Year>26</Year>
                     <Type>N</Type>
@@ -7427,6 +7401,35 @@ FOR INFO 07917 669060. AR-2026-9016/01.</ItemE>
                     <ItemG>UNL</ItemG>
                     <Marker>+</Marker>
                     <NotamStoreDate>240920261259</NotamStoreDate>
+                </Notam>
+                <Notam OriginalMessage="false" PIBSection="AD">
+                    <NOF>EGGN</NOF>
+                    <Series>C</Series>
+                    <Number>7345</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGTT</FIR>
+                        <Code23>AE</Code23>
+                        <Code45>CD</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>NBO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>85</Upper>
+                    </QLine>
+                    <Coordinates>5348N00144W</Coordinates>
+                    <Radius>18</Radius>
+                    <ItemA>EGNM</ItemA>
+                    <StartValidity>2611080010</StartValidity>
+                    <EndValidity>2611080600</EndValidity>
+                    <ItemE>LEEDS BRADFORD CTA, CTR, ATZ DEACTIVATED, AD CLSD, ATS NOT
+AVBL.SUITABLY EQUIPPED ACFT WI LEEDS BRADFORD AIRSPACE SHOULD 
+MONITOR LEEDS RADAR ON CH 134.580 AND SQUAWK EITHER 2677, ANY 
+DISCRETE TASK SPECIFIC CODE, OR ANY DISCRETE CODE ALLOCATED BY 
+ANOTHER UNIT. MET OBS UNVERIFIED</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>081120260002</NotamStoreDate>
                 </Notam>
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
@@ -23539,32 +23542,6 @@ MAY STILL OPR</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>071120262015</NotamStoreDate>
                 </Notam>
-                <Notam Reference="EGHH" OriginalMessage="false" PIBSection="FIR">
-                    <NOF>EGGN</NOF>
-                    <Series>C</Series>
-                    <Number>7344</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>AC</Code23>
-                        <Code45>CD</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>NBO</Purpose>
-                        <Scope>AE</Scope>
-                        <Lower>0</Lower>
-                        <Upper>21</Upper>
-                    </QLine>
-                    <Coordinates>5047N00151W</Coordinates>
-                    <Radius>9</Radius>
-                    <ItemA>EGHH</ItemA>
-                    <StartValidity>2611072230</StartValidity>
-                    <EndValidity>2611080100</EndValidity>
-                    <ItemE>BOURNEMOUTH CTR, ATZ DEACTIVATED AD CLOSED. NATIONAL POLICE AIR
-SERVICE FLIGHTS MAY TAKE PLACE</ItemE>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>071120262231</NotamStoreDate>
-                </Notam>
                 <Notam Reference="EGMC" OriginalMessage="false" PIBSection="FIR">
                     <NOF>EGGN</NOF>
                     <Series>A</Series>
@@ -23589,6 +23566,35 @@ SERVICE FLIGHTS MAY TAKE PLACE</ItemE>
                     <ItemE>SOUTHEND CTA, CTR, ATZ DEACTIVATED. AD CLOSED. NO ATS AVBL.</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>071120262325</NotamStoreDate>
+                </Notam>
+                <Notam Reference="EGNM" OriginalMessage="false" PIBSection="FIR">
+                    <NOF>EGGN</NOF>
+                    <Series>C</Series>
+                    <Number>7345</Number>
+                    <Year>26</Year>
+                    <Type>N</Type>
+                    <QLine>
+                        <FIR>EGTT</FIR>
+                        <Code23>AE</Code23>
+                        <Code45>CD</Code45>
+                        <Traffic>IV</Traffic>
+                        <Purpose>NBO</Purpose>
+                        <Scope>AE</Scope>
+                        <Lower>0</Lower>
+                        <Upper>85</Upper>
+                    </QLine>
+                    <Coordinates>5348N00144W</Coordinates>
+                    <Radius>18</Radius>
+                    <ItemA>EGNM</ItemA>
+                    <StartValidity>2611080010</StartValidity>
+                    <EndValidity>2611080600</EndValidity>
+                    <ItemE>LEEDS BRADFORD CTA, CTR, ATZ DEACTIVATED, AD CLSD, ATS NOT
+AVBL.SUITABLY EQUIPPED ACFT WI LEEDS BRADFORD AIRSPACE SHOULD 
+MONITOR LEEDS RADAR ON CH 134.580 AND SQUAWK EITHER 2677, ANY 
+DISCRETE TASK SPECIFIC CODE, OR ANY DISCRETE CODE ALLOCATED BY 
+ANOTHER UNIT. MET OBS UNVERIFIED</ItemE>
+                    <Marker>+</Marker>
+                    <NotamStoreDate>081120260002</NotamStoreDate>
                 </Notam>
                 <Notam OriginalMessage="false" PIBSection="FIR">
                     <NOF>EGGN</NOF>
@@ -39634,32 +39640,6 @@ HGT 46FT AMSL/35FT AGL</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>231020261207</NotamStoreDate>
                 </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>I</Series>
-                    <Number>7687</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGPX</FIR>
-                        <Code23>AZ</Code23>
-                        <Code45>CA</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>NBO</Purpose>
-                        <Scope>AE</Scope>
-                        <Lower>0</Lower>
-                        <Upper>21</Upper>
-                    </QLine>
-                    <Coordinates>5813N00620W</Coordinates>
-                    <Radius>3</Radius>
-                    <ItemA>EGPO</ItemA>
-                    <StartValidity>2611072300</StartValidity>
-                    <EndValidity>2611080030</EndValidity>
-                    <ItemE>STORNOWAY ATZ ACTIVE. AD/FIS/MET SERVICE OPEN. RFFS CAT3 AVBL. AD
-REMAINS PPR.</ItemE>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>071120262250</NotamStoreDate>
-                </Notam>
             </NotamList>
             <ObsoleteNotamList/>
         </ADSection>
@@ -41613,32 +41593,6 @@ ACFT WISHING TO USE PRESTWICK AS AN ALTN MAY EXPERIENCE DELAYS. ALL
 ACFT INBD TO PRESTWICK ARE TO MONITOR 121.5 AS MANDATED</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>211020261924</NotamStoreDate>
-                </Notam>
-                <Notam Reference="EGPO" OriginalMessage="false" PIBSection="FIR">
-                    <NOF>EGGN</NOF>
-                    <Series>I</Series>
-                    <Number>7687</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGPX</FIR>
-                        <Code23>AZ</Code23>
-                        <Code45>CA</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>NBO</Purpose>
-                        <Scope>AE</Scope>
-                        <Lower>0</Lower>
-                        <Upper>21</Upper>
-                    </QLine>
-                    <Coordinates>5813N00620W</Coordinates>
-                    <Radius>3</Radius>
-                    <ItemA>EGPO</ItemA>
-                    <StartValidity>2611072300</StartValidity>
-                    <EndValidity>2611080030</EndValidity>
-                    <ItemE>STORNOWAY ATZ ACTIVE. AD/FIS/MET SERVICE OPEN. RFFS CAT3 AVBL. AD
-REMAINS PPR.</ItemE>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>071120262250</NotamStoreDate>
                 </Notam>
                 <Notam Reference="EGPN" OriginalMessage="false" PIBSection="FIR">
                     <NOF>EGGN</NOF>
