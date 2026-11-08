@@ -2,7 +2,7 @@
             DISCLAIMER: Briefing includes all NOTAM available. All Trigger NOTAM are valid
             only for two weeks. For the publication of ECAC States, please consult also the
             PAMS application.
-        --><Pib PIBType="F" PIBId="400000133794593" NewNOTAMDuration="250">
+        --><Pib PIBType="F" PIBId="400000133799305" NewNOTAMDuration="250">
     <AreaPIBHeader>
         <ShortSystemTitle>EAD</ShortSystemTitle>
         <SystemLogoFile>/ino_resources/logos/EAD_Logo.png</SystemLogoFile>
@@ -12,18 +12,18 @@
         <LogoFile>/ci/resource.do?id=07A26818B1F506F5E0530B751DC29CB2</LogoFile>
         <Traffic>IV</Traffic>
         <Validity>
-            <ValidFrom>2026-11-08T01:00:36+00:00</ValidFrom>
-            <ValidTo>2026-11-15T01:00:00+00:00</ValidTo>
+            <ValidFrom>2026-11-08T02:00:52+00:00</ValidFrom>
+            <ValidTo>2026-11-15T02:00:00+00:00</ValidTo>
         </Validity>
         <ProfileId>400000002351201</ProfileId>
         <ProfileName>All NOTAM</ProfileName>
         <ServiceType>FULL</ServiceType>
         <BriefingType>IM</BriefingType>
         <ContentExplanation>Aerodromes, En-route, Warnings, including miscellaneous information</ContentExplanation>
-        <Issued>2026-11-08T01:00:36+00:00</Issued>
+        <Issued>2026-11-08T02:00:52+00:00</Issued>
         <PIBSubject>All NOTAM</PIBSubject>
         <ScheduleName>Daily</ScheduleName>
-        <PibUid>EG712611080028</PibUid>
+        <PibUid>EG712611080062</PibUid>
         <FlightLevel>
             <LowerFL>0</LowerFL>
             <UpperFL>999</UpperFL>
@@ -5835,32 +5835,6 @@ FIREWORKS UP TO 250FT AGL. FOR INFO 07412 670371. AR-2026-9905/01.</ItemE>
 / 148FT AGL.</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>200820261435</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>C</Series>
-                    <Number>7343</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>AZ</Code23>
-                        <Code45>CD</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>NBO</Purpose>
-                        <Scope>AE</Scope>
-                        <Lower>0</Lower>
-                        <Upper>22</Upper>
-                    </QLine>
-                    <Coordinates>5044N00325W</Coordinates>
-                    <Radius>3</Radius>
-                    <ItemA>EGTE</ItemA>
-                    <StartValidity>2611072015</StartValidity>
-                    <EndValidity>2611080200</EndValidity>
-                    <ItemE>EXETER ATZ DEACTIVATED. ATS AND AD CLSD. BASED EMERG ROTARY ACFT 
-MAY STILL OPR</ItemE>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>071120262015</NotamStoreDate>
                 </Notam>
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
@@ -12302,31 +12276,6 @@ SUPERSEDED BY DIGITAL OBSTACLE DATASET WEF 24 DEC 2026.</ItemE>
 SOUTHEND ARP). MAX HGT 115FT AGL/171FT AMSL</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>300920261143</NotamStoreDate>
-                </Notam>
-                <Notam OriginalMessage="false" PIBSection="AD">
-                    <NOF>EGGN</NOF>
-                    <Series>A</Series>
-                    <Number>4491</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>AE</Code23>
-                        <Code45>CD</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>NBO</Purpose>
-                        <Scope>AE</Scope>
-                        <Lower>0</Lower>
-                        <Upper>55</Upper>
-                    </QLine>
-                    <Coordinates>5135N00056E</Coordinates>
-                    <Radius>22</Radius>
-                    <ItemA>EGMC</ItemA>
-                    <StartValidity>2611072325</StartValidity>
-                    <EndValidity>2611080130</EndValidity>
-                    <ItemE>SOUTHEND CTA, CTR, ATZ DEACTIVATED. AD CLOSED. NO ATS AVBL.</ItemE>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>071120262325</NotamStoreDate>
                 </Notam>
                 <Notam OriginalMessage="false" PIBSection="AD">
                     <NOF>EGGN</NOF>
@@ -23515,57 +23464,6 @@ WESTERLY OPERATIONS. CRANE REF 20260916127.</ItemE>
 HELIPORT). MAX HGT HEIGHT 184FT AMSL, 167FT AGL</ItemE>
                     <Marker>+</Marker>
                     <NotamStoreDate>071120261653</NotamStoreDate>
-                </Notam>
-                <Notam Reference="EGTE" OriginalMessage="false" PIBSection="FIR">
-                    <NOF>EGGN</NOF>
-                    <Series>C</Series>
-                    <Number>7343</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>AZ</Code23>
-                        <Code45>CD</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>NBO</Purpose>
-                        <Scope>AE</Scope>
-                        <Lower>0</Lower>
-                        <Upper>22</Upper>
-                    </QLine>
-                    <Coordinates>5044N00325W</Coordinates>
-                    <Radius>3</Radius>
-                    <ItemA>EGTE</ItemA>
-                    <StartValidity>2611072015</StartValidity>
-                    <EndValidity>2611080200</EndValidity>
-                    <ItemE>EXETER ATZ DEACTIVATED. ATS AND AD CLSD. BASED EMERG ROTARY ACFT 
-MAY STILL OPR</ItemE>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>071120262015</NotamStoreDate>
-                </Notam>
-                <Notam Reference="EGMC" OriginalMessage="false" PIBSection="FIR">
-                    <NOF>EGGN</NOF>
-                    <Series>A</Series>
-                    <Number>4491</Number>
-                    <Year>26</Year>
-                    <Type>N</Type>
-                    <QLine>
-                        <FIR>EGTT</FIR>
-                        <Code23>AE</Code23>
-                        <Code45>CD</Code45>
-                        <Traffic>IV</Traffic>
-                        <Purpose>NBO</Purpose>
-                        <Scope>AE</Scope>
-                        <Lower>0</Lower>
-                        <Upper>55</Upper>
-                    </QLine>
-                    <Coordinates>5135N00056E</Coordinates>
-                    <Radius>22</Radius>
-                    <ItemA>EGMC</ItemA>
-                    <StartValidity>2611072325</StartValidity>
-                    <EndValidity>2611080130</EndValidity>
-                    <ItemE>SOUTHEND CTA, CTR, ATZ DEACTIVATED. AD CLOSED. NO ATS AVBL.</ItemE>
-                    <Marker>+</Marker>
-                    <NotamStoreDate>071120262325</NotamStoreDate>
                 </Notam>
                 <Notam Reference="EGNM" OriginalMessage="false" PIBSection="FIR">
                     <NOF>EGGN</NOF>
