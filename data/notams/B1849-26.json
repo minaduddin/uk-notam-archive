@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8,
+  -2.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T16:37Z",
+ "from": "2026-11-09T15:52Z",
+ "id": "B1849/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SEAU",
+ "radius": 40,
+ "removed": null,
+ "sched": "",
+ "summary": "Shawbury lower airspace radar service is not available.",
+ "summary_of": "5d0af03d768b",
+ "text": "SHAWBURY LOWER AIRSPACE RADAR SERVICE NOT AVBL",
+ "to": "2026-11-09T17:00Z",
+ "type": "R",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.3333,
+  -2.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T16:37Z",
+ "from": "2026-11-10T21:00Z",
+ "id": "A4508/26",
+ "loc": [
+  "EGGP"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "2100-0545",
+ "summary": "Taxiway Alpha closed east of Tango to Foxtrot at EGGP between 2100 and 0545 daily due to work in progress.",
+ "summary_of": "44e5dc9e56d3",
+ "text": "TWY ALPHA CLSD EAST OF TANGO TO FOXTROT DUE WIP. BACKTRACKING\nOF RWY MAY BE REQUIRED",
+ "to": "2026-11-14T05:45Z",
+ "type": "N",
+ "upper": ""
+}

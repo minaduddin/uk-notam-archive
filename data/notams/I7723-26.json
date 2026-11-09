@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5167,
+  -4.6167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T16:37Z",
+ "from": "2026-11-14T08:00Z",
+ "id": "I7723/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane 76 feet high at Prestwick Airport, reaching 107 feet above sea level, intruding 8 feet into the runway 12/30 protected surface.",
+ "summary_of": "aa111c65929e",
+ "text": "CRANE OPR AT 553046N 0043647W (PRESTWICK AD) HGT 76FT AGL 107FT \nAMSL. RWY 12/30 TRANSITIONAL SFC INFRINGED BY 8FT",
+ "to": "2026-12-11T17:00Z",
+ "type": "N",
+ "upper": ""
+}

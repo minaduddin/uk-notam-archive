@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.7333,
+  -0.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T16:37Z",
+ "from": "2026-11-16T09:00Z",
+ "id": "H7470/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Swarm of 210 unmanned aircraft near London Colney, up to 400 feet above ground level, within 0.2 nautical miles.",
+ "summary_of": "43749bc60e47",
+ "text": "UAS SWARM OPR WI 0.2NM RADIUS OF 514400N 0001932W (LONDON\nCOLNEY). SWARM MADE UP OF 210 UAS. MAX HGT 400FT AGL. FOR INFO\n07525 916291 / 07738 612566. AR-2026-10679/01.",
+ "to": "2026-11-17T09:00Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}
