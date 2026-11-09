@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3667,
+  0.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T10:56Z",
+ "from": "2026-11-11T07:09Z",
+ "id": "H7449/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone activity in an area near Halling, up to 400 feet above ground, between sunrise and sunset.",
+ "summary_of": "d9cdeff2b288",
+ "text": "UAS OPR WI AREA BOUNDED BY: \n512055N 0002306E - 512207N 0002403E - 512312N 0002512E - \n512309N 0002517E - 512325N 0002607E - 512323N 0002626E - \n512243N 0002723E - 512215N 0002656E - 512106N 0002612E - \n512026N 0002540E - 512001N 0002510E - 512019N 0002331E -\n512055N 0002306E (HALLING). MAX HGT 400FT AGL. FOR INFO 07990 \n850163. AR-2026-10660/01.",
+ "to": "2026-11-11T16:15Z",
+ "type": "N",
+ "upper": "1100FT AMSL"
+}

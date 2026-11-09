@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.25,
+  -2.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T10:56Z",
+ "from": "2026-11-09T09:32Z",
+ "id": "L7099/26",
+ "loc": [
+  "EGBS"
+ ],
+ "lower": "",
+ "q": "SFAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Revised tower staffing hours at Shobdon are 0930 to 1130, 1200 to 1400 and 1430 to 1600.",
+ "summary_of": "e8a650d99a26",
+ "text": "REVISED TOWER STAFFING HRS: 0930-1130 1200-1400 1430-1600. OUTSIDE\nOF THESE HR ALL CALLS TO SHOBDON TFC.",
+ "to": "2026-11-09T17:00Z",
+ "type": "N",
+ "upper": ""
+}

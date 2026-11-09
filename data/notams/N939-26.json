@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4667,
+  -3.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T10:56Z",
+ "from": "2026-11-11T00:00Z",
+ "id": "N939/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Illuminated crane at Tiger Bay, Cardiff, up to 150 feet above ground, operating at night.",
+ "summary_of": "3f020300394d",
+ "text": "LIT CRANE AT PSN 512751N 0031018W (TIGER BAY, CARDIFF) IN LOW \nFLYING AREA 7 AND NIGHT ROTORY REGION 7S. HGT 150FT AGL/ 185FT AMSL. \n26/11/055/LFC",
+ "to": "2027-02-07T23:59Z",
+ "type": "N",
+ "upper": ""
+}

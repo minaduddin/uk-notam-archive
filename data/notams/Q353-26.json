@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T10:56Z",
+ "from": "2026-11-16T09:00Z",
+ "id": "Q353/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Military aerodrome traffic zone at Benson has been deactivated.",
+ "summary_of": "2f3449475d1d",
+ "text": "BENSON MATZ DEACTIVATED",
+ "to": "2026-11-17T03:00Z",
+ "type": "N",
+ "upper": ""
+}

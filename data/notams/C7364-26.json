@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2667,
+  -0.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T10:56Z",
+ "from": "2026-11-10T07:11Z",
+ "id": "C7364/26",
+ "loc": [
+  "EGLF"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone activity within 0.2 nautical miles of North Camp, Farnborough, up to 394 feet above ground, between sunrise and sunset.",
+ "summary_of": "6b065a32e477",
+ "text": "UAS OPR WI 0.2NM RADIUS OF 511613N 0004517W (NORTH CAMP, \nFARNBOROUGH). MAX HGT 394FT AGL. FOR INFO 07985 700635. \nAR-2026-10644/01.",
+ "to": "2026-11-11T16:20Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

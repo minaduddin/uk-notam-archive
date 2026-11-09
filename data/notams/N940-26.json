@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.45,
+  -2.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T10:56Z",
+ "from": "2026-11-11T00:00Z",
+ "id": "N940/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Illuminated crane at Bristol, up to 272 feet above ground, operating at night.",
+ "summary_of": "3c3520a69c75",
+ "text": "LIT CRANE OPR PSN 512659N 0023436W (BRISTOL) IN LOW FLYING AREA 2 \nAND NIGHT ROTORY REGION 2. HGT 272FT AGL / 332FT AMSL. 26/11/054/LFC",
+ "to": "2027-02-07T23:59Z",
+ "type": "N",
+ "upper": ""
+}

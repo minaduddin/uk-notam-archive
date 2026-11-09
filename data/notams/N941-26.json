@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.1167,
+  -0.0833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T10:56Z",
+ "from": "2026-11-16T00:00Z",
+ "id": "N941/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Illuminated crane at Croydon, Cambridgeshire, up to 100 feet above ground, operating at night.",
+ "summary_of": "5dd34e526585",
+ "text": "LIT CRANE AT PSN 520653N 0000441W (CROYDON, CAMBRIDGESHIRE) IN \nLOW FLYING AREA 6 AND NIGHT ROTARY REGION 4B. HGT 100FT AGL/         \n300FT AMSL. 26/11/056/LFC.",
+ "to": "2026-11-27T23:59Z",
+ "type": "N",
+ "upper": ""
+}

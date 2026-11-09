@@ -1,0 +1,26 @@
+{
+ "coord": [
+  54.8833,
+  0.6
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-09T10:56Z",
+ "from": "2026-11-09T13:00Z",
+ "id": "M7530/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "FL050",
+ "q": "RDCA",
+ "radius": 62,
+ "removed": null,
+ "sched": "",
+ "summary": "Southern complex military danger areas activated from 1300 to 1600, between flight level 50 and flight level 660, within 62 nautical miles of EGTT.",
+ "summary_of": "4ab7b02f8591",
+ "text": "THE FOLLOWING SOUTHERN COMPLEX DANGER AREAS ARE ACTIVATED:\nEGD323A 1300-1500 FL050-FL660\nEGD323A 1500-1600 FL050-FL660\nEGD323G 1300-1500 FL150-FL660\nEGD323G 1500-1600 FL150-FL660\nEGD323L 1300-1500 FL100-FL300\nEGD323L 1500-1600 FL100-FL660\nEGD323Q 1300-1500 FL100-FL300\nEGD323Q 1500-1600 FL100-FL660",
+ "to": "2026-11-09T16:00Z",
+ "type": "N",
+ "upper": "FL660"
+}

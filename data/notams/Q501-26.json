@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T10:56Z",
+ "from": "2026-11-09T09:01Z",
+ "id": "Q501/26",
+ "loc": [
+  "EGDM"
+ ],
+ "lower": "",
+ "q": "ICAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Landing guidance system for runway 23 at EGDM is unavailable due to maintenance.",
+ "summary_of": "df9238a092d3",
+ "text": "ILS RWY 23 NOT AVBL DUE MAINT",
+ "to": "2026-11-09T15:00Z",
+ "type": "R",
+ "upper": ""
+}

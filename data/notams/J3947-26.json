@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.45,
+  0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T10:56Z",
+ "from": "2026-11-16T09:00Z",
+ "id": "J3947/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RTCS",
+ "radius": 2,
+ "removed": null,
+ "sched": "0900-1700",
+ "summary": "Temporary restricted area for drones at Tilbury, Essex, up to 1,200 feet, between 0900 and 1700, within 1 nautical mile.",
+ "summary_of": "04363e61ed8e",
+ "text": "RESTRICTED AREA (TEMPORARY) INSTALLED FOR UAS ONLY (TILBURY,\nESSEX) WI 1NM RADIUS OF 512706N 0002149E DOES NOT APPLY TO ANY UAS\nFLYING IN ACCORDANCE WITH EXCEPTIONS STATED IN THE BRIEFING\nSHEET, BFS 139/2026. FURTHER DETAILS WWW.NATS.AERO/AIS. \nRESTRICTION OF FLYING REGULATIONS MADE UNDER ARTICLE 239 OF AIR\nNAV ORDER 2016. AR-2026-9328/01.",
+ "to": "2026-11-17T17:00Z",
+ "type": "N",
+ "upper": "1200FT AMSL"
+}

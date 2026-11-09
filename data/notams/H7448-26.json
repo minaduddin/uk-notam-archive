@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -2.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T10:56Z",
+ "from": "2026-11-11T07:18Z",
+ "id": "H7448/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone activity within 1 nautical mile of Piddlehinton, up to 400 feet above ground, between sunrise and sunset.",
+ "summary_of": "1a9406046986",
+ "text": "UAS OPR WI 1NM RADIUS OF 504636N 0022114W (PIDDLEHINTON). MAX HGT\n400FT AGL. FOR INFO 07723 661171. AR-2026-10648/01.",
+ "to": "2026-11-11T16:28Z",
+ "type": "N",
+ "upper": "900FT AMSL"
+}
