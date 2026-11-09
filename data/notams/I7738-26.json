@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.55,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T21:48Z",
+ "from": "2026-11-09T21:45Z",
+ "id": "I7738/26",
+ "loc": [
+  "EGPE"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Inverness traffic zone activated, with extended opening hours for air traffic, fire and rescue services and a radar service available.",
+ "summary_of": "e00998527e77",
+ "text": "INVERNESS ATZ ACTIVATED. AD, ATS, MET HR OF OPR EXTD. RFFS CAT 6. \nRADAR SER AVBL.",
+ "to": "2026-11-09T22:30Z",
+ "type": "N",
+ "upper": ""
+}

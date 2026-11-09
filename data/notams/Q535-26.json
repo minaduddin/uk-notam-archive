@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.3,
+  -1.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T21:48Z",
+ "from": "2026-11-09T20:28Z",
+ "id": "Q535/26",
+ "loc": [
+  "EGXE"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome closed at EGXE, within 5 nautical miles.",
+ "summary_of": "70b650e5a977",
+ "text": "AD CLSD",
+ "to": "2026-11-09T22:00Z",
+ "type": "N",
+ "upper": ""
+}

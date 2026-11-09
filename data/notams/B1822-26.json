@@ -1,0 +1,27 @@
+{
+ "coord": [
+  52.3,
+  -14.85
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-09T21:48Z",
+ "from": "2026-11-16T20:05Z",
+ "id": "B1822/26",
+ "loc": [
+  "EGTT",
+  "EGPX",
+  "EGGX"
+ ],
+ "lower": "",
+ "q": "OAXX",
+ "radius": 999,
+ "removed": null,
+ "sched": "",
+ "summary": "Planned European database outage means the NOTAM office cannot issue notices for EGTT, EGPX and EGGX; only time-critical notices will be sent.",
+ "summary_of": "fdbda30f4964",
+ "text": "THE NOTAM OFFICE WILL BE UNABLE TO ISSUE NOTAM/SNOWTAM DUE TO A \nPLANNED EUROPEAN AIS DATABASE (EAD) OUTAGE. DURING THIS OUTAGE, ONLY \nTIME CRITICAL NOTAM/SNOWTAM WILL BE TRANSMITTED AS AN X SERIES \nNOTAM/SNOWTAM IF SENT TO EGGNYNYX.",
+ "to": "2026-11-16T21:05Z",
+ "type": "N",
+ "upper": ""
+}
