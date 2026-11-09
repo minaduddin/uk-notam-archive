@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.35,
+  0.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T05:02Z",
+ "from": "2026-11-09T08:30Z",
+ "id": "L7091/26",
+ "loc": [
+  "EGTO"
+ ],
+ "lower": "",
+ "q": "SFLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Flight information service at Rochester has been downgraded to an air-to-ground radio service on 122.255 MHz, within 5 nautical miles.",
+ "summary_of": "45c61e328de1",
+ "text": "AFIS DOWNGRADED TO A/G COM SER ROCHESTER RADIO CH122.255",
+ "to": "2026-11-09T12:30Z",
+ "type": "N",
+ "upper": ""
+}
