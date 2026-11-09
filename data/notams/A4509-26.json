@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.35,
+  -2.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T23:39Z",
+ "from": "2026-11-10T05:00Z",
+ "id": "A4509/26",
+ "loc": [
+  "EGCC"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Arrivals flow restrictions and expected ground handling delays at EGCC because of forecast low visibility.",
+ "summary_of": "aef93e26fd11",
+ "text": "IMPLEMENTATION OF AN ARRIVALS FLOW RATE OF 8/60 BTN 0700-0800, \n8/60 BTN 0800-0900, 10/60 BTN 0900-1000, 15/60 BTN 1000-1100. DEP \nRATE EXPECTED TO BE 8/60 FM 0500-1200. ACFT OPR SHOULD EXPECT GROUND\nHANDLING DELAYS DUE TO FCST LVP.",
+ "to": "2026-11-10T12:00Z",
+ "type": "N",
+ "upper": ""
+}
