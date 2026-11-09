@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9833,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-15T07:20Z",
+ "id": "H7460/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Large model aircraft flying within 1 nautical mile of Baldock, up to 2,000 feet, from sunrise to sunset.",
+ "summary_of": "117e86816352",
+ "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 515904N 0000953W \n(BALDOCK). FOR INFO 07710 924721. AR-2026-10653/01.",
+ "to": "2027-02-12T17:09Z",
+ "type": "N",
+ "upper": "2000FT AMSL"
+}

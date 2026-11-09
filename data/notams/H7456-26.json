@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9167,
+  0.9667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-15T07:19Z",
+ "id": "H7456/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Large model aircraft flying within 1 nautical mile of Westgate, up to 1,700 feet, from sunrise to sunset.",
+ "summary_of": "e87e00337389",
+ "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 525528N 0005747E\n(WESTGATE). FOR INFO 07710 924721. AR-2026-10654/01.",
+ "to": "2027-02-12T17:02Z",
+ "type": "N",
+ "upper": "1700FT AMSL"
+}

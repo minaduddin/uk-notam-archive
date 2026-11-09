@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.1,
+  -4.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-10T09:00Z",
+ "id": "M7548/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 10,
+ "removed": null,
+ "sched": "",
+ "summary": "West Wales danger area EGD202D activated from ground level to 12,500 feet.",
+ "summary_of": "3d727d1e3e0a",
+ "text": "DANGER AREA EGD202D WEST WALES ACTIVATED",
+ "to": "2026-11-10T16:30Z",
+ "type": "N",
+ "upper": "FL125"
+}

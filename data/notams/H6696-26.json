@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8,
+  -2.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-16T12:00Z",
+ "id": "H6696/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1200-1630",
+ "summary": "Model rocket firing within 1 nautical mile of Burnley, up to 800 feet above mean sea level, 12:00 to 16:30 daily.",
+ "summary_of": "eb34e7e54b58",
+ "text": "MODEL ROCKET FIRING WI 1NM RADIUS OF 534811N 0021313W (BURNLEY).\nFOR INFO 07405 888665. AR-2026-9345/01.",
+ "to": "2026-11-20T16:30Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}

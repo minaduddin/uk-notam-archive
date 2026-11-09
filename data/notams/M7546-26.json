@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.9667,
+  1.8
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-10T08:45Z",
+ "id": "M7546/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL050",
+ "q": "RDCA",
+ "radius": 48,
+ "removed": null,
+ "sched": "",
+ "summary": "Southern complex danger area EGD323E activated between 5,000 and 66,000 feet, during several daytime periods in the EGTT area.",
+ "summary_of": "9a4afcc2ee53",
+ "text": "THE FOLLOWING SOUTHERN COMPLEX DANGER AREAS ARE ACTIVATED:\nEGD323E 0845-1000 FL050-FL660\nEGD323E 1000-1100 FL050-FL660\nEGD323E 1100-1300 FL050-FL660\nEGD323E 1300-1430 FL050-FL660\nEGD323E 1430-1530 FL050-FL660\nEGD323E 1530-1600 FL050-FL660\nEGD323E 1730-1830 FL050-FL660\nEGD323E 1830-1930 FL050-FL660\nEGD323E 2030-2130 FL050-FL660",
+ "to": "2026-11-10T21:30Z",
+ "type": "N",
+ "upper": "FL660"
+}

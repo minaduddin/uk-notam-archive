@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.65,
+  -4.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-10T09:00Z",
+ "id": "M7545/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 35,
+ "removed": null,
+ "sched": "",
+ "summary": "Aberporth danger areas activated from ground level to 66,000 feet, between 0900 and 1600.",
+ "summary_of": "3c4821cbc60f",
+ "text": "THE FOLLOWING ABERPORTH DANGER AREAS ARE ACTIVATED:\nEGD201H 0900-1600 SFC-FL660\nEGD201J 0900-1600 SFC-FL660",
+ "to": "2026-11-10T16:00Z",
+ "type": "N",
+ "upper": "FL660"
+}

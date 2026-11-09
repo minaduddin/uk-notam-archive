@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8333,
+  -1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-09T20:15Z",
+ "id": "L7103/26",
+ "loc": [
+  "EGTK"
+ ],
+ "lower": "",
+ "q": "SPLC",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Oxford approach service unavailable due to staffing; tower service only, with no instrument approaches available.",
+ "summary_of": "6356ea3653b4",
+ "text": "OXFORD APCH SER NOT AVBL DUE STAFFING. TWR SER ONLY. IAP NOT \nAVBL. AIRCREWS EXPECT TO RECEIVE BASIC SER PROVISION ONLY.",
+ "to": "2026-11-09T20:45Z",
+ "type": "N",
+ "upper": ""
+}

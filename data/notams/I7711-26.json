@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5833,
+  -5.7167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-09T13:45Z",
+ "id": "I7711/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 16,
+ "removed": null,
+ "sched": "",
+ "summary": "Belfast City radar may be unavailable due to staffing; Aldergrove radar may assist with guiding aircraft onto the Belfast City instrument landing system.",
+ "summary_of": "ab7c17263f8a",
+ "text": "BELFAST CITY RADAR MAY NOT BE AVBL DUE ATC STAFFING. ALDERGROVE \nRADAR MAY PROVIDE ASSISTANCE WITH VECTORING ON TO THE BELFAST CITY \nILS.",
+ "to": "2026-11-09T21:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0,
+  -0.7333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-14T08:00Z",
+ "id": "H7455/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone flying in an area near Simpson up to 700 feet above mean sea level; maximum height 390 feet above ground.",
+ "summary_of": "48748ca40fc1",
+ "text": "UAS OPR WI AREA BOUNDED BY:\n520012N 0004330W - 520008N 0004321W - 520004N 0004319W - \n520000N 0004323W - 515956N 0004331W - 520000N 0004342W - \n520005N 0004345W - 520011N 0004336W - 520012N 0004330W (SIMPSON). \nMAX HGT 390FT AGL. FOR INFO 07821 795511. AR-2026-10665/01.",
+ "to": "2026-11-14T19:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

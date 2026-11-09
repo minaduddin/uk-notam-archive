@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6667,
+  -4.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-10T07:30Z",
+ "id": "M7536/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 7,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD117 Pendine activated, up to 12,000 feet above mean sea level.",
+ "summary_of": "08d0d6dbddb0",
+ "text": "DANGER AREA EGD117 PENDINE ACTIVATED",
+ "to": "2026-11-10T18:00Z",
+ "type": "N",
+ "upper": "12000FT AMSL"
+}

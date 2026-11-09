@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.6167,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-09T12:18Z",
+ "id": "Q510/26",
+ "loc": [
+  "EGXT"
+ ],
+ "lower": "",
+ "q": "SPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Wittering aerodrome is closed but may still be active, and air traffic service is not available.",
+ "summary_of": "4a8139bf5f72",
+ "text": "WITTERING ATS NOT AVBL. AD CLSD BUT MAY STILL BE ACTIVE.",
+ "to": "2026-11-09T17:30Z",
+ "type": "N",
+ "upper": ""
+}

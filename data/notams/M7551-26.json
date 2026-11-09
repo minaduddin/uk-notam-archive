@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9667,
+  0.9167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-10T18:00Z",
+ "id": "M7551/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 77,
+ "removed": null,
+ "sched": "",
+ "summary": "Military training area 003 activated between 19,500 and 24,500 feet; autonomous military operations beyond visual line of sight not permitted.",
+ "summary_of": "893a65e34c9b",
+ "text": "TRA 003 ACTIVATED. MIL AUTONOMOUS OPS ARE NOT PERMITTED IN \nACCORDANCE WITH TRA BEYOND VISUAL LINE OF SIGHT PROCEDURES.",
+ "to": "2026-11-10T19:00Z",
+ "type": "N",
+ "upper": "FL245"
+}

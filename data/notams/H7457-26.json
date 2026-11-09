@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1333,
+  -1.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-15T07:34Z",
+ "id": "H7457/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SUN SR-SS",
+ "summary": "Large model aircraft flying in an area near Dishforth up to 1,700 feet, on Sundays from sunrise to sunset.",
+ "summary_of": "30171d53e7f0",
+ "text": "FLYING OF LARGE MODEL ACFT WI AREA BOUNDED BY:\n540734N 0012451W - 540814N 0012526W - 540855N 0012558W - \n540900N 0012420W - 540832N 0012414W - 540757N 0012414W - \n540739N 0012419W - 540734N 0012451W (DISHFORTH). FOR INFO 07905 \n466815 / 07761 480111. AR-2026-10649/01.",
+ "to": "2027-02-07T16:58Z",
+ "type": "N",
+ "upper": "1700FT AMSL"
+}

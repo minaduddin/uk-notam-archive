@@ -1,0 +1,26 @@
+{
+ "coord": [
+  52.9667,
+  0.9167
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-10T08:30Z",
+ "id": "M7550/26",
+ "loc": [
+  "EGPX",
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMXX",
+ "radius": 77,
+ "removed": null,
+ "sched": "",
+ "summary": "Autonomous military operations beyond visual line of sight not permitted in military training area 003, between 19,500 and 24,500 feet.",
+ "summary_of": "2b88e17d549b",
+ "text": "IN TRA 003 MIL AUTONOMOUS OPS ARE NOT PERMITTED IN ACCORDANCE \nWITH TRA BEYOND VISUAL LINE OF SIGHT PROCEDURES.",
+ "to": "2026-11-10T18:00Z",
+ "type": "N",
+ "upper": "FL245"
+}

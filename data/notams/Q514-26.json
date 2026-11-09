@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-09T12:52Z",
+ "id": "Q514/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGUL is restricted to official business only.",
+ "summary_of": "f9d545ecfc55",
+ "text": "AERODROME IS OFFICIAL BUSINESS ONLY.",
+ "to": "2026-11-09T22:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9667,
+  0.9167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T13:08Z",
+ "from": "2026-11-10T07:45Z",
+ "id": "M7547/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 77,
+ "removed": null,
+ "sched": "",
+ "summary": "Military training area 003 activated between 19,500 and 24,500 feet in the EGTT area.",
+ "summary_of": "1baddb59866e",
+ "text": "TRA 003 ACTIVATED",
+ "to": "2026-11-10T08:30Z",
+ "type": "N",
+ "upper": "FL245"
+}
