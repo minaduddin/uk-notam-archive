@@ -16,6 +16,8 @@
  "radius": 5,
  "removed": null,
  "sched": "",
+ "summary": "Taxiway Foxtrot closed south of Foxtrot 1 at EGAA, the ICAO code for Belfast Aldergrove Airport.",
+ "summary_of": "29d6c9b50970",
  "text": "TAXIWAY FOXTROT CLOSED SOUTH OF FOXTROT 1",
  "to": "2026-11-13T17:00Z",
  "type": "N",
