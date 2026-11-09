@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8,
+  -3.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T08:47Z",
+ "from": "2026-11-09T07:48Z",
+ "id": "L7094/26",
+ "loc": [
+  "EGNO"
+ ],
+ "lower": "",
+ "q": "AFXX",
+ "radius": 28,
+ "removed": null,
+ "sched": "09 10 11 12 0730-0900 1700-1900, 13 0730-1700",
+ "summary": "Walney and Burbo Bank transponder zones deactivated at set times on several days.",
+ "summary_of": "8d0e5c414318",
+ "text": "THE FOLLOWING AREAS ARE DEACTIVATED\nWALNEY TRANSPONDER MANDATORY ZONE - SFC TO FL100\nBURBO BANK TRANSPONDER ZONE AREA A -SFC TO 3500FT\nBURBO BANK TRANSPONDER ZONE AREA B -SFC TO 2000FT\nBURBO BANK TRANSPONDER ZONE AREA C -SFC TO FL045",
+ "to": "2026-11-13T17:00Z",
+ "type": "R",
+ "upper": ""
+}

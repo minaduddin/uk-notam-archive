@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.0,
+  -5.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T08:47Z",
+ "from": "2026-11-09T07:33Z",
+ "id": "Q499/26",
+ "loc": [
+  "EGDO"
+ ],
+ "lower": "",
+ "q": "CACF",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Predannack tower primary frequency changed from 373.95 to 337.825 MHz, and secondary frequency from 285.10 to 278.675 MHz.",
+ "summary_of": "1858bde3b39b",
+ "text": "PREDANNACK TWR OPR FREQ CHANGED:\nPRI FREQ 373.95MHZ CHANGED TO 337.825MHZ\nSRY FREQ 285.10MHZ CHANGED TO 278.675MHZ",
+ "to": "2026-12-04T08:00Z",
+ "type": "R",
+ "upper": ""
+}

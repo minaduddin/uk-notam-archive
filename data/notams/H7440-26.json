@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.35,
+  -1.8
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T08:47Z",
+ "from": "2026-11-09T07:40Z",
+ "id": "H7440/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Paragliding activity within 2 nautical miles of Treak Cliff, Derbyshire, up to 2,000 ft above ground level.",
+ "summary_of": "b576033baeba",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 532034N 0014801W (TREAK CLIFF, DERBYSHIRE). \nLOW FLYING AREA 8. 2000FT AGL. CTC 07482 714781. 26/11/049/LFC",
+ "to": "2026-11-09T16:30Z",
+ "type": "N",
+ "upper": "4000FT AMSL"
+}

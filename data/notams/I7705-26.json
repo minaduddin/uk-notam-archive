@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.0333,
+  -7.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T08:47Z",
+ "from": "2026-11-09T07:40Z",
+ "id": "I7705/26",
+ "loc": [
+  "EGAE"
+ ],
+ "lower": "",
+ "q": "AECA",
+ "radius": 14,
+ "removed": null,
+ "sched": "",
+ "summary": "Londonderry/Eglinton airspace restriction with extended operating hours, where all flights need prior permission.",
+ "summary_of": "b206d6f61f5c",
+ "text": "LONDONDERRY/EGLINTON CTA/ATZ ACTIVATED, ATS, ATIS, AD, RFFS HR OF\nOPS EXTD. ALL MOVEMENTS STRICTLY PPR. CTC ATC ON +44 2871 813314.",
+ "to": "2026-11-09T08:30Z",
+ "type": "N",
+ "upper": ""
+}

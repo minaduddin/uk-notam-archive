@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6667,
+  -1.9167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T08:47Z",
+ "from": "2026-11-16T07:28Z",
+ "id": "H7414/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone operations within an area near South Cerney, up to 400 ft above ground, between sunrise and sunset.",
+ "summary_of": "0d7703e798a8",
+ "text": "UAS OPR WI AREA BOUNDED BY:\n513955N 0015433W - 513952N 0015436W - 513959N 0015503W - \n513948N 0015517W - 513951N 0015525W - 514000N 0015533W - \n514003N 0015530W - 514008N 0015533W - 514011N 0015527W - \n514017N 0015530W - 514022N 0015510W - 513955N 0015433W \n(SOUTH CERNEY). MAX HGT 400FT AGL. FOR INFO 07856 060700.\nAR-2026-10599/01.",
+ "to": "2026-12-06T15:59Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}
