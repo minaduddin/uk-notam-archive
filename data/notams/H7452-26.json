@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1333,
+  -2.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-10T12:00Z",
+ "id": "H7452/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders operating within two nautical miles of Kettlewell, North Yorkshire, up to 2,000 feet above ground.",
+ "summary_of": "37d74e40fa28",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR  \nWI 2NM RADIUS OF PSN 540809N 0020207W (KETTLEWELL, NORTH YORKSHIRE). \nLOW FLYING AREA 17 2000FT AGL. CTC 07717 696753. 26/11/061/LFC",
+ "to": "2026-11-10T16:00Z",
+ "type": "N",
+ "upper": "4300FT AMSL"
+}

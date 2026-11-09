@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.3833,
+  -5.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-16T10:00Z",
+ "id": "H7410/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1000-2359",
+ "summary": "Swarm of 100 drones operating within 0.25 nautical miles of Kestle Mill, Newquay, up to 600 feet above ground.",
+ "summary_of": "2ad5451b8034",
+ "text": "UAS SWARM OPR WI 0.25NM RADIUS OF 502322N 0050310W (KESTLE MILL,\nNEWQUAY). SWARM MADE UP OF 100 UAS. MAX HGT 600FT AGL. FOR INFO\n07706 693320. AR-2026-10588/01.",
+ "to": "2027-01-15T23:59Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}

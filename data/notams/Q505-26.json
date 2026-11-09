@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-09T10:20Z",
+ "id": "Q505/26",
+ "loc": [
+  "EGDM"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGDM extended to round-the-clock operation for operational tasks only, with air traffic services by prior arrangement.",
+ "summary_of": "94b4b74ccca3",
+ "text": "AD EXTENDED TO 24/7 OPR HR FOR OPR TASKS ONLY. ATS MAY BE \nPROVIDED DURING THESE TIMES BY PRIOR ARRANGEMENT.",
+ "to": "2026-11-16T23:59Z",
+ "type": "R",
+ "upper": ""
+}

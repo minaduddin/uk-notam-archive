@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.9,
+  -4.4
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-16T08:00Z",
+ "id": "I7710/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crane at Glasgow, up to 73 feet above ground.",
+ "summary_of": "b3e1c8b134e5",
+ "text": "MOBILE CRANE OPR PSN 555333N 0042350W (GLASGOW). MAX HGT 73FT AGL \n/ 89FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. SITE CONTACT DAVID \nMACDONALD 07850 963693.",
+ "to": "2026-11-27T17:00Z",
+ "type": "N",
+ "upper": ""
+}

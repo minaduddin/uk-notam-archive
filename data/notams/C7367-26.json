@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7167,
+  -2.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-10T07:00Z",
+ "id": "C7367/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "SFC",
+ "q": "WELW",
+ "radius": 3,
+ "removed": null,
+ "sched": "0700-1900",
+ "summary": "Up to nine helicopters conducting high-energy manoeuvres within two nautical miles of Poole, up to 5,600 feet.",
+ "summary_of": "f94e1087f8f5",
+ "text": "AIR EXER. UP TO 9 HELI WILL CONDUCT HIGH ENERGY MANOEUVRES IN\nSUPPORT OF GROUND OPS WI 2NM RADIUS OF 504306N 0020119W (POOLE).\nACFT MAY OPR AT SPEEDS OF UP TO 450 KNOTS IAS AND MAY BE UNABLE TO \nCOMPLY WITH RAC. FOR FURTHER INFO AIC Y007/2023 REFERS. OPS CTC \nUHF FREQUENCY 149.800MHZ FOR INFO 07768199384 / 07972560659. \nAR-2026-10467/02.",
+ "to": "2026-11-12T19:00Z",
+ "type": "N",
+ "upper": "5600FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.45,
+  -3.0167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-10T07:00Z",
+ "id": "I7709/26",
+ "loc": [
+  "EGPN"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Illuminated mobile crane near Dundee, up to 125 feet above ground.",
+ "summary_of": "9e9c7be00e90",
+ "text": "LIT MOBILE CRANE PSN 562727N 0030052W (0.49NM (914M) HDG 052 DEG \nMAG FM DUNDEE ARP) MAX HGT 125FT AGL/298FT AMSL",
+ "to": "2026-11-10T18:00Z",
+ "type": "N",
+ "upper": ""
+}

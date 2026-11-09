@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5167,
+  -0.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-16T00:00Z",
+ "id": "N942/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Illuminated crane at West Ealing, Greater London, up to 230 feet above ground.",
+ "summary_of": "3f9bc598e9e7",
+ "text": "LIT CRANE AT PSN 513038N 0001931W (WEST EALING, GREATER LONDON)\nIN LOW FLYING AREA THAMES VALLEY AVOIDANCE AREA DAY AND NIGHT.\nHGT 230FT AGL/ 330FT AMSL. 26/11/057/LFC",
+ "to": "2027-02-07T23:59Z",
+ "type": "N",
+ "upper": ""
+}

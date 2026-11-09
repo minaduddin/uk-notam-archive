@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.7667,
+  -1.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-09T10:15Z",
+ "id": "N943/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Illuminated crane at Shelthorpe, Loughborough, up to 245 feet above ground.",
+ "summary_of": "e5c9c4dc9630",
+ "text": "LIT CRANE AT PSN 524604N 0011230W (SHELTHORPE, LOUGHBOROUGH) IN \nLOW FLYING AREA 8 AND NIGHT SECTOR 5F. HGT 245FT AGL 410FT AMSL. \n26/11/058/LFC",
+ "to": "2027-02-06T23:59Z",
+ "type": "N",
+ "upper": ""
+}

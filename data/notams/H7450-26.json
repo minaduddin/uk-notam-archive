@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.0,
+  -3.0833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-14T18:00Z",
+ "id": "H7450/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Lasers and searchlights within one nautical mile of Taunton.",
+ "summary_of": "82fab4e63fba",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 505939N 0030456W (TAUNTON). \nFOR INFO 07834 242304. AR-2026-10657/01.",
+ "to": "2026-11-14T21:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

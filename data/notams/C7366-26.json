@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8667,
+  -1.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-11T07:00Z",
+ "id": "C7366/26",
+ "loc": [
+  "EGNM"
+ ],
+ "lower": "",
+ "q": "POCH",
+ "radius": 5,
+ "removed": null,
+ "sched": "0700-1900",
+ "summary": "Raised landing minimums for runway 14 at EGNM due to mobile crane activity.",
+ "summary_of": "c9e51369e606",
+ "text": "OCA(OCH) INCREASED DUE MOBILE CRANE ACTIVITY.\nINST APCH CHART-ILS/DME Z RWY14 (CAT C/D).\nCAT C:OCA(OCH) 952 (278)\nCAT D:OCA(OCH) 962 (288)",
+ "to": "2026-11-12T19:00Z",
+ "type": "N",
+ "upper": ""
+}

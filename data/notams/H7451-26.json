@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2167,
+  -6.7667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-10T08:00Z",
+ "id": "H7451/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Underslung load operations within two nautical miles of Breasclete, Isle of Lewis, up to 500 feet above ground.",
+ "summary_of": "0a60c66c1ba6",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF 581329N 0064538W (BREASCLETE, ISLE OF LEWIS) LOW \nFLYING AREA 14 AND NIGHT SECTOR 1BW. MAX HGT 500FT AGL. ACFT MAY BE \nRESTRICTED IN ABILITY TO MANOEUVRE AND UNABLE TO COMPLY WITH RAC OPS \nCTC 01667 464404. 26/11/060/LFC",
+ "to": "2026-11-10T20:00Z",
+ "type": "N",
+ "upper": "900FT AMSL"
+}

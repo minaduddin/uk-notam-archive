@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-10T09:00Z",
+ "id": "Q506/26",
+ "loc": [
+  "EGDM"
+ ],
+ "lower": "",
+ "q": "CPAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Precision approach radar at EGDM unserviceable for maintenance.",
+ "summary_of": "b9a449459837",
+ "text": "PAR U/S DUE MAINT.",
+ "to": "2026-11-10T12:00Z",
+ "type": "N",
+ "upper": ""
+}

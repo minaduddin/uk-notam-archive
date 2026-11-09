@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.25,
+  -2.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T11:55Z",
+ "from": "2026-11-09T10:08Z",
+ "id": "L7101/26",
+ "loc": [
+  "EGBS"
+ ],
+ "lower": "",
+ "q": "SFLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "0915-1700",
+ "summary": "Flight information service at Shobdon Radio downgraded to basic air-ground radio service.",
+ "summary_of": "cbca2e6e9ce2",
+ "text": "AFIS DOWNGRADED TO A/G COM SER (SHOBDON RADIO)",
+ "to": "2026-11-12T17:00Z",
+ "type": "N",
+ "upper": ""
+}
