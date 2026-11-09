@@ -1,0 +1,25 @@
+{
+ "coord": [
+  60.2,
+  -1.25
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T17:55Z",
+ "from": "2026-11-09T17:00Z",
+ "id": "I7728/26",
+ "loc": [
+  "EGET"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Out of hours on-call service not available at EGET.",
+ "summary_of": "d4000154c583",
+ "text": "OUT OF HOURS ON CALL SERVICE NOT AVBL",
+ "to": "2026-11-11T09:00Z",
+ "type": "N",
+ "upper": ""
+}

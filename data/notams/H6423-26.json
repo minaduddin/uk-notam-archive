@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9667,
+  -1.65
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T17:55Z",
+ "from": "2026-11-16T16:10Z",
+ "id": "H6423/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "NOV 16-25 SS-2359, NOV 26-DEC 20 SS-2300",
+ "summary": "Searchlight display within 1 nautical mile of a point north-north-east of Hollington, daily from sunset until late evening.",
+ "summary_of": "e636859c35f6",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 525748N 0013914W (NNE OF\nHOLLINGTON).  FOR INFO 07568 089991 / 01283 392490 / 07947\n204526. AR-2026-9054/01.",
+ "to": "2026-12-20T23:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

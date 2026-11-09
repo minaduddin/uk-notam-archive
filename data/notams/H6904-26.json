@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2333,
+  -0.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T17:55Z",
+ "from": "2026-11-16T16:00Z",
+ "id": "H6904/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "NOV 16-29 1600-2330, DEC 02-06 09-24 1600- 2330, DEC 26 - JAN 07 \n1600-2330",
+ "summary": "Lasers and searchlights within 1 nautical mile of Far Cotton, daily from 4pm to 11.30pm.",
+ "summary_of": "235dcebd2f05",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 521330N 0005323W (FAR\nCOTTON). FOR INFO 07805 005035. AR-2026-9801/01.",
+ "to": "2027-01-07T23:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.55,
+  -1.7333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T17:55Z",
+ "from": "2026-11-16T16:30Z",
+ "id": "C6673/26",
+ "loc": [
+  "EGBB"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "NOV 16-DEC 24 1630-2200, DEC 26-JAN 02 1630-2200",
+ "summary": "Searchlight display within 1 nautical mile of The Belfry Golf Centre, Wishaw, from ground level upwards.",
+ "summary_of": "23aa6411abff",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 523324N 0014409W (THE BELFRY\nGOLF CENTRE, WISHAW).  FOR INFO 01218 162050 / 07388 824801 /\n07825 769653. AR-2026-9619/01.",
+ "to": "2027-01-02T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

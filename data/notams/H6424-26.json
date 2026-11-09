@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5667,
+  -3.7333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T17:55Z",
+ "from": "2026-11-16T16:00Z",
+ "id": "H6424/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2359",
+ "summary": "Lasers and searchlights within 1 nautical mile of Margam, daily from 4pm to 11.59pm.",
+ "summary_of": "53d6b9fcc9cb",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 513342N 0034348W (MARGAM).\nFOR INFO 07917 669060. AR-2026-9006/01.",
+ "to": "2027-01-02T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}

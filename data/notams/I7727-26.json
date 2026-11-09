@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T17:55Z",
+ "from": "2026-11-10T06:00Z",
+ "id": "I7727/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MRLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 17/35 at EGAA open for taxiing only.",
+ "summary_of": "abb50c52d8ff",
+ "text": "RWY 17/35 TAXI ONLY",
+ "to": "2026-11-13T17:00Z",
+ "type": "N",
+ "upper": ""
+}
