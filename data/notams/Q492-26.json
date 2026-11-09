@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -1.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T07:26Z",
+ "from": "2026-11-09T06:58Z",
+ "id": "Q492/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 09/27 at EGVA is reported wet, with no standing water.",
+ "summary_of": "0b52551fb3b5",
+ "text": "RWY 09/27 SFC COND IS WET WITH NO STANDING WATER.",
+ "to": "2026-11-09T18:00Z",
+ "type": "N",
+ "upper": ""
+}

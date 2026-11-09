@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T07:26Z",
+ "from": "2026-11-09T06:47Z",
+ "id": "Q490/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 05/23 at EGUL is reported wet, with no standing water.",
+ "summary_of": "c8987113969e",
+ "text": "RWY 05/23 SURFACE CONDITION IS CONCRETE WET ASPHALT WET, NO \nSTANDING WATER.",
+ "to": "2026-11-09T22:00Z",
+ "type": "N",
+ "upper": ""
+}
