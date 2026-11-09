@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.3,
+  -1.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T19:55Z",
+ "from": "2026-11-10T15:30Z",
+ "id": "Q533/26",
+ "loc": [
+  "EGXE"
+ ],
+ "lower": "",
+ "q": "FAHX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Medium bird activity at EGXE from 1530 until sunset, at the discretion of the aerodrome wildlife control unit.",
+ "summary_of": "ed74b24d9fbd",
+ "text": "BIRDSTATE MEDIUM IN PLACE FROM 1530 TO SUNSET, DISCRETION OF AD \nWILDLIFE CONTROL UNIT.",
+ "to": "2026-12-04T22:00Z",
+ "type": "N",
+ "upper": ""
+}

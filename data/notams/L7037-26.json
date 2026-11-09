@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1167,
+  -3.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T19:55Z",
+ "from": "2026-11-16T18:00Z",
+ "id": "L7037/26",
+ "loc": [
+  "EGNR"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 9,
+ "removed": null,
+ "sched": "",
+ "summary": "Hawarden air traffic zone and radio mandatory zones 1 to 3 deactivated, with aerodrome and air traffic services closed for essential electronic works.",
+ "summary_of": "18032cfacba2",
+ "text": "HAWARDEN ATZ AND RADIO MANDATORY ZONES 1-3 DEACTIVATED. AD AND \nATS SERVICES CLSD DUE ESSENTIAL AD ELECTRONIC WORKS",
+ "to": "2026-11-16T21:00Z",
+ "type": "N",
+ "upper": ""
+}
