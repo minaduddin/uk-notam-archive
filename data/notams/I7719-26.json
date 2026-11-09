@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.4333,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T15:28Z",
+ "from": "2026-11-09T17:00Z",
+ "id": "I7719/26",
+ "loc": [
+  "EGPT"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Perth/Scone traffic zone is active, with a ground radio service available and fire cover category A1.",
+ "summary_of": "c7c4b74dc244",
+ "text": "PERTH/SCONE ATZ ACTIVE. AD EXTD HR. A/G SER AVBL. RFFS CAT A1.",
+ "to": "2026-11-09T19:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T15:28Z",
+ "from": "2026-11-16T14:00Z",
+ "id": "L6968/26",
+ "loc": [
+  "EGLW"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1400-2300",
+ "summary": "Searchlight display within 1 nautical mile of a point in Chelsea, London, daily between 2pm and 11pm.",
+ "summary_of": "e74bb639fe98",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 512914N 0000913W (CHELSEA,\nLONDON). FOR INFO 07919 090990 / 01189 894519. AR-2026-10519/01.",
+ "to": "2026-12-29T23:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

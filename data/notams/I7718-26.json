@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.8667,
+  -4.45
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T15:28Z",
+ "from": "2026-11-13T09:00Z",
+ "id": "I7718/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "NVXX",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "A temporary crane near Glasgow may cause navigation aid bearing fluctuations in the 345 to 025 degree sector.",
+ "summary_of": "59c9c8ddab9c",
+ "text": "VOR/DME GOW/GLASGOW 115.40MHZ CH101X THERE MAY BE OBSERVATIONS OF\nDVOR BEARING FLUCTUATIONS WITHIN THE 345-025 DEG. MAG. SECTOR\nRADIALS FROM THE GLASGOW VOR/DME STATION, DUE TO A TEMPORARY CRANE\nIN THE VICINITY",
+ "to": "2026-11-13T23:59Z",
+ "type": "N",
+ "upper": ""
+}
