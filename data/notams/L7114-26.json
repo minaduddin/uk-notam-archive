@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8333,
+  -1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T22:44Z",
+ "from": "2026-11-10T22:30Z",
+ "id": "L7114/26",
+ "loc": [
+  "EGTK"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGTK is open for pre-arranged movements only, with tower and approach procedural service on 125.090 megahertz.",
+ "summary_of": "500209bece44",
+ "text": "AD OPEN FOR PRE ARRANGED MOVEMENTS ONLY. TWR AND APCH\nPROCEDURAL SERVICE ON 125.090MHZ.",
+ "to": "2026-11-10T23:00Z",
+ "type": "N",
+ "upper": ""
+}
