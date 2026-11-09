@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T18:54Z",
+ "from": "2026-11-10T06:00Z",
+ "id": "I7734/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Foxtrot closed south of Foxtrot 1 at EGAA.",
+ "summary_of": "c8bbc11a7973",
+ "text": "TWY FOXTROT CLSD SOUTH OF FOXTROT 1",
+ "to": "2026-11-10T17:00Z",
+ "type": "N",
+ "upper": ""
+}
