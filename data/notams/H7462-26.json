@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.0667,
+  -3.6667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-13T09:00Z",
+ "id": "H7462/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unmanned aircraft activity within 0.3 nautical miles of Dumfries and Galloway Royal Infirmary, Dumfries, up to 400 ft above ground level.",
+ "summary_of": "809322161fef",
+ "text": "UAS OPR WI 0.3NM RADIUS OF 550332N 0033932W (DUNFRIES AND\nGALLOWAY ROYAL INFIRMARY, DUMFRIES). MAX HGT 400FT AGL. FOR INFO\n07775 673615. AR-2026-10676/01.",
+ "to": "2026-11-13T17:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

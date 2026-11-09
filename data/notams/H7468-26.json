@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.65,
+  -4.9
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-12T09:00Z",
+ "id": "H7468/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "0900-1700",
+ "summary": "Civil aircraft underslung load operations within 2 nautical miles of Loch Finnich, Highlands, up to 500 ft above ground level, 0900 to 1700.",
+ "summary_of": "741ff1f09aef",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 573923N 0045402W (LOCH FINNICH, HIGHLANDS) LOW \nFLYING AREA 14 AND NIGHT SECTOR 1BE. MAX HGT 500FT AGL. ACFT MAY BE \nRESTRICTED IN ABILITY TO MANOEUVRE AND UNABLE TO COMPLY WITH RAC OPS \nCTC 07776 462424. 26/11/063/LFC",
+ "to": "2026-11-13T17:00Z",
+ "type": "N",
+ "upper": "2800FT AMSL"
+}

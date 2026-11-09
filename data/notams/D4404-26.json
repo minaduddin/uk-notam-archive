@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2833,
+  -0.6833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-15T08:30Z",
+ "id": "D4404/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "15 17 18 0830-1600",
+ "summary": "Ash Ranges danger area EGD132 activated, up to 1,100 ft above sea level, between 0830 and 1600 on set days.",
+ "summary_of": "d0b51a39680e",
+ "text": "DANGER AREA EGD132 ASH RANGES ACTIVATED",
+ "to": "2026-11-18T16:00Z",
+ "type": "N",
+ "upper": "1100FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.0333,
+  -0.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-10T08:00Z",
+ "id": "Q518/26",
+ "loc": [
+  "EGYD"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Opening hours at aerodrome EGYD amended to 1100 to 2030.",
+ "summary_of": "108bfff75b8f",
+ "text": "AMENDED AD OPR HR:\n10-12 1100-2030",
+ "to": "2026-11-12T20:30Z",
+ "type": "N",
+ "upper": ""
+}

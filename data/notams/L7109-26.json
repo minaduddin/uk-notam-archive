@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2,
+  -1.6167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-09T14:30Z",
+ "id": "L7109/26",
+ "loc": [
+  "EGBW"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGBW closed due to fog.",
+ "summary_of": "13638f947a3a",
+ "text": "AD CLOSED DUE FOG",
+ "to": "2026-11-09T17:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0667,
+  -0.6167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-13T08:00Z",
+ "id": "L7107/26",
+ "loc": [
+  "EGTC"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "0800-0830 1630-1700",
+ "summary": "Aerodrome EGTC closed between 0800 and 0830, and between 1630 and 1700.",
+ "summary_of": "402c25c14ff5",
+ "text": "AD CLSD.",
+ "to": "2026-11-13T17:00Z",
+ "type": "N",
+ "upper": ""
+}

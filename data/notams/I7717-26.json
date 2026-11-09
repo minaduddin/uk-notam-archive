@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.8833,
+  -4.45
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-13T10:00Z",
+ "id": "I7717/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crane at Glasgow up to 99 ft above ground level, about 119 ft above sea level.",
+ "summary_of": "36bdd773dffb",
+ "text": "MOBILE CRANE OPR PSN 555248N 0042640W (GLASGOW). MAX HGT 99FT AGL \n/ 119FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. SITE CTC SCOTT \nCHAMBERS 07971590576.",
+ "to": "2026-11-13T17:30Z",
+ "type": "N",
+ "upper": ""
+}

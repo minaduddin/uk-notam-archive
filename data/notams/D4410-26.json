@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8833,
+  0.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-12T09:00Z",
+ "id": "D4410/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCD",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD207 at Holbeach has been deactivated, up to 23,000 ft above sea level.",
+ "summary_of": "00b06ccb541c",
+ "text": "DANGER AREA EGD207 HOLBEACH DEACTIVATED",
+ "to": "2026-11-12T11:00Z",
+ "type": "N",
+ "upper": "23000FT AMSL"
+}

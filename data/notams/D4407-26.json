@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.05,
+  -2.5833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-09T14:00Z",
+ "id": "D4407/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDXX",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD510C at Spadeadam, up to 5,500 ft above sea level, with no crossing service available.",
+ "summary_of": "efc21ed81071",
+ "text": "DANGER AREA EGD510C SPADEADAM\nNO SPECIAL USE AIRSPACE CROSSING SERVICE AVAILABLE",
+ "to": "2026-11-09T17:00Z",
+ "type": "N",
+ "upper": "5500FT AMSL"
+}

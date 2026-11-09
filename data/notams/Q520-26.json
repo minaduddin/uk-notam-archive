@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.7,
+  -3.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-11T10:40Z",
+ "id": "Q520/26",
+ "loc": [
+  "EGQS"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aircraft at EGQS must make straight-in landings only, with no take-offs for visual circuits, practice diversions or engine ground runs.",
+ "summary_of": "35bdd4301eea",
+ "text": "TAKE-OFFS, VISUAL CIRCUITS AND PRACTICE DIVERSIONS NOT PERMITTED.\nACFT STRAIGHT IN TO LAND. NO ENGINE GROUND RUNS.",
+ "to": "2026-11-11T11:30Z",
+ "type": "N",
+ "upper": ""
+}

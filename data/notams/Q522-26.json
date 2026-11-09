@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1667,
+  -0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-09T13:54Z",
+ "id": "Q522/26",
+ "loc": [
+  "EGXW"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGXW is closed.",
+ "summary_of": "7f512df51638",
+ "text": "AD CLSD.",
+ "to": "2026-11-09T18:00Z",
+ "type": "N",
+ "upper": ""
+}

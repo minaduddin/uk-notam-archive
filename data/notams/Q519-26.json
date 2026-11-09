@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-09T13:15Z",
+ "id": "Q519/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Victor (taxitrack) closed at aerodrome EGUL.",
+ "summary_of": "0095d2143212",
+ "text": "TAXITRAK VICTOR CLOSED",
+ "to": "2026-11-09T23:59Z",
+ "type": "N",
+ "upper": ""
+}

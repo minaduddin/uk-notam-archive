@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.7,
+  -3.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T14:32Z",
+ "from": "2026-11-09T13:27Z",
+ "id": "Q521/26",
+ "loc": [
+  "EGQS"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Apron Alpha South stands 11 to 17 closed at EGQS due to work in progress.",
+ "summary_of": "b9da8a297005",
+ "text": "APN ALPHA SOUTH STANDS 11 TO 17 CLSD DUE TO WIP",
+ "to": "2026-11-23T08:00Z",
+ "type": "N",
+ "upper": ""
+}
