@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.5167,
+  -4.7333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T09:58Z",
+ "from": "2026-11-09T08:10Z",
+ "id": "H7442/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders operating within 2 nautical miles of Ben Dorian, Argyll and Bute, surface to 5,500 ft.",
+ "summary_of": "e60176d63034",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 563056N 0044350W (BEN DORIAN, ARGYLL AND BUTE). \nLOW FLYING AREA 14. 2000FT AGL. CTC 07801 719058. 26/11/052/LFC",
+ "to": "2026-11-09T16:30Z",
+ "type": "N",
+ "upper": "5500FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1167,
+  -0.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T09:58Z",
+ "from": "2026-11-16T08:30Z",
+ "id": "H7062/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WELW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Military aircraft high-energy manoeuvres within 5 nautical miles of Weaverthorpe, surface to 5,000 ft, speeds up to 450 knots.",
+ "summary_of": "a90724858fc5",
+ "text": "AIR EXER. 1 MIL ACFT WILL CONDUCT HIGH ENERGY MANOEUVRES IN\nSUPPORT OF GROUND TROOPS WI 5NM RADIUS OF 540645N 0003222W\n(WEAVERTHORPE). ACFT MAY OPERATE AT SPEEDS OF UP TO 450 KNOTS IAS\nAND MAY BE UNABLE TO COMPLY WITH RAC. FOR FURTHER INFO \nAIC Y007/2023 REFERS. OPS CTC ON CH127.185 OR 277.350MHZ \nFOR INFO 07517 258611. AR-2026-9975/01.",
+ "to": "2026-11-16T16:30Z",
+ "type": "N",
+ "upper": "5000FT AMSL"
+}

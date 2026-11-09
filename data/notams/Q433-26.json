@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.2,
+  -1.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T09:58Z",
+ "from": "2026-11-16T08:00Z",
+ "id": "Q433/26",
+ "loc": [
+  "EGXZ"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unlit crane operating at Topcliffe aerodrome, maximum height 46 ft above ground, 137 ft above sea level.",
+ "summary_of": "a7cbe8f3fa97",
+ "text": "UNLIT CRANE OPR AT PSN 541219N 0012217W (TOPCLIFFE AD).\nMAX HGT 46FT AGL, 137FT AMSL.",
+ "to": "2026-11-19T18:00Z",
+ "type": "N",
+ "upper": ""
+}

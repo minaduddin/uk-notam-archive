@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.1833,
+  -1.6167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T09:58Z",
+ "from": "2026-11-09T11:00Z",
+ "id": "H7444/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders operating within 2 nautical miles of Ashington, Northumberland, surface to 2,300 ft.",
+ "summary_of": "a53c3ddddf2d",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 551051N 0013727W (ASHINGTON, NORTHUMBERLAND).\nLOW FLYING AREA 12. 2000FT AGL. CTC 07766 679706. 26/11/053/LFC",
+ "to": "2026-11-09T16:00Z",
+ "type": "N",
+ "upper": "2300FT AMSL"
+}

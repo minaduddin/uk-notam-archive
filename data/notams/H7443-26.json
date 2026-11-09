@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.5667,
+  -4.9167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-09T09:58Z",
+ "from": "2026-11-09T08:10Z",
+ "id": "H7443/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders operating within 2 nautical miles of Ben Toaig, Argyll and Bute, surface to 5,200 ft.",
+ "summary_of": "f5e45052d893",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 563339N 0045515W (BEN TOAIG, ARGYLL AND BUTE). \nLOW FLYING AREA 14. 2000FT AGL. CTC 07801719058. 26/11/051/LFC",
+ "to": "2026-11-09T16:30Z",
+ "type": "N",
+ "upper": "5200FT AMSL"
+}

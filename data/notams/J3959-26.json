@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3333,
+  -0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-09T09:58Z",
+ "from": "2026-11-11T09:00Z",
+ "id": "J3959/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "0900-SS PLUS30",
+ "summary": "Temporary danger area EGD191 activated at EGTT, surface to 700 ft, daily from 0900 until 30 minutes after sunset.",
+ "summary_of": "4401734dcc4d",
+ "text": "TEMPO DANGER AREA (TDA) EGD191 ACTIVATED. AIP SUP 091/2026 \nREFERS. EMERG SER ACCESS CTC RUSHETT FARM TRAFFIC CH135.480. FOR \nINFO 0208 0582586. FURTHER DETAILS VIA: WWW.NATS-UK.EAD-IT.COM/. \nAR-2026-6161/18.",
+ "to": "2026-11-11T16:49Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}
