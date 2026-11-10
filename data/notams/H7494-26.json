@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.35,
+  -4.7833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T19:52Z",
+ "from": "2026-11-15T09:30Z",
+ "id": "H7494/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "ROLT",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Military aircraft must avoid an equestrian event within 2 nautical miles of Maidens, South Ayrshire, up to 2,000 feet above ground.",
+ "summary_of": "95364f413631",
+ "text": "MIL ACFT SHALL AVOID AN EQUESTRIAN EVENT WI 2NM RADIUS OF PSN \n52117N 0044721W (MAIDENS, SOUTH AYRSHIRE) LOW FLYING AREA 14 SFC TO \n2000FT AGL. EVENT CTC 02476 840728. 26/11/072/LFC",
+ "to": "2026-11-15T16:00Z",
+ "type": "N",
+ "upper": "2900FT AMSL"
+}

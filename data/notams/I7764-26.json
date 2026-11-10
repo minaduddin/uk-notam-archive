@@ -1,0 +1,25 @@
+{
+ "coord": [
+  59.8833,
+  -1.3
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T19:52Z",
+ "from": "2026-11-10T20:00Z",
+ "id": "I7764/26",
+ "loc": [
+  "EGPB"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Sumburgh Airport has extended operating hours, and prior permission is required for all flights.",
+ "summary_of": "c50f26797ed1",
+ "text": "SUMBURGH AD EXTD HR OPS. RFFS CAT 5. PPR ONLY.",
+ "to": "2026-11-10T20:15Z",
+ "type": "N",
+ "upper": ""
+}

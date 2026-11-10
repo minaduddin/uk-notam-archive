@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T19:52Z",
+ "from": "2026-11-10T18:45Z",
+ "id": "Q569/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "SPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "RAF Lakenheath radar approach control is closed, opening as needed only for pre-approved aircraft operating to and from RAF Lakenheath and RAF Mildenhall.",
+ "summary_of": "522437c22873",
+ "text": "RAF LAKENHEATH RADAR APP CTL CLSD AND WILL OPEN AS NEEDED TO \nPROVIDE ATC SERVICES TO PRE APPROVED AFCT OPERATING IN AND OUT \nOF RAF LAKENHEATH AND RAF MILDENHALL ONLY. FOR INFO 07435 181147",
+ "to": "2026-11-13T05:00Z",
+ "type": "N",
+ "upper": ""
+}

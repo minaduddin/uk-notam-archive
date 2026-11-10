@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T19:52Z",
+ "from": "2026-11-13T05:00Z",
+ "id": "Q568/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "STLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Air traffic control tower and airfield management facilities are closed at EGUL.",
+ "summary_of": "f7525e92922b",
+ "text": "AIR TRAFFIC CONTROL TOWER AND AIRFIELD MANAGEMENT FACILITIES \nCLOSED.",
+ "to": "2026-11-13T22:00Z",
+ "type": "N",
+ "upper": ""
+}

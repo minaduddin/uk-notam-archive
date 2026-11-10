@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9,
+  -2.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T19:52Z",
+ "from": "2026-11-10T18:27Z",
+ "id": "L7127/26",
+ "loc": [
+  "EGBJ"
+ ],
+ "lower": "",
+ "q": "NXAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Gloucestershire radio direction-finding equipment, linked to approach frequency 128.555 megahertz, is out of service.",
+ "summary_of": "9e14ceba7f2e",
+ "text": "GLOUCESTERSHIRE VDF ASSOCIATED WITH APP CH128.555 U/S",
+ "to": "2026-11-11T14:00Z",
+ "type": "N",
+ "upper": ""
+}
