@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.5833,
+  -2.25
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T17:46Z",
+ "from": "2026-11-16T00:00Z",
+ "id": "N950/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 11,
+ "removed": null,
+ "sched": "",
+ "summary": "Windmill Farm obstacle offshore, 10 nautical miles east of Arbroath, up to 912 feet above sea level.",
+ "summary_of": "c290a0d370e7",
+ "text": "OBST WINDMILL FARM WI 10NM OF 563433N 0021448W (OFFSHORE 10NM \nEAST OF ARBROATH). UP TO 912FT AMSL. FOR INFO CTC 07932 229828. ON \nEXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4. \nAR-2026-10490/03.",
+ "to": "2027-02-14T00:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8,
+  -4.0833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T17:46Z",
+ "from": "2026-11-11T09:00Z",
+ "id": "D4437/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 6,
+ "removed": null,
+ "sched": "0900-1630",
+ "summary": "Llanbedr danger areas EGD217A and EGD217E active from ground level to 2,000 feet above sea level, between 0900 and 1630.",
+ "summary_of": "ad20577b067e",
+ "text": "THE FOLLOWING LLANBEDR DANGER AREAS ARE ACTIVATED:\nEGD217A 0900-1630 SFC-2000FT AMSL\nEGD217E 0900-1630 SFC-2000FT AMSL",
+ "to": "2026-11-13T16:30Z",
+ "type": "N",
+ "upper": "2000FT AMSL"
+}

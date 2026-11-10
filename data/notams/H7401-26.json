@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9333,
+  -1.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T17:46Z",
+ "from": "2026-11-17T16:00Z",
+ "id": "H7401/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "High-power searchlight display within 1 nautical mile of Nottingham, from ground level upwards.",
+ "summary_of": "935f7cdb073a",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 525617N 0011222W \n(NOTTINGHAM).  HIGH POWER SEARCHLIGHT OPR. FOR INFO 07746 890153 / \n01158 468720. AR-2026-10571/01.",
+ "to": "2026-11-17T21:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

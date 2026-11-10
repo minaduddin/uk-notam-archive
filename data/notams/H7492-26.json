@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.15,
+  -2.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T17:46Z",
+ "from": "2026-11-11T07:29Z",
+ "id": "H7492/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Multiple paragliders within 2 nautical miles of Cow Close Fell, Yorkshire, up to 4,300 feet above sea level, between sunrise and sunset.",
+ "summary_of": "8727aa1d5405",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS\nOPR WI 2NM RADIUS OF PSN 540916N 0021012W \n(COW CLOSE FELL, YORKSHIRE) LOW FLYING AREA 17. 2000FT AGL. \nCTC 07717696753. 26/11/070/LFC",
+ "to": "2026-11-11T16:16Z",
+ "type": "N",
+ "upper": "4300FT AMSL"
+}
