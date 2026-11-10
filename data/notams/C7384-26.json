@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.4333,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T13:40Z",
+ "from": "2026-11-10T12:40Z",
+ "id": "C7384/26",
+ "loc": [
+  "EGHQ"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Newquay primary surveillance radar is out for maintenance at EGHQ, so only secondary radar is available and surveillance services may be affected.",
+ "summary_of": "7ffbfa7e82b5",
+ "text": "NEWQUAY PSR ON MAINT. SSR ONLY. SURVEILLANCE SER MAY BE AFFECTED.",
+ "to": "2026-11-10T17:00Z",
+ "type": "N",
+ "upper": ""
+}

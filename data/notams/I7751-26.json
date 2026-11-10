@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.4667,
+  -2.95
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T13:40Z",
+ "from": "2026-11-11T08:00Z",
+ "id": "I7751/26",
+ "loc": [
+  "EGPN"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-1700",
+ "summary": "Lit mobile crane up to 132 feet above ground level, operating 0800 to 1700, near Dundee.",
+ "summary_of": "2661abbe187a",
+ "text": "LIT MOBILE CRANE PSN 562803N 0025648W (2.79NM (5166M) HDG 071\nDEG MAG FM DUNDEE ARP) MAX HGT 132FT AGL/224FT AMSL",
+ "to": "2026-12-31T17:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5167,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T13:40Z",
+ "from": "2026-11-17T12:00Z",
+ "id": "I7648/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 12/30 closed at EGPK.",
+ "summary_of": "c1ca86d962ed",
+ "text": "RUNWAY 12/30 CLOSED",
+ "to": "2026-11-17T14:00Z",
+ "type": "N",
+ "upper": ""
+}

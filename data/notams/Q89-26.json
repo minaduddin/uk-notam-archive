@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.55,
+  -0.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T13:40Z",
+ "from": "2026-11-17T12:00Z",
+ "id": "Q89/26",
+ "loc": [
+  "EGWU"
+ ],
+ "lower": "",
+ "q": "ICAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Instrument landing system for runway 25 out of service at EGWU for maintenance and not to be used for approaches.",
+ "summary_of": "a968a5df6b53",
+ "text": "ILS RWY 25 U/S DUE MAINT. MAY RADIATE FOR TEST PURPOSES ONLY. NOT\nTO BE USED FOR APCH PROCEDURES. FOR INFO CTC 020 8833 8228.",
+ "to": "2026-11-17T16:00Z",
+ "type": "N",
+ "upper": ""
+}

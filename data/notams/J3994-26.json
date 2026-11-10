@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8667,
+  0.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T13:40Z",
+ "from": "2026-11-11T08:30Z",
+ "id": "J3994/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCS",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary danger area EGD290C near Holbeach Air Weapons Range, from ground level to 2,300 feet, for uncrewed aircraft beyond visual line of sight.",
+ "summary_of": "15186d11b169",
+ "text": "TEMPO DANGER AREA (TDA) EGD290C INSTALLED WI AREA BOUNDED BY:\n525322.96N 0000709.79E THEN STRAIGHT LINE TO\n524938.33N 0001052.43E THENCE CLOCKWISE BY THE ARC OF A CIRCLE\nRADIUS 2.3 NM CENTRED ON 525152.67N 0001001.83E TO\n525322.96N 0000709.79E\nUAS BEYOND VISUAL LINE OF SIGHT. ACTIVITY WILL BE CONTAINED WI VCY\nOF HOLBEACH AIR WEAPONS RANGE. FURTHER DETAILS AT \nHTTP://WWW.NATS-UK.EAD-IT.COM. BRIEFING SHEET 134/2026",
+ "to": "2026-11-11T17:00Z",
+ "type": "N",
+ "upper": "2300FT AMSL"
+}

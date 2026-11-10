@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.3,
+  -3.7167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T13:40Z",
+ "from": "2026-11-11T07:00Z",
+ "id": "M7587/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 12,
+ "removed": null,
+ "sched": "",
+ "summary": "Eskmeals danger areas EGD406A and EGD406B active from 0700 to 1800, from ground level to 40,000 feet, at EGTT.",
+ "summary_of": "06af20885311",
+ "text": "THE FOLLOWING ESKMEALS DANGER AREAS ARE ACTIVATED:\nEGD406A 0700-1800 SFC-40000FT AMSL\nEGD406B 0700-1800 SFC-40000FT AMSL",
+ "to": "2026-11-11T18:00Z",
+ "type": "N",
+ "upper": "40000FT AMSL"
+}

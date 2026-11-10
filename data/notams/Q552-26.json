@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T13:40Z",
+ "from": "2026-11-15T06:00Z",
+ "id": "Q552/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Parking slots 1-4 and 18-22 unavailable at EGUB due to work in progress.",
+ "summary_of": "f1fd9aad57cd",
+ "text": "PARKING SLOTS 1-4 18-22 NOT AVBL DUE WIP.",
+ "to": "2026-11-16T18:00Z",
+ "type": "N",
+ "upper": ""
+}

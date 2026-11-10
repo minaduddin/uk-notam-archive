@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8833,
+  0.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T13:40Z",
+ "from": "2026-11-16T01:45Z",
+ "id": "A4518/26",
+ "loc": [
+  "EGSS"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 04/22 closed for maintenance at EGSS.",
+ "summary_of": "440b1a2c1da7",
+ "text": "RWY 04/22 CLSD DUE MAINT.",
+ "to": "2026-11-16T05:45Z",
+ "type": "N",
+ "upper": ""
+}

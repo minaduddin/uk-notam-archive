@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T13:40Z",
+ "from": "2026-11-12T06:00Z",
+ "id": "Q551/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "STLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Air traffic control tower closed at EGUL.",
+ "summary_of": "2f628c43ba24",
+ "text": "AIR TRAFFIC CONTROL TOWER AND AIRFIELD MANAGEMENT FACILITIES CLSD.",
+ "to": "2026-11-12T22:00Z",
+ "type": "N",
+ "upper": ""
+}
