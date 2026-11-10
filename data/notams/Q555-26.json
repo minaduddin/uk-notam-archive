@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.0833,
+  -5.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T14:55Z",
+ "from": "2026-11-10T16:00Z",
+ "id": "Q555/26",
+ "loc": [
+  "EGDR"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGDR closed.",
+ "summary_of": "7a7f444cd5ea",
+ "text": "AD CLOSED",
+ "to": "2026-11-10T17:00Z",
+ "type": "N",
+ "upper": ""
+}

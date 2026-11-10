@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.5667,
+  -0.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T14:55Z",
+ "from": "2026-11-11T18:00Z",
+ "id": "C7385/26",
+ "loc": [
+  "EGNJ"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Primary radar unavailable at EGNJ; secondary radar coverage very limited within 10 nautical miles below 2,000 ft.",
+ "summary_of": "f9fb2f78f4f3",
+ "text": "PRIMARY RADAR U/S. SSR COVERAGE EXTREMLY LIMITED WITHIN 10NM \nBELOW 2000FT. NO IAP AVBL.",
+ "to": "2026-11-13T18:00Z",
+ "type": "N",
+ "upper": ""
+}

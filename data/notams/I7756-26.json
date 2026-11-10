@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5167,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T14:55Z",
+ "from": "2026-11-10T14:00Z",
+ "id": "I7756/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Romeo closed between apron Golf and taxiway Kilo at EGPK.",
+ "summary_of": "2ef763ac0e66",
+ "text": "TWY ROMEO CLSD BTN APRON GOLF AND TWY KILO",
+ "to": "2026-11-10T15:00Z",
+ "type": "N",
+ "upper": ""
+}

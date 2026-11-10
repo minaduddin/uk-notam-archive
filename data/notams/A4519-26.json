@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8833,
+  -0.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T14:55Z",
+ "from": "2026-11-14T08:00Z",
+ "id": "A4519/26",
+ "loc": [
+  "EGGW"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 121 ft high, 636 ft above sea level, operating near Luton Airport.",
+ "summary_of": "7c8a4f480f11",
+ "text": "CRANE OPR PSN 515238N 0002250W (289 DEG MAG 889M FM LUTON AD ARP) \nMAX HGT 121FT AGL, 636FT AMSL",
+ "to": "2026-11-16T17:00Z",
+ "type": "N",
+ "upper": ""
+}
