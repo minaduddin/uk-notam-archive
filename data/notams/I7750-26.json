@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.4333,
+  -5.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T12:23Z",
+ "from": "2026-11-13T10:00Z",
+ "id": "I7750/26",
+ "loc": [
+  "EGEC"
+ ],
+ "lower": "SFC",
+ "q": "WLLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Meteorological and research balloon release within 1 nautical mile of Campbeltown Aerodrome, subject to air traffic control approval.",
+ "summary_of": "1d1c3b01d5f1",
+ "text": "MET/RESEARCH BALLOON RELEASE WI 1NM RADIUS OF 552605N 0054115W\n(CAMPBELTOWN AD). SUBJ ATC APPROVAL. FOR INFO 07983 888825 /\n07930 164770. AR-2026-10666/01.",
+ "to": "2026-11-13T16:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

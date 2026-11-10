@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3,
+  0.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T12:23Z",
+ "from": "2026-11-13T17:00Z",
+ "id": "C7382/26",
+ "loc": [
+  "EGKB"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Lasers and fireworks within 1 nautical mile of Tatsfield, with fireworks up to 200 feet above ground.",
+ "summary_of": "2f8b32124ec0",
+ "text": "LASERS, FIREWORKS WI 1NM RADIUS OF 511730N 0000124E (TATSFIELD).\nFIREWORKS UP TO 200FT AGL. FOR INFO 02034 220777. AR-2026-10629/01.",
+ "to": "2026-11-13T21:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

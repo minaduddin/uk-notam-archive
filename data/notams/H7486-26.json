@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.0667,
+  -1.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T12:23Z",
+ "from": "2026-11-12T09:00Z",
+ "id": "H7486/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WLLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "0900-1500",
+ "summary": "Meteorological balloon releases within 2 nautical miles of Colemore Common, between 0900 and 1500, may extend beyond that area.",
+ "summary_of": "226a52f89546",
+ "text": "MET BALLOON RELEASE/S WI 2NM RADIUS OF 510340N 0010038W (COLEMORE\nCOMMON). THIS ACTIVITY WILL NOT BE WHOLLY CONTAINED WI LATERAL\nDIMENSION AS NOTIFIED. FOR INFO 07395 815093. AR-2026-10663/01.",
+ "to": "2026-11-13T15:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

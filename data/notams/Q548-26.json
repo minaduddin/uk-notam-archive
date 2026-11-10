@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T12:23Z",
+ "from": "2026-11-10T11:33Z",
+ "id": "Q548/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Victor closed south of the Victor Ramp entry control point to Taxiway Sierra at EGUL.",
+ "summary_of": "837badaaba80",
+ "text": "TAXITRAK VICTOR CLSD SOUTH OF VICTOR RAMP ENTRY CONTROL POINT TO \nTAXITRAK SIERRA.",
+ "to": "2026-11-10T22:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.65,
+  0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T12:23Z",
+ "from": "2026-11-10T11:14Z",
+ "id": "Q547/26",
+ "loc": [
+  "EGYM"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Revised aerodrome operating hours at EGYM, varying by day, with the aerodrome closed on some days.",
+ "summary_of": "df0c6239ce1c",
+ "text": "REVISED AD OPR HOURS:\n10 1030-2215\n11 1000-2200\n12 1030-2230\n13 1430-1545\n14-15 CLOSED",
+ "to": "2026-11-15T23:59Z",
+ "type": "R",
+ "upper": ""
+}

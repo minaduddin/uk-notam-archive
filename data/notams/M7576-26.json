@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9667,
+  0.9167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T12:23Z",
+ "from": "2026-11-11T18:00Z",
+ "id": "M7576/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 77,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary reserved area TRA 003 activated, between 19,500 and 24,500 feet, with autonomous military operations beyond visual line of sight not permitted.",
+ "summary_of": "893a65e34c9b",
+ "text": "TRA 003 ACTIVATED. MIL AUTONOMOUS OPS ARE NOT PERMITTED IN \nACCORDANCE WITH TRA BEYOND VISUAL LINE OF SIGHT PROCEDURES.",
+ "to": "2026-11-11T21:00Z",
+ "type": "N",
+ "upper": "FL245"
+}

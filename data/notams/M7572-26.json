@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.6167,
+  -2.0667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T12:23Z",
+ "from": "2026-11-11T10:30Z",
+ "id": "M7572/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 49,
+ "removed": null,
+ "sched": "",
+ "summary": "Moray Firth danger areas EGD809C, N and S activated, from surface to 55,000 feet.",
+ "summary_of": "4fe5831451fe",
+ "text": "THE FOLLOWING MORAY FIRTH DANGER AREAS ARE ACTIVATED:\nEGD809C 1030-1330 SFC-55000FT AMSL\nEGD809C 1500-1615 SFC-55000FT AMSL\nEGD809N 1030-1330 SFC-55000FT AMSL\nEGD809N 1500-1615 SFC-55000FT AMSL\nEGD809S 1030-1330 SFC-55000FT AMSL\nEGD809S 1500-1615 SFC-55000FT AMSL",
+ "to": "2026-11-11T16:15Z",
+ "type": "N",
+ "upper": "55000FT AMSL"
+}
