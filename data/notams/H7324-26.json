@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.6667,
+  -3.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T02:48Z",
+ "from": "2026-11-17T01:00Z",
+ "id": "H7324/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0100-0300",
+ "summary": "Flare firing up to 2,600 feet above sea level within 0.75 nautical miles of Woodbury Common, daily from 0100 to 0300.",
+ "summary_of": "7d9472edd961",
+ "text": "FLARE FIRING WI 0.75NM RADIUS OF 504021N 0032105W (WOODBURY \nCOMMON). FLARES WILL DESCEND BY PARACHUTE. FOR INFO 01395 272972\n/ 07811 723106. AR-2026-10311/01.",
+ "to": "2026-11-19T03:00Z",
+ "type": "N",
+ "upper": "2600FT AMSL"
+}
