@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2167,
+  -6.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T10:28Z",
+ "from": "2026-11-17T09:00Z",
+ "id": "I7238/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "SAAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Stornoway airport information broadcast on 115.100 megahertz unavailable because the navigation beacon is out of service.",
+ "summary_of": "cf5acd70f268",
+ "text": "ATIS STORNOWAY INFORMATION 115.100MHZ NOT AVBL DUE STN VOR U/S",
+ "to": "2026-11-17T13:00Z",
+ "type": "N",
+ "upper": ""
+}

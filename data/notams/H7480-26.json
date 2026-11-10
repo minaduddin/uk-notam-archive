@@ -1,0 +1,26 @@
+{
+ "coord": [
+  55.6833,
+  -3.8
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-10T10:28Z",
+ "from": "2026-11-10T09:15Z",
+ "id": "H7480/26",
+ "loc": [
+  "EGPX",
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WLLW",
+ "radius": 100,
+ "removed": null,
+ "sched": "",
+ "summary": "Breakaway balloon about 6 feet wide and 8 feet long, last seen at 8,000 feet heading south, cable length unknown.",
+ "summary_of": "810f7f8d0809",
+ "text": "BREAKAWAY BALLOON SIGHTED PSN 5541N 00348W. DIMENSIONS 6FT WIDTH, \n8FT LENGTH. CABLE LENGTH UNKNOWN. LAST KNOWN HEIGHT 8000FT AND \nHEADING S.",
+ "to": "2026-11-10T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}

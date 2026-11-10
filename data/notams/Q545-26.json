@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -1.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T10:28Z",
+ "from": "2026-11-10T09:23Z",
+ "id": "Q545/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "SAAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Ultra high frequency airport information broadcast on 292.3 megahertz out of service for maintenance at EGVA.",
+ "summary_of": "84aaaf52b34f",
+ "text": "AIRCREW CAUTION: UHF ATIS 292.3 MHZ OUT OF SERVICE FOR MAINT.",
+ "to": "2026-11-10T11:15Z",
+ "type": "N",
+ "upper": ""
+}

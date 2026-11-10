@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2,
+  -6.1833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T10:28Z",
+ "from": "2026-11-17T09:00Z",
+ "id": "I7237/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "NMAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Stornoway navigation beacon and its distance measuring equipment are both out of service.",
+ "summary_of": "213410c00a6f",
+ "text": "VOR/DME STN/STORNOWAY 115.10MHZ CH098X, BOTH PARTS U/S",
+ "to": "2026-11-17T13:00Z",
+ "type": "N",
+ "upper": ""
+}

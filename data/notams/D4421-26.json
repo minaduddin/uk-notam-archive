@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.9333,
+  -3.8333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T10:28Z",
+ "from": "2026-11-10T09:52Z",
+ "id": "D4421/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCD",
+ "radius": 14,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD703 at Tain deactivated, covering the surface up to 15,000 feet above sea level.",
+ "summary_of": "c2bef12027c5",
+ "text": "DANGER AREA EGD703 TAIN DEACTIVATED",
+ "to": "2026-11-10T22:00Z",
+ "type": "N",
+ "upper": "15000FT AMSL"
+}

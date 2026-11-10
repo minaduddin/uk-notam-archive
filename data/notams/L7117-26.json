@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9,
+  -2.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T10:28Z",
+ "from": "2026-11-11T09:30Z",
+ "id": "L7117/26",
+ "loc": [
+  "EGBJ"
+ ],
+ "lower": "",
+ "q": "SPLC",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Gloucestershire approach control service and instrument approach procedures are not available.",
+ "summary_of": "113c94dfb38c",
+ "text": "GLOUCESTERSHIRE APCH CTL SER NOT AVBL. IAP NOT AVBL",
+ "to": "2026-11-11T10:00Z",
+ "type": "N",
+ "upper": ""
+}

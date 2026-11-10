@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.45,
+  -3.0167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T10:28Z",
+ "from": "2026-11-11T07:00Z",
+ "id": "I7747/26",
+ "loc": [
+  "EGPN"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0700-1800",
+ "summary": "Lit mobile crane near Dundee Airport, maximum 125 feet above ground, operating between 0700 and 1800.",
+ "summary_of": "e0c8874c40b8",
+ "text": "LIT MOBILE CRANE PSN 562727N 0030052W (0.49NM (914M) HDG 052 DEG \nMAG FM DUNDEE ARP) MAX HGT 125FT AGL/298FT AMSL",
+ "to": "2026-11-27T18:00Z",
+ "type": "N",
+ "upper": ""
+}
