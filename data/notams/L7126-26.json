@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0667,
+  -0.6167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T18:49Z",
+ "from": "2026-11-10T17:25Z",
+ "id": "L7126/26",
+ "loc": [
+  "EGTC"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGTC closed.",
+ "summary_of": "06e336c8ff0a",
+ "text": "AD CLSD",
+ "to": "2026-11-10T19:00Z",
+ "type": "N",
+ "upper": ""
+}
