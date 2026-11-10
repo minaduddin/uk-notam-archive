@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7333,
+  -3.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T22:41Z",
+ "from": "2026-11-10T21:30Z",
+ "id": "C7395/26",
+ "loc": [
+  "EGTE"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Exeter air traffic zone deactivated and the airport closed, though emergency helicopters based there may still operate.",
+ "summary_of": "b7aa99cf516a",
+ "text": "EXETER ATZ DEACTIVATED. ATS AND AD CLOSED. BASED EMERGENCY ROTARY\nACFT MAY STILL OPERATE",
+ "to": "2026-11-11T02:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8333,
+  -1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T22:41Z",
+ "from": "2026-11-10T21:53Z",
+ "id": "L7128/26",
+ "loc": [
+  "EGTK"
+ ],
+ "lower": "",
+ "q": "LTAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 01 threshold lights half out of service at EGTK.",
+ "summary_of": "113d031ba867",
+ "text": "RWY 01 THR LIGHTS 50 PERCENT U/S.",
+ "to": "2026-11-15T22:30Z",
+ "type": "N",
+ "upper": ""
+}
