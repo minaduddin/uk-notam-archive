@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.6,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T09:25Z",
+ "from": "2026-11-16T09:00Z",
+ "id": "I7745/26",
+ "loc": [
+  "EGPE"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0900-1600",
+ "summary": "Live firing within 1.5 nautical miles of Fort George, surface to 1,100 feet, between 0900 and 1600.",
+ "summary_of": "2de0e3da3e15",
+ "text": "LIVE FIRING WI 1.5NM RADIUS OF 573558N 0040325W (FORT GEORGE).\nINCREASE TO AIR DANGER HEIGHT. FOR INFO 07423 018050.\nAR-2026-10495/01.",
+ "to": "2026-11-20T16:00Z",
+ "type": "N",
+ "upper": "1100FT AMSL"
+}

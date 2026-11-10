@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.3,
+  -1.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T09:25Z",
+ "from": "2026-11-10T08:25Z",
+ "id": "Q538/26",
+ "loc": [
+  "EGXE"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "No visiting aircraft accepted at EGXE.",
+ "summary_of": "75ff78ffc801",
+ "text": "NO VISITING ACFT ACCEPTED.",
+ "to": "2026-12-04T17:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.7667,
+  -1.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T09:25Z",
+ "from": "2026-11-17T08:00Z",
+ "id": "Q440/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-1700",
+ "summary": "Crane up to 66 feet above ground, 313 feet above sea level, near RAF Brize Norton, between 0800 and 1700.",
+ "summary_of": "14b9d98e4386",
+ "text": "CRANE OPR PSN 514538N 0013420W (AIR TANKER, RAF BRIZE NORTON)\nMAX HGT 66FT AGL/313FT AMSL",
+ "to": "2026-11-20T17:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8667,
+  -1.7
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T09:25Z",
+ "from": "2026-11-17T08:00Z",
+ "id": "H7446/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WPLW",
+ "radius": 13,
+ "removed": null,
+ "sched": "0800-2100",
+ "summary": "Parachute jumping exercise within 12 nautical miles of Little Rissington, surface to 13,000 feet, between 0800 and 2100.",
+ "summary_of": "a1e77e82169a",
+ "text": "PJE WI 12NM RADIUS OF 515146N 0014148W (LITTLE RISSINGTON).\nDROP CONTAINED WI FLW CONE (ALL HGT AMSL): \nSFC-3000FT 3NM RADIUS, \n3001FT-6000FT 6NM RADIUS, \n6001FT-9000FT 9NM RADIUS, \n9001FT-12000FT 12NM RADIUS.\nDROP HGT SUBJ ATC CLR. FOR INFO 01993 895052 / 07713 479300 /\n07977 834403. AR-2026-10604/01.",
+ "to": "2026-11-20T21:00Z",
+ "type": "N",
+ "upper": "13000FT AMSL"
+}

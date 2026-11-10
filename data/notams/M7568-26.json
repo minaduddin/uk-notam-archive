@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.6167,
+  -4.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T09:25Z",
+ "from": "2026-11-10T09:00Z",
+ "id": "M7568/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 50,
+ "removed": null,
+ "sched": "",
+ "summary": "North Wales military training areas North Low and South Low activated, 19,500 to 26,000 feet, between 0900 and 2020.",
+ "summary_of": "fcad7c0cb81d",
+ "text": "THE FOLLOWING NORTH WALES MILITARY TRAINING AREAS ACTIVATED:\nNORTH LOW 0900-2020 FL195-FL260\nSOUTH LOW 0900-2020 FL195-FL260",
+ "to": "2026-11-10T20:20Z",
+ "type": "R",
+ "upper": "FL260"
+}
