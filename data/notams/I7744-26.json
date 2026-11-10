@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2,
+  -6.35
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T08:17Z",
+ "from": "2026-11-10T07:38Z",
+ "id": "I7744/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 66 feet above ground level, 130 feet above sea level, about 0.7 nautical miles south-west of Stornoway aerodrome.",
+ "summary_of": "31f6ca21cccc",
+ "text": "CRANE OPR APRX PSN 581214N 0062032W (0.7NM SW OF STORNOWAY ARP). \nMAX HGT 130FT AMSL/ 66FT AGL.",
+ "to": "2026-11-10T17:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -3.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T08:17Z",
+ "from": "2026-11-10T07:45Z",
+ "id": "H7476/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Paragliding activity within 2 nautical miles of Souther Fell, Cumbria, up to 2000 feet above ground level.",
+ "summary_of": "9fbab4fd177a",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 543910N 0030004W (SOUTHER FELL,CUMBRIA). LOW \nFLYING AREA 17 AND NIGHT SECTOR 3BW. 2000FT AGL. CTC 07763 721204. \n26/11/067/LFC",
+ "to": "2026-11-10T16:30Z",
+ "type": "N",
+ "upper": "4800FT AMSL"
+}

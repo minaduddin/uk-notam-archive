@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.6167,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T08:17Z",
+ "from": "2026-11-17T07:30Z",
+ "id": "Q59/26",
+ "loc": [
+  "EGXT"
+ ],
+ "lower": "",
+ "q": "NNAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Wittering navigation aid on 117.6 MHz, at EGXT, out of service for maintenance.",
+ "summary_of": "597daf7e516f",
+ "text": "TACAN WIT/WITTERING 117.6MHZ CH123X U/S DUE MAINT",
+ "to": "2026-11-17T15:00Z",
+ "type": "N",
+ "upper": ""
+}

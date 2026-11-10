@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6333,
+  -3.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T08:17Z",
+ "from": "2026-11-10T11:00Z",
+ "id": "H7475/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Paragliding activity within 2 nautical miles of Jenkin Hill, Cumbria, up to 2000 feet above ground level.",
+ "summary_of": "5b9562009616",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 543739N 0030706W (JENKIN HILL, CUMBRIA). \nLOW FLYING AREA 17 AND NIGHT SECTOR 3BW. 2000FT AGL. CTC 07501 \n888303. 26/11/066/LFC",
+ "to": "2026-11-10T18:00Z",
+ "type": "N",
+ "upper": "5100FT AMSL"
+}

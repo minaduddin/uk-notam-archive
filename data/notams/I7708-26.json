@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2167,
+  -6.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T08:17Z",
+ "from": "2026-11-17T07:00Z",
+ "id": "I7708/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 3,
+ "removed": null,
+ "sched": "0700-0715 0915-0945 1145-1215 1430-1500 1700-1800",
+ "summary": "Stornoway aerodrome closed during set daily periods; traffic zone deactivated, information service available for air ambulance and search and rescue flights.",
+ "summary_of": "5d6da207e5a1",
+ "text": "STORNOWAY ATZ DEACTIVATED. AD/ATS CLSD. LATEST DEP TIME 15 MIN \nPRIOR TO CLOSE TIME. AFIS SER AVBL FOR AIR AMBULANCE AND SAR FLT.",
+ "to": "2026-11-18T18:00Z",
+ "type": "N",
+ "upper": ""
+}
