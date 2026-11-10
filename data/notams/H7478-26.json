@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.05,
+  -3.4
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T11:23Z",
+ "from": "2026-11-17T10:00Z",
+ "id": "H7478/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WVLW",
+ "radius": 30,
+ "removed": null,
+ "sched": "1000-2000",
+ "summary": "Exercise Guardian Defender: up to six military helicopters in formation near Yeovilton, Heathfield, Exeter and Chivenor, up to 3,000 ft, 10:00 to 20:00 daily.",
+ "summary_of": "fc091ad771ce",
+ "text": "EXER GUARDIAN DEFENDER. UP TO 6 MIL HEL WILL OPR IN FORMATION BTN\nTHE FOLLOWING POINTS:\n510000N 0023800W VCY YEOVILTON AD\n510207N 0030956W HEATHFIELD\n504250N 0033000W WONFORD, EXETER\n510521N 0040915W CHIVENOR DISUSED AD\nACFT MAY BE UNABLE TO COMPLY WITH RAC. FOR INFO 07896 232995 /\n01935 454432. AR-2026-10576/01.",
+ "to": "2026-11-19T20:00Z",
+ "type": "N",
+ "upper": "3000FT AMSL"
+}

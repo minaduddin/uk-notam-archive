@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9333,
+  -3.8167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T11:23Z",
+ "from": "2026-11-10T10:17Z",
+ "id": "N946/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unlit suspended cable hazard near Afon Prysor, reaching up to 282 ft above ground level.",
+ "summary_of": "bea22f470fce",
+ "text": "SUSPENDED HAZARDOUS CABLE (UNLIT) BTN POINTS 525601N 0034941W AND\n525600N 0034908W (AFON PRYSOR). MAX HGT 282FT AGL/1600FT AMSL. ON\nEXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR\n5.4. AR-2026-10671/01.",
+ "to": "2026-11-25T23:59Z",
+ "type": "N",
+ "upper": ""
+}

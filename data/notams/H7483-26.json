@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.4333,
+  -0.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T11:23Z",
+ "from": "2026-11-12T07:25Z",
+ "id": "H7483/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drones operating within 0.27 nautical miles of Robin Hood's Bay, up to 400 ft above ground, between sunrise and sunset.",
+ "summary_of": "4f49b9972a04",
+ "text": "UAS OPR WI 0.27NM RADIUS OF 542549N 0003143W (ROBIN HOOD'S BAY).\nMAX HGT 400FT AGL. FOR INFO 07989 396015. AR-2026-10704/01.",
+ "to": "2026-11-12T16:06Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

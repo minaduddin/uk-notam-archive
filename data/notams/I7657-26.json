@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.5,
+  -6.8833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T11:23Z",
+ "from": "2026-11-17T10:00Z",
+ "id": "I7657/26",
+ "loc": [
+  "EGPU"
+ ],
+ "lower": "",
+ "q": "NVAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Part of the Tiree radio navigation beacon is out of service.",
+ "summary_of": "7275fbd8b03b",
+ "text": "VOR/DME TIR/TIREE 117.70MHZ CH124X VOR PART U/S",
+ "to": "2026-11-17T16:00Z",
+ "type": "N",
+ "upper": ""
+}

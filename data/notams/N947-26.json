@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6667,
+  -1.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T11:23Z",
+ "from": "2026-11-12T00:00Z",
+ "id": "N947/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane up to 170 ft above ground at Latton, Wiltshire.",
+ "summary_of": "3bfcd5b6227a",
+ "text": "LIT CRANE AT PSN 514012N 0015305W (LATTON, WILTSHIRE)IN LOW \nFLYING AREA 2 AND NIGHT ROTARY REGION 2. HGT 170FT AGL/ 500FT AMSL. \n26/11/068/LFC",
+ "to": "2026-11-12T23:59Z",
+ "type": "N",
+ "upper": ""
+}

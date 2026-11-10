@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.6,
+  -1.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T11:23Z",
+ "from": "2026-11-17T10:30Z",
+ "id": "B1601/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "NDAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Part of the Ventnor distance measuring equipment navigation aid is out of service.",
+ "summary_of": "2ca803d155c5",
+ "text": "DME VNR/VENTNOR 108.250MHZ CH19Y DME PART U/S",
+ "to": "2026-11-17T14:30Z",
+ "type": "N",
+ "upper": ""
+}

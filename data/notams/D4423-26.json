@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.65,
+  0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T11:23Z",
+ "from": "2026-11-11T11:00Z",
+ "id": "D4423/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD220A at Marham is activated, from ground level up to 10,500 ft.",
+ "summary_of": "a9c4c7b66ddb",
+ "text": "DANGER AREA EGD220A MARHAM ACTIVATED",
+ "to": "2026-11-11T22:00Z",
+ "type": "N",
+ "upper": "FL105"
+}

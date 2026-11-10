@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4667,
+  -1.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T11:23Z",
+ "from": "2026-11-10T10:30Z",
+ "id": "N948/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 460 ft above ground near Birmingham.",
+ "summary_of": "3ea18122691e",
+ "text": "CRANE OPR PSN 522820N 0015242W (BIRMINGHAM) UP TO 460FT\nAGL/ 839FT AMSL. FOR INFO CONTACT 07312132890 / 07736147617. ON\nEXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR\n5.4 AR-2026-10473/02.",
+ "to": "2027-01-06T23:00Z",
+ "type": "N",
+ "upper": ""
+}

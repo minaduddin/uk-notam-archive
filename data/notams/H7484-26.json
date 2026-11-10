@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0833,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T11:23Z",
+ "from": "2026-11-16T07:00Z",
+ "id": "H7484/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Drones operating within an area at Kempston, up to 500 ft above ground.",
+ "summary_of": "0df7bb08b0d2",
+ "text": "UAS OPR WI AREA BOUNDED BY 520621N 0002938W - 520626N 0002848W -\n520537N 0002901W - 520507N 0002917W - 520416N 0003000W - \n520425N 0003031W - 520439N 0003021W - 520445N 0003051W - \n520534N 0003014W - 520621N 0002938W (KEMPSTON). MAX HGT 500FT AGL. \nFOR INFO 07492 058989 / 07521 423410. AR-2026-10700/01.",
+ "to": "2027-01-01T07:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}
