@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.3333,
+  -2.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T16:51Z",
+ "from": "2026-11-10T15:20Z",
+ "id": "A4521/26",
+ "loc": [
+  "EGGP"
+ ],
+ "lower": "",
+ "q": "MGAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Visual docking guidance at stand 6 is out of service at EGGP, so aircraft should expect a marshaller.",
+ "summary_of": "4dee94464609",
+ "text": "AZIMUTH GUIDANCE FOR NOSE IN STAND (AGNIS) STAND 6 U/S. ACFT TO \nEXPECT PARKING WITH A MARSHALLER.",
+ "to": "2026-11-11T18:00Z",
+ "type": "N",
+ "upper": ""
+}

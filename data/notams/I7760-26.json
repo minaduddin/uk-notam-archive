@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.4667,
+  -3.1
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T16:51Z",
+ "from": "2026-11-10T18:00Z",
+ "id": "I7760/26",
+ "loc": [
+  "EGPC"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Wick aerodrome traffic zone activated, with the aerodrome and air traffic services operating additional hours.",
+ "summary_of": "088e935c2af9",
+ "text": "WICK ATZ ACTIVATED. AD/ATS ADDN HR OPR",
+ "to": "2026-11-10T19:15Z",
+ "type": "N",
+ "upper": ""
+}

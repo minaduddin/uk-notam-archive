@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.5833,
+  -3.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T16:51Z",
+ "from": "2026-11-10T15:55Z",
+ "id": "Q565/26",
+ "loc": [
+  "EGOW"
+ ],
+ "lower": "",
+ "q": "STLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Air traffic control closed at EGOW and air traffic services unavailable, while the aerodrome traffic zone remains active as published.",
+ "summary_of": "9b457120272d",
+ "text": "ATC CLOSED, ATS NOT AVBL, ATZ REMAINS ACTIVE AS PUBLISHED",
+ "to": "2026-11-10T17:45Z",
+ "type": "N",
+ "upper": ""
+}
