@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8667,
+  -1.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T15:47Z",
+ "from": "2026-11-10T16:47Z",
+ "id": "C7386/26",
+ "loc": [
+  "EGNM"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway November closed between taxiway N2 and east of taxiway Charlie at EGNM.",
+ "summary_of": "9db63fa9269f",
+ "text": "TWY NOVEMBER CLSD BTN N2 AND EAST OF CHARLIE",
+ "to": "2026-11-11T09:00Z",
+ "type": "N",
+ "upper": ""
+}

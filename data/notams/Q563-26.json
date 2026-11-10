@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T15:47Z",
+ "from": "2026-11-10T21:00Z",
+ "id": "Q563/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MXLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Victor, Charlie Ramp and Victor Ramp are tow only at EGUL.",
+ "summary_of": "aee111784f16",
+ "text": "TWY VICTOR, CHARLIE RAMP AND VICTOR RAMP ARE TOW ONLY.",
+ "to": "2026-11-11T08:00Z",
+ "type": "N",
+ "upper": ""
+}

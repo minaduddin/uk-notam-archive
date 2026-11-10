@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.4333,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-10T15:47Z",
+ "from": "2026-11-10T17:00Z",
+ "id": "I7757/26",
+ "loc": [
+  "EGPT"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Perth/Scone aerodrome traffic zone active, with extended opening hours and air-to-ground radio service available.",
+ "summary_of": "57de8fb854b7",
+ "text": "PERTH/SCONE ATZ ACTIVE. AD EXTENDED HR. AIR/GROUND SERVICE AVBL.\nRFFS CAT A1.",
+ "to": "2026-11-10T19:00Z",
+ "type": "N",
+ "upper": ""
+}

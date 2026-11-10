@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.5667,
+  -0.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-10T15:47Z",
+ "from": "2026-11-11T18:00Z",
+ "id": "C7387/26",
+ "loc": [
+  "EGNJ"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Humberside primary radar out of service; secondary radar coverage extremely limited within 10 nautical miles below 2,000 feet.",
+ "summary_of": "aa852d2ea2f0",
+ "text": "HUMBERSIDE PRIMARY RADAR U/S. SSR COVERAGE EXTREMLY LIMITED \nWITHIN 10NM BELOW 2000FT. NO IAP AVBL.",
+ "to": "2026-11-13T18:00Z",
+ "type": "N",
+ "upper": ""
+}
