@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.6333,
+  -2.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T15:50Z",
+ "from": "2026-11-11T14:33Z",
+ "id": "N956/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Aviation warning light on the Winter Hill mast, 1015 ft high, is out of service.",
+ "summary_of": "d6effe6e8273",
+ "text": "AIR NAV OBST LGT UK0171A245F RTM RTM WINTER HILL MAST SINGLE U/S  \n  PSN 533732.09N 0023053.31W,  ELEV / HEIGHT = 2452FT / 1015FT",
+ "to": "2026-12-11T12:00Z",
+ "type": "N",
+ "upper": ""
+}

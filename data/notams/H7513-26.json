@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2667,
+  -2.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T15:50Z",
+ "from": "2026-11-12T07:00Z",
+ "id": "H7513/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Paragliders operating within 2 nautical miles of Westbury, Wiltshire, up to 2000 ft above ground level, in low flying area 1A.",
+ "summary_of": "a729795f9f0d",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 511545N 0020851W (WESTBURY, WILTSHIRE). 2000FT \nAGL. LOW FLYING AREA 1A. CTC 07553209626. 26/11/081/LFC",
+ "to": "2026-11-12T16:30Z",
+ "type": "N",
+ "upper": "2900FT AMSL"
+}

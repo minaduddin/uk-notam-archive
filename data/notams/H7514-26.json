@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.4333,
+  -2.3
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T15:50Z",
+ "from": "2026-11-13T07:00Z",
+ "id": "H7514/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Paragliders operating within 2 nautical miles of Tailbridge, Cumbria, up to 2000 ft above ground level, in low flying area 17.",
+ "summary_of": "32ba5aaa1e4b",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 542624N 0021813W (TAILBRIDGE, CUMBRIA). LOW \nFLYING AREA 17. 2000FT AGL. CTC 07785 523377. 26/11/082/LFC",
+ "to": "2026-11-13T16:30Z",
+ "type": "N",
+ "upper": "4500FT AMSL"
+}
