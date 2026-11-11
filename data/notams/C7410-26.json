@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8,
+  -1.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T16:54Z",
+ "from": "2026-11-15T01:55Z",
+ "id": "C7410/26",
+ "loc": [
+  "EGNX"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 28,
+ "removed": null,
+ "sched": "",
+ "summary": "East Midlands airspace restrictions deactivated and aerodrome closed.",
+ "summary_of": "09b56131b9c0",
+ "text": "EAST MIDLANDS CTA CTR AND ATZ DEACTIVATED. AD CLSD. AIRSPACE \nREVERTS TO CLASS G.",
+ "to": "2026-11-15T03:10Z",
+ "type": "N",
+ "upper": ""
+}

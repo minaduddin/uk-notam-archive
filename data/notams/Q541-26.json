@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T16:54Z",
+ "from": "2026-11-18T15:00Z",
+ "id": "Q541/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Personnel and equipment on runway 10/28 at EGUN for barrier maintenance.",
+ "summary_of": "e6cff8bb828f",
+ "text": "PERSONNEL AND EQPT LOCATED ON RWY 10/28 FOR BARRIER MAINT.\nCAN VACATE WITH 5 MINUTE PRIOR NOTICE TO ATC.",
+ "to": "2026-11-18T16:00Z",
+ "type": "N",
+ "upper": ""
+}

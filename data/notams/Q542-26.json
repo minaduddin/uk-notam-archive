@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T16:54Z",
+ "from": "2026-11-18T15:00Z",
+ "id": "Q542/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "MHAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aircraft arresting system at the east end of runway 10/28 at EGUN is out of service.",
+ "summary_of": "a8c42d111934",
+ "text": "RWY 10/28 EAST END ACFT ARRESTING SYSTEM (AAS) U/S.",
+ "to": "2026-11-18T16:00Z",
+ "type": "N",
+ "upper": ""
+}

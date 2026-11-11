@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.3667,
+  -0.0833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T16:54Z",
+ "from": "2026-11-13T04:30Z",
+ "id": "M7634/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 90,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary reserved airspace 007B activated at EGPX, between 19,500 and 24,500 ft.",
+ "summary_of": "6acbe590a2d9",
+ "text": "TRA 007B ACTIVATED",
+ "to": "2026-11-13T06:00Z",
+ "type": "N",
+ "upper": "FL245"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4667,
+  -2.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T16:54Z",
+ "from": "2026-11-12T08:00Z",
+ "id": "L7137/26",
+ "loc": [
+  "EGCB"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 13/31 closed at EGCB due to crane activity on the approach and take-off path.",
+ "summary_of": "7a5d3996c064",
+ "text": "RWY 13/31 CLSD DUE CRANE ACTIVITY ON APCH AND TKOF PATH",
+ "to": "2026-11-12T16:00Z",
+ "type": "N",
+ "upper": ""
+}
