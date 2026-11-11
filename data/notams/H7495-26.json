@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.0167,
+  -4.5667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T07:09Z",
+ "from": "2026-11-12T07:44Z",
+ "id": "H7495/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "FL100",
+ "q": "WGLW",
+ "radius": 104,
+ "removed": null,
+ "sched": "",
+ "summary": "Glider flying without a transponder over a large area of Scottish airspace, between 10,000 and 19,500 ft.",
+ "summary_of": "23b9fafa1be8",
+ "text": "GLD FLY WO SSR TRANSPONDER WI:\n580000N 0070000W - 580000N 0020000W - 560700N 0020000W - \n560703N 0040000W - 561400N 0040926W - 555330N 0050000W - \n553000N 0050000W - 560000N 0070000W - 580000N 0070000W. \n(SCOTTISH FIR)",
+ "to": "2026-11-12T16:11Z",
+ "type": "N",
+ "upper": "FL195"
+}

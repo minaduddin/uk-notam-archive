@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.45,
+  -3.0333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T07:09Z",
+ "from": "2026-11-11T07:00Z",
+ "id": "I7771/26",
+ "loc": [
+  "EGPN"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome traffic zone activated at Dundee, with a radius of 2 nautical miles.",
+ "summary_of": "c6c2f759d58f",
+ "text": "DUNDEE ATZ ACTIVATED. AD OPEN",
+ "to": "2026-11-11T07:45Z",
+ "type": "N",
+ "upper": ""
+}
