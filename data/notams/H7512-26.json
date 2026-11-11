@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.5667,
+  -4.7833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T14:52Z",
+ "from": "2026-11-11T13:59Z",
+ "id": "H7512/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WPLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Dropping of articles from aircraft within 5 nautical miles of Black Mount, up to 8,700 feet above sea level.",
+ "summary_of": "4ea4b1af9fe9",
+ "text": "DROPPING OF ARTICLES WI 5NM RADIUS OF 563348N 0044710W (BLACK \nMOUNT). FOR INFO 01993 896789. AR-2026-10544/02.",
+ "to": "2026-11-12T17:45Z",
+ "type": "R",
+ "upper": "8700FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1333,
+  1.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T14:52Z",
+ "from": "2026-11-11T13:57Z",
+ "id": "N955/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Aviation obstruction light at the military school in Dover reported unserviceable; the structure is 360 feet high.",
+ "summary_of": "7207dd885a4c",
+ "text": "REPORT OF AIR NAV OBST LGT U/S AT PSN: 510816N 0011940E (MILITARY\nSCHOOL, DOVER). HGT 360FT AGL/800FT AMSL. FOR INFO 01613 790400.\nAR-2026-10782/01.",
+ "to": "2026-12-11T00:00Z",
+ "type": "N",
+ "upper": ""
+}

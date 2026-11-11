@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T14:52Z",
+ "from": "2026-11-11T13:31Z",
+ "id": "A4530/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "MRLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 09R/27L entry and exit at taxiway S1 closed due to work in progress at EGLL.",
+ "summary_of": "5d30548d375f",
+ "text": "RWY 09R/27L ENRTY/EXIT AT S1 CLSD DUE WIP.",
+ "to": "2026-11-11T15:00Z",
+ "type": "N",
+ "upper": ""
+}

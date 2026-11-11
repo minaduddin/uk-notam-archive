@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T14:52Z",
+ "from": "2026-11-18T13:00Z",
+ "id": "Q540/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "MHAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 10/28 west end aircraft arresting system at EGUN is unserviceable.",
+ "summary_of": "734b6654804b",
+ "text": "RWY 10/28 WEST END ACFT ARRESTING SYSTEM (AAS) U/S.",
+ "to": "2026-11-18T14:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.45,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T14:52Z",
+ "from": "2026-11-12T11:00Z",
+ "id": "C7407/26",
+ "loc": [
+  "EGBB"
+ ],
+ "lower": "",
+ "q": "IDAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Distance measuring equipment linked to the instrument landing system for runway 15/33 at EGBB is unserviceable due to maintenance.",
+ "summary_of": "a0e4d8d8f7f9",
+ "text": "DME ASSOCIATED WITH ILS RWY 15/33 U/S DUE MAINT",
+ "to": "2026-11-12T14:00Z",
+ "type": "N",
+ "upper": ""
+}
