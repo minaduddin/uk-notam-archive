@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.4333,
+  -3.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T09:28Z",
+ "from": "2026-11-18T08:00Z",
+ "id": "B1772/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "AFXX",
+ "radius": 8,
+ "removed": null,
+ "sched": "",
+ "summary": "Emergency transponder mandatory zone in Scottish airspace, from 5,500 feet up to flight level 195, due to radar maintenance at Cumbernauld.",
+ "summary_of": "ac621c7adb21",
+ "text": "EMERG TRANSPONDER MANDATORY ZONE INSTALLED WI AREA BOUNDED BY:\n5533N 00341W - 5533N 00330W - 5520N 00330W - 5520N 00341W - \n5533N 00341W (SCOTTISH TMA) BTN 5500FT AMSL/FL195 DUE TO CUMBERNAULD\nPRIMARY RADAR MAINT. ALL ACFT OPR WI THIS AREA IN CONTROLLED \nAIRSPACE ARE REQ TO OPR A SVCBL TRANSPONDER.",
+ "to": "2026-11-18T12:00Z",
+ "type": "N",
+ "upper": ""
+}

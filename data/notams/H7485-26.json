@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4333,
+  0.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T09:28Z",
+ "from": "2026-11-18T08:00Z",
+ "id": "H7485/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity in an area near Darenth, up to 400 feet above ground and 700 feet above sea level.",
+ "summary_of": "c85ecf36ea69",
+ "text": "UAS OPR WI AREA BOUNDED BY 512555N 0001540E - 512555N 0001549E -\n512553N 0001558E - 512546N 0001604E - 512540N 0001600E - \n512537N 0001546E - 512537N 0001527E - 512543N 0001526E - \n512553N 0001530E - 512555N 0001540E (DARENTH). MAX HGT 400FT AGL. \nFOR INFO 07974212390 / 07745672222. AR-2026-10724/01.",
+ "to": "2026-11-18T16:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3167,
+  -0.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T09:28Z",
+ "from": "2026-11-18T08:30Z",
+ "id": "L6594/26",
+ "loc": [
+  "EGLK"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "18 0830-1300, 20 0730-1730",
+ "summary": "Low-level flying is not allowed within 0.1 nautical miles of Bullring, Minley Wood, Hampshire, due to explosive demolition and live ordnance training.",
+ "summary_of": "ed5ed0f47eda",
+ "text": "LOW LEVEL CIRCUITS ARE NOT TO BE FLOWN DUE TO EXPLOSIVE DEMOLITION\nAND LIVE ORDNANCE TRAINING WI 0.1NM RADIUS OF PSN 511904N 0004833W\n(BULLRING, MINLEY WOOD, HAMPSHIRE) 375FT AGL/800FT AMSL",
+ "to": "2026-11-20T17:30Z",
+ "type": "N",
+ "upper": ""
+}

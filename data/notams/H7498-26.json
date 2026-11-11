@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.3667,
+  -4.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T09:28Z",
+ "from": "2026-11-13T12:00Z",
+ "id": "H7498/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "3000FT AMSL",
+ "q": "WELW",
+ "radius": 4,
+ "removed": null,
+ "sched": "",
+ "summary": "Military aircraft high-energy manoeuvres between 3,000 and 20,000 feet within 3 nautical miles of Plymouth.",
+ "summary_of": "9c7baeedd054",
+ "text": "AIR EXER. WILL CONDUCT HIGH ENERGY MANOEUVRES IN SUPPORT OF\nGROUND OPS WI 3NM RADIUS OF 502149N 0040806W (PLYMOUTH). ACFT MAY\nOPERATE AT SPEEDS OF UP TO 450 KNOTS IAS AND MAY BE UNABLE TO\nCOMPLY WITH RAC. FOR FURTHER INFO AIC Y007/2023 REFERS. OPS CTC\nUHF FREQUENCY 275.775 OR 387.675MHZ. FOR INFO +44756 4564308.\nAR-2026-10738/01.",
+ "to": "2026-11-13T13:30Z",
+ "type": "N",
+ "upper": "20000FT AMSL"
+}

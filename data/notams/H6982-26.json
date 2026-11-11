@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6,
+  -2.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T09:28Z",
+ "from": "2026-11-18T08:30Z",
+ "id": "H6982/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WELW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Military aircraft high-energy manoeuvres up to 5,000 feet within 5 nautical miles of Hunderthwaite, at speeds up to 450 knots.",
+ "summary_of": "10e1e42e2ec5",
+ "text": "AIR EXER. 1 MIL ACFT WILL CONDUCT HIGH ENERGY MANOEUVRES IN\nSUPPORT OF JTAC EXERCISE ON FREQUENCIES WI 5NM RADIUS OF \n543546N 0020335W (HUNDERTHWAITE). ACFT MAY OPERATE AT SPEEDS OF UP \nTO 450 KNOTS IAS AND MAY BE UNABLE TO COMPLY WITH RAC. FOR FURTHER \nINFO AIC Y007/2023 REFERS. OPS CTC ON CH127.185 OR FREQUENCY\n277.350MHZ. FOR INFO 07517 258611. AR-2026-9901/03.",
+ "to": "2026-11-18T16:30Z",
+ "type": "N",
+ "upper": "5000FT AMSL"
+}

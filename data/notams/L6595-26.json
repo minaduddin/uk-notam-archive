@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3167,
+  -0.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T09:28Z",
+ "from": "2026-11-18T08:00Z",
+ "id": "L6595/26",
+ "loc": [
+  "EGLK"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Low-level flying is not allowed within 0.25 nautical miles of F5G, Minley Wood, Hampshire, due to explosive demolition and live ordnance training.",
+ "summary_of": "17356fe8456f",
+ "text": "LOW LEVEL CIRCUITS ARE NOT TO BE FLOWN DUE TO EXPLOSIVE DEMOLITION\nAND LIVE ORDNANCE TRAINING WI 0.25NM RADIUS OF PSN 511834N 0004920W\n(F5G, MINLEY WOOD, HAMPSHIRE) 375FT AGL/800FT AMSL",
+ "to": "2026-11-18T16:00Z",
+ "type": "N",
+ "upper": ""
+}

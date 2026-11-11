@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5167,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T09:28Z",
+ "from": "2026-11-11T08:29Z",
+ "id": "I7773/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 02/20 is closed at aerodrome EGPK.",
+ "summary_of": "8bd366e19184",
+ "text": "RWY 02/20 CLSD.",
+ "to": "2026-11-12T12:00Z",
+ "type": "R",
+ "upper": ""
+}
