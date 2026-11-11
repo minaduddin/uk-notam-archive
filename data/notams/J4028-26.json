@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5,
+  -0.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T23:24Z",
+ "from": "2026-11-12T00:00Z",
+ "id": "J4028/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDTT",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary danger area EGD196A at London Health Bridge for beyond visual line of sight drone deliveries, up to 450 feet above sea level.",
+ "summary_of": "a1174c7fde1c",
+ "text": "TRIGGER NOTAM - AIP SUP 134/2026 WEF 12 NOV 2026 AT 0000 UNTIL 04 \nFEB 2027 AT 2359. TEMPORARY DANGER AREA LONDON (EGD196A) LONDON \nHEALTH BRIDGE,  BVLOS UAS DELIVERY OPERATIONS, 12 NOVEMBER 2026 - 04 \nFEBRUARY 2027",
+ "to": "2026-11-25T23:59Z",
+ "type": "N",
+ "upper": "450FT AMSL"
+}

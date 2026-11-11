@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4667,
+  -2.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T23:24Z",
+ "from": "2026-11-12T00:00Z",
+ "id": "L7146/26",
+ "loc": [
+  "EGCB"
+ ],
+ "lower": "",
+ "q": "OBTT",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Trigger notice for a crane operating near Manchester Barton Airport, until further notice.",
+ "summary_of": "678c5b1289d9",
+ "text": "TRIGGER NOTAM - AIP SUP 127/26 WEF 12 NOV 2026 AT 0000 UFN. \nMANCHESTER BARTON (EGCB) - CRANE OPERATING IN THE VICINITY OF THE \nAIRPORT",
+ "to": "2026-11-25T23:59Z",
+ "type": "N",
+ "upper": ""
+}
