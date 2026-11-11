@@ -1,0 +1,25 @@
+{
+ "coord": [
+  59.8833,
+  -1.3
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T17:54Z",
+ "from": "2026-11-11T16:40Z",
+ "id": "I7780/26",
+ "loc": [
+  "EGPB"
+ ],
+ "lower": "",
+ "q": "SFXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Flight information officer training at Sumburgh on radio channel 118.255, with air traffic control monitoring at all times.",
+ "summary_of": "878633b85dcb",
+ "text": "FIS OFFICER TRAINING TAKING PLACE ON CH 118.255 CALLSIGN SUMBURGH \nINFORMATION. ATC MONITORING AT ALL TIMES.",
+ "to": "2026-11-11T17:45Z",
+ "type": "N",
+ "upper": ""
+}
