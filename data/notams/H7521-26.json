@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5833,
+  -3.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T21:33Z",
+ "from": "2026-11-12T07:38Z",
+ "id": "H7521/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Notification procedure for multiple paragliders operating within 2 nautical miles of Burnbank, Cumbria, up to 4,100 feet above sea level, between sunrise and sunset.",
+ "summary_of": "0aa8c3e2eea4",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 543445N 0032231W (BURNBANK, CUMBRIA) LOW FLYING \nAREA 17. 2000FT AGL. CTC 07877 169518. 26/12/084/LFBC",
+ "to": "2026-11-12T16:17Z",
+ "type": "N",
+ "upper": "4100FT AMSL"
+}

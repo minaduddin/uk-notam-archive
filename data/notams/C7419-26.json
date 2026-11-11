@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.5667,
+  -0.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T21:33Z",
+ "from": "2026-11-11T20:53Z",
+ "id": "C7419/26",
+ "loc": [
+  "EGNJ"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome traffic zone around Humberside airport is deactivated, 3 nautical miles radius, with the airport closed and air traffic services unavailable.",
+ "summary_of": "3e3c3c665eb4",
+ "text": "HUMBERSIDE ATZ DEACTIVATED, AD CLOSED, ATS NOT AVBL.",
+ "to": "2026-11-11T21:15Z",
+ "type": "R",
+ "upper": ""
+}
