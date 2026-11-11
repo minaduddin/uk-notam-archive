@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3,
+  -0.8
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T13:47Z",
+ "from": "2026-11-13T08:00Z",
+ "id": "E339/26",
+ "loc": [
+  "EGBK"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "0800-1700",
+ "summary": "Aerodrome EGBK closed daily from 0800 to 1700 due to an event.",
+ "summary_of": "4b1e3c44cd03",
+ "text": "AD CLSD DUE EVENT",
+ "to": "2026-11-13T17:00Z",
+ "type": "N",
+ "upper": ""
+}

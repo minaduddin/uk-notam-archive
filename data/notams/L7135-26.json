@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8333,
+  -1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T13:47Z",
+ "from": "2026-11-16T10:00Z",
+ "id": "L7135/26",
+ "loc": [
+  "EGTK"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Oxford radar unavailable at EGTK due to maintenance; procedural service available on 125.090 megahertz.",
+ "summary_of": "bf1ef76455ba",
+ "text": "OXFORD RADAR NOT AVBL DUE MAINT. PROCEDURAL SER AVBL ON OXFORD \nAPCH CH125.090.",
+ "to": "2026-11-16T12:00Z",
+ "type": "N",
+ "upper": ""
+}

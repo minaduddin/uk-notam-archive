@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.2,
+  -6.2833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T13:47Z",
+ "from": "2026-11-13T12:00Z",
+ "id": "H7508/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Underslung load operations within 2 nautical miles of Loch Brittle, Isle of Skye, maximum height 500 ft above ground.",
+ "summary_of": "77783ad82be9",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 571228N 0061716W (LOCH BRITTLE, ISLE OF SKYE) LOW \nFLYING AREA 14. MAX HGT 500FT AGL. ACFT MAY BE RESTRICTED IN ABILITY \nTO MANOEUVRE AND UNABLE TO COMPLY WITH RAC OPS CTC 07557 574508. \n26/11/078/LFC",
+ "to": "2026-11-13T16:00Z",
+ "type": "N",
+ "upper": "3700FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.0333,
+  -5.7
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T13:47Z",
+ "from": "2026-11-16T10:00Z",
+ "id": "H7509/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "1000-1600",
+ "summary": "Underslung load operations within 2 nautical miles of Inverie, Highland, daily from 1000 to 1600, maximum height 500 ft above ground.",
+ "summary_of": "edacd05f0f9c",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 570227N 0054214W (INVERIE, HIGHLAND) LOW FLYING \nAREA 14. MAX HGT 500FT AGL. ACFT MAY BE RESTRICTED IN ABILITY TO \nMANOEUVRE AND UNABLE TO COMPLY WITH RAC OPS. CTC 07557 574508. \n26/11/079/LFC",
+ "to": "2026-11-20T16:00Z",
+ "type": "N",
+ "upper": "3000FT AMSL"
+}

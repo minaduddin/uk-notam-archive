@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.4333,
+  -3.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T13:47Z",
+ "from": "2026-11-11T13:00Z",
+ "id": "B1858/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "AFXX",
+ "radius": 8,
+ "removed": null,
+ "sched": "",
+ "summary": "Transponder mandatory zone in the Scottish terminal area, between 5,500 ft and 19,500 ft, during Cumbernauld primary radar maintenance.",
+ "summary_of": "b981099bb756",
+ "text": "EMERG TRANSPONDER MANDATORY ZONE INSTALLED WI AREA BOUNDED BY:\n5533N 00341W - 5533N 00330W - 5520N 00330W - 5520N 00341W - \n5533N 00341W (SCOTTISH TMA) BTN 5500FT AMSL/FL195 DUE TO CUMBERNAULD \nPRIMARY RADAR MAINT. ALL ACFT OPR WI THIS AREA IN CONTROLLED \nAIRSPACE ARE REQUIRED TO OPR A SVCBL TRANSPONDER.",
+ "to": "2026-11-11T17:00Z",
+ "type": "N",
+ "upper": ""
+}

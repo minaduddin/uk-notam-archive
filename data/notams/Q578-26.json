@@ -1,0 +1,26 @@
+{
+ "coord": [
+  55.0667,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-11T13:47Z",
+ "from": "2026-11-11T12:00Z",
+ "id": "Q578/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "OAXX",
+ "radius": 999,
+ "removed": null,
+ "sched": "",
+ "summary": "Online military and UK aeronautical information publications are offline, with products available on request from the Ministry of Defence.",
+ "summary_of": "fef14053abf4",
+ "text": "MILFLIP AND UKMILAIP ARE OFFLINE. ANY PRODUCTS REQUIRED SHOULD BE\nREQUESTED VIA THE NO 1 AIDU DATA AND OPERATIONS CENTRE MULTI-USER:\nUKSTRATCOM-DI-NCGI-AIDU-UKMILAIS AT MOD.GOV.UK",
+ "to": "2026-11-24T23:59Z",
+ "type": "N",
+ "upper": ""
+}

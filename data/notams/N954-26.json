@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6,
+  -1.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T13:47Z",
+ "from": "2026-11-16T00:00Z",
+ "id": "N954/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 361 ft above ground near Tees Dock, Middlesbrough.",
+ "summary_of": "fe3f191e92cb",
+ "text": "CRANE OPR PSN 543608N 0010938W (TEES DOCK, MIDDLESBOROUGH) UP TO \n361FT AGL/378FT AMSL. FOR INFO CTC 07770 928348. ON EXPIRY OF THIS \nNOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4\nAR-2026-10369/04.",
+ "to": "2026-11-19T23:59Z",
+ "type": "N",
+ "upper": ""
+}

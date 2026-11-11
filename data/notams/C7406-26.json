@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T13:47Z",
+ "from": "2026-11-12T07:30Z",
+ "id": "C7406/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "0730-0815 1000-1045 1230-1315 1500-1545",
+ "summary": "Aerodrome EGHH closed daily at 0730-0815, 1000-1045, 1230-1315 and 1500-1545.",
+ "summary_of": "f46fd4c6ea92",
+ "text": "AD CLSD",
+ "to": "2026-11-12T15:45Z",
+ "type": "N",
+ "upper": ""
+}
