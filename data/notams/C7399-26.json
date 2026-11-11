@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.4333,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T10:30Z",
+ "from": "2026-11-11T09:24Z",
+ "id": "C7399/26",
+ "loc": [
+  "EGHQ"
+ ],
+ "lower": "",
+ "q": "SPLC",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Primary and secondary radar unserviceable for maintenance at EGHQ; only procedural air traffic service is available.",
+ "summary_of": "1edf470f7384",
+ "text": "PRIMARY AND SECONDARY RADAR U/S DUE MAINT. PROCEDURAL SER ONLY.",
+ "to": "2026-11-11T17:00Z",
+ "type": "N",
+ "upper": ""
+}

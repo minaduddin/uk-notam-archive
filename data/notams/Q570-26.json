@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T10:30Z",
+ "from": "2026-11-11T11:05Z",
+ "id": "Q570/26",
+ "loc": [
+  "EGXC"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Type 2A embargo at EGXC: no take-offs, circuits or practice diversions, and straight-in landings only with minimum reverse thrust.",
+ "summary_of": "76b448be0cd8",
+ "text": "TYPE 2A EMBARGO - NO TAKE OFFS, CIRCUITS OR PRACTICE DIVERSIONS. \nSTRAIGHT IN TO LAND ONLY MINIMUM THRUST REVERSE, NO ENGINE GROUND \nRUNS.",
+ "to": "2026-11-11T11:15Z",
+ "type": "N",
+ "upper": ""
+}

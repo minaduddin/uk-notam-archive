@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.45,
+  -3.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T10:30Z",
+ "from": "2026-11-16T08:30Z",
+ "id": "B1856/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SELC",
+ "radius": 80,
+ "removed": null,
+ "sched": "",
+ "summary": "Plymouth Military lower airspace radar services east and west are closed; Swanwick Military provides the crossing service instead.",
+ "summary_of": "c7cf1715d07a",
+ "text": "PLYMOUTH MIL LOWER AIRSPACE RADAR SER EAST AND WEST CLSD. SPECIAL \nUSE AIRSPACE CROSSING SER PROVIDED BY SWANWICK MIL",
+ "to": "2026-11-16T10:30Z",
+ "type": "N",
+ "upper": ""
+}

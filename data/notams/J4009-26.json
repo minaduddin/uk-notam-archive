@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -26.0833
+ ],
+ "est": false,
+ "fir": "EGGX",
+ "first_seen": "2026-11-11T10:30Z",
+ "from": "2026-11-15T17:10Z",
+ "id": "J4009/26",
+ "loc": [
+  "EGGX"
+ ],
+ "lower": "SFC",
+ "q": "RDCS",
+ "radius": 156,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary danger area installed near Shanwick from ground level to unlimited height, due to potential space launch debris.",
+ "summary_of": "2d505858fd11",
+ "text": "TEMPO DANGER AREA (TDA) INSTALLED (EGD195) WI AREA BOUNDED BY\n513600N 0300000W - 521500N 0220300W - 513000N 0220800W - \n505800N 0300000W - 513600N 0300000W (SHANWICK). POTENTIAL DEBRIS AREA\nFROM SPACE LAUNCH ACTIVITY POSING INCREASED RISK TO AVIATION.\nAR-2026-10743/03.",
+ "to": "2026-11-15T18:55Z",
+ "type": "N",
+ "upper": "UNL"
+}
