@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T11:27Z",
+ "from": "2026-11-11T10:45Z",
+ "id": "Q572/26",
+ "loc": [
+  "EGXC"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Type 3 embargo at EGXC: take-offs, landings, circuits, taxiing and engine ground runs not permitted.",
+ "summary_of": "618a37e43345",
+ "text": "TYPE 3 EMBARGO - TAKE OFFS, CIRCUITS, PRACTICE DIVERSIONS, TAXI, \nAPPROACHES, LANDINGS, ENGINE GROUND RUNS NOT PERMITTED.",
+ "to": "2026-11-11T11:05Z",
+ "type": "N",
+ "upper": ""
+}

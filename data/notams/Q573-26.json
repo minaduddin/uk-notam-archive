@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.65,
+  0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T11:27Z",
+ "from": "2026-11-11T10:15Z",
+ "id": "Q573/26",
+ "loc": [
+  "EGYM"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGYM revised hours: 10:00 to 21:00, 10:30 to 22:30 and 14:30 to 15:45; closed on the 14th and 15th.",
+ "summary_of": "9e3c11214bdb",
+ "text": "REVISED AD OPR HOURS:\n11 1000-2100\n12 1030-2230\n13 1430-1545\n14-15 CLOSED",
+ "to": "2026-11-15T23:59Z",
+ "type": "R",
+ "upper": ""
+}

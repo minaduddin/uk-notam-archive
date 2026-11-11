@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6,
+  -1.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T11:27Z",
+ "from": "2026-11-15T00:00Z",
+ "id": "N951/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 493ft above sea level near South Bank, North Yorkshire.",
+ "summary_of": "94359b83ea8f",
+ "text": "CRANE OPR PSN 543554N 0011015W (SOUTH BANK, NORTH YORKSHIRE) UP \nTO 493FT AMSL. FOR INFO CTC 00316 50185250. ON EXPIRY OF THIS NOTAM \nDETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4 AR-2026-10757/01.",
+ "to": "2026-11-18T23:59Z",
+ "type": "N",
+ "upper": ""
+}

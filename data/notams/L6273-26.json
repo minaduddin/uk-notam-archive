@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0833,
+  -0.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T11:27Z",
+ "from": "2026-11-18T10:00Z",
+ "id": "L6273/26",
+ "loc": [
+  "EGTH"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1000-1600",
+ "summary": "Drone activity in an area near Biggleswade, daily 10:00 to 16:00, up to 400ft above ground level.",
+ "summary_of": "23984a1972e1",
+ "text": "UAS OPR WI AREA BOUNDED BY:\n520517N 0002018W - 520517N 0002018W - 520512N 0002002W - \n520510N 0002000W - 520515N 0001938W - 520513N 0001937W - \n520504N 0001951W - 520501N 0001946W - 520503N 0001921W - \n520448N 0001931W - 520450N 0001951W - 520501N 0002004W -\n520503N 0002011W - 520502N 0002022W - 520512N 0002023W - \n520513N 0002017W - 520517N 0002018W (BIGGLESWADE). MAX HGT 400FT \nAGL. FOR INFO 07308 408993 / 07378 967286. AR-2026-9499/01.",
+ "to": "2026-11-19T16:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

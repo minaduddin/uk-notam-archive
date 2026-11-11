@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5,
+  -0.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T11:27Z",
+ "from": "2026-11-12T06:00Z",
+ "id": "A4525/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity within 0.3 nautical miles of Southall, up to 400ft above ground level.",
+ "summary_of": "40b38979a1dc",
+ "text": "UAS OPR WI 0.3NM RADIUS OF 513017N 0002243W (SOUTHALL). MAX HGT\n400FT AGL. FOR INFO 07944 161727 / 01206 696216. AR-2026-10763/01.",
+ "to": "2026-11-12T18:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

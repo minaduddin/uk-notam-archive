@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4667,
+  -2.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T11:27Z",
+ "from": "2026-11-12T07:00Z",
+ "id": "L7131/26",
+ "loc": [
+  "EGCB"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0700-1700",
+ "summary": "Crane up to 178ft above sea level within 0.1 nautical miles of Manchester, daily 07:00 to 17:00.",
+ "summary_of": "86c79b029f29",
+ "text": "CRANE OPR WI 0.1NM RADIUS OF 532823.30N 0022159.80W (MANCHESTER)\nELEVATION 178FT AMSL (HGT 115FT AGL)",
+ "to": "2026-11-18T17:00Z",
+ "type": "N",
+ "upper": ""
+}

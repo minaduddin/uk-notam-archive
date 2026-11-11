@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.9333,
+  0.0
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T11:27Z",
+ "from": "2026-11-11T10:48Z",
+ "id": "J4015/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDXX",
+ "radius": 72,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary danger area EGD789 in the central North Sea, up to 1,300ft, for drone operations beyond visual line of sight.",
+ "summary_of": "c792e6091434",
+ "text": "AIP SUP 080/2026 TEMPORARY DANGER AREA EGD789 (CENTRAL NORTH SEA -\nNORTH) BEYOND VISUAL LINE OF SIGHT OPERATIONS.",
+ "to": "2026-11-11T23:59Z",
+ "type": "R",
+ "upper": "1300FT AMSL"
+}

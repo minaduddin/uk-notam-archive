@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2,
+  -2.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T11:27Z",
+ "from": "2026-11-12T06:00Z",
+ "id": "H7502/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity within 1 nautical mile of Downhead, up to 400ft above ground level.",
+ "summary_of": "2eb6cb4e77e7",
+ "text": "UAS OPR WI 1NM RADIUS OF 511225N 0022532W (DOWNHEAD). MAX HGT\n400FT AGL. FOR INFO 07502 107645. AR-2026-10768/01.",
+ "to": "2026-11-12T18:00Z",
+ "type": "N",
+ "upper": "1300FT AMSL"
+}
