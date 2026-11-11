@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.35,
+  -2.3
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T12:29Z",
+ "from": "2026-11-13T16:30Z",
+ "id": "A4529/26",
+ "loc": [
+  "EGCC"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Searchlight display within 1 nautical mile of Ringway, Manchester.",
+ "summary_of": "c7a8e6f9cfbc",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 532123N 0021731W (RINGWAY,\nMANCHESTER).  FOR INFO 07407 267105/01614 364444. AR-2026-10747/01.",
+ "to": "2026-11-13T17:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

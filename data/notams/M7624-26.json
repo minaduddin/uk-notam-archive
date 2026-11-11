@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9667,
+  0.9167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T12:29Z",
+ "from": "2026-11-12T10:30Z",
+ "id": "M7624/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMXX",
+ "radius": 77,
+ "removed": null,
+ "sched": "",
+ "summary": "Military uncrewed flights beyond visual line of sight are not permitted in temporary reserved area 003, between 19,500 and 24,500 feet, within 77 nautical miles of EGTT.",
+ "summary_of": "cc6e08511658",
+ "text": "IN TRA 003 MIL AUTONOMOUS OPS ARE NOT PERMITTED IN ACCORDANCE \nWITH TRA BEYOND VISUAL LINE OF SIGHT PROCEDURES.",
+ "to": "2026-11-12T18:00Z",
+ "type": "N",
+ "upper": "FL245"
+}

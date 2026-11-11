@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1167,
+  -2.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T12:29Z",
+ "from": "2026-11-17T07:29Z",
+ "id": "H7507/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Large model aircraft flying within 1 nautical mile of Norton Ferris between sunrise and sunset, up to 2,900 feet.",
+ "summary_of": "b864fc49d1f4",
+ "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 510652N 0021702W\n(NORTON FERRIS). FOR INFO 07812 707597. AR-2026-10772/01.",
+ "to": "2027-02-13T17:21Z",
+ "type": "N",
+ "upper": "2900FT AMSL"
+}

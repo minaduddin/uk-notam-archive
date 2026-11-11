@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9667,
+  0.9167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T12:29Z",
+ "from": "2026-11-12T18:00Z",
+ "id": "M7625/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 77,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary reserved area 003 is active near EGTT, where military uncrewed flights beyond visual line of sight are not permitted between 19,500 and 24,500 feet.",
+ "summary_of": "213e9fad32e8",
+ "text": "TRA 003 ACTIVATED\nMIL AUTONOMOUS OPS ARE NOT PERMITTED IN ACCORDANCE WITH TRA BEYOND \nVISUAL LINE OF SIGHT PROCEDURES.",
+ "to": "2026-11-12T21:00Z",
+ "type": "N",
+ "upper": "FL245"
+}

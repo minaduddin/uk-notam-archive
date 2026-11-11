@@ -1,0 +1,26 @@
+{
+ "coord": [
+  55.1167,
+  -5.3833
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-11T12:29Z",
+ "from": "2026-11-12T06:00Z",
+ "id": "M7610/26",
+ "loc": [
+  "EGPX",
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 12,
+ "removed": null,
+ "sched": "",
+ "summary": "Campbeltown danger area EGD509 activated, from ground level up to 22,000 feet.",
+ "summary_of": "cba33186537d",
+ "text": "DANGER AREA EGD509 CAMPBELTOWN ACTIVATED",
+ "to": "2026-11-12T23:59Z",
+ "type": "N",
+ "upper": "22000FT AMSL"
+}

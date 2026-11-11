@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T12:29Z",
+ "from": "2026-11-11T11:24Z",
+ "id": "I7776/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Standard departure route 26 closed at EGPH.",
+ "summary_of": "f8dcca55a304",
+ "text": "STD 26 CLSD",
+ "to": "2027-02-11T12:00Z",
+ "type": "N",
+ "upper": ""
+}

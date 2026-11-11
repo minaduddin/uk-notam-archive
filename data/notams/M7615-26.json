@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5833,
+  1.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T12:29Z",
+ "from": "2026-11-12T08:00Z",
+ "id": "M7615/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 9,
+ "removed": null,
+ "sched": "",
+ "summary": "Shoeburyness danger areas EGD138C and D activated from 8am to 6pm, up to 6,000 feet for C and 9,000 feet for D.",
+ "summary_of": "38ed2d4094b9",
+ "text": "THE FOLLOWING SHOEBURYNESS DANGER AREAS ARE ACTIVATED:\nEGD138C 0800-1800 SFC-6000FT AMSL\nEGD138D 0800-1800 SFC-9000FT AMSL",
+ "to": "2026-11-12T18:00Z",
+ "type": "N",
+ "upper": "9000FT AMSL"
+}

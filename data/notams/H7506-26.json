@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.1167,
+  -6.85
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T12:29Z",
+ "from": "2026-11-18T09:00Z",
+ "id": "H7506/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 4,
+ "removed": null,
+ "sched": "",
+ "summary": "Civil aircraft underslung load operations within 3 nautical miles of Kinlochroag, Isle of Lewis, up to 500 feet above ground.",
+ "summary_of": "eca0ae5e0fe2",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n3NM RADIUS OF PSN 580650N 0065034W (KINLOCHROAG, ISLE OF LEWIS) LOW \nFLYING AREA 14. MAX HGT 500FT AGL. ACFT MAY BE RESTRICTED IN ABILITY \nTO MANOEUVRE AND UNABLE TO COMPLY WITH RAC OPS. CTC 07776 462424. \n26/11/077/LFC",
+ "to": "2026-11-18T12:00Z",
+ "type": "N",
+ "upper": "1700FT AMSL"
+}

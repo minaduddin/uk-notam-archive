@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.95,
+  0.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T12:29Z",
+ "from": "2026-11-11T11:04Z",
+ "id": "C7402/26",
+ "loc": [
+  "EGMD"
+ ],
+ "lower": "",
+ "q": "LAAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Half of the approach lights for runway 21 at EGMD are out of service.",
+ "summary_of": "5f968a7a5003",
+ "text": "RWY 21 APCH LIGHTS 50 PERCENT U/S",
+ "to": "2026-11-20T19:00Z",
+ "type": "N",
+ "upper": ""
+}

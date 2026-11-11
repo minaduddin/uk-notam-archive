@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.5833,
+  -2.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T12:29Z",
+ "from": "2026-11-14T12:00Z",
+ "id": "H7504/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Swarm of 150 unmanned aircraft within 0.1 nautical miles of Aspull, up to 400 feet above ground.",
+ "summary_of": "c6fb216d3be4",
+ "text": "UAS SWARM OPR WI 0.1NM RADIUS OF 533437N 0023120W (ASPULL). SWARM\nMADE UP OF 150 UAS. MAX HGT 400FT AGL. FOR INFO 07481 557474.\nAR-2026-10754/01.",
+ "to": "2026-11-14T22:00Z",
+ "type": "N",
+ "upper": "900FT AMSL"
+}

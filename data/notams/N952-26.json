@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.0833,
+  -3.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T12:29Z",
+ "from": "2026-11-12T08:00Z",
+ "id": "N952/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "An aviation obstacle light is out of service within 2 nautical miles of the Ormonde Offshore Wind Farm, where the obstacle is 600 feet high.",
+ "summary_of": "3ad0179591c4",
+ "text": "REPORT OF AIR NAV OBST LGT U/S WI 2NM RADIUS OF 540529N 0032618W\n(ORMONDE OFFSHORE WIND FARM). HGT 600FT AGL/600FT AMSL. FOR INFO \n01229 311120/01229 311120. AR-2026-10775/01.",
+ "to": "2026-11-13T18:00Z",
+ "type": "N",
+ "upper": ""
+}
