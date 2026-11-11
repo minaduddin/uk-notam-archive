@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.35,
+  -0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T18:54Z",
+ "from": "2026-11-11T17:05Z",
+ "id": "L7142/26",
+ "loc": [
+  "EGTF"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Alpha is blocked at hold point A4 at EGTF.",
+ "summary_of": "3ca864f692f8",
+ "text": "TAXIWAY ALPHA BLOCKED AT HOLD POINT A4",
+ "to": "2026-11-12T10:00Z",
+ "type": "N",
+ "upper": ""
+}

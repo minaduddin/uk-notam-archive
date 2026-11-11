@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T18:54Z",
+ "from": "2026-11-17T19:00Z",
+ "id": "I7781/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome exercise at EGPH with pilots on taxiway Alpha and multiple emergency vehicles on the manoeuvring area.",
+ "summary_of": "f9a06ef4b45b",
+ "text": "AD EXER. PILOTS TO EXER CTN ON TWY ALPHA. MULTIPLE EMERG VEHICLES \nOPR ON THE MANOEUVRING AREA.",
+ "to": "2026-11-17T23:00Z",
+ "type": "N",
+ "upper": ""
+}
