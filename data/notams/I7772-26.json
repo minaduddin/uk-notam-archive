@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2,
+  -6.35
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-11T08:32Z",
+ "from": "2026-11-11T07:40Z",
+ "id": "I7772/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane operating south-west of Stornoway Airport, maximum height 130 ft above sea level, or 66 ft above ground.",
+ "summary_of": "03248c81257d",
+ "text": "CRANE OPR APRX PSN 581214N 0062032W (SW OF STORNOWAY ARP). MAX \nHGT 130FT AMSL, 66FT AGL.",
+ "to": "2026-11-11T17:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6,
+  -3.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T08:32Z",
+ "from": "2026-11-11T07:56Z",
+ "id": "H7497/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Multiple paragliders operating within 2 nautical miles of Threlkeld, Cumbria, up to 2,000 ft above ground level during daylight.",
+ "summary_of": "3238047b7c6c",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 543555N 0030230W (THRELKELD, CUMBERLAND). LOW \nFLYING AREA 17. 2000FT AGL. CTC 07503 148118. 26/11/074/LFC",
+ "to": "2026-11-11T16:17Z",
+ "type": "N",
+ "upper": "4800FT AMSL"
+}

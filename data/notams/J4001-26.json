@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5333,
+  -1.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-11T08:32Z",
+ "from": "2026-11-12T07:40Z",
+ "id": "J4001/26",
+ "loc": [
+  "EGNV"
+ ],
+ "lower": "SFC",
+ "q": "RMCA",
+ "radius": 7,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary reserved airspace EGTR495 and transponder mandatory zone at EGNV, from surface to 700 ft above sea level.",
+ "summary_of": "1192e1adfc70",
+ "text": "TEMPO RESERVED AREA EGTR495 AND ASSOCIATED TEMPO TRANSPONDER\nMANDATORY ZONE ACT. AIP SUP 059/2026 REFERS. SPECIAL USE AIRSPACE \nCROSSING SERVICE VIA TEESSIDE RADAR CH118.855. SPECIAL USE AIRSPACE \nACTIVITY INFO SERVICE VIA LONDON INFO 125.475MHZ. \nFOR INFO CTC 01325 331020",
+ "to": "2026-11-12T15:59Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}
