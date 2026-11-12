@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.1333,
+  0.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T02:50Z",
+ "from": "2026-11-19T01:00Z",
+ "id": "B1850/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "CAAS",
+ "radius": 128,
+ "removed": null,
+ "sched": "",
+ "summary": "London Flight Information Service East frequency 124.600 MHz is unavailable for maintenance, so pilots may have communication difficulties.",
+ "summary_of": "0b85d2cf2b4b",
+ "text": "LONDON FIS EAST FREQ 124.600MHZ (AREA J) NOT AVBL DUE MAINT. \nPILOTS ARE ADVISED OF POSS COM DIFFICULTIES AND SHOULD CONSIDER AN \nALTN SERVICE IF REQUIRED",
+ "to": "2026-11-19T02:00Z",
+ "type": "N",
+ "upper": ""
+}
