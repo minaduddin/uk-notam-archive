@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T20:24Z",
+ "from": "2026-11-12T19:38Z",
+ "id": "I7813/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Two steel plates lie south of runway 07 at aerodrome EGAA.",
+ "summary_of": "c9b8bc235c16",
+ "text": "TWO STEEL PLATES S OF RWY 07 BRAVO STOP BAR.",
+ "to": "2027-01-11T23:59Z",
+ "type": "N",
+ "upper": ""
+}
