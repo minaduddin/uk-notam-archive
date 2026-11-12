@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.75,
+  -0.9667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T18:23Z",
+ "from": "2026-11-17T12:32Z",
+ "id": "H7569/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WALW",
+ "radius": 12,
+ "removed": null,
+ "sched": "",
+ "summary": "Military flypast by two aircraft within 5 nautical miles of a route ending at Hayling Island, up to 6,000 feet.",
+ "summary_of": "c39a88bb36e3",
+ "text": "FLYPAST BY 2 X MIL ACFT WI 5NM OF 504130N 0005000W TO \n504856N 0010542W (HAYLING ISLAND).  FOR INFO 01526 346630 / 01526 \n347716. AR-2026-10817/01.",
+ "to": "2026-11-17T13:32Z",
+ "type": "N",
+ "upper": "FL060"
+}

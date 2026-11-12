@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.2833,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T18:23Z",
+ "from": "2026-11-13T09:00Z",
+ "id": "L7174/26",
+ "loc": [
+  "EGNE"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Hold point Bravo closed at EGNE.",
+ "summary_of": "0e44941d8097",
+ "text": "HOLD POINT BRAVO CLSD.",
+ "to": "2026-11-13T10:00Z",
+ "type": "N",
+ "upper": ""
+}

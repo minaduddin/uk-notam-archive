@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.7167,
+  -3.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T18:23Z",
+ "from": "2026-11-13T07:40Z",
+ "id": "H7570/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Multiple paragliders within 2 nautical miles of Bewaldeth, Cumbria, up to 3,600 feet, daily from sunrise to sunset.",
+ "summary_of": "207d3ef4ab3c",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 544253N 0031335W (BEWALDETH, CUMBRIA) LOW \nFLYING AREA 17 2000FT AGL. CTC 0783 0281986. 26/11//LFC",
+ "to": "2026-11-13T16:14Z",
+ "type": "N",
+ "upper": "3600FT AMSL"
+}

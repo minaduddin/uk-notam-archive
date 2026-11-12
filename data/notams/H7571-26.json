@@ -1,0 +1,26 @@
+{
+ "coord": [
+  55.0667,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-12T18:23Z",
+ "from": "2026-11-13T06:00Z",
+ "id": "H7571/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WYLW",
+ "radius": 999,
+ "removed": null,
+ "sched": "",
+ "summary": "Pipeline inspection flights in numbered low flying areas at EGTT and EGPX, maximum height 2,000 feet above ground level.",
+ "summary_of": "e4dc480a394e",
+ "text": "PIPELINE INSPECTION NOTIFICATION PROCEDURE SYSTEM (PINS) WILL \nTAKE PLACE IN THE FOLLOWING LOW FLYING AREAS - 1, 2, 3, 4, 5, 6, 7N, \n7S, 8, 9, 10, 11N, 11S, 12, 18, 19, THAMES VALLEY AVOIDANCE AREA MAX \nHEIGHT 2000FT AGL. 26/11/097/LFC",
+ "to": "2026-11-13T16:00Z",
+ "type": "N",
+ "upper": "6500FT AMSL"
+}

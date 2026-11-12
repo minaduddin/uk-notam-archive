@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T18:23Z",
+ "from": "2026-11-12T23:00Z",
+ "id": "A4560/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Juliet closed between taxiway November and stand 20 at EGKK.",
+ "summary_of": "f10ef5cb8f41",
+ "text": "TWY JULIET CLSD BTWN TWY NOVEMBER AND STND 20",
+ "to": "2026-11-13T05:00Z",
+ "type": "N",
+ "upper": ""
+}

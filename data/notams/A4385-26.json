@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T18:23Z",
+ "from": "2026-11-19T17:00Z",
+ "id": "A4385/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "19 1700-2359, 23 1700-2000",
+ "summary": "Searchlight display within 1 nautical mile of GTECH Stadium, Brentford, from the surface upwards.",
+ "summary_of": "8850eb85b4c0",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 512927N 0001720W (GTECH \nSTADIUM, BRENTFORD). FOR INFO 07465 440235. AR-2026-10259/01.",
+ "to": "2026-11-23T20:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

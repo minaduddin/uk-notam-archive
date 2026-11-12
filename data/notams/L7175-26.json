@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.2833,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T18:23Z",
+ "from": "2026-11-18T09:00Z",
+ "id": "L7175/26",
+ "loc": [
+  "EGNE"
+ ],
+ "lower": "",
+ "q": "MRLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "0900-1600",
+ "summary": "Between 0900 and 1600, runway 02/20 at EGNE closed except to aircraft with written authority from the aerodrome manager; unmanned aircraft permitted in closed area.",
+ "summary_of": "f0db900d21d1",
+ "text": "RWY 02/20 NOT AVBL FOR ACFT OTHER THAN THOSE WITH SPECIFIC \nWRITTEN AUTHORISATION FROM THE AD MANAGER. UNLICENSED RWY 14/32 \nAVBL. UAS MAY BE USED IN CLSD AREA. MORE INFO ON +44 01777 838521",
+ "to": "2026-11-19T16:00Z",
+ "type": "N",
+ "upper": ""
+}

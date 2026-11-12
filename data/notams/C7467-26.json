@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.0167,
+  -4.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T18:23Z",
+ "from": "2026-11-12T18:00Z",
+ "id": "C7467/26",
+ "loc": [
+  "EGNS"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 21,
+ "removed": null,
+ "sched": "",
+ "summary": "Isle of Man surveillance-based air traffic service unavailable due to staffing; procedural service only.",
+ "summary_of": "1f3c8564d9e1",
+ "text": "ISLE OF MAN SURVEILLANCE BASED SER NOT AVBL DUE ATC STAFFING.\nPROCEDURAL SER ONLY.",
+ "to": "2026-11-12T20:45Z",
+ "type": "N",
+ "upper": ""
+}

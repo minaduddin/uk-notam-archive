@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.2833,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T18:23Z",
+ "from": "2026-11-16T10:00Z",
+ "id": "L7177/26",
+ "loc": [
+  "EGNE"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "MON 1000-1600, TUE-THU 0900-1600, FRI 0900-1400",
+ "summary": "Unlicensed taxiway D at EGNE closed for automotive testing during set weekday hours; unmanned aircraft permitted in closed area.",
+ "summary_of": "ba3cb6f327d1",
+ "text": "UNLICENCED TWY D CLSD FOR AUTOMOTIVE TESTING. UAS MAY BE USED IN\nCLSD AREA. MORE INFO ON +44 1777 838521.",
+ "to": "2026-11-20T14:00Z",
+ "type": "N",
+ "upper": ""
+}

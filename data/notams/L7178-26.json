@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.2833,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T18:23Z",
+ "from": "2026-11-15T09:00Z",
+ "id": "L7178/26",
+ "loc": [
+  "EGNE"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "SUN 0900-1800, MON-WED 0800-1800",
+ "summary": "Aerodrome EGNE closed to visiting aircraft on Sunday 0900 to 1800 and Monday to Wednesday 0800 to 1800.",
+ "summary_of": "762b7167d9ad",
+ "text": "AD CLSD TO VISITING ACFT.",
+ "to": "2026-11-18T18:00Z",
+ "type": "N",
+ "upper": ""
+}
