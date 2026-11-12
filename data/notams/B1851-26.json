@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.35,
+  -0.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T03:53Z",
+ "from": "2026-11-19T02:00Z",
+ "id": "B1851/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "CAAS",
+ "radius": 193,
+ "removed": null,
+ "sched": "",
+ "summary": "London Flight Information Service frequency 125.475 MHz for Area I is unavailable due to maintenance, so pilots may face communication difficulties.",
+ "summary_of": "0bff6231aae2",
+ "text": "LONDON FIS FREQ 125.475MHZ (AREA I) NOT AVBL DUE MAINT. PILOTS \nARE ADVISED OF POSS COM DIFFICULTIES AND SHOULD CONSIDER AN ALTN \nSERVICE IF REQUIRED",
+ "to": "2026-11-19T03:00Z",
+ "type": "N",
+ "upper": ""
+}
