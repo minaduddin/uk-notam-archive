@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4167,
+  -2.4
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:00Z",
+ "from": "2026-11-19T09:00Z",
+ "id": "H6240/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0900-2300",
+ "summary": "Drone swarm of 700 unmanned aircraft operating within one kilometre-radius of Bath Racecourse, up to 400 feet above ground.",
+ "summary_of": "67cd197efa00",
+ "text": "UAS SWARM OPR WI 0.3NM RADIUS OF 512504N 0022428W \n(VISUAL REFERENCE POINT BATH RACECOURSE). SWARM MADE UP OF 700 UAS. \nMAX HGT 400FT AGL. FOR INFO 07738612566. AR-2026-7919/01.",
+ "to": "2026-11-26T23:00Z",
+ "type": "N",
+ "upper": "1200FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.0,
+  -5.7833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T11:00Z",
+ "from": "2026-11-17T09:00Z",
+ "id": "H7527/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Underslung load operations within two nautical miles of Mallaig Mor, Highland, up to 500 feet above ground.",
+ "summary_of": "47439fb792c2",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 565952N 0054655W (MALLAIG MOR, HIGHLAND) LOW \nFLYING AREA 14. MAX HGT 500FT AGL. ACFT MAY BE RESTRICTED IN ABILITY \nTO MANOEUVRE AND UNABLE TO COMPLY WITH RAC OPS CTC 07776 462424. \n26/11/088/LFC",
+ "to": "2026-11-17T13:00Z",
+ "type": "N",
+ "upper": "2200FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5167,
+  -1.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:00Z",
+ "from": "2026-11-12T09:38Z",
+ "id": "C7432/26",
+ "loc": [
+  "EGNV"
+ ],
+ "lower": "",
+ "q": "FMLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Wind speed sensor for runway 23 touchdown zone out of service at EGNV.",
+ "summary_of": "a128b4203e4a",
+ "text": "RWY 23 TDZ ANEMOMETER U/S",
+ "to": "2026-11-27T16:00Z",
+ "type": "R",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3667,
+  -2.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:00Z",
+ "from": "2026-11-13T08:00Z",
+ "id": "C7433/26",
+ "loc": [
+  "EGGD"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 21,
+ "removed": null,
+ "sched": "",
+ "summary": "Bristol radar out of service, with radar service only available to aircraft with working transponders.",
+ "summary_of": "d862d69b2cff",
+ "text": "BRISTOL PSR OUT OF SER. RADAR SER AVBL TO TRANSPONDING ACFT ONLY",
+ "to": "2026-11-13T16:00Z",
+ "type": "N",
+ "upper": ""
+}

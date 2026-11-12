@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.4667,
+  -3.1
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T11:00Z",
+ "from": "2026-11-19T09:00Z",
+ "id": "I7659/26",
+ "loc": [
+  "EGPC"
+ ],
+ "lower": "",
+ "q": "NVAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Part of the Wick navigation beacon out of service, affecting its 113.60 MHz channel within 25 nautical miles.",
+ "summary_of": "d303ccbd10a0",
+ "text": "VOR/DME WIK/WICK 113.60MHZ CH083X VOR PART U/S",
+ "to": "2026-11-19T15:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.85,
+  -0.9667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:00Z",
+ "from": "2026-11-19T09:00Z",
+ "id": "H7403/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0900-2000",
+ "summary": "Drone swarm of 500 unmanned aircraft operating near former Westcott aerodrome, up to 400 feet above ground.",
+ "summary_of": "00dc1f237c1e",
+ "text": "UAS SWARM OPR WI 0.15NM RADIUS OF 515046N 0005805W (WESTCOTT\nABANDONED AD). SWARM MADE UP OF 500 UAS. MAX HGT 400FT AGL. FOR\nINFO 00 33 670 633071 / 07917 031833. AR-2026-10222/01.",
+ "to": "2026-11-20T20:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.7667,
+  -2.7
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:00Z",
+ "from": "2026-11-16T09:00Z",
+ "id": "J4038/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RTCS",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary drone-only restriction within one and a half nautical miles of Preston, Lancashire, up to 1,200 feet.",
+ "summary_of": "5508c9ac62c0",
+ "text": "RESTRICTED AREA (TEMPORARY) INSTALLED FOR UAS ONLY (PRESTON,\nLANCASHIRE). WI 1.5NM RADIUS OF 534532N 0024157W DOES NOT APPLY TO \nANY UAS FLYING IN ACCORDANCE WITH EXCEPTIONS STATED IN THE BRIEFING\nSHEET. BFS 138/2026 REFERS. FURTHER DETAILS WWW.NATS.AERO/AIS.\nRESTRICTION OF FLYING REGULATIONS MADE UNDER ARTICLE 239 OF AIR\nNAV ORDER 2016. AR-2026-10314/01.",
+ "to": "2026-11-16T12:00Z",
+ "type": "N",
+ "upper": "1200FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.85,
+  0.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:00Z",
+ "from": "2026-11-18T09:00Z",
+ "id": "H7528/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WPLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "0900-2300",
+ "summary": "Dropping of articles within five nautical miles of former Sculthorpe aerodrome, up to 3,500 feet above sea level.",
+ "summary_of": "f27b533856f6",
+ "text": "DROPPING OF ARTICLES WI 5NM RADIUS OF 525053N 0004545E \n(SCULTHORPE ABANDONED AD). FOR INFO 01638 545012 / 01638 545013. \nAR-2026-10730/01.",
+ "to": "2026-11-19T23:00Z",
+ "type": "N",
+ "upper": "3500FT AMSL"
+}

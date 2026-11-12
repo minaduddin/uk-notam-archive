@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.4333,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:00Z",
+ "from": "2026-11-12T09:15Z",
+ "id": "C7431/26",
+ "loc": [
+  "EGHQ"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 3,
+ "removed": null,
+ "sched": "12 0915-1700, 13 0900-1200",
+ "summary": "Newquay radar out of service for maintenance, with procedural air traffic service only.",
+ "summary_of": "9b9c65d31437",
+ "text": "NEWQUAY PSR AND SSR U/S DUE MAINT. PROCEDURAL SERVICE ONLY.",
+ "to": "2026-11-13T12:00Z",
+ "type": "N",
+ "upper": ""
+}

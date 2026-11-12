@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6,
+  -3.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:00Z",
+ "from": "2026-11-13T07:00Z",
+ "id": "H7526/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders operating within two nautical miles of Clough Head, Cumbria, up to 2,000 feet above ground.",
+ "summary_of": "c8c2f75611fc",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 543555N 0030230W (CLOUGH HEAD, CUMBRIA) LOW \nFLYING AREA 17. 2000FT AGL. CTC 07495 415542. 26/11/087/LFC",
+ "to": "2026-11-13T16:30Z",
+ "type": "N",
+ "upper": "5000FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.0,
+  0.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:00Z",
+ "from": "2026-11-14T17:00Z",
+ "id": "H7530/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within one nautical mile of Romney Marsh, with no upper height limit.",
+ "summary_of": "27969a850421",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 510025N 0005122E (ROMNEY MARSH).\nFOR INFO 020 3422 0777. AR-2026-10798/01.",
+ "to": "2026-11-14T20:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

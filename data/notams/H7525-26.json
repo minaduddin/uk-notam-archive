@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.3167,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T11:00Z",
+ "from": "2026-11-12T09:11Z",
+ "id": "H7525/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0804-1650",
+ "summary": "Flare firing within one nautical mile of Dalchruin, from surface to 4,600 feet above sea level.",
+ "summary_of": "1f8eb3421844",
+ "text": "FLARE FIRING WI 1NM RADIUS OF 561837N 0040320W (DALCHRUIN). FOR \nINFO 07900 565814. AR-2026-10703/01.",
+ "to": "2026-11-14T16:50Z",
+ "type": "N",
+ "upper": "4600FT AMSL"
+}
