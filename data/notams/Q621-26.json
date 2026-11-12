@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T22:20Z",
+ "from": "2026-11-12T21:07Z",
+ "id": "Q621/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Airfield EGUN closed within 5 nautical miles; flights during the closure need prior approval from a group commander.",
+ "summary_of": "66941ea9a1e1",
+ "text": "AD CLSD. FLT DURING CLOSURE PERIOD MUST BE PRIOR APPROVED ACFT, \nHAVE OPR NECESSITY OR BE HIGHER HEADQUARTERS DIRECTED MISSION AND \nMUST BE APPROVED BY 100 OPR GROUP COMMANDER. CTC COMMAND POST AT \n238-2121 DURING CLOSURE FOR APPROVAL/PPR REQ. CTC AIRFIELD \nMANAGEMENT AT 238-4130 PRIOR TO CLOSURE DATE FOR APPROVAL/PPR REQ.",
+ "to": "2026-11-13T05:30Z",
+ "type": "R",
+ "upper": ""
+}
