@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T01:52Z",
+ "from": "2026-11-12T00:42Z",
+ "id": "I7790/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "LYAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Lima and edge lights unserviceable at EGAA, including westbound edge lights to stand 6F and lead-on lights to stands 21 and 22.",
+ "summary_of": "f3851581dfc0",
+ "text": "TWY LIMA AND EDGE LIGHTS WESTBOUND TO STAND 6F ALTERNATE LIGHTS\nU/S. LEAD ON LIGHTS FROM TWY LIMA TO STAND 21 AND 22 U/S",
+ "to": "2026-11-19T23:59Z",
+ "type": "N",
+ "upper": ""
+}

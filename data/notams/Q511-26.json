@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T01:52Z",
+ "from": "2026-11-19T00:00Z",
+ "id": "Q511/26",
+ "loc": [
+  "EGXC"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "No diversion commitments at EGXC unless previously accepted, due to staffing constraints.",
+ "summary_of": "3550c6131bdb",
+ "text": "NO DIVERSION COMMITMENTS UNLESS PREVIOUSLY ACCEPTED DUE STAFFING  \nCONSTRAINTS.",
+ "to": "2026-11-19T23:59Z",
+ "type": "N",
+ "upper": ""
+}
