@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4833,
+  -2.8667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T15:27Z",
+ "from": "2026-11-12T15:00Z",
+ "id": "N960/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unlit mast reported at Woolston, up to 68 ft above ground level and 700 ft above sea level.",
+ "summary_of": "00fb28896744",
+ "text": "REPORT OF MAST (UNLIT) AT PSN 522847N 0025216W (WOOLSTON). MAX \nHGT 68FT AGL/700FT AMSL. ON EXPIRY OF THIS NOTAM DETAILS WILL BE \nINCLUDED IN THE UK AIP ENR 5.4. AR-2026-10831/01.",
+ "to": "2026-12-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

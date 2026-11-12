@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T15:27Z",
+ "from": "2026-11-16T08:00Z",
+ "id": "Q611/26",
+ "loc": [
+  "EGXC"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "EGXC aerodrome hours: Monday 0930–1930, Tuesday–Thursday 1030–2030, Friday 0915–1330; aircraft may operate outside these hours by prior agreement.",
+ "summary_of": "5ee2da7101ba",
+ "text": "AD OPR HR:\nMON     0930-1930\nTUE-THU 1030-2030\nFRI     0915-1330\nACFT MAY OPR OUTSIDE THE PUBLISHED TIMING BY PRIOR AGREEMENT.",
+ "to": "2026-11-20T17:00Z",
+ "type": "N",
+ "upper": ""
+}

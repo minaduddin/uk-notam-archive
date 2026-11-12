@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.4,
+  -2.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T15:27Z",
+ "from": "2026-11-16T07:54Z",
+ "id": "H7559/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone activity within 2 nautical miles of a point 1.1 nautical miles south-south-east of Methlick, up to 400 ft above ground.",
+ "summary_of": "3345d8ff66bd",
+ "text": "UAS OPR WI 2NM RADIUS OF 572421N 0021305W (1.1NM SSE OF \nMETHLICK). MAX HGT 400FT AGL. FOR INFO 07990 850163. \nAR-2026-10839/01.",
+ "to": "2026-11-16T15:52Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}
