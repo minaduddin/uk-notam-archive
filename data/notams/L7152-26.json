@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8333,
+  -1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T07:14Z",
+ "from": "2026-11-12T06:51Z",
+ "id": "L7152/26",
+ "loc": [
+  "EGTK"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Radar unserviceable at Oxford; procedural air traffic service available to departures and arrivals on 125.090 MHz.",
+ "summary_of": "6c5b994d37c7",
+ "text": "OXFORD PSR AND SSR U/S. PROCEDURAL SER AVBL TO OXFORD DEPARTURES \nAND ARRIVALS ON CH125.090. EXTERNAL TRAINING NOT AVBL. FREQ \nMONITORING CODE NOT AVBL.",
+ "to": "2026-11-12T22:30Z",
+ "type": "N",
+ "upper": ""
+}
