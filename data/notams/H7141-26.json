@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.4333,
+  -0.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T09:58Z",
+ "from": "2026-11-19T08:30Z",
+ "id": "H7141/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WELW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Military aircraft high-energy manoeuvres within 5 nautical miles of Street, ground level to 5,000 ft above sea level.",
+ "summary_of": "68c0aae712c4",
+ "text": "AIR EXER. 1 MIL ACFT WILL CONDUCT HIGH ENERGY MANOEUVRES IN \nSUPPORT OF GROUND OPS WI 5NM RADIUS OF 542625N 0005101W (STREET). \nACFT MAY OPERATE AT SPEEDS OF UP TO 450 KNOTS IAS AND MAY BE UNABLE \nTO COMPLY WITH RAC. FOR FURTHER INFO AIC Y 007/2023 REFERS. FOR INFO \n07517 258611. AR-2026-10180/01.",
+ "to": "2026-11-19T16:30Z",
+ "type": "N",
+ "upper": "5000FT AMSL"
+}

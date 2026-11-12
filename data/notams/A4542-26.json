@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.6667,
+  1.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T09:58Z",
+ "from": "2026-11-12T08:20Z",
+ "id": "A4542/26",
+ "loc": [
+  "EGSH"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crane up to 48 ft high near Drayton.",
+ "summary_of": "3934ac8c2374",
+ "text": "MOBILE CRANE OPR PSN 524021N 0011359E (DRAYTON) MAX HGT 48FT AGL, \n149FT AMSL",
+ "to": "2026-11-12T13:00Z",
+ "type": "N",
+ "upper": ""
+}

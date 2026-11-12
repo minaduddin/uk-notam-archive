@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8667,
+  -0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T09:58Z",
+ "from": "2026-11-19T08:00Z",
+ "id": "A4513/26",
+ "loc": [
+  "EGGW"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 45 ft high near Luton Aerodrome.",
+ "summary_of": "5cfd566243aa",
+ "text": "CRANE OPR PSN 515221N 0002208W (LUTON AD). MAX HGT 45FT AGL, \n577FT AMSL",
+ "to": "2026-11-19T18:00Z",
+ "type": "N",
+ "upper": ""
+}

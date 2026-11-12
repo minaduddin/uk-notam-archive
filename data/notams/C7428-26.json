@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3833,
+  -2.7167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T09:58Z",
+ "from": "2026-11-12T08:25Z",
+ "id": "C7428/26",
+ "loc": [
+  "EGGD"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Lightbox on taxiway Foxtrot at the entry to runway 09/27 is out of service at EGGD.",
+ "summary_of": "711ec9db44fd",
+ "text": "TWY FOXTROT LIGHTBOX ON LEFT SIDE AT ENTRY TO RWY 09/27 U/S",
+ "to": "2026-11-13T06:00Z",
+ "type": "N",
+ "upper": ""
+}
