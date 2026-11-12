@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.3833,
+  -2.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T16:34Z",
+ "from": "2026-11-13T07:35Z",
+ "id": "H7564/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Multiple paragliders operating within 2 nautical miles of Whitestones, Sedbergh, Cumbria, up to 2,000 feet above ground level, between sunrise and sunset.",
+ "summary_of": "37c904a116de",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 542247N 0023348W (WHITESTONES, SEDBERGH, \nCUMBRIA).  LOW FLYING AREA 17. 2000FT AGL. CTC 07514 746197. \n26/11/094/LFC",
+ "to": "2026-11-13T16:13Z",
+ "type": "N",
+ "upper": "4300FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  -1.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T16:34Z",
+ "from": "2026-11-19T15:00Z",
+ "id": "H6502/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1500-0100",
+ "summary": "Searchlight display within 1 nautical mile of Brinklow, Warwickshire, from 1500 to 0100.",
+ "summary_of": "48cdc082d14c",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 522452N 0012434W (BRINKLOW,\nWARWICKSHIRE).  FOR INFO 07593 448935. AR-2026-9228/01.",
+ "to": "2027-01-06T01:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

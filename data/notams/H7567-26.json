@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.35,
+  -2.2
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T16:34Z",
+ "from": "2026-11-19T07:30Z",
+ "id": "H7567/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "19 26 0730-2330",
+ "summary": "Drone operations beyond visual line of sight near Linshiels, up to 400 feet above ground level.",
+ "summary_of": "053941823642",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 1NM RADIUS OF \n552103N 0021215W (1.2NM WEST OF LINSHIELS). MAX HGT 400FT AGL. FOR \nINFO 07584 433902. AR-2026-10842/03.",
+ "to": "2026-11-26T23:30Z",
+ "type": "N",
+ "upper": "1700FT AMSL"
+}
