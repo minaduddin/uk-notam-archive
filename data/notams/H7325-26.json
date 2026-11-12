@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.65,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T23:16Z",
+ "from": "2026-11-19T22:00Z",
+ "id": "H7325/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Flare firing within 0.3 nautical miles of Lympstone, from ground level up to 2,500 feet.",
+ "summary_of": "bcf61cd214fb",
+ "text": "FLARE FIRING WI 0.3NM RADIUS OF 503922N 0032139W (LYMPSTONE). \nFLARES WILL DESCEND BY PARACHUTE. FOR INFO 01395 272972 / \n07811 723106. AR-2026-10392/01.",
+ "to": "2026-11-19T23:59Z",
+ "type": "N",
+ "upper": "2500FT AMSL"
+}
