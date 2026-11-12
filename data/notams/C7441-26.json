@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.95,
+  -1.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:56Z",
+ "from": "2026-11-13T09:00Z",
+ "id": "C7441/26",
+ "loc": [
+  "EGHI"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Alpha closed north of A6 at aerodrome EGHI.",
+ "summary_of": "b364452e415d",
+ "text": "TWY ALPHA CLSD NORTH OF A6",
+ "to": "2026-11-16T16:00Z",
+ "type": "N",
+ "upper": ""
+}

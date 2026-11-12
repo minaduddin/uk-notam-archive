@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4667,
+  0.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:56Z",
+ "from": "2026-11-19T10:00Z",
+ "id": "H7436/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations within an area at Tilbury, up to 329 feet above ground level.",
+ "summary_of": "1838ef29797c",
+ "text": "UAS OPR WI AREA BOUNDED BY 512745N 0002251E - 512751N 0002305E -\n512750N 0002311E - 512747N 0002315E - 512743N 0002316E - \n512743N 0002252E - 512745N 0002251E (TILBURY). MAX HGT 329FT AGL. FOR\nINFO 07870 806611. AR-2026-10635/01.",
+ "to": "2026-11-19T16:00Z",
+ "type": "N",
+ "upper": "400FT AMSL"
+}

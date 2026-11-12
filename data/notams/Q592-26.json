@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.35,
+  0.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:56Z",
+ "from": "2026-11-16T11:00Z",
+ "id": "Q592/26",
+ "loc": [
+  "EGXH"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "1100-0100",
+ "summary": "Military aircraft conducting tactical landings within 5 nautical miles of Honington, up to 5,300 feet above mean sea level, from 1100 to 0100 daily.",
+ "summary_of": "3b4ef5bb6045",
+ "text": "TACTICAL LANDINGS. MIL ACFT WILL CONDUCT TACTICAL LANDINGS WI 5NM\nRADIUS OF 522034N 0004623E (HONINGTON). FOR INFO 07812 705715.\nAR-2026-10781/03.",
+ "to": "2026-11-20T01:00Z",
+ "type": "N",
+ "upper": "5300FT AMSL"
+}

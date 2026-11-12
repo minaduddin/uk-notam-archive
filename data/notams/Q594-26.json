@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:56Z",
+ "from": "2026-11-12T10:42Z",
+ "id": "Q594/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "MKLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Parking spots 1 to 6 closed at aerodrome EGUB due to ongoing work.",
+ "summary_of": "8c5c8af8ae1d",
+ "text": "PARKING SPOTS 1-6 CLSD DUE WIP",
+ "to": "2026-11-16T06:59Z",
+ "type": "R",
+ "upper": ""
+}

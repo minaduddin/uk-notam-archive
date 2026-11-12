@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4,
+  -0.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:56Z",
+ "from": "2026-11-15T17:00Z",
+ "id": "H7540/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile radius of Bromley.",
+ "summary_of": "0f0119cea2a6",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 512359N 0000133W (BROMLEY). FOR \nINFO 020 3422 0777. AR-2026-10800/01.",
+ "to": "2026-11-15T20:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

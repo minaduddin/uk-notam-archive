@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.4167,
+  -3.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T11:56Z",
+ "from": "2026-11-18T07:54Z",
+ "id": "H7532/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone operations within 1 nautical mile radius of Elvanfoot, up to 400 feet above ground level, between sunrise and sunset.",
+ "summary_of": "eae3bd93ee1b",
+ "text": "UAS OPR WI 1NM RADIUS OF 552444N 0033609W (ELVANFOOT). MAX HGT \n400FT AGL. FOR INFO 07990 850163. AR-2026-10795/01.",
+ "to": "2026-11-18T16:04Z",
+ "type": "N",
+ "upper": "2100FT AMSL"
+}

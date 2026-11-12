@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.9333,
+  -3.45
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T11:56Z",
+ "from": "2026-11-12T10:44Z",
+ "id": "I7800/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 134 feet above ground level, or 341 feet above mean sea level, near Edinburgh aerodrome; lowered during low visibility operations.",
+ "summary_of": "16c66d013bc5",
+ "text": "CRANE OPR PSN 555622N 0032721W (VCY EDINBURGH AD) MAX HGT 134FT\nAGL, 341FT AMSL. CRANE WILL BE LOWERED DURING LVP",
+ "to": "2026-11-16T17:00Z",
+ "type": "R",
+ "upper": ""
+}

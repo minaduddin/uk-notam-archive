@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.25,
+  -2.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:56Z",
+ "from": "2026-11-12T10:54Z",
+ "id": "L7158/26",
+ "loc": [
+  "EGBS"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGBS not available to aircraft needing a licensed aerodrome, due to depleted rescue and firefighting services.",
+ "summary_of": "55011a5ba02b",
+ "text": "AD NOT AVBL FOR ACFT REQUIRING THE USE OF A LICENSED AD DUE\nDEPLETED RFFS",
+ "to": "2026-11-12T17:00Z",
+ "type": "N",
+ "upper": ""
+}

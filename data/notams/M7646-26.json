@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.6667,
+  0.1
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T11:56Z",
+ "from": "2026-11-12T15:00Z",
+ "id": "M7646/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "FL100",
+ "q": "RDCA",
+ "radius": 72,
+ "removed": null,
+ "sched": "",
+ "summary": "Central complex danger areas EGD613A to EGD613D activated within 72 nautical miles radius of aerodrome EGPX.",
+ "summary_of": "6d8fe3b22b02",
+ "text": "THE FOLLOWING CENTRAL COMPLEX DANGER AREAS ARE ACTIVATED:\nEGD613A 1500-1630 FL100-FL660\nEGD613B 1500-1630 FL100-FL660\nEGD613C 1500-1630 FL100-FL660\nEGD613D 1500-1630 FL100-FL660",
+ "to": "2026-11-12T16:30Z",
+ "type": "N",
+ "upper": "FL660"
+}

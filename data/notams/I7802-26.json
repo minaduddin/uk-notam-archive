@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.8667,
+  -4.25
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T11:56Z",
+ "from": "2026-11-14T16:00Z",
+ "id": "I7802/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2300",
+ "summary": "Searchlight display within 1 nautical mile radius of Princes Square, Glasgow, from 1600 to 2300 daily.",
+ "summary_of": "1d11ae6ca466",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 555143N 0041513W (PRINCES\nSQUARE, GLASGOW).  FOR INFO 01313 314509 / 07385 501598.\nAR-2026-10820/01.",
+ "to": "2027-01-04T23:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.3167,
+  -4.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T11:56Z",
+ "from": "2026-11-17T07:33Z",
+ "id": "H7531/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone operations within an offshore area between Cawsand and Heybrook Bay, up to 400 feet above mean sea level, between sunrise and sunset.",
+ "summary_of": "cc88bce857e8",
+ "text": "UAS OPR WI AREA BOUNDED BY 501953N 0041200W - 502017N 0041123W -\n501855N 0040823W - 501825N 0040851W - 501953N 0041200W (OFFSHORE,\nCAWSAND TO HEYBROOK BAY). MAX HGT 400FT AMSL. FOR INFO \n07793 083250. AR-2026-10779/01.",
+ "to": "2026-11-17T16:29Z",
+ "type": "N",
+ "upper": "400FT AMSL"
+}
