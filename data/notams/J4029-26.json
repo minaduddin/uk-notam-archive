@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.9333,
+  0.0
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T00:23Z",
+ "from": "2026-11-12T00:00Z",
+ "id": "J4029/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDTT",
+ "radius": 72,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary danger area EGD789 in the central North Sea, surface to 1,300 ft, for beyond visual line of sight operations.",
+ "summary_of": "9b3a23a0c5c0",
+ "text": "TRIGGER NOTAM - AIP SUP 135/2026 WEF 12 NOV 2026 AT 0000. \nTEMPORARY DANGER AREA EGD789 (CENTRAL NORTH SEA - NORTH) BVLOS \nOPERATIONS - REPLACES SUP 080/2026",
+ "to": "2026-11-24T23:59Z",
+ "type": "N",
+ "upper": "1300FT AMSL"
+}

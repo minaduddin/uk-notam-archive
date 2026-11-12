@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6667,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T00:23Z",
+ "from": "2026-11-18T23:00Z",
+ "id": "I7731/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "2300-0400",
+ "summary": "Crane up to 183.74 ft high near Aldergrove, operating nightly from 2300 to 0400.",
+ "summary_of": "dd402241c593",
+ "text": "CRANE OPR PSN 543941.56N 0061253.05W (ALDERGROVE)\nMAX HGT 183.74FT AGL 413.90FT AMSL",
+ "to": "2026-11-19T04:00Z",
+ "type": "N",
+ "upper": ""
+}
