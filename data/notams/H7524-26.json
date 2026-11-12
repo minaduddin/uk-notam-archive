@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3667,
+  -1.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T08:38Z",
+ "from": "2026-11-13T07:00Z",
+ "id": "H7524/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Paragliding activity within 2 nautical miles of Combe, West Berkshire, up to 2,000 ft above ground level.",
+ "summary_of": "540a8080e81f",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 512131N 0012853W (COMBE, WEST BERKSHIRE). LOW \nFLYING AREA 1A. 2000FT AGL. CTC 07771 617201. 26/11/086/LFC",
+ "to": "2026-11-13T16:30Z",
+ "type": "N",
+ "upper": "3000FT AMSL"
+}

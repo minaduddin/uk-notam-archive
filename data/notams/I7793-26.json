@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.45,
+  -3.0667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T08:38Z",
+ "from": "2026-11-12T07:50Z",
+ "id": "I7793/26",
+ "loc": [
+  "EGPC"
+ ],
+ "lower": "",
+ "q": "NLAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Locator beacon WICK, on 344 kHz, out of service at EGPC.",
+ "summary_of": "7f9678bc6737",
+ "text": "LOCATOR WCK/WICK 344KHZ U/S. NO RNP OR NDB APPROACHES AVBL",
+ "to": "2026-11-16T17:15Z",
+ "type": "N",
+ "upper": ""
+}
