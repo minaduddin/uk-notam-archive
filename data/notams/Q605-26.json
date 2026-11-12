@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-13T13:00Z",
+ "id": "Q605/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "ICXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 07 instrument landing system at EGVN restricted to localiser and distance measuring equipment only, and unmonitored.",
+ "summary_of": "1c436180048e",
+ "text": "RWY 07 ILS RESTRICTED TO LOC/DME ONLY AND UNMONITORED.\nRWY 07 LOC NOT TO BE USED MORE THAN 20 DEG SOUTH OF EXTENDED \nCENTRELINE DUE TO FALSE CAPTURE RISK. LOC FLAGS MAY OCCUR \n17-25NM FROM LOC BELOW 2500FT WHEN MORE THAN 5 DEG EITHER SIDE\nOF CENTRELINE. LOC AND DME IDENT NOT SYNCHRONISED. RWY 25: GP\nFLAGS MAY OCCUR WHEN CLOSING FROM MORE THAN 8 DEG LEFT OF \nCENTRELINE. AUTO COUPLED APPROACHES PERMITTED TO CAT I DH, GP \nFLUCTUATIONS MAY OCCUR. FALSE DME RANGES MAY OCCUR 17-25NM LEFT \nOF CENTRELINE.\nTACAN BZN/BRIZE NORTON 111.900 CH56X. AIRCREW MAY EXPERIENCE UNLOCKS \nAROUND RADIAL 250 DEG.",
+ "to": "2026-12-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

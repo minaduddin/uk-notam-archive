@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.85,
+  -3.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-14T07:00Z",
+ "id": "H7551/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders operating within 2 nautical miles of Powys, Wales, up to 2,000 feet above ground level.",
+ "summary_of": "5981fcc85c49",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 515121N 0030834W (POWYS, WALES). LOW FLYING \nAREA 7. 2000FT AGL. CTC 07880 743574. 26/11/090/LFC",
+ "to": "2026-11-14T16:30Z",
+ "type": "N",
+ "upper": "4100FT AMSL"
+}

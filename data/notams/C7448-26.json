@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3333,
+  0.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-12T11:40Z",
+ "id": "C7448/26",
+ "loc": [
+  "EGKB"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "High power engine run area closed at EGKB.",
+ "summary_of": "e0a4c30cde66",
+ "text": "HIGH POWER ENGINE RUN AREA CLOSED",
+ "to": "2026-11-12T16:00Z",
+ "type": "N",
+ "upper": ""
+}

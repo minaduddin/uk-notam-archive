@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6333,
+  -5.8667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-17T08:00Z",
+ "id": "I7805/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crane operating near Belfast City, up to 236 feet above ground level.",
+ "summary_of": "1ed3c6db2e45",
+ "text": "MOBILE CRANE OPR PSN 543737N 0055216W (BELFAST CITY). MAX HGT\n236FT AGL, 245FT AMSL.",
+ "to": "2026-11-17T17:00Z",
+ "type": "N",
+ "upper": ""
+}

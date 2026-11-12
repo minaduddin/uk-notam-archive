@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-13T13:00Z",
+ "id": "Q603/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 07/25 at EGVN measures 3050 m by 56 m, with non-standard gradients.",
+ "summary_of": "b6b4ba8e3b20",
+ "text": "RWY 07/25 DIMENSIONS 3050M X 56M. SFC CONCRETE/ASPHALT/CONCRETE, \nPCN 75/R/C/W/T. RWY 07 THRESHOLD ELEVATION 283.92FT RWY 07 TDZE \n286.94FT RWY 25 THRESHOLD ELEVATION 247.87FT RWY 25 TDZE 265.91FT \nRWY SECTION BTN TOUCHDOWN ZONES IS ASPHALT. RWY STRIP 3170M X 280M. \nRESA RWY 07 139M X 120M. RESA RWY 25 238M X 120M. RWY HAVE \nNON-STANDARD GRADIENTS.",
+ "to": "2026-12-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

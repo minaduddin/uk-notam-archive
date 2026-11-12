@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4667,
+  0.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-18T09:00Z",
+ "id": "D4462/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCD",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD307 at Donna Nook has been deactivated.",
+ "summary_of": "2381fd7a6c13",
+ "text": "DANGER AREA EGD307 DONNA NOOK DEACTIVATED",
+ "to": "2026-11-18T12:00Z",
+ "type": "N",
+ "upper": "20000FT AMSL"
+}

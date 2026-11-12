@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-13T13:00Z",
+ "id": "Q602/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "LAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Approach lighting revised for runways 07 and 25 at EGVN, with no touchdown zone lighting.",
+ "summary_of": "8d5bcb461500",
+ "text": "RWY 07 APPROACH LIGHTING CD5B 914M HIGH INTENSITY.\nRWY 25 APPROACH LIGHTING CD5B 910M HIGH INTENSITY. \nRWY CENTRELINE LIGHTING WHITE/RED, HIGH INTENSITY, 30M SPACING. \nRWY EDGE LIGHTING COMBINED HIGH AND LOW INTENSITY FITTINGS, WHITE, \n50M HIGH INTENSITY AND 100M LOW INTENSITY SPACING. \nNO TOUCHDOWN ZONE LIGHTING.\nPAPI RWY 07 3 DEG PORT 334M AND STARBOARD 347M FROM THRESHOLD.\nPAPI RWY 25 3 DEG, PORT 330M AND STARBOARD 318M FROM THRESHOLD.",
+ "to": "2026-12-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

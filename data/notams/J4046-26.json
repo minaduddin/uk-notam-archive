@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5,
+  -0.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-16T09:00Z",
+ "id": "J4046/26",
+ "loc": [
+  "EGLC"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary danger area EGD196A active near EGLC for drone flights beyond visual line of sight, up to 450 ft, 1 nautical mile radius.",
+ "summary_of": "31c8cfb7624c",
+ "text": "TEMPO DANGER AREA (TDA) EGD196A ACTIVATED. AIP SUP 134/2026\nREFERS. BEYOND VISUAL LINE OF SIGHT UAS OPS CONTAINED WHOLLY WI\nTHE TDA. EMERG SER AND MIL OPS REQUIRING IMMEDIATE ACCESS TO THE\nTDA SHOULD CONTACT HEATHROW RADAR ON FREQ 125.625MHZ. FOR OTHER\nCREWED ACFT OR VISUAL LINE OF SIGHT OPS ACCESS, CONTACT THE\nOPERATOR 72 HOURS PRIOR TO OPS COMMENCING ON 01332 319137 OR VIA\nEMAIL FLIGHTOPS.UK(AT)MATTERNET.COM. AR-2026-4899/42.",
+ "to": "2026-11-16T16:00Z",
+ "type": "N",
+ "upper": "450FT AMSL"
+}

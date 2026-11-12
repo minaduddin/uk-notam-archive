@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-13T12:00Z",
+ "id": "Q597/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "CPAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Precision approach radar unavailable at EGUB due to air traffic controller staffing.",
+ "summary_of": "37b20c6f4285",
+ "text": "PAR NOT AVBL DUE TO ATCO STAFFING.",
+ "to": "2026-11-13T14:00Z",
+ "type": "N",
+ "upper": ""
+}

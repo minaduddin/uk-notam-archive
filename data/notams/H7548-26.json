@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.45,
+  -4.6333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-17T09:00Z",
+ "id": "H7548/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Underslung load operations within 2 nautical miles of Struy and Strathconnon, up to 500 feet above ground level.",
+ "summary_of": "7981eeda7118",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 572633N 0043757W (STRUY, STRATHCONNON) LOW FLYING \nAREA 14. MAX HGT 500FT AGL. ACFT MAY BE RESTRICTED IN ABILITY TO \nMANOEUVRE AND UNABLE TO COMPLY WITH RAC OPS CTC 07776 462424. \n26/11/089/LFC",
+ "to": "2026-11-17T13:00Z",
+ "type": "N",
+ "upper": "2200FT AMSL"
+}

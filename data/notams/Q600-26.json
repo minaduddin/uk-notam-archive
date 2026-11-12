@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-13T13:00Z",
+ "id": "Q600/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aircraft stands 1 to 3 out of use at EGVN, and runway stop bars support only Category I operations.",
+ "summary_of": "b59f38273b08",
+ "text": "ACFT STANDS 1-3 NOT IN USE. ILLUMINATED STAND NUMBERS AND AGNIS \nNOT IN USE. STANDS IDENTIFIED BY PAINTED GROUND NUMBERS AND \nDIRECTIONAL ARROWS. ALL AIRCRAFT STOP POSITIONS ARE INDICATED BY \nMARSHALLERS. RWY STOP BARS SUPPORT CAT I OPS ONLY. CAT II/III OPS \nNOT AVBL.",
+ "to": "2026-12-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

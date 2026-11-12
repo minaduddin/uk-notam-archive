@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4333,
+  0.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-18T08:00Z",
+ "id": "H7547/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0800-1600",
+ "summary": "Drone operations within 0.7 nautical miles of Bean, up to 400 feet above ground level, from 8am to 4pm.",
+ "summary_of": "5ee08c8daff1",
+ "text": "UAS OPR WI 0.7NM RADIUS OF 512539N 0001508E (BEAN). MAX HGT 400FT\nAGL. FOR INFO 07974 212390 / 07745 672222. AR-2026-10724/03.",
+ "to": "2026-11-19T16:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

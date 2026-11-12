@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-13T13:00Z",
+ "id": "Q606/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "No dedicated helicopter landing site at EGVN; aerodrome is a notified parachute drop zone up to 15,000 ft.",
+ "summary_of": "f8c95ab4960a",
+ "text": "NO DEDICATED HELICOPTER LANDING SITE. ROTARY USERS REQUIRE PPR \nTHROUGH THE A5 PROCESS. AIRFIELD OPS WILL ALLOCATE A LANDING OR \nPARKING LOCATION. HELICOPTERS SHOULD NORMALLY USE THE MAIN RUNWAY \nAND GROUND TAXI TO OR FROM DISPERSAL. AERODROME IS A NOTIFIED \nPARACHUTE/FREE-FALL DROP ZONE TO 15000FT. LIGHT AIRCRAFT FLYING CLUB \nOPERATES DAILY WITH VISUAL CIRCUIT HEIGHT 1300FT QNH.",
+ "to": "2026-12-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

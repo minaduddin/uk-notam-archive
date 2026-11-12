@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4333,
+  -0.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-17T09:00Z",
+ "id": "J4041/26",
+ "loc": [
+  "EGLW"
+ ],
+ "lower": "SFC",
+ "q": "RMCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Reserved area EGTR185 activated at EGLW for drone operations beyond visual line of sight, up to 650 feet above sea level.",
+ "summary_of": "60ec9becfc54",
+ "text": "TEMPO RESERVED AREA EGTR185 ACTIVATED. AIP SUP 090/2026 REFERS.\nBEYOND VISUAL LINE OF SIGHT UAS OPS CONTAINED WHOLLY WI THE TRA.\nEMERG SER AND MIL OPS REQUIRING IMMEDIATE ACCESS TO THE TRA\nSHOULD CTC HEATHROW RADAR ON 125.625MHZ. FOR OTHER CREWED ACFT OR\nVISUAL LINE OF SIGHT OPS ACCESS, CTC THE OPERATOR 72 HR PRIOR TO\nOPS COMMENCING ON +44 20 4592 3185 OR VIA EMAIL TO\nWING-FOPS-UK(AT)GOOGLE.COM. AR-2026-352/00.",
+ "to": "2026-11-17T17:00Z",
+ "type": "N",
+ "upper": "650FT AMSL"
+}

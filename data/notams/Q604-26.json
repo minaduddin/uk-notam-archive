@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-13T13:00Z",
+ "id": "Q604/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aircraft with wingspan over 64 m have restricted access to taxiways B and G at EGVN.",
+ "summary_of": "61b055402f3f",
+ "text": "AIRCRAFT WITH WINGSPAN GREATER THAN 64M HAVE RESTRICTED ACCESS\nTO TWY B AND TWY G AND SHOULD EXPECT TO TURN ON RUNWAY END LOOPS\nAND BACKTRACK TO DISPERSAL. ALL VISITING AIRCRAFT REQUIRE A RAMP\nSERVICES MARSHALLER BEFORE REQUESTING START OR GROUND MOVEMENT\nCLEARANCE. AIRCRAFT MAY ENCOUNTER VEHICLES ON THE AERODROME WHICH \nMAY NOT BE IN CONTACT WITH ATC. FOLLOW ME SERVICE AVAILABLE ON\nREQUEST THROUGH ATC.",
+ "to": "2026-12-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

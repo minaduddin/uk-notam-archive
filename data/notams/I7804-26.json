@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.4333,
+  -5.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-13T10:00Z",
+ "id": "I7804/26",
+ "loc": [
+  "EGEC"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Model rocket firing within 1 nautical mile of Campbeltown, with launches subject to air traffic clearance, up to 1,800 feet.",
+ "summary_of": "8e7cf24f63ba",
+ "text": "MODEL ROCKET FIRING WI 1NM RADIUS OF 552605N 0054115W \n(CAMPBELTOWN). LAUNCH SUBJ ATC CLR. FOR INFO 07783 973195. \nAR-2026-10597/01.",
+ "to": "2026-11-13T16:00Z",
+ "type": "N",
+ "upper": "1800FT AMSL"
+}

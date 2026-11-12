@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-13T13:00Z",
+ "id": "Q601/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "MDCH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Declared distances revised for runways 07 and 25 at EGVN, with 3050 m landing distance on each.",
+ "summary_of": "7c609d24d42b",
+ "text": "DECLARED DISTANCES REVISED.\nRWY 07: TORA 3050M, TODA 3249M, ASDA 3050M, LDA 3050M. \nRWY 25: TORA 3050M, TODA 3346M, ASDA 3050M, LDA 3050M.",
+ "to": "2026-12-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.2,
+  -1.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T13:06Z",
+ "from": "2026-11-17T19:30Z",
+ "id": "H7550/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "3000FT AMSL",
+ "q": "XXLW",
+ "radius": 13,
+ "removed": null,
+ "sched": "17 19 1930-2030",
+ "summary": "Military aircraft, including fast jets, will conduct high energy manoeuvres within 12 nautical miles of Topcliffe, between 3,000 and 21,500 feet.",
+ "summary_of": "b4cfcf72a32e",
+ "text": "MIL ACFT, INCLUDING FAST JETS, WILL CONDUCT HIGH ENERGY MANOEVRES\nWI 12NM RADIUS OF 541220N 0012256W (TOPCLIFFE). ACFT MAY BE UNABLE \nTO COMPLY WITH RAC. FOR INFO 01343 817115. AR-2026-10786/01.",
+ "to": "2026-11-19T20:30Z",
+ "type": "N",
+ "upper": "21500FT AMSL"
+}
