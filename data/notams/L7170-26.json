@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9,
+  -2.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T17:27Z",
+ "from": "2026-11-16T07:00Z",
+ "id": "L7170/26",
+ "loc": [
+  "EGBJ"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unmanned aircraft operating within 0.5 nautical miles of Innsworth, up to 196 feet above ground level.",
+ "summary_of": "2d3c13246d77",
+ "text": "UAS OPR WI 0.5NM RADIUS OF 515332N 0021210W (INNSWORTH) MAX HGT \n196FT AGL. 255FT AMSL",
+ "to": "2026-11-16T08:00Z",
+ "type": "N",
+ "upper": "255FT AMSL"
+}

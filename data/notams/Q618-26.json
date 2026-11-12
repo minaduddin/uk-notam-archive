@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.8333,
+  -1.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T17:27Z",
+ "from": "2026-11-13T08:30Z",
+ "id": "Q618/26",
+ "loc": [
+  "EGVF"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Fleetlands traffic zone deactivated and helicopter landing site closed.",
+ "summary_of": "e66918df36ce",
+ "text": "FLEETLANDS ATZ DEACTIVATED. HLP CLSD.",
+ "to": "2026-11-13T15:00Z",
+ "type": "N",
+ "upper": ""
+}

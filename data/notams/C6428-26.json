@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4333,
+  -2.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T17:27Z",
+ "from": "2026-11-19T16:00Z",
+ "id": "C6428/26",
+ "loc": [
+  "EGGD"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2359",
+ "summary": "Lasers and searchlights within 1 nautical mile of Long Ashton, between 1600 and 2359 daily.",
+ "summary_of": "caa72ad9c787",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 512620N 0023810W (LONG\nASHTON).  FOR INFO 07917 669060. AR-2026-9013/01.",
+ "to": "2026-12-28T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}

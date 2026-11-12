@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.7167,
+  0.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T17:27Z",
+ "from": "2026-11-19T16:00Z",
+ "id": "H6425/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2359",
+ "summary": "Lasers and searchlights within 1 nautical mile of Hylands Park, Widford, between 1600 and 2359 daily.",
+ "summary_of": "859cb7a62551",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 514243N 0002601E (HYLANDS\nPARK, WIDFORD). FOR INFO 07917 669060. AR-2026-9007/01.",
+ "to": "2027-01-02T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}

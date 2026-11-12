@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.6167,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T17:27Z",
+ "from": "2026-11-13T08:00Z",
+ "id": "Q614/26",
+ "loc": [
+  "EGXT"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Wittering aerodrome operating hours amended to 0815 to 1730.",
+ "summary_of": "bb90da730bce",
+ "text": "AMENDED AD OPR HR: 0815-1730",
+ "to": "2026-11-13T17:30Z",
+ "type": "N",
+ "upper": ""
+}

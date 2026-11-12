@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5167,
+  0.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T17:27Z",
+ "from": "2026-11-19T16:30Z",
+ "id": "H6779/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Stanford-le-Hope.",
+ "summary_of": "f6b8e2f20a83",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 513122N 0002625E \n(STANFORD-LE-HOPE).  FOR INFO 07903 580772. AR-2026-9622/01.",
+ "to": "2026-11-19T19:00Z",
+ "type": "N",
+ "upper": "UNL"
+}
