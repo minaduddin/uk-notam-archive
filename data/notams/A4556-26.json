@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8833,
+  0.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T14:22Z",
+ "from": "2026-11-13T17:00Z",
+ "id": "A4556/26",
+ "loc": [
+  "EGSS"
+ ],
+ "lower": "",
+ "q": "FTAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Touchdown visibility measuring equipment for runway 04 is out of service at EGSS.",
+ "summary_of": "e55563ff361b",
+ "text": "INSTR RVR RWY 04 TOUCHDOWN U/S",
+ "to": "2026-11-18T17:00Z",
+ "type": "N",
+ "upper": ""
+}

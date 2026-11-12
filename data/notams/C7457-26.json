@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5333,
+  -1.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T14:22Z",
+ "from": "2026-11-16T01:30Z",
+ "id": "C7457/26",
+ "loc": [
+  "EGNV"
+ ],
+ "lower": "",
+ "q": "AECA",
+ "radius": 12,
+ "removed": null,
+ "sched": "NOV 16 18 23 25 30 DEC 02  0130-0215",
+ "summary": "Teesside International airspace restrictions activated; aerodrome hours extended and prior permission needed for flights.",
+ "summary_of": "8d39c1adecf4",
+ "text": "TEESSIDE INTERNATIONAL CTA/CTR/ATZ ACTIVATED. AD/ATS OPR HR\nEXTENDED. PPR ONLY.",
+ "to": "2026-12-02T02:15Z",
+ "type": "N",
+ "upper": ""
+}

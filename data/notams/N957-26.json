@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.2833,
+  -0.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T14:22Z",
+ "from": "2026-11-13T00:00Z",
+ "id": "N957/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane up to 107 feet high near Scarborough, North Yorkshire.",
+ "summary_of": "493e91b553fd",
+ "text": "LIT CRANE AT PSN 541656N 0002621W (SCARBOROUGH, NORTH YORKSHIRE)\nIN LOW FLYING AREA 11 AND NIGHT SECTOR 4BE HGT 107FT AGL 400FT AMSL. \n26/11/091/LFC",
+ "to": "2027-02-13T23:59Z",
+ "type": "N",
+ "upper": ""
+}

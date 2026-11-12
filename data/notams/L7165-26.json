@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2,
+  -1.6167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T14:22Z",
+ "from": "2026-11-12T17:00Z",
+ "id": "L7165/26",
+ "loc": [
+  "EGBW"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Wellesbourne Mountford aerodrome traffic zone activated and aerodrome operating hours extended.",
+ "summary_of": "689f0c634ae7",
+ "text": "WELLESBOURNE MOUNTFORD ATZ ACTIVATED, AD HR OF OPR EXTD",
+ "to": "2026-11-12T20:00Z",
+ "type": "N",
+ "upper": ""
+}

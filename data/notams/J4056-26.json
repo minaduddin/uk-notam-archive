@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.25,
+  -0.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-12T14:22Z",
+ "from": "2026-11-12T13:04Z",
+ "id": "J4056/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDXX",
+ "radius": 4,
+ "removed": null,
+ "sched": "",
+ "summary": "Amendment to temporary danger area EGD170 at Guildford, stating drone flights may take place, up to 990 feet.",
+ "summary_of": "546a06b7afbb",
+ "text": "AIP SUPPLEMENT 132/2026 - TEMPORARY DANGER AREA EGD170 \n(GUILDFORD),\nBVLOS RPAS OPERATIONS, 12 NOVEMBER - 09 DECEMBER 2026\nPARA 1 \nDELETE: WILL TAKE PLACE BETWEEN 12 NOVEMBER AND 09 DECEMBER 2026 \nINSERT: MAY TAKE PLACE BETWEEN 12 NOVEMBER AND 09 DECEMBER 2026\nPARA 4\nDELETE: FLIGHTS WILL TAKE PLACE DURING THE FOLLOWING PERIODS\nINSERT: FLIGHTS MAY TAKE PLACE DURING THE FOLLOWING PERIODS",
+ "to": "2026-12-09T22:00Z",
+ "type": "N",
+ "upper": "990FT AMSL"
+}
