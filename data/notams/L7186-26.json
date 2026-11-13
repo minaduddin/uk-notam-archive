@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8333,
+  -1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T08:34Z",
+ "from": "2026-11-13T08:30Z",
+ "id": "L7186/26",
+ "loc": [
+  "EGTK"
+ ],
+ "lower": "",
+ "q": "IGXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Reduced backup in the landing guidance system for runway 19 at EGTK, the aerodrome with ICAO code EGTK.",
+ "summary_of": "dcfbd2a32259",
+ "text": "ILS RWY 19 (I-OXF 108.350MHZ) GP REDUCED REDUNDANCY.",
+ "to": "2026-11-14T08:30Z",
+ "type": "N",
+ "upper": ""
+}

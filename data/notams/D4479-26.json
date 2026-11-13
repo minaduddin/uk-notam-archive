@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.55,
+  -2.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T08:34Z",
+ "from": "2026-11-15T09:30Z",
+ "id": "D4479/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 9,
+ "removed": null,
+ "sched": "",
+ "summary": "Lulworth danger area EGD026 is activated, covering the surface up to 15,000 ft above sea level within 9 nautical miles.",
+ "summary_of": "448fe09dc9df",
+ "text": "DANGER AREA EGD026 LULWORTH ACTIVATED",
+ "to": "2026-11-15T13:00Z",
+ "type": "N",
+ "upper": "15000FT AMSL"
+}
