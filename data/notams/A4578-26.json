@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T22:43Z",
+ "from": "2026-11-13T23:00Z",
+ "id": "A4578/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 08L/26R closed between taxiways Foxtrot Romeo and Delta at EGKK due to work in progress.",
+ "summary_of": "c3e940dd98aa",
+ "text": "RWY 08L/26R BTN FOXTROT ROMEO AND DELTA CLSD DUE WIP",
+ "to": "2026-11-14T05:00Z",
+ "type": "N",
+ "upper": ""
+}

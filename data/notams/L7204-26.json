@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8333,
+  -1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T22:43Z",
+ "from": "2026-11-14T09:00Z",
+ "id": "L7204/26",
+ "loc": [
+  "EGTK"
+ ],
+ "lower": "",
+ "q": "IGAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Instrument landing system glide path for runway 19 at EGTK out of service for maintenance.",
+ "summary_of": "45ae53304cab",
+ "text": "ILS RWY 19 (I-OXF 108.350MHZ) GP U/S DUE MAINT. ILS RWY 19 LLZ\nONLY APCH.",
+ "to": "2026-11-14T12:00Z",
+ "type": "N",
+ "upper": ""
+}
