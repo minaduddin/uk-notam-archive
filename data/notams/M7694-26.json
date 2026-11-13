@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6667,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T13:45Z",
+ "from": "2026-11-16T11:00Z",
+ "id": "M7694/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 10,
+ "removed": null,
+ "sched": "",
+ "summary": "Kirkcudbright danger area EGD405 activated, surface to 10,000 feet.",
+ "summary_of": "fb759d91628e",
+ "text": "DANGER AREA EGD405 KIRKCUDBRIGHT ACTIVATED",
+ "to": "2026-11-16T16:00Z",
+ "type": "N",
+ "upper": "10000FT AMSL"
+}

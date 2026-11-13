@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3833,
+  -4.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T13:45Z",
+ "from": "2026-11-16T12:00Z",
+ "id": "M7688/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 22,
+ "removed": null,
+ "sched": "",
+ "summary": "Aberporth danger area EGD201H activated, surface to 17,000 feet.",
+ "summary_of": "d1db7f9f163b",
+ "text": "DANGER AREA EGD201H ABERPORTH ACTIVATED",
+ "to": "2026-11-16T16:00Z",
+ "type": "N",
+ "upper": "FL170"
+}

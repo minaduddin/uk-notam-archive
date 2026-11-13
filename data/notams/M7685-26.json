@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5667,
+  -5.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T13:45Z",
+ "from": "2026-11-16T09:00Z",
+ "id": "M7685/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 12,
+ "removed": null,
+ "sched": "",
+ "summary": "Castlemartin danger areas EGD113A and EGD113B activated between 0900 and 1630, surface to 6,000 feet.",
+ "summary_of": "5edd5327db87",
+ "text": "THE FOLLOWING CASTLEMARTIN DANGER AREAS ARE ACTIVATED:\nEGD113A 0900-1630 SFC-6000FT AMSL\nEGD113B 0900-1630 SFC-6000FT AMSL",
+ "to": "2026-11-16T16:30Z",
+ "type": "N",
+ "upper": "6000FT AMSL"
+}

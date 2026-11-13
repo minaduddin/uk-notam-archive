@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8667,
+  -1.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T13:45Z",
+ "from": "2026-11-19T07:00Z",
+ "id": "C7478/26",
+ "loc": [
+  "EGNM"
+ ],
+ "lower": "",
+ "q": "PICH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane activity at EGNM raises the minimum height for the runway 14 instrument approach, categories A and B.",
+ "summary_of": "33f1b85a7f6d",
+ "text": "INSTRUMENT APPROACH CHART - ILS/DME Y RWY 14 (CAT A/B).\nPROCEDURE OCA(H) INCREASED DUE MOBILE CRANE ACTIVITY.\nCAT A: OCA(H) 926 (252)\nCAT B: OCA(H) 939 (265)",
+ "to": "2026-11-19T19:00Z",
+ "type": "N",
+ "upper": ""
+}

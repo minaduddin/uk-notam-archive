@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5,
+  -0.5833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-13T13:45Z",
+ "from": "2026-11-16T13:00Z",
+ "id": "M7690/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 32,
+ "removed": null,
+ "sched": "",
+ "summary": "Druridge Bay danger areas EGD513A to EGD513C activated at several afternoon and evening times, surface to 23,000 feet (area C to 10,000 feet).",
+ "summary_of": "ab8e71650574",
+ "text": "THE FOLLOWING DRURIDGE BAY DANGER AREAS ARE ACTIVATED:\nEGD513A 1300-1430 SFC-FL230\nEGD513A 1430-1530 SFC-FL230\nEGD513A 1645-1845 SFC-FL230\nEGD513A 2015-2215 SFC-FL230\nEGD513B 1300-1430 SFC-FL230\nEGD513B 1430-1530 SFC-FL230\nEGD513B 1645-1845 SFC-FL230\nEGD513B 2015-2215 SFC-FL230\nEGD513C 1300-1430 SFC-FL100\nEGD513C 1430-1530 SFC-FL100\nEGD513C 1645-1845 SFC-FL100\nEGD513C 2015-2215 SFC-FL100",
+ "to": "2026-11-16T22:15Z",
+ "type": "N",
+ "upper": "FL230"
+}

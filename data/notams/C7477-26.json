@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8667,
+  -1.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T13:45Z",
+ "from": "2026-11-17T07:00Z",
+ "id": "C7477/26",
+ "loc": [
+  "EGNM"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crane up to 86 feet above ground level at Yeadon (EGNM).",
+ "summary_of": "5a54540d81d2",
+ "text": "MOBILE CRANE OPERATING AT POSN 535153N 0014004W (YEADON). MAX\nHEIGHT 86FT AGL / 739FT AMSL.",
+ "to": "2026-11-17T19:00Z",
+ "type": "N",
+ "upper": ""
+}

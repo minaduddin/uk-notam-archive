@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.1,
+  -4.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T13:45Z",
+ "from": "2026-11-16T09:00Z",
+ "id": "M7686/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 10,
+ "removed": null,
+ "sched": "",
+ "summary": "Aberporth danger area EGD202D activated, surface to flight level 125, about 12,500 feet.",
+ "summary_of": "7fd5252633c0",
+ "text": "DANGER AREA EGD202D ABERPORTH ACTIVATED",
+ "to": "2026-11-16T16:30Z",
+ "type": "N",
+ "upper": "FL125"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4333,
+  -2.8333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T13:45Z",
+ "from": "2026-11-13T17:30Z",
+ "id": "A4567/26",
+ "loc": [
+  "EGFF"
+ ],
+ "lower": "",
+ "q": "AEXX",
+ "radius": 53,
+ "removed": null,
+ "sched": "1730-1830, 2000-2100",
+ "summary": "Staffing shortages mean airspace around Cardiff (EGFF) is being delegated to London Area Control and Bristol.",
+ "summary_of": "fe6be8805134",
+ "text": "DUE TO STAFFING ISSUES THE FOLLOWING AIRSPACE WILL BE DELEGATED\nTO LONDON AREA CONTROL (LAC). CTC VIA THE APPROPRIATE LAC SECTOR\nGROUP SUPERVISOR WEST ON 01489 612413.\nCOTSWOLD CTA 1 3 8 9 11 12 13\nPEPZE CTA 14\nSTRUMBLE CTA 2 3 4\nBERRY HEAD CTA 1 2 8\nSEVERN CTA 1 2\nTHE FOLLOWING AIRSPACE WILL BE DELEGATED TO BRISTOL\nCARDIFF CTA 1-8 ABOVE 6000FT",
+ "to": "2026-11-13T21:00Z",
+ "type": "N",
+ "upper": ""
+}
