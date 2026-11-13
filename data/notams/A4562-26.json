@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T01:45Z",
+ "from": "2026-11-13T00:52Z",
+ "id": "A4562/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "LXAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Two centre line light fittings removed from taxiway Echo Romeo at aerodrome EGKK; leader escort available if required.",
+ "summary_of": "413529ae9e17",
+ "text": "TWY ECHO ROMEO HAS 2 CL LIGHT FITTINGS REMOVED. LEADER ESCORT AVBL\nIF REQUIRED",
+ "to": "2026-11-15T05:00Z",
+ "type": "N",
+ "upper": ""
+}

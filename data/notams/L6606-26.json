@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.95,
+  -2.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T01:45Z",
+ "from": "2026-11-20T00:01Z",
+ "id": "L6606/26",
+ "loc": [
+  "EGHG"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 171 ft above ground level (373 ft above sea level), 1.15 nautical miles from Yeovil Westland aerodrome.",
+ "summary_of": "e445c1d2e3d0",
+ "text": "CRANE OPR PSN 505643N 0023807W (073 DEG MAG, 1.15NM FM YEOVIL\nWESTLAND ARP). MAX HGT 171FT AGL, 373FT AMSL",
+ "to": "2026-11-25T23:59Z",
+ "type": "N",
+ "upper": ""
+}
