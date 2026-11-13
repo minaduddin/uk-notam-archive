@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.0167,
+  -0.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T12:29Z",
+ "from": "2026-11-18T15:00Z",
+ "id": "H7581/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1500-0100",
+ "summary": "Laser display within 1 nautical mile of Crabtree, daily from 3pm to 1am, from the surface upwards.",
+ "summary_of": "1483e253b67a",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 510120N 0001528W (CRABTREE). FOR\nINFO 07776 528464. AR-2026-10843/03.",
+ "to": "2027-01-02T01:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

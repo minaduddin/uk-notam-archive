@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1167,
+  -2.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T12:29Z",
+ "from": "2026-11-14T07:00Z",
+ "id": "H7586/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders within 2 nautical miles of Mere Rifle Range, Wiltshire, up to 3,000 feet above mean sea level.",
+ "summary_of": "3e46bbde6b8c",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 510630N 0021616W (MERE RIFLE RANGE, WILTSHIRE). \nLOW FLYING AREAS 1A AND 2. 2000FT AGL. CTC 07540 587989.\n26/11/100/LFC",
+ "to": "2026-11-14T16:30Z",
+ "type": "N",
+ "upper": "3000FT AMSL"
+}

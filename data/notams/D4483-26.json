@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1667,
+  -0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T12:29Z",
+ "from": "2026-11-17T08:30Z",
+ "id": "D4483/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD324A, Waddington Low, is activated from the surface up to 10,500 feet.",
+ "summary_of": "d60a7c07b5cf",
+ "text": "DANGER AREA EGD324A WADDINGTON LOW ACTIVATED",
+ "to": "2026-11-17T22:00Z",
+ "type": "N",
+ "upper": "FL105"
+}

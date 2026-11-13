@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2333,
+  -1.9
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T12:29Z",
+ "from": "2026-11-15T09:00Z",
+ "id": "M7683/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD125, Larkhill, is activated from the surface up to 23,000 feet above mean sea level.",
+ "summary_of": "0911a31a586d",
+ "text": "DANGER AREA EGD125 LARKHILL ACTIVATED",
+ "to": "2026-11-15T13:00Z",
+ "type": "N",
+ "upper": "23000FT AMSL"
+}

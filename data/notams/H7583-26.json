@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.95,
+  -0.7333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T12:29Z",
+ "from": "2026-11-13T11:34Z",
+ "id": "H7583/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders within 2 nautical miles of Millington, Yorkshire, up to 2,900 feet above mean sea level.",
+ "summary_of": "e5f2933822af",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE -\nMULTIPLE PARAGLIDERS OPR WI 2NM RADIUS OF PSN 535707N 0004350W \n(MILLINGTON, YORKSHIRE). LOW FLYING AREA 11. 2000FT AGL. CTC \n078126959626. 26/11/099/LFC",
+ "to": "2026-11-13T16:30Z",
+ "type": "N",
+ "upper": "2900FT AMSL"
+}

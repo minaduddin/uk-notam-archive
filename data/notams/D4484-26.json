@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.0833,
+  -0.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T12:29Z",
+ "from": "2026-11-17T08:30Z",
+ "id": "D4484/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL105",
+ "q": "RDCA",
+ "radius": 12,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD324B, Waddington Medium, is activated from 10,500 to 19,500 feet.",
+ "summary_of": "8bbd799333c1",
+ "text": "DANGER AREA EGD324B WADDINGTON MEDIUM ACTIVATED",
+ "to": "2026-11-17T22:00Z",
+ "type": "N",
+ "upper": "FL195"
+}

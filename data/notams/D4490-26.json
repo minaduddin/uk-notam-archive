@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.0,
+  -5.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T12:29Z",
+ "from": "2026-11-16T10:00Z",
+ "id": "D4490/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD005A, Predannack, is activated from the surface up to 3,500 feet above mean sea level.",
+ "summary_of": "740358265e09",
+ "text": "DANGER AREA EGD005A PREDANNACK ACTIVATED",
+ "to": "2026-11-16T16:30Z",
+ "type": "N",
+ "upper": "3500FT AMSL"
+}

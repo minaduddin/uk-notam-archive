@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3833,
+  -1.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T12:29Z",
+ "from": "2026-11-14T07:23Z",
+ "id": "H7588/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Multiple paragliders within 2 nautical miles of Devizes, Wiltshire, up to 3,100 feet above mean sea level, daily from sunrise to sunset.",
+ "summary_of": "0def7fc47e1f",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 512249N 0015245W (DEVIZES, WILTSHIRE) LOW \nFLYING AREA 1A. 2000FT AGL. CTC 07710043970. 26/11/102/LFC",
+ "to": "2026-11-14T16:20Z",
+ "type": "N",
+ "upper": "3100FT AMSL"
+}

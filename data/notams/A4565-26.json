@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T12:29Z",
+ "from": "2026-11-14T05:30Z",
+ "id": "A4565/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "NVXX",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane activity near London may cause fluctuating readings on the London navigation beacon's 155 to 195 degree magnetic radials.",
+ "summary_of": "53cbedf38868",
+ "text": "VOR/DME LON/LONDON 113.60MHZ CH083X - THERE MAY BE OBSERVATIONS OF\nDVOR BEARING FLUCTUATIONS WITHIN THE 155 195 DEG. MAG. SECTOR\nRADIALS FROM THE LONDON VOR/DME STATION, DUE TO CRANE ACTIVITYIN\nTHE VACINITY",
+ "to": "2026-12-13T23:59Z",
+ "type": "N",
+ "upper": ""
+}

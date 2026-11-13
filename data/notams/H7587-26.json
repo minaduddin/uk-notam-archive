@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7,
+  -2.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T12:29Z",
+ "from": "2026-11-13T12:00Z",
+ "id": "H7587/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders within 2 nautical miles of Maiden Castle, Dorset, up to 2,800 feet above mean sea level.",
+ "summary_of": "f7e82cff82bf",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS\nOPR WI 2NM RADIUS OF PSN 504145N 0022812W \n(MAIDEN CASTLE, DORSET). LOW FLYING AREA 2. 2000FT AGL. CTC 07890 \n970763. 26/11/101/LFC",
+ "to": "2026-11-13T14:00Z",
+ "type": "N",
+ "upper": "2800FT AMSL"
+}

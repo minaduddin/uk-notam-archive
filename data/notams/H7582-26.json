@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1667,
+  -2.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T12:29Z",
+ "from": "2026-11-13T11:24Z",
+ "id": "H7582/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders within 2 nautical miles of Great Whernside, Yorkshire, up to 4,500 feet above mean sea level.",
+ "summary_of": "1fd5fdca8d55",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE -\nMULTIPLE PARAGLIDERS OPR WI 2NM RADIUS \nOF PSN 541018N 0020016W (GREAT WHERNSIDE, YORKSHIRE). \nLOW FLYING AREA 17. 2000FT AGL. CTC 07717696753. 26/11/098/LFC",
+ "to": "2026-11-13T16:30Z",
+ "type": "N",
+ "upper": "4500FT AMSL"
+}

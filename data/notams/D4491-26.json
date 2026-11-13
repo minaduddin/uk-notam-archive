@@ -1,0 +1,25 @@
+{
+ "coord": [
+  49.95,
+  -5.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T12:29Z",
+ "from": "2026-11-16T10:00Z",
+ "id": "D4491/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 7,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD005B, Predannack Corridor, is activated from the surface up to 3,500 feet above mean sea level.",
+ "summary_of": "cea2b4f634cb",
+ "text": "DANGER AREA EGD005B PREDANNACK CORRIDOR ACTIVATED",
+ "to": "2026-11-16T13:00Z",
+ "type": "N",
+ "upper": "3500FT AMSL"
+}
