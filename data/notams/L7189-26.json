@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.8167,
+  -1.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T09:31Z",
+ "from": "2026-11-13T09:00Z",
+ "id": "L7189/26",
+ "loc": [
+  "EGHF"
+ ],
+ "lower": "",
+ "q": "FFCG",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Rescue and firefighting service at EGHF reduced to category 1.",
+ "summary_of": "88d402550251",
+ "text": "RFFS DOWNGRADED TO CAT 1",
+ "to": "2026-11-13T17:00Z",
+ "type": "N",
+ "upper": ""
+}

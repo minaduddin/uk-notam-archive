@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4,
+  -3.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T09:31Z",
+ "from": "2026-11-20T08:00Z",
+ "id": "A4543/26",
+ "loc": [
+  "EGFF"
+ ],
+ "lower": "",
+ "q": "NLAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Cardiff locator beacon, 388.5 kHz, is out of service at Cardiff.",
+ "summary_of": "dd55bf67e59a",
+ "text": "LOCATOR CDF/CARDIFF 388.5KHZ U/S",
+ "to": "2026-11-20T14:00Z",
+ "type": "N",
+ "upper": ""
+}

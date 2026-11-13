@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0667,
+  -0.6167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T09:31Z",
+ "from": "2026-11-13T08:00Z",
+ "id": "L7187/26",
+ "loc": [
+  "EGTC"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Cranfield email is out of service; permission requests must be made by telephone.",
+ "summary_of": "6cae5a4d85c3",
+ "text": "CRANFIELD EMAIL U/S. FOR PPR CTC ATC VIA TELEPHONE 01234 750005",
+ "to": "2026-11-13T19:00Z",
+ "type": "N",
+ "upper": ""
+}

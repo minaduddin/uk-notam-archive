@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T09:31Z",
+ "from": "2026-11-13T08:33Z",
+ "id": "Q624/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Airfield EGUL operating hours revised to Monday to Thursday 0800 to 2200 and Friday 0800 to 1800.",
+ "summary_of": "0cfbd48061f3",
+ "text": "REVISED AD OPR HR:\nMON-THU 0800-2200\nFRI 0800-1800\nCTC AD MANAGEMENT OR 48 FIGHTER WING COMMAND POST FOR ASSISTANCE",
+ "to": "2026-12-31T23:59Z",
+ "type": "N",
+ "upper": ""
+}

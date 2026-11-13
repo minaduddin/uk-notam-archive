@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6333,
+  -1.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T09:31Z",
+ "from": "2026-11-20T08:00Z",
+ "id": "Q613/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 70 ft above ground level, within 11 metres of a point near Benson, Oxfordshire.",
+ "summary_of": "39afa4955054",
+ "text": "CRANE OPR WI 11M RADIUS PSN 513734N 0010641W (BENSON, \nOXFORDSHIRE). MAX HGT 70FT AGL/ 250FT AMSL.",
+ "to": "2026-11-20T16:00Z",
+ "type": "N",
+ "upper": ""
+}
