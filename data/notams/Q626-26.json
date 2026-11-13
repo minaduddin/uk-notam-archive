@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.0,
+  -2.65
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T10:30Z",
+ "from": "2026-11-16T00:00Z",
+ "id": "Q626/26",
+ "loc": [
+  "EGDY"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "EGDY aerodrome open Monday to Wednesday 10:00 to 17:00 and 18:00 to 22:30, Thursday 10:00 to 17:00, closed Friday.",
+ "summary_of": "a05cc6efa997",
+ "text": "AD OPERATING HOURS:\nMON TO WED  1000-1700 AND 1800-2230       \nTHU         1000-1700    \nFRI         CLOSED",
+ "to": "2026-11-20T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.0,
+  -2.65
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T10:30Z",
+ "from": "2026-11-16T08:30Z",
+ "id": "B1869/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SEAH",
+ "radius": 30,
+ "removed": null,
+ "sched": "",
+ "summary": "Yeovilton lower airspace radar service is open Monday to Thursday 10:00 to 16:00 and closed on Fridays.",
+ "summary_of": "afb8b49b07f2",
+ "text": "YEOVILTON LOWER AIRSPACE RADAR SERVICE HOURS OF SERVICE ARE NOW:\nMON-THU 1000-1600\nFRI     CLOSED",
+ "to": "2026-11-20T13:00Z",
+ "type": "N",
+ "upper": ""
+}

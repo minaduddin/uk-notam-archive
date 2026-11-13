@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T10:30Z",
+ "from": "2026-11-16T08:00Z",
+ "id": "Q627/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 40 ft above ground, or 288 ft above sea level, operating near RAF Brize Norton.",
+ "summary_of": "2566e243383d",
+ "text": "CRANE OPR PSN 514527N 0013352W (RAF BRIZE NORTON). MAX HGT 40FT \nAGL / 288FT AMSL.)",
+ "to": "2026-11-16T16:30Z",
+ "type": "N",
+ "upper": ""
+}

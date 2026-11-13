@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.9667,
+  -2.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T10:30Z",
+ "from": "2026-11-13T09:00Z",
+ "id": "L7193/26",
+ "loc": [
+  "EGHA"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "EGHA aerodrome not available to aircraft needing a licensed aerodrome, as no rescue and firefighting cover is provided.",
+ "summary_of": "32d420c4c1d7",
+ "text": "AD NOT AVBL TO ACFT REQUIRING USE OF A LICENSED AD DUE NO RFFS\nCOVER",
+ "to": "2026-11-13T13:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.3833,
+  -4.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-13T10:30Z",
+ "from": "2026-11-17T09:00Z",
+ "id": "B1871/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "AECA",
+ "radius": 21,
+ "removed": null,
+ "sched": "0900-2015",
+ "summary": "Moray control areas 12 and 13 activated between 09:00 and 20:15 within 21 nautical miles of EGPX.",
+ "summary_of": "2660278f9b44",
+ "text": "MORAY CTA 12 AND CTA 13 ACTIVATED",
+ "to": "2026-11-20T20:15Z",
+ "type": "N",
+ "upper": ""
+}

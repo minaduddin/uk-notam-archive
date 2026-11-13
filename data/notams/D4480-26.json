@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.1,
+  -2.6333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-13T10:30Z",
+ "from": "2026-11-18T09:00Z",
+ "id": "D4480/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCD",
+ "radius": 14,
+ "removed": null,
+ "sched": "",
+ "summary": "Spadeadam danger areas EGD510A and EGD510B have been deactivated.",
+ "summary_of": "d4d0d0fbf1d4",
+ "text": "THE FOLLOWING DANGER AREAS ARE DEACTIVATED\nEGD510A SPADEADAM\nEGD510B SPADEADAM",
+ "to": "2026-11-18T13:30Z",
+ "type": "N",
+ "upper": "5500FT AMSL"
+}

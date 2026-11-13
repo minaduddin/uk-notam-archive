@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T10:30Z",
+ "from": "2026-11-13T09:30Z",
+ "id": "Q628/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "LBAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aeronautical identification beacon at EGVN is not working.",
+ "summary_of": "10ed01faed87",
+ "text": "AERONAUTICAL IDENTIFICATION BEACON U/S.",
+ "to": "2026-11-26T23:59Z",
+ "type": "N",
+ "upper": ""
+}
