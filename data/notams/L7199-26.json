@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5833,
+  -0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T19:53Z",
+ "from": "2026-11-20T18:00Z",
+ "id": "L7199/26",
+ "loc": [
+  "EGLD"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Denham aerodrome traffic zone is active and air traffic service hours are extended.",
+ "summary_of": "99f44ccfe0d4",
+ "text": "DENHAM ATZ ACTIVE AND ATS EXTENDED",
+ "to": "2026-11-20T22:00Z",
+ "type": "N",
+ "upper": ""
+}

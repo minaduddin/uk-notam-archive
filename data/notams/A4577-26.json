@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8667,
+  -0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T19:53Z",
+ "from": "2026-11-14T00:00Z",
+ "id": "A4577/26",
+ "loc": [
+  "EGGW"
+ ],
+ "lower": "",
+ "q": "FMLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Automatic weather observations at EGGW are unverified.",
+ "summary_of": "5815ba97197c",
+ "text": "AUTO MET OBSERVATIONS UNVERIFIED",
+ "to": "2026-11-14T04:00Z",
+ "type": "N",
+ "upper": ""
+}

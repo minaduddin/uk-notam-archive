@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8667,
+  -1.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T19:53Z",
+ "from": "2026-11-19T07:00Z",
+ "id": "C7491/26",
+ "loc": [
+  "EGNM"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 131 ft above ground near Leeds Bradford Airport.",
+ "summary_of": "b3287d07b11c",
+ "text": "CRANE OPR PSN 535210N 0013936W (LEEDS BRADFORD AD) MAX HGT 131FT \nAGL /788FT AMSL)",
+ "to": "2026-11-19T19:00Z",
+ "type": "N",
+ "upper": ""
+}

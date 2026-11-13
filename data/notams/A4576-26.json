@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5667,
+  0.6833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T19:53Z",
+ "from": "2026-11-17T08:00Z",
+ "id": "A4576/26",
+ "loc": [
+  "EGMC"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 32 ft above ground near Southend Airport.",
+ "summary_of": "3b0ec29437a8",
+ "text": "CRANE OPR PSN 513419.00N 0004106.00E (283 DEG MAG, 632M FM \nSOUTHEND ARP). MAX HGT 32FT AGL, 90FT AMSL",
+ "to": "2026-11-17T16:00Z",
+ "type": "N",
+ "upper": ""
+}

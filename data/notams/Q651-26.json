@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -1.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T19:53Z",
+ "from": "2026-11-13T18:40Z",
+ "id": "Q651/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGVA is open for official business only.",
+ "summary_of": "679708672b47",
+ "text": "AD OPEN. OFFICIAL BUSINESS ONLY.",
+ "to": "2026-11-13T19:30Z",
+ "type": "N",
+ "upper": ""
+}
