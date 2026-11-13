@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.45,
+  -3.0333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-13T16:53Z",
+ "from": "2026-11-14T08:45Z",
+ "id": "I7827/26",
+ "loc": [
+  "EGPN"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 2,
+ "removed": null,
+ "sched": "0845-0900, 1200-1245",
+ "summary": "Dundee aerodrome traffic zone deactivated and aerodrome closed.",
+ "summary_of": "f623f6542695",
+ "text": "DUNDEE ATZ DEACTIVATED. AD CLSD",
+ "to": "2026-11-14T12:45Z",
+ "type": "N",
+ "upper": ""
+}

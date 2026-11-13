@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -4.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T16:53Z",
+ "from": "2026-11-20T15:00Z",
+ "id": "J3628/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RTCS",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary restricted area for drones near Llanelli, Carmarthenshire, within 1 nautical mile, up to 1,400 feet.",
+ "summary_of": "35aee01b6bab",
+ "text": "RESTRICTED AREA (TEMPORARY) INSTALLED FOR UAS ONLY (LLANELLI,\nCARMARTHENSHIRE) WI 1NM RADIUS OF 514054N 0040950W. DOES NOT APPLY \nTO ANY UAS FLYING IN ACCORDANCE WITH EXCEPTIONS STATED IN THE \nBRIEFING SHEET BFS 130/2026 WITH CHART REFERS. FURTHER DETAILS \nWWW.NATS.AERO/AIS. RESTRICTION OF FLYING REGULATIONS MADE UNDER \nARTICLE 239 OF AIR NAV ORDER 2016. AR-2026-9234/01.",
+ "to": "2026-11-20T23:00Z",
+ "type": "N",
+ "upper": "1400FT AMSL"
+}

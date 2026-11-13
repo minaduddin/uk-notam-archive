@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.2667,
+  -2.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T16:53Z",
+ "from": "2026-11-16T09:00Z",
+ "id": "J4063/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary danger area EGD493 activated near EGTT, up to 7,000 feet, within 1 nautical mile.",
+ "summary_of": "2a5b1639bb21",
+ "text": "TEMPO DANGER AREA (TDA) EGD493 ACTIVATED. AIP SUP 066/2026 \nREFERS. EMERG SER ACCESS 0330 070 5185. FOR INFO/BOOKING \nINFO(AT)MENAPIA.TECH. AR-2026-3675/58.",
+ "to": "2026-11-16T16:30Z",
+ "type": "N",
+ "upper": "7000FT AMSL"
+}

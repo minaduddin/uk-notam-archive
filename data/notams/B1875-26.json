@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.65,
+  0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T16:53Z",
+ "from": "2026-11-16T08:00Z",
+ "id": "B1875/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SEAH",
+ "radius": 30,
+ "removed": null,
+ "sched": "",
+ "summary": "Radar service hours at Marham Lower Airspace Radar Service vary by day, Monday to Friday.",
+ "summary_of": "dbd5f4c8b6cd",
+ "text": "MARHAM LOWER AIRSPACE RADAR SERVICE HOURS\nMON - 1430-1545\nTUE - 0815-1600\nWED - 0800-1630\nTHU - 0845-1715\nFRI - 0845-1545",
+ "to": "2026-11-20T18:00Z",
+ "type": "N",
+ "upper": ""
+}
