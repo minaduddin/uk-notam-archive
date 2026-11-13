@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T14:53Z",
+ "from": "2026-11-16T14:00Z",
+ "id": "Q636/26",
+ "loc": [
+  "EGXC"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "MON 1400-1445, WED 1400-1445, THU 1330-1415",
+ "summary": "Diversion requests from non-based aircraft restricted to visual flight rules near EGXC, subject to air traffic control approval, on Mondays, Wednesdays and Thursdays.",
+ "summary_of": "5cab6c1edd2b",
+ "text": "DIVERSION REQUESTS FM NON-STN BASED ACFT LIMITED/RESTRICTED TO \nVFR \nONLY AND SUBJECT TO ATC PRIOR APPROVAL DUE TO STAFFING RESTRICTIONS",
+ "to": "2026-11-19T14:15Z",
+ "type": "N",
+ "upper": ""
+}

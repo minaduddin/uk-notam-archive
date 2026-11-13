@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.25,
+  -2.6667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-13T14:53Z",
+ "from": "2026-11-16T17:00Z",
+ "id": "M7701/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 191,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary reserved areas 007A, 007B, 008A, 008B and 008C activated near EGPX, between flight level 195 and flight level 245.",
+ "summary_of": "23c20985b68f",
+ "text": "THE FOLLOWING TRA ARE ACTIVATED:\nTRA 007A 1700-2100 FL195-FL245\nTRA 007B 1700-2100 FL195-FL245\nTRA 008A 1700-2100 FL195-FL245\nTRA 008B 1700-2100 FL195-FL245\nTRA 008C 1700-2100 FL195-FL245",
+ "to": "2026-11-16T21:00Z",
+ "type": "N",
+ "upper": "FL245"
+}

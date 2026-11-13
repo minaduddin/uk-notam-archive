@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9667,
+  0.9167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T14:53Z",
+ "from": "2026-11-16T18:00Z",
+ "id": "M7700/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 77,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary reserved area 003 activated near EGTT, between flight level 195 and flight level 245.",
+ "summary_of": "1baddb59866e",
+ "text": "TRA 003 ACTIVATED",
+ "to": "2026-11-16T20:00Z",
+ "type": "N",
+ "upper": "FL245"
+}

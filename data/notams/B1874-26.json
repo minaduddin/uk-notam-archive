@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T14:53Z",
+ "from": "2026-11-15T00:00Z",
+ "id": "B1874/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "ATXX",
+ "radius": 100,
+ "removed": null,
+ "sched": "",
+ "summary": "Low air pressure forecast over London, so pilots climbing or descending near major airports are urged to take extreme care.",
+ "summary_of": "ec646cffb405",
+ "text": "LOW ATMOSPHERIC PRESSURE IS FCST IN THE LONDON TMA.\nALL PILOTS, ESPECIALLY THOSE INBD TO OR OUBD FM HEATHROW,\nGATWICK, LUTON, STANSTED, LONDON CITY, BIRMINGHAM, BIGGIN\nHILL,SOUTHEND , OXFORD, FARNBOROUGH AND SOUTHAMPTON ARE TO EXER \nEXTREME CTN WHEN CLIMBING OR DESCENDING THROUGH THE TRL DUE TO SIG\nDIFFERENCE BTN THE AD QNH AND THE STD ATMOSPHERIC PRESSURE SETTING.",
+ "to": "2026-11-16T00:00Z",
+ "type": "N",
+ "upper": ""
+}

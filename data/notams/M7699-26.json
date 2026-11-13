@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.9667,
+  1.8
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T14:53Z",
+ "from": "2026-11-16T11:00Z",
+ "id": "M7699/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL050",
+ "q": "RDCA",
+ "radius": 48,
+ "removed": null,
+ "sched": "",
+ "summary": "Southern complex danger area EGD323E activated near EGTT, from flight level 50 up to flight level 660.",
+ "summary_of": "bf823c048970",
+ "text": "THE FOLLOWING SOUTHERN COMPLEX DANGER AREAS ARE ACTIVATED:\nEGD323E 1100-1200 FL050-FL660\nEGD323E 1200-1300 FL050-FL660\nEGD323E 1300-1430 FL050-FL660\nEGD323E 1430-1530 FL050-FL660\nEGD323E 1630-1730 FL050-FL660\nEGD323E 1730-1830 FL050-FL660\nEGD323E 1830-2030 FL050-FL660\nEGD323E 2030-2130 FL050-FL660",
+ "to": "2026-11-16T21:30Z",
+ "type": "N",
+ "upper": "FL660"
+}

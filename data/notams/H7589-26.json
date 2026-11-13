@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.8667,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T14:53Z",
+ "from": "2026-11-13T13:30Z",
+ "id": "H7589/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders operating within 2 nautical miles of Cullompton, Devon, up to 2,000 ft above ground level.",
+ "summary_of": "a32d9bf915f6",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS\nOPR WI 2NM RADIUS OF PSN 505214N 0032227W (CULLOMPTON, DEVON). \nLOW FLYING AREA 2 2000FT AGL. \nCTC 07887996862. 26/11/103/LFC",
+ "to": "2026-11-13T16:30Z",
+ "type": "N",
+ "upper": "2500FT AMSL"
+}
