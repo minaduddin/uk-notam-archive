@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5833,
+  0.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T23:40Z",
+ "from": "2026-11-13T22:40Z",
+ "id": "A4579/26",
+ "loc": [
+  "EGMC"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 22,
+ "removed": null,
+ "sched": "",
+ "summary": "Southend airspace restrictions deactivated, aerodrome closed and no air traffic services available.",
+ "summary_of": "144db3d46901",
+ "text": "SOUTHEND CTA, CTR, ATZ DEACTIVATED. AD CLOSED. NO ATS AVBL.",
+ "to": "2026-11-14T01:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4667,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T23:40Z",
+ "from": "2026-11-20T22:30Z",
+ "id": "A4351/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 82 ft above ground level at Heathrow, operating only when runway 09R/27L is closed.",
+ "summary_of": "4f462af7ae6c",
+ "text": "LIT CRANE OPR WI AREA BOUNDED BY: \n512742N 0002836W - 512742N 0002835W - 512743N 0002836W - \n512743N 0002837W - 512742N 0002836W (HEATHROW). MAX HGT 82FT AGL, \n160FT AMSL. NO CRANE OPR IN LVP. CRANE WILL ONLY OPERATE WHEN \n09R/27L IS CLSD REF 2026102885.",
+ "to": "2026-11-21T04:30Z",
+ "type": "N",
+ "upper": ""
+}
