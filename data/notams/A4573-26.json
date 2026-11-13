@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T18:50Z",
+ "from": "2026-11-13T23:00Z",
+ "id": "A4573/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Juliet closed between Taxiway Juliet 1 and Taxiway Golf at EGKK.",
+ "summary_of": "75a7f5a88d07",
+ "text": "TWY JULIET CLSD BTN JULIET 1 AND TWY GOLF",
+ "to": "2026-11-14T05:00Z",
+ "type": "N",
+ "upper": ""
+}

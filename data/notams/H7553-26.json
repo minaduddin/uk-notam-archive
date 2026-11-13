@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0,
+  -0.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T18:50Z",
+ "from": "2026-11-20T17:00Z",
+ "id": "H7553/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Flitwick.",
+ "summary_of": "00c2746070c2",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 520002N 0002951W (FLITWICK). FOR \nINFO 02034 220777. AR-2026-10803/01.",
+ "to": "2026-11-20T20:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T18:50Z",
+ "from": "2026-11-13T23:59Z",
+ "id": "A4575/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Romeo closed between Taxiways Kilo and Lima at EGKK.",
+ "summary_of": "0e3bda70cd8f",
+ "text": "TWY ROMEO CLSD BTN TWY KILO AND TWY LIMA",
+ "to": "2026-11-14T05:00Z",
+ "type": "N",
+ "upper": ""
+}

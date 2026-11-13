@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.05,
+  1.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T18:50Z",
+ "from": "2026-11-20T17:00Z",
+ "id": "H7534/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone swarm of 250 unmanned aircraft operating near Ipswich Wet Dock, Ipswich, up to 400 ft above ground.",
+ "summary_of": "ec217d67b979",
+ "text": "UAS SWARM OPR WI AREA BOUNDED BY 520252N 0010959E - \n520251N 0010949E - 520251N 0010939E - 520259N 0010935E - \n520309N 0010933E - 520308N 0010958E - 520300N 0010959E - \n520252N 0010959E (IPSWICH WET DOCK, IPSWICH). SWARM MADE UP OF 250 \nUAS. MAX HGT 400FT AGL. FOR INFO 07380 558915. AR-2026-10780/01.",
+ "to": "2026-11-20T23:59Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}
