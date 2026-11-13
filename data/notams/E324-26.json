@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.9333,
+  -2.8167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T07:11Z",
+ "from": "2026-11-20T06:00Z",
+ "id": "E324/26",
+ "loc": [
+  "EGNC"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGNC is not available to visiting aircraft because of an event.",
+ "summary_of": "62c3cbe2292e",
+ "text": "AD NOT AVBL TO VISITING ACFT DUE EVENT.",
+ "to": "2026-11-22T12:00Z",
+ "type": "N",
+ "upper": ""
+}

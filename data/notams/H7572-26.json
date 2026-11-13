@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.6,
+  -4.5
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-13T07:11Z",
+ "from": "2026-11-14T07:51Z",
+ "id": "H7572/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "FL100",
+ "q": "WGLW",
+ "radius": 129,
+ "removed": null,
+ "sched": "",
+ "summary": "Gliders may fly without a secondary surveillance radar transponder between 10,000 ft and 19,500 ft over an area of the Scottish Flight Information Region, from EGPX.",
+ "summary_of": "7e433abcd23d",
+ "text": "GLD FLY WO SSR TRANSPONDER WI 560000N 0070000W - 575000N 0070000W \n- 591500N 0040000W - 591500N 0020000W - 573000N 0020000W - \n560000N 0020000W - 560000N 0070000W (SCOTTISH FIR)",
+ "to": "2026-11-14T16:00Z",
+ "type": "N",
+ "upper": "FL195"
+}
