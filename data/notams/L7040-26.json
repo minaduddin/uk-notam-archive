@@ -14,7 +14,7 @@
  "lower": "",
  "q": "FALC",
  "radius": 5,
- "removed": null,
+ "removed": "2026-11-13T17:50Z",
  "sched": "06 13 0730-1700, 09 1700-1900, 10 0730-0900, 11 12 0730-0900 \n1700-1900",
  "summary": "Aerodrome EGNO closed on set days, including 0730-1700 and 1700-1900 periods.",
  "summary_of": "057f5c53d9c2",

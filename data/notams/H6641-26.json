@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.0667,
+  1.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T17:50Z",
+ "from": "2026-11-20T16:00Z",
+ "id": "H6641/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "NOV 20-DEC 24 1600-2200, DEC 26-JAN 02 1600-2200",
+ "summary": "Searchlight display within 1 nautical mile of Harringe Court, held daily between 4pm and 10pm.",
+ "summary_of": "7673bbd4c465",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 510429N 0005959E (HARRINGE\nCOURT).  FOR INFO 07798 861495 / 07790 223485. AR-2026-9403/01.",
+ "to": "2027-01-02T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.65,
+  -2.6833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T17:50Z",
+ "from": "2026-11-20T16:00Z",
+ "id": "H6269/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Chepstow, from ground level upwards.",
+ "summary_of": "26cc13ed949d",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 513852N 0024101W (CHEPSTOW).  FOR\nINFO 07517 443514. AR-2026-7837/01.",
+ "to": "2026-11-20T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

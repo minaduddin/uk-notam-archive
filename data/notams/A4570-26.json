@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T17:50Z",
+ "from": "2026-11-13T16:30Z",
+ "id": "A4570/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Echo unavailable for taxiing from runway 08L/26R at EGKK; aircraft leaving runway 26L must taxi east instead.",
+ "summary_of": "e2a0a97c3c89",
+ "text": "TWY ECHO NOT AVBL FOR TAXI FROM RWY 08L/26R. ALL ACFT VACATING \nRWY 26L VIA RAPID EXIT TWY ECHO ROMEO MUST TAXI EAST VIA RWY 08L/26R.",
+ "to": "2026-11-14T05:00Z",
+ "type": "N",
+ "upper": ""
+}

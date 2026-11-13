@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  0.6833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T17:50Z",
+ "from": "2026-11-20T16:30Z",
+ "id": "A3836/26",
+ "loc": [
+  "EGMC"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Hockley, from ground level upwards.",
+ "summary_of": "ea6fe399ce70",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 513654N 0004101E (HOCKLEY).  FOR\nINFO 07903 580772. AR-2026-9220/01.",
+ "to": "2026-11-20T20:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

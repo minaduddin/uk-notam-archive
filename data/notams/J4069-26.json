@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T17:50Z",
+ "from": "2026-11-17T08:30Z",
+ "id": "J4069/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL150",
+ "q": "RDCS",
+ "radius": 21,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary danger area EGD388 for drone flights beyond visual line of sight near Holbeach, between flight levels 150 and 195.",
+ "summary_of": "7b1b20ceb720",
+ "text": "TEMPO DANGER AREA (TDA) EGD388 INSTALLED WI AREA BOUNDED BY\n530528N 0001622W - 530122N 0000526E - 525843N 0001225E - \n524223N 0003855E THEN ANTI CLOCKWISE ARC 5NM CENTRED ON \n523854N 0003302E - 523600N 0002621E - 525205N 0000131W - \n525556N 0002123W - 530528N 0001622W (HOLBEACH). BEYOND VISUAL LINE \nOF SIGHT (BVLOS) UAS OPS CONTAINED WHOLLY WITHIN THE TDA. A SPECIAL \nUSE AIRSPACE CROSSING SERVICE (SUACS) WILL BE AVBL FM SWANWICK MIL \nON CH259.6 OR 133.325. FOR INFO 01489 612408. AR-2026-10638/07.",
+ "to": "2026-11-17T14:00Z",
+ "type": "N",
+ "upper": "FL195"
+}

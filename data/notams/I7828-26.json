@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.8667,
+  -3.2333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-13T17:50Z",
+ "from": "2026-11-16T09:00Z",
+ "id": "I7828/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Live firing within 0.3 nautical miles of Castlelaw Training Area, from ground level up to 1,600 feet.",
+ "summary_of": "4fce0f0258e9",
+ "text": "LIVE FIRING WI 0.3NM RADIUS OF 555145N 0031412W (CASTLELAW \nTRAINING AREA). FOR INFO 07966 159342. AR-2026-10859/01.",
+ "to": "2026-11-19T16:00Z",
+ "type": "N",
+ "upper": "1600FT AMSL"
+}

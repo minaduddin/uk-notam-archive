@@ -14,7 +14,7 @@
  "lower": "",
  "q": "AFXX",
  "radius": 28,
- "removed": null,
+ "removed": "2026-11-13T17:50Z",
  "sched": "09 10 11 12 0730-0900 1700-1900, 13 0730-1700",
  "summary": "Walney and Burbo Bank transponder zones deactivated at set times on several days.",
  "summary_of": "8d0e5c414318",

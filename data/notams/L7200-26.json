@@ -1,0 +1,25 @@
+{
+ "coord": [
+  49.9167,
+  -6.3
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T17:50Z",
+ "from": "2026-11-13T16:45Z",
+ "id": "L7200/26",
+ "loc": [
+  "EGHE"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "St Mary's aerodrome on the Isles of Scilly is closed and its traffic zone deactivated, except for search and rescue and emergency flights.",
+ "summary_of": "41847e8a233e",
+ "text": "SCILLY ISLES/ST MARYS ATZ DEACTIVATED, AD CLSD. AVBL TO SAR AND \nEMERGENCY FLIGHTS ONLY",
+ "to": "2026-11-13T17:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.05,
+  -5.9833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T17:50Z",
+ "from": "2026-11-13T16:50Z",
+ "id": "L7201/26",
+ "loc": [
+  "EGHC"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 21,
+ "removed": null,
+ "sched": "",
+ "summary": "Land's End radio mandatory zone and traffic zone deactivated, with air traffic services and the aerodrome closed.",
+ "summary_of": "fb63d498566c",
+ "text": "LAND'S END RADIO MANDATORY ZONE AND ATZ DEACTIVATED. ATS AND AD\nCLSD.",
+ "to": "2026-11-13T17:30Z",
+ "type": "N",
+ "upper": ""
+}
