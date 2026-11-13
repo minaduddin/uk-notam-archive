@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7333,
+  -3.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T21:46Z",
+ "from": "2026-11-13T20:11Z",
+ "id": "C7493/26",
+ "loc": [
+  "EGTE"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Exeter aerodrome traffic zone deactivated; air traffic service and aerodrome closed, though emergency rotary-wing aircraft may still operate.",
+ "summary_of": "1577b9917182",
+ "text": "EXETER ATZ DEACTIVATED. ATS AND AD CLOSED. BASED EMERGENCY ROTARY\nAIRCRAFT MAY STILL OPERATE",
+ "to": "2026-11-14T02:00Z",
+ "type": "N",
+ "upper": ""
+}

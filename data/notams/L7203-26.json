@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8333,
+  -1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T21:46Z",
+ "from": "2026-11-14T09:00Z",
+ "id": "L7203/26",
+ "loc": [
+  "EGTK"
+ ],
+ "lower": "",
+ "q": "IGAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Oxford landing system glide path unserviceable due to maintenance; only the runway 19 localiser approach is available.",
+ "summary_of": "b63ecba936ba",
+ "text": "ILS RWY  (I-OXF 108.350MHZ) GP U/S DUE MAINT. ILS RWY 19 LLZ\nONLY APCH.",
+ "to": "2026-11-14T12:00Z",
+ "type": "N",
+ "upper": ""
+}
