@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T05:58Z",
+ "from": "2026-11-13T04:52Z",
+ "id": "Q623/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "FFCG",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Reduced fire and rescue cover at EGUN, with three vehicles carrying 7,600 gallons of extinguishing agent.",
+ "summary_of": "3d89af628a82",
+ "text": "RFFS CAPABILITY RED, 03 VEHICLES/7600 GALLONS OF AGENT REDUCING\nTHE LVL OF SER. RFFS IS A REDUCED LEVEL OF SER FOR NATIONAL FIRE \nPROTECTION ASSOCIATION (NFPA) CAT 8 (KC-135, C-17, KC-46, B-1, B-2, \nB-52, 767). NFPA CAT 9 (KC-10, E-4, MD-11, 747, 777, VC-25) AND NFPA \nCAT 10 (C5, 787-8I) ARE AT REDUCED LVL OF SER. NFPA CAT 7 (RC-135, \nCV-22, C-130) REMAIN OPTIMUM LEVEL OF SER.",
+ "to": "2026-12-31T23:59Z",
+ "type": "R",
+ "upper": ""
+}
