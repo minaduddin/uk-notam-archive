@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6667,
+  -2.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T11:28Z",
+ "from": "2026-11-13T10:30Z",
+ "id": "L7194/26",
+ "loc": [
+  "EGBP"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 08/26 and grass runway 08/26 at EGBP subject to short notice closures due to aircraft testing.",
+ "summary_of": "192314a53bf5",
+ "text": "RWY 08/26 AND GRASS RWY 08/26 SUBJECT TO SHORT NOTICE CLOSURES DUE\nACFT TESTING",
+ "to": "2026-11-13T12:30Z",
+ "type": "N",
+ "upper": ""
+}

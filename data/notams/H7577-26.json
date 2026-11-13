@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.4833,
+  -4.7667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-13T11:28Z",
+ "from": "2026-11-17T08:02Z",
+ "id": "H7577/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone activity within 1 nautical mile of Glen Lochy, up to 400 ft above ground level, between sunrise and sunset.",
+ "summary_of": "1975086420f1",
+ "text": "UAS OPR WI 1NM RADIUS OF 562850N 0044544W (GLEN LOCHY). MAX HGT\n400FT AGL. FOR INFO 07990 850163. AR-2026-10860/01.",
+ "to": "2026-11-17T16:06Z",
+ "type": "N",
+ "upper": "3100FT AMSL"
+}

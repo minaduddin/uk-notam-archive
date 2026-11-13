@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3167,
+  -0.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T11:28Z",
+ "from": "2026-11-13T10:24Z",
+ "id": "L7196/26",
+ "loc": [
+  "EGLK"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Controlled burning east of the aerodrome boundary at EGLK.",
+ "summary_of": "f30fdc0c7817",
+ "text": "CONTROLLED BURNING EAST OF AD BOUNDARY",
+ "to": "2026-11-13T15:00Z",
+ "type": "N",
+ "upper": ""
+}

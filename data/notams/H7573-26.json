@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5667,
+  -3.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T11:28Z",
+ "from": "2026-11-16T07:45Z",
+ "id": "H7573/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone activity within 2 nautical miles of Loweswater, up to 400 ft above ground level, between sunrise and sunset.",
+ "summary_of": "9bcb1d1e3af8",
+ "text": "UAS OPR WI 2NM RADIUS OF 543340N 0031900W (LOWESWATER). MAX HGT\n400FT AGL. FOR INFO 07502 107645. AR-2026-10853/01.",
+ "to": "2026-11-19T16:06Z",
+ "type": "N",
+ "upper": "3200FT AMSL"
+}

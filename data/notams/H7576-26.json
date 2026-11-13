@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.3667,
+  -3.3833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-13T11:28Z",
+ "from": "2026-11-17T07:56Z",
+ "id": "H7576/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone activity within 1 nautical mile of a point near Tarsappie, up to 400 ft above ground level, between sunrise and sunset.",
+ "summary_of": "5de64bd3ea2f",
+ "text": "UAS OPR WI 1NM RADIUS OF 562148N 0032328W (0.7NM SE OF \nTARSAPPIE). MAX HGT 400FT AGL. FOR INFO 07723 661171. \nAR-2026-10858/01.",
+ "to": "2026-11-17T16:00Z",
+ "type": "N",
+ "upper": "1200FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.55,
+  -3.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T11:28Z",
+ "from": "2026-11-16T07:44Z",
+ "id": "H7574/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 4,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone activity in an area near Grange, up to 400 ft above ground level, between sunrise and sunset.",
+ "summary_of": "4b8c5de99672",
+ "text": "UAS OPR WI AREA BOUNDED BY 542957N 0031111W - 543018N 0031148W -\n543403N 0031123W - 543532N 0031021W - 543544N 0030629W - \n542959N 0030646W - 542957N 0031111W (GRANGE). MAX HGT 400FT AGL. FOR \nINFO 07502 107645. AR-2026-10854/01.",
+ "to": "2026-11-19T16:05Z",
+ "type": "N",
+ "upper": "2600FT AMSL"
+}
