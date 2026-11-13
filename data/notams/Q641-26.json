@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.65,
+  0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T15:48Z",
+ "from": "2026-11-16T00:00Z",
+ "id": "Q641/26",
+ "loc": [
+  "EGYM"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Marham aerodrome at EGYM operates on varying weekday hours and is closed at weekends.",
+ "summary_of": "d94006c6c3dc",
+ "text": "MARHAM AD OPR HOURS\nMON - 1430-1545\nTUE - 0815-1600\nWED - 0800-1630\nTHU - 0845-1715\nFRI - 0845-1545\nSAT/SUN - CLOSED",
+ "to": "2026-11-22T23:59Z",
+ "type": "N",
+ "upper": ""
+}

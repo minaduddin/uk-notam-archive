@@ -1,0 +1,26 @@
+{
+ "coord": [
+  55.0667,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-13T15:48Z",
+ "from": "2026-11-16T06:00Z",
+ "id": "H7600/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WYLW",
+ "radius": 999,
+ "removed": null,
+ "sched": "",
+ "summary": "Pipeline inspection flights across several low flying areas, including the Thames Valley avoidance area, up to 2,000 feet above ground level.",
+ "summary_of": "6cf1bf445a36",
+ "text": "PIPELINE INSPECTION NOTIFICATION PROCEDURE SYSTEM (PINS) WILL \nTAKE PLACE IN THE FOLLOWING LOW FLYING AREAS -4, 5, 8, 9, 10, 11N, \n11S, 12, 13, 14E, 16, 17 THAMES VALLEY AVOIDANCE AREA MAX HEIGHT \n2000FT AGL. 26/11/104/LFC",
+ "to": "2026-11-16T16:00Z",
+ "type": "N",
+ "upper": "6500FT AMSL"
+}

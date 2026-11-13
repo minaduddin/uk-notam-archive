@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.6833,
+  -6.2667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-13T15:48Z",
+ "from": "2026-11-13T15:30Z",
+ "id": "I7826/26",
+ "loc": [
+  "EGPI"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome at EGPI is closed, with a call-out procedure in place for search and rescue and air ambulance services.",
+ "summary_of": "2d83e219fa31",
+ "text": "AD CLOSED. CALL OUT PROCEDURE IN PLACE FOR SAR AND AIR AMBULANCE",
+ "to": "2026-11-13T17:00Z",
+ "type": "N",
+ "upper": ""
+}

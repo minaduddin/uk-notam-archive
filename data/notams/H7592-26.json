@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.0167,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T15:48Z",
+ "from": "2026-11-16T09:00Z",
+ "id": "H7592/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WLLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0900-1400",
+ "summary": "Weather balloon releases within 1 nautical mile of Ashbourne, from 0900 to 1400, from ground level upwards.",
+ "summary_of": "4eb71d4b8620",
+ "text": "MET BALLOON RELEASE/S WI 1NM RADIUS OF 530058N 0014431W \n(ASHBOURNE). THIS ACTIVITY WILL NOT BE WHOLLY CONTAINED WI LATERAL \nDIMENSION AS NOTIFIED.  \nFOR INFO 01142 131050 / 07753 650414. AR-2026-6767/10.",
+ "to": "2026-11-20T14:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

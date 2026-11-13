@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-13T15:48Z",
+ "from": "2026-11-16T08:00Z",
+ "id": "I7824/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "IGAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "0800-1800",
+ "summary": "Instrument landing system glide path for runway 25 is unserviceable at EGAA, from 0800 to 1800.",
+ "summary_of": "e953831c3eb4",
+ "text": "ILS GLIDEPATH RWY 25 U/S DUE WIP",
+ "to": "2026-11-18T18:00Z",
+ "type": "N",
+ "upper": ""
+}

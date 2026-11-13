@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.0333,
+  -0.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T15:48Z",
+ "from": "2026-11-15T09:00Z",
+ "id": "Q640/26",
+ "loc": [
+  "EGYD"
+ ],
+ "lower": "",
+ "q": "SPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Cranwell air traffic services and air traffic control are closed at EGYD, but the aerodrome traffic zone remains active.",
+ "summary_of": "102738a1a196",
+ "text": "CRANWELL ATS NOT AVBL, ATC CLSD. ATZ REMAINS ACTIVE",
+ "to": "2026-11-15T17:00Z",
+ "type": "N",
+ "upper": ""
+}

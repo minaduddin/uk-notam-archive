@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5,
+  0.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-13T15:48Z",
+ "from": "2026-11-15T12:30Z",
+ "id": "C7484/26",
+ "loc": [
+  "EGLC"
+ ],
+ "lower": "",
+ "q": "MRHW",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 09/27 at EGLC has ungrooved pavement patches, with seven patches between 50 and 1,234 metres from the runway 09 threshold.",
+ "summary_of": "0d6ef37a0d1f",
+ "text": "RWY 09/27 UNGROOVED PAVEMENT PATCHES PRESENT DUE WIP. ALL PATCHES\nLOCATED WI 7M EITHER SIDE OF RWY 09/27 CL. DISTANCES MEASURED FM\nRWY 09 THR TO START OF PATCH:\nPATCH ID 01: 50M FM RWY 09 THR - 10M X 5M - ON RCL\nPATCH ID 03: 310M FM RWY 09 THR - 23M X 3M - SOUTH OF RCL\nPATCH ID 05: 630M FM RWY 09 THR - 31M X 5M - NORTH OF RCL\nPATCH ID 06: 660M FM RWY 09 THR - 20M X 3M - SOUTH OF RCL\nPATCH ID 08: 990M FM RWY 09 THR - 94M X 5M - SOUTH OF RCL\nPATCH ID 09: 1077M FM RWY 09 THR - 12M X 3M - SOUTH OF RCL\nPATCH ID 13: 1234M FM RWY 09 THR - 117M X 3M - SOUTH OF RCL\nRWY FRICTION AND REMAINING GROOVING WI APPLICABLE AD MAINT\nCRITERIA. OPR TO DETERMINE APPLICABILITY OF GROOVED RWY PERFORMANCE\nCREDIT IN ASSOCIATION WITH PERFORMANCE DATA.",
+ "to": "2026-11-18T22:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-13T15:48Z",
+ "from": "2026-11-13T20:30Z",
+ "id": "I7825/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MRLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "13 14 16-20 23-26 2030-0500, 15 2030-0400",
+ "summary": "Runway 07/25 at EGAA is not available for landings, with runway 25 open for departures from taxiway Bravo only, during specified evening and night hours.",
+ "summary_of": "6a7abc34e1c2",
+ "text": "RWY 07/25 NOT AVBL FOR LANDING TFC. RWY 25 AVBL FOR DEP FROM TWY \nBRAVO ONLY",
+ "to": "2026-11-27T05:00Z",
+ "type": "N",
+ "upper": ""
+}
