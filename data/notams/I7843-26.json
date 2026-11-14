@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.9,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-14T19:20Z",
+ "from": "2026-11-15T00:20Z",
+ "id": "I7843/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 21,
+ "removed": null,
+ "sched": "",
+ "summary": "Edinburgh controlled airspace and aerodrome traffic zone deactivated, reverting to uncontrolled airspace, and aerodrome closed.",
+ "summary_of": "12e0d21c2f25",
+ "text": "EDINBURGH CTA, CTR AND ATZ DEACTIVATED. AIRSPACE REVERTS TO CLASS\nG. AD CLSD. ATC SER AVBL TO HELIMED, COASTGUARD AND POLICE HEL\nOPR TO AND FM FATO AREA. TO ACTIVATE FATO CTC 0131 344 3139.",
+ "to": "2026-11-15T04:50Z",
+ "type": "N",
+ "upper": ""
+}

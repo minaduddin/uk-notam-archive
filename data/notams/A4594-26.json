@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.35,
+  -2.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T19:20Z",
+ "from": "2026-11-16T22:30Z",
+ "id": "A4594/26",
+ "loc": [
+  "EGCC"
+ ],
+ "lower": "",
+ "q": "FUAU",
+ "radius": 5,
+ "removed": null,
+ "sched": "2230-0430",
+ "summary": "Aviation fuel unavailable at EGCC from 2230 to 0430 daily due to a system shutdown, within 5 nautical miles.",
+ "summary_of": "713ddff3a41f",
+ "text": "FUEL NOT AVBL DUE SYSTEM SHUTDOWN. ACFT SHOULD CONSIDER ADDN FUEL\nUPLIFT AT ORIGIN",
+ "to": "2026-11-20T04:30Z",
+ "type": "N",
+ "upper": ""
+}

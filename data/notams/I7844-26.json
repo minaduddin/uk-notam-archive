@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.55,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-14T19:20Z",
+ "from": "2026-11-15T13:30Z",
+ "id": "I7844/26",
+ "loc": [
+  "EGPE"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 3,
+ "removed": null,
+ "sched": "1330-1415, 1615-1700, 1900-1945",
+ "summary": "Inverness aerodrome traffic zone deactivated and aerodrome closed during daily controller rest periods, 1330-1415, 1615-1700 and 1900-1945.",
+ "summary_of": "fc27571f5704",
+ "text": "INVERNESS ATZ DEACTIVATED. AD CLSD FOR MANDATORY ATC CONTROLLER \nREST PERIOD. HELIMED AND COASTGUARD MAY STILL OPR FM HEL EMERG \nSERVICES BASES. PILOTS TRANSITTING THE AREA ARE ADVISED TO MONITOR \n122.605. TIMES MAY BE SUBJ TO SHORT NOTICE CHANGE. ALL DEP MUST BE \nAIRBORNE 15 MIN BEFORE CLOSURE.",
+ "to": "2026-11-15T19:45Z",
+ "type": "N",
+ "upper": ""
+}

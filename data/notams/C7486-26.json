@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.9667,
+  -1.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T19:20Z",
+ "from": "2026-11-21T18:45Z",
+ "id": "C7486/26",
+ "loc": [
+  "EGHI"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Fireworks display within half a nautical mile of Eastleigh, from ground level up to 200 feet above sea level.",
+ "summary_of": "446bf2c8adbc",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 505813N 0012117W (EASTLEIGH). FOR \nINFO 07436 874755 / 07879 295682. AR-2026-10848/01.",
+ "to": "2026-11-21T19:00Z",
+ "type": "N",
+ "upper": "200FT AMSL"
+}
