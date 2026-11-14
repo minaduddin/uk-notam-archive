@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8333,
+  -1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T12:47Z",
+ "from": "2026-11-14T11:44Z",
+ "id": "L7213/26",
+ "loc": [
+  "EGTK"
+ ],
+ "lower": "",
+ "q": "MXHW",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Works on the taxiway A shoulder at holding point A4 at EGTK, 1.5 to 26 metres east of the centreline.",
+ "summary_of": "7de585e5951c",
+ "text": "TWY A WIP ON SHOULDER AT HOLDING POINT A4 BTN 1.5M AND 26M E\nOF CL. CODE A ACFT AND HELI DEVIATE W OF CL AND MANOEUVRE WITH \nCAUTION. CODE B AND CODE C ACFT EXPECT FOLLOW-ME.",
+ "to": "2026-11-18T22:30Z",
+ "type": "N",
+ "upper": ""
+}

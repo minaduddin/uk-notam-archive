@@ -1,0 +1,26 @@
+{
+ "coord": [
+  54.9833,
+  -1.6333
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-14T12:47Z",
+ "from": "2026-11-21T11:30Z",
+ "id": "H7489/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations within 0.2 nautical miles of Leazes Park, Newcastle upon Tyne, up to 500 ft above ground.",
+ "summary_of": "30f19436342c",
+ "text": "UAS OPR WI 0.2NM RADIUS OF 545835N 0013731W (LEAZES PARK, \nNEWCASTLE UPON TYNE). MAX HGT 500FT AGL. FOR INFO 01992 924779. \nAR-2026-10705/02.",
+ "to": "2026-11-21T21:30Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}

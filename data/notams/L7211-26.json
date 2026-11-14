@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2,
+  -1.6167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T12:47Z",
+ "from": "2026-11-14T13:00Z",
+ "id": "L7211/26",
+ "loc": [
+  "EGBW"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway A closed at holding point Alpha at EGBW due to parked aircraft; runway 18 reached via holding point Bravo only.",
+ "summary_of": "1735140ef350",
+ "text": "TWY A CLSD AT HOLDING POINT ALPHA DUE PARKED ACFT, ACCESS TO RWY\n18 VIA HOLDING POINT BRAVO ONLY",
+ "to": "2026-11-14T18:00Z",
+ "type": "N",
+ "upper": ""
+}
