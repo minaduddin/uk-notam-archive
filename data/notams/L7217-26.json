@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4667,
+  -2.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T15:37Z",
+ "from": "2026-11-14T14:52Z",
+ "id": "L7217/26",
+ "loc": [
+  "EGCB"
+ ],
+ "lower": "",
+ "q": "SFXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Barton information service training taking place on frequency 120.255.",
+ "summary_of": "5f4f7a759602",
+ "text": "AFIS TRG ON BARTON INFORMATION CH120.255",
+ "to": "2026-11-18T16:00Z",
+ "type": "N",
+ "upper": ""
+}

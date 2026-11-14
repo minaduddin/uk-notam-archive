@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T15:37Z",
+ "from": "2026-11-14T14:55Z",
+ "id": "Q655/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "LXAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Foxtrot and Hotel centreline and edge lights out of service at EGVN.",
+ "summary_of": "743cf01e3b29",
+ "text": "TWY FOXTROT AND HOTEL CENTERLINE AND EDGE LIGHTS U/S",
+ "to": "2026-11-30T23:59Z",
+ "type": "N",
+ "upper": ""
+}

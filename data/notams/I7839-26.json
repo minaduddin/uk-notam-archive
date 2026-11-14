@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.8667,
+  -4.2667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-14T15:37Z",
+ "from": "2026-11-16T12:00Z",
+ "id": "I7839/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 22,
+ "removed": null,
+ "sched": "",
+ "summary": "Glasgow primary radar out of service for maintenance, so radar control in controlled airspace is limited to transponding aircraft.",
+ "summary_of": "35bde1e4d6ba",
+ "text": "GLASGOW PRIMARY RADAR U/S DUE MAINT. RADAR CONTROL SER INSIDE\nCONTROLLED AIRSPACE WILL BE PROVIDED BTN TRANSPONDING ACFT ONLY.\nINCREASED SEPARATION MINIMA IN USE. SRA NOT AVBL.",
+ "to": "2026-11-16T17:00Z",
+ "type": "N",
+ "upper": ""
+}

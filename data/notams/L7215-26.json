@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1167,
+  -3.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T15:37Z",
+ "from": "2026-11-16T16:00Z",
+ "id": "L7215/26",
+ "loc": [
+  "EGNR"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 9,
+ "removed": null,
+ "sched": "1600-2100",
+ "summary": "Hawarden radar service limited to pre-booked instrument flight rules traffic between 1600 and 2100 due to staff shortage.",
+ "summary_of": "b300eedb1d11",
+ "text": "HAWARDEN RADAR SER WILL BE AVBL FOR PRE BOOKED IFR TFC ONLY DUE ST\nAFF SHORTAGE. FOR ALL OTHER TFC HAWARDEN RADIO MANDATORY ZONE CRITERI\nA APPLY. HAWARDEN RADAR CH 120.055 WILL BE BAND-BOXED WITH HAWARDEN T\nWR PROVIDING A BASIC SER ONLY.",
+ "to": "2026-11-20T21:00Z",
+ "type": "N",
+ "upper": ""
+}
