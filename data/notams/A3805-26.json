@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.0667,
+  -0.0833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T17:35Z",
+ "from": "2026-11-21T16:00Z",
+ "id": "A3805/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2359",
+ "summary": "Lasers and searchlights within 1 nautical mile of a point just north-north-west of Ardingly, daily 1600 to 2359.",
+ "summary_of": "74e4069bb5db",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 510402N 0000522W (1NM NNW\nOF ARDINGLY). FOR INFO 07917 669060. AR-2026-9015/01.",
+ "to": "2027-01-02T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T17:35Z",
+ "from": "2026-11-14T16:22Z",
+ "id": "C7505/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 9,
+ "removed": null,
+ "sched": "",
+ "summary": "Bournemouth radar service unavailable, with approach control limited to procedural service only.",
+ "summary_of": "d65d564f5508",
+ "text": "BOURNEMOUTH RADAR SER NOT AVBL. APP SER LIMITED TO PROCEDURAL SER\nONLY",
+ "to": "2026-11-15T01:00Z",
+ "type": "N",
+ "upper": ""
+}
