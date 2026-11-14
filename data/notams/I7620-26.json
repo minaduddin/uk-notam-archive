@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.0167,
+  -1.6167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-14T01:59Z",
+ "from": "2026-11-21T00:00Z",
+ "id": "I7620/26",
+ "loc": [
+  "EGNT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane near Regent Farm, Newcastle upon Tyne, up to 180 feet above ground level.",
+ "summary_of": "c1e6b3581b5a",
+ "text": "LIT CRANE OPR PSN 550041N 0013723W (REGENT FARM, NEWCASTLE UPON\nTYNE) MAX HGT 180FT AGL, 374FT AMSL.",
+ "to": "2026-11-21T23:59Z",
+ "type": "N",
+ "upper": ""
+}

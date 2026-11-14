@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4667,
+  -2.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T01:59Z",
+ "from": "2026-11-21T00:00Z",
+ "id": "N958/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 379 feet above ground level near Manchester.",
+ "summary_of": "98c8cee01ffc",
+ "text": "CRANE OPR PSN 532810N 0021426W (MANCHESTER) UP TO 379FT\nAGL/499FT AMSL. FOR INFO CONTACT 07854 888796. AR-2026-10797/01.",
+ "to": "2026-11-22T23:59Z",
+ "type": "N",
+ "upper": ""
+}
