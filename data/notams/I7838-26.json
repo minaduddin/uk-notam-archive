@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.8667,
+  -4.2667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-14T14:42Z",
+ "from": "2026-11-16T12:00Z",
+ "id": "I7838/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "SPLC",
+ "radius": 22,
+ "removed": null,
+ "sched": "",
+ "summary": "Radar at Glasgow is out of service for maintenance, so air traffic control inside controlled airspace will only see transponding aircraft.",
+ "summary_of": "a2cf2637cd8e",
+ "text": "GLASGOW PRIMARY RADAR U/S DUE MAINT. RADAR CONTROL SER INSIDE\nCONTROLLED AIRSPACE WILL BE PROVIDED BTN TRANSPONDING ACFT ONLY.\nINCREASED SEPARATION MINIMA IN USE. SRA NOT AVBL.",
+ "to": "2026-11-16T17:00Z",
+ "type": "N",
+ "upper": ""
+}

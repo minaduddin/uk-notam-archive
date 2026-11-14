@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.8167,
+  -1.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T14:42Z",
+ "from": "2026-11-15T09:00Z",
+ "id": "L7214/26",
+ "loc": [
+  "EGHF"
+ ],
+ "lower": "",
+ "q": "SFLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "The aerodrome information service at EGHF has been reduced to a basic air-to-ground radio communications service.",
+ "summary_of": "a9b161c757a2",
+ "text": "AFIS DOWNGRADED TO A/G COM SERVICE",
+ "to": "2026-11-15T18:00Z",
+ "type": "N",
+ "upper": ""
+}

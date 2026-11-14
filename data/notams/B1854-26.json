@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.45,
+  -1.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T14:42Z",
+ "from": "2026-11-21T13:00Z",
+ "id": "B1854/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "GWXX",
+ "radius": 8,
+ "removed": null,
+ "sched": "",
+ "summary": "Satellite navigation jamming near Coventry may affect aircraft within 6 nautical miles, from the surface up to 36,700 feet.",
+ "summary_of": "d3aab22eea9e",
+ "text": "GNSS (GPS) SIGNAL AND RADIO FREQUENCY JAMMING. JAMMERS LOCATED WI\n1NM RADIUS PSN 522653N 0012949W (COVENTRY). ACTIVITY MAY AFFECT\nACFT WI 6NM SFC TO 36700FT AMSL OR ABOVE (ALL DIRECTIONS). MAY\nALSO AFFECT AIRBORNE ELECTRONIC SITUATIONAL AWARENESS DEVICES AND\nUAS CONTROL. GNSS (GPS) RECEIVERS MAY SUFFER INTERMITTENT / TOTAL\nFAILURE OR GIVE INCORRECT POSITION INFO. SOME ELECTRONIC\nSITUATIONAL AWARENESS DEVICES AND UAS SYSTEMS MAY SUFFER\nINTERMITTENT / TOTAL FAILURE OR GIVE INCORRECT NOTIFICATION. FOR\nINFO / CEASE JAMMING 07387 098242 / 07823 427514. AR-2026-6729/01.",
+ "to": "2026-11-21T18:00Z",
+ "type": "N",
+ "upper": ""
+}
