@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.55,
+  -2.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T11:37Z",
+ "from": "2026-11-21T10:30Z",
+ "id": "H6146/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Model rocket firing within 1 nautical mile of Redwick, up to 3,700 feet above sea level.",
+ "summary_of": "a3a588106acd",
+ "text": "MODEL ROCKET FIRING WI 1NM RADIUS OF 513326N 0025040W (REDWICK).\nFOR INFO 07772 185526. AR-2026-159/01.",
+ "to": "2026-11-21T16:00Z",
+ "type": "N",
+ "upper": "3700FT AMSL"
+}

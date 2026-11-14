@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.35,
+  -2.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T11:37Z",
+ "from": "2026-11-15T00:00Z",
+ "id": "B1876/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "ATXX",
+ "radius": 100,
+ "removed": null,
+ "sched": "",
+ "summary": "Caution for pilots around Manchester and the Midlands about forecast low atmospheric pressure and the gap between local and standard pressure settings.",
+ "summary_of": "0e523c7e5b8c",
+ "text": "CAUTION - LOW ATMOSPHERIC PRESSURE IS FORECAST IN THE MANCHESTER\nAND MIDLANDS AREA OF THE UK. ALL PILOTS, ESPECIALLY THOSE INBD TO\nOR OUBD FM MANCHESTER, LIVERPOOL, HAWARDEN, LEEDS, BIRMINGHAM,\nOXFORD, EAST MIDLANDS, COVENTRY, ISLE OF MAN, HUMBERSIDE, BLACKPOOL,\nAND WARTON ARE TO EXER CTN WHEN DES OR CMB THROUGH THE TRL/ALT DUE\nTO THE SIG DIFFERENCE BTN THE AD QNH AND THE STD PRESSURE SETTING.",
+ "to": "2026-11-15T11:59Z",
+ "type": "N",
+ "upper": ""
+}

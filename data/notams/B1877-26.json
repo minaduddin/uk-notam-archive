@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.0,
+  -3.8333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-14T11:37Z",
+ "from": "2026-11-15T00:00Z",
+ "id": "B1877/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "ATXX",
+ "radius": 120,
+ "removed": null,
+ "sched": "",
+ "summary": "Caution for pilots in the Scottish area about forecast low atmospheric pressure, especially around Glasgow, Edinburgh and Prestwick.",
+ "summary_of": "b7f02d5771d7",
+ "text": "CAUTION - LOW ATMOSPHERIC PRESSURE IS FORECAST IN THE SCOTTISH\nTMA. ALL PILOTS, ESPECIALLY THOSE INBD TO OR OUBD FM GLASGOW,\nEDINBURGH, PRESTWICK, ABERDEEN, NEWCASTLE, BELFAST ALDERGROVE\nAND BELFAST CITY ARE TO EXER CTN WHEN DES OR CMB THROUGH THE\nTRL/ALT DUE TO THE SIG DIFFERENCE BTN THE AD QNH AND THE STD\nPRESSURE SETTING.",
+ "to": "2026-11-15T11:59Z",
+ "type": "N",
+ "upper": ""
+}
