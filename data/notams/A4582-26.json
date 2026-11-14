@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.3333,
+  -2.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T07:59Z",
+ "from": "2026-11-14T06:37Z",
+ "id": "A4582/26",
+ "loc": [
+  "EGGP"
+ ],
+ "lower": "",
+ "q": "FWAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "At EGGP, the wind speed sensor at the runway 27 threshold is out of service, and an upwind sensor is in use instead.",
+ "summary_of": "067ce1509b04",
+ "text": "RWY 27 THRESHOLD ANIMOMETER U/S. UPWIND ANIMOMETER IN USE",
+ "to": "2026-11-14T23:59Z",
+ "type": "N",
+ "upper": ""
+}
