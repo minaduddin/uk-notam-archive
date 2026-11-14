@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.5,
+  -1.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T13:50Z",
+ "from": "2026-11-21T12:00Z",
+ "id": "C7390/26",
+ "loc": [
+  "EGBB"
+ ],
+ "lower": "",
+ "q": "GWXX",
+ "radius": 8,
+ "removed": null,
+ "sched": "",
+ "summary": "GPS and radio jamming may affect aircraft within 6 nautical miles of Birmingham Airport, from ground level up to 36,900 ft.",
+ "summary_of": "3fd45fa384ad",
+ "text": "GNSS (GPS) SIGNAL AND RADIO FREQ JAMMING. JAMMERS LOCATED WI 1NM \nPSN 523026N 0015248W (ASTON). ACT MAY AFFECT ACFT WI 6NM SFC TO \n36900FT AMSL OR ABOVE (ALL DIRECTIONS). MAY ALSO AFFECT AIRBORNE \nELECTRONIC SITUATIONAL AWARENESS DEVICES AND UAS CTL. GNSS (GPS) \nRECEIVERS MAY SUFFER INTERMITTENT / TOTAL FAILURE OR GIVE INCORRECT \nPSN INFO. SOME ELECTRONIC SITUATIONAL AWARENESS DEVICES AND UAS \nSYSTEMS MAY SUFFER\nINTERMITTENT / TOTAL FAILURE OR GIVE INCORRECT NOTIFICATION. FOR\nINFO / CEASE JAMMING 07387 098325 / 07823 427514. AR-2026-6719/01.",
+ "to": "2026-11-21T19:00Z",
+ "type": "N",
+ "upper": ""
+}
