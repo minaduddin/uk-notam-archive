@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.0,
+  -3.4667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-14T20:11Z",
+ "from": "2026-11-21T19:15Z",
+ "id": "I7626/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Fireworks within half a nautical mile of Queensferry, from ground level up to 1000 feet.",
+ "summary_of": "0a3b724354ea",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 555945N 0032733W (QUEENSFERRY). FOR\nINFO 07727 439664 / 07900 438939. AR-2026-10424/01.",
+ "to": "2026-11-21T20:15Z",
+ "type": "N",
+ "upper": "1000FT AMSL"
+}
