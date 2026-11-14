@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.9667,
+  -2.9333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-14T16:39Z",
+ "from": "2026-11-21T15:00Z",
+ "id": "H6858/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1500-1600, 1845-1945",
+ "summary": "Laser display within 1 nautical mile of Cockenzie, 1500–1600 and 1845–1945.",
+ "summary_of": "b9e669bcd778",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 555805N 0025544W (COCKENZIE). FOR\nINFO 07889 907696. AR-2026-9754/01.",
+ "to": "2026-11-21T19:45Z",
+ "type": "N",
+ "upper": "UNL"
+}

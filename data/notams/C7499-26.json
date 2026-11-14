@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T16:39Z",
+ "from": "2026-11-15T20:00Z",
+ "id": "C7499/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "SPLC",
+ "radius": 9,
+ "removed": null,
+ "sched": "",
+ "summary": "Bournemouth approach and radar service unavailable within 9 nautical miles.",
+ "summary_of": "92ea65fc9f14",
+ "text": "BOURNEMOUTH APP AND RADAR SER NOT AVBL.",
+ "to": "2026-11-16T01:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.0333,
+  -7.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-14T16:39Z",
+ "from": "2026-11-14T20:30Z",
+ "id": "I7842/26",
+ "loc": [
+  "EGAE"
+ ],
+ "lower": "",
+ "q": "AECA",
+ "radius": 14,
+ "removed": null,
+ "sched": "",
+ "summary": "Londonderry/Eglinton control area and aerodrome traffic zone activated within 14 nautical miles, with all movements by prior permission only.",
+ "summary_of": "d9633da2d440",
+ "text": "LONDONDERRY/EGLINTON CTA/ATZ ACTIVATED, ATS, ATIS, AD, RFFS HR OF\nOPS EXTD. ALL MOVEMENTS STRICTLY PPR. CTC ATC +44 2871 813314",
+ "to": "2026-11-14T21:45Z",
+ "type": "N",
+ "upper": ""
+}
