@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1167,
+  -3.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T09:44Z",
+ "from": "2026-11-21T08:00Z",
+ "id": "L6401/26",
+ "loc": [
+  "EGNL"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-1800",
+ "summary": "Crane up to 145 feet above sea level near Barrow-in-Furness, daily from 0800 to 1800.",
+ "summary_of": "b0e54c742f93",
+ "text": "CRANE OPR PSN 540707.75N 0031602.14W (BARROW-IN-FURNESS) \nHGT 145FT AMSL, 105FT AGL",
+ "to": "2026-11-22T18:00Z",
+ "type": "N",
+ "upper": ""
+}

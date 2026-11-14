@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.9667,
+  -2.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T09:44Z",
+ "from": "2026-11-21T08:30Z",
+ "id": "L7167/26",
+ "loc": [
+  "EGHA"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGHA closed.",
+ "summary_of": "7af24637acbd",
+ "text": "AD CLSD",
+ "to": "2026-11-21T10:30Z",
+ "type": "N",
+ "upper": ""
+}
