@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T22:11Z",
+ "from": "2026-11-14T21:26Z",
+ "id": "Q658/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "LPXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "The visual glide slope lights on the south side of runway 07 at EGVN are unreliable.",
+ "summary_of": "bacb7cc8a5d7",
+ "text": "PAPI RWY 07 SOUTH SIDE UNRELIABLE.",
+ "to": "2026-11-16T23:59Z",
+ "type": "N",
+ "upper": ""
+}
