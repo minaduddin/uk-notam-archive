@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3167,
+  -0.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T18:10Z",
+ "from": "2026-11-21T17:00Z",
+ "id": "H7554/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile radius of Warlingham, from ground level upward.",
+ "summary_of": "1be781a502ec",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 511834N 0000321W (WARLINGHAM). FOR \nINFO 02034 220777. AR-2026-10804/01.",
+ "to": "2026-11-21T20:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

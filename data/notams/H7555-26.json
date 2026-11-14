@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4,
+  -2.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T18:10Z",
+ "from": "2026-11-21T17:00Z",
+ "id": "H7555/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile radius of Woolston, from ground level upward.",
+ "summary_of": "32a991f9a5d2",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 532400N 0023253W (WOOLSTON). FOR \nINFO 02034 220777. AR-2026-10805/01.",
+ "to": "2026-11-21T21:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

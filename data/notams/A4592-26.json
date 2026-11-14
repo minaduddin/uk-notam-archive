@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.35,
+  -2.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T18:10Z",
+ "from": "2026-11-16T22:30Z",
+ "id": "A4592/26",
+ "loc": [
+  "EGCC"
+ ],
+ "lower": "",
+ "q": "FUAU",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Fuel is unavailable at EGCC because of a system shutdown, so aircraft should consider uplifting extra fuel at their origin.",
+ "summary_of": "60c68444b9c6",
+ "text": "FUEL NOT AVBL DUE SYSTEM SHUTDOWN. ACFT SHOULD CONSIDER ADDN FUEL \nUPLIFT AT ORIGIN",
+ "to": "2026-11-20T04:30Z",
+ "type": "N",
+ "upper": ""
+}

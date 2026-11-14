@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6667,
+  -5.6667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-14T18:10Z",
+ "from": "2026-11-21T17:00Z",
+ "id": "H7428/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "High-power searchlight display within 1 nautical mile radius of Bangor, with no upper or lower limit given.",
+ "summary_of": "2af238236e50",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 543949N 0054001W (BANGOR).\nHIGH POWER SEARCHLIGHT OPR. FOR INFO 07714 765512 / 07801 098708.\nAR-2026-10607/01.",
+ "to": "2026-11-21T22:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

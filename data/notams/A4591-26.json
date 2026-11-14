@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T18:10Z",
+ "from": "2026-11-14T17:00Z",
+ "id": "A4591/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGKK has reached its aircraft parking stand capacity, so diverting aircraft may expect remote parking and delayed ground handling services.",
+ "summary_of": "24d50f7eea3b",
+ "text": "AD HAS REACHED ACFT PARKING STAND CAPACITY. DIVERSION ACFT SHOULD \nEXPECT REMOTE CONTINGENCY PARKING AND DELAYED GROUND HANDLING SER.",
+ "to": "2026-11-15T06:00Z",
+ "type": "N",
+ "upper": ""
+}
