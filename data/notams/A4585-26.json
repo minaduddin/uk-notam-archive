@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.3333,
+  -2.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T10:41Z",
+ "from": "2026-11-14T09:27Z",
+ "id": "A4585/26",
+ "loc": [
+  "EGGP"
+ ],
+ "lower": "",
+ "q": "FWAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Anemometer at the runway 27 threshold at EGGP is unserviceable; an upwind anemometer is in use instead.",
+ "summary_of": "3c60aa5059ee",
+ "text": "ANEMOMETER RWY 27 THR U/S. UPWIND ANEMOMETER IN USE",
+ "to": "2026-11-14T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T10:41Z",
+ "from": "2026-11-18T06:00Z",
+ "id": "A4588/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "0600-1450",
+ "summary": "Entry and exit points A1, A2 and A3 for runways 09L and 27R at EGLL are closed daily from 0600 to 1450.",
+ "summary_of": "b3cd3e3f7606",
+ "text": "ENTRY/EXIT A1/A2/A3 RWY 09L/27R CLSD.",
+ "to": "2026-11-20T14:50Z",
+ "type": "N",
+ "upper": ""
+}

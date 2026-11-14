@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5833,
+  0.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T10:41Z",
+ "from": "2026-11-14T09:10Z",
+ "id": "A4584/26",
+ "loc": [
+  "EGMC"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 22,
+ "removed": null,
+ "sched": "",
+ "summary": "Primary radar at Southend Airport is out of service, so controllers cannot advise on unidentified aircraft not transmitting transponder information.",
+ "summary_of": "3d544193440f",
+ "text": "SOUTHEND PSR U/S. SSR ONLY ATC UNABLE TO PASS ADVICE ON UNKNOWN\nACFT THAT ARE NOT DISPLAYING TRANSPONDER INFORMATION",
+ "to": "2026-11-14T12:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T10:41Z",
+ "from": "2026-11-14T10:00Z",
+ "id": "A4583/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "FWAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Windsock on runway 08R at EGKK is unserviceable.",
+ "summary_of": "18c825117b84",
+ "text": "WINDSOCK RWY 08R U/S",
+ "to": "2026-11-14T12:00Z",
+ "type": "N",
+ "upper": ""
+}
