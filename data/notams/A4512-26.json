@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2167,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-14T08:49Z",
+ "from": "2026-11-21T07:00Z",
+ "id": "A4512/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unmanned aircraft operations from surface up to 413 ft above sea level within 0.1 nautical mile of a point near Cambridge.",
+ "summary_of": "50af896c3576",
+ "text": "UAS OPR WI 0.1NM RADIUS OF PSN 521257N 0001103E (CAMBRIDGE). SFC \nTO 413FT AMSL/ 400FT AGL.",
+ "to": "2026-11-21T08:00Z",
+ "type": "N",
+ "upper": "413FT AMSL"
+}
