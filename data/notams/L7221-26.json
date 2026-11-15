@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3167,
+  -0.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T08:05Z",
+ "from": "2026-11-15T07:00Z",
+ "id": "L7221/26",
+ "loc": [
+  "EGLK"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 07/25 closed for essential repair at EGLK.",
+ "summary_of": "0ac55ce22d46",
+ "text": "RWY 07/25 CLSD FOR ESSENTIAL REPAIR",
+ "to": "2026-11-15T08:30Z",
+ "type": "N",
+ "upper": ""
+}

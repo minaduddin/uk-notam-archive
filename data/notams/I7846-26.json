@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.55,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-15T08:05Z",
+ "from": "2026-11-15T16:15Z",
+ "id": "I7846/26",
+ "loc": [
+  "EGPE"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 3,
+ "removed": null,
+ "sched": "1615-1700 1900-1945",
+ "summary": "Inverness aerodrome closed during daily controller rest periods, 1615 to 1700 and 1900 to 1945; helicopter emergency and coastguard flights may still operate.",
+ "summary_of": "f70d5e27e4d8",
+ "text": "INVERNESS ATZ DEACTIVATED. INVERNESS AD CLOSED FOR MANDATORY ATC \nCONTROLLER REST PERIOD.HELIMED AND COASTGUARD MAY STILL OPR FM THE \nHEL EMERG SERVICES BASES. PILOTS TRANSITTING THE AREA ARE ADVISED TO \nMONITOR 122.605MHZ. TIMES MAY BE SUBJECT TO SHORT NOTICE CHANGE. ALL \nDEPS MUST BE AIRBORNE 15 MIN BEFORE CLOSURE.",
+ "to": "2026-11-15T19:45Z",
+ "type": "N",
+ "upper": ""
+}
