@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2167,
+  -6.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-15T23:13Z",
+ "from": "2026-11-15T23:00Z",
+ "id": "I7861/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Stornoway aerodrome traffic zone active, with aerodrome, flight information and weather services open and prior permission required.",
+ "summary_of": "82c15fb24a1c",
+ "text": "STORNOWAY ATZ ACTIVE. AD/FIS/MET SERVICE OPEN. RFFS CAT 3 AVBL. AD\nREMAINS PPR.",
+ "to": "2026-11-15T23:59Z",
+ "type": "N",
+ "upper": ""
+}
