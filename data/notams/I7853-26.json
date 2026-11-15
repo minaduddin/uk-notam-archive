@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.45,
+  -3.0333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-15T14:43Z",
+ "from": "2026-11-17T08:45Z",
+ "id": "I7853/26",
+ "loc": [
+  "EGPN"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 2,
+ "removed": null,
+ "sched": "0845-0915",
+ "summary": "Dundee airspace zone around the aerodrome deactivated and aerodrome closed, within 2 nautical miles.",
+ "summary_of": "4e9e629cb73c",
+ "text": "DUNDEE ATZ DEACTIVATED, AD CLSD.",
+ "to": "2026-11-18T09:15Z",
+ "type": "N",
+ "upper": ""
+}
