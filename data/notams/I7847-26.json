@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.4833,
+  -7.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-15T09:46Z",
+ "from": "2026-11-15T08:35Z",
+ "id": "I7847/26",
+ "loc": [
+  "EGPL"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Benbecula airport traffic zone is active; aerodrome use is strictly by prior permission.",
+ "summary_of": "f42d0710f87b",
+ "text": "BENBECULA ATZ ACTIVE. AD/APP/TWR/ATIS/MET ADDN HR OF OPS. AD \nREMAINS STRICTLY PPR.",
+ "to": "2026-11-15T10:30Z",
+ "type": "N",
+ "upper": ""
+}

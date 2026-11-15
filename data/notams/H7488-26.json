@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.75,
+  -0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T09:46Z",
+ "from": "2026-11-22T08:00Z",
+ "id": "H7488/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations within 0.2 nautical miles of Kingston upon Hull, up to 500 ft above ground level.",
+ "summary_of": "029785f24d04",
+ "text": "UAS OPR WI 0.2NM RADIUS OF 534457N 0002157W (KINGSTON UPON HULL).\nMAX HGT 500FT AGL. FOR INFO 01992 924779. AR-2026-10706/01.",
+ "to": "2026-11-22T18:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}
