@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.0333,
+  -1.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-15T11:39Z",
+ "from": "2026-11-15T10:00Z",
+ "id": "I7850/26",
+ "loc": [
+  "EGNT"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "15 0000-2359, 16 0000-1700, 17-27 0800-1700",
+ "summary": "Aircraft parking stand 6 closed at EGNT due to work in progress, on a daily schedule.",
+ "summary_of": "4fe8a5e87f08",
+ "text": "STAND 6 CLSD DUE WIP",
+ "to": "2026-11-27T17:00Z",
+ "type": "R",
+ "upper": ""
+}

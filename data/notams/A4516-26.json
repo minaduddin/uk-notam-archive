@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4333,
+  -2.9667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T11:39Z",
+ "from": "2026-11-22T10:30Z",
+ "id": "A4516/26",
+ "loc": [
+  "EGGP"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity within 0.2 nautical miles of Anfield, Liverpool, up to 500 feet above ground level.",
+ "summary_of": "0f3384fe1611",
+ "text": "UAS OPR WI 0.2NM RADIUS OF 532557N 0025733W (ANFIELD, LIVERPOOL). \nMAX HGT 500FT AGL. FOR INFO 01992 924779. AR-2026-10707/01.",
+ "to": "2026-11-22T20:30Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}
