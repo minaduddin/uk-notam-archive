@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T12:49Z",
+ "from": "2026-11-15T15:30Z",
+ "id": "B1880/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SEAU",
+ "radius": 30,
+ "removed": null,
+ "sched": "",
+ "summary": "Bournemouth lower airspace radar service is not available within 30 nautical miles.",
+ "summary_of": "0e0e57e10ec7",
+ "text": "BOURNEMOUTH LOWER AIRSPACE RADAR SERVICE NOT AVBL",
+ "to": "2026-11-15T20:00Z",
+ "type": "N",
+ "upper": ""
+}
