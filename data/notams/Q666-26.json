@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.55,
+  -0.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T19:21Z",
+ "from": "2026-11-15T18:32Z",
+ "id": "Q666/26",
+ "loc": [
+  "EGWU"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome closed at location code EGWU.",
+ "summary_of": "e0ff21a86a2e",
+ "text": "AD CLSD",
+ "to": "2026-11-15T22:00Z",
+ "type": "N",
+ "upper": ""
+}

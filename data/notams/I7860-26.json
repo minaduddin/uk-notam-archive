@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.4833,
+  -7.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-15T19:21Z",
+ "from": "2026-11-15T19:00Z",
+ "id": "I7860/26",
+ "loc": [
+  "EGPL"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Benbecula aerodrome traffic zone activated, with additional operating hours for the aerodrome, approach, tower and information service.",
+ "summary_of": "f8c97d6ce45a",
+ "text": "BENBECULA ATZ ACTIVATED. AD/APP/TWR/ATIS ADDN HR OPS.",
+ "to": "2026-11-15T19:30Z",
+ "type": "N",
+ "upper": ""
+}
