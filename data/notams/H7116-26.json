@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.4,
+  -3.4167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-15T15:38Z",
+ "from": "2026-11-22T14:00Z",
+ "id": "H7116/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Swarm of 100 drones flying within 1 nautical mile of Perth, up to 600 ft above ground.",
+ "summary_of": "73083d27c0d6",
+ "text": "UAS SWARM OPR WI 1NM RADIUS OF 562348N 0032524W (PERTH). SWARM\nMADE UP OF 100 UAS. MAX HGT 600FT AGL. FOR INFO 07412 220027.\nAR-2026-10167/01.",
+ "to": "2026-11-22T23:59Z",
+ "type": "N",
+ "upper": "1400FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8333,
+  -2.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T15:38Z",
+ "from": "2026-11-15T14:40Z",
+ "id": "L7226/26",
+ "loc": [
+  "EGCV"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGCV not available to aircraft that need a licensed aerodrome, as its air-ground radio station is closed.",
+ "summary_of": "69702feb43f7",
+ "text": "AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE A/G \nCLSD.",
+ "to": "2026-11-15T16:30Z",
+ "type": "N",
+ "upper": ""
+}
