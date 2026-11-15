@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.4833,
+  -7.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-15T16:41Z",
+ "from": "2026-11-15T15:57Z",
+ "id": "I7857/26",
+ "loc": [
+  "EGPL"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Benbecula aerodrome traffic zone, 2 nautical miles radius, activated for additional aerodrome operations.",
+ "summary_of": "bf7cb5ed5b50",
+ "text": "BENBECULA ATZ ACTIVATED. AD/APP/TWR/ATIS ADDN OPS.",
+ "to": "2026-11-15T16:45Z",
+ "type": "N",
+ "upper": ""
+}
