@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T22:11Z",
+ "from": "2026-11-16T23:00Z",
+ "id": "A4602/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "2300-0500",
+ "summary": "Taxiway Quebec between Lima and Kilo closed at EGKK overnight due to work in progress.",
+ "summary_of": "2b0fbdb519cc",
+ "text": "TWY QUEBEC BTN LIMA AND KILO CLSD DUE TO WIP",
+ "to": "2026-11-19T05:00Z",
+ "type": "N",
+ "upper": ""
+}

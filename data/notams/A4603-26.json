@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T22:11Z",
+ "from": "2026-11-19T09:00Z",
+ "id": "A4603/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Uniform south of stand 234 closed at EGKK.",
+ "summary_of": "29ffea8a7bd5",
+ "text": "TWY UNIFORM SOUTH OF STND 234 CLSD",
+ "to": "2026-11-19T11:00Z",
+ "type": "N",
+ "upper": ""
+}
