@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5333,
+  -1.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T13:52Z",
+ "from": "2026-11-17T01:30Z",
+ "id": "C7520/26",
+ "loc": [
+  "EGNV"
+ ],
+ "lower": "",
+ "q": "AECA",
+ "radius": 12,
+ "removed": null,
+ "sched": "NOV 17 19 24 26 30 DEC 01 03 0130-0215",
+ "summary": "Controlled airspace around Teesside International Airport activated on selected November and December dates, 01:30 to 02:15, with prior permission required.",
+ "summary_of": "806d54375a1a",
+ "text": "TEESSIDE INTERNATIONAL CTA/CTR/ATZ ACTIVATED. AD/ATS OPR HR\nEXTENDED. PPR ONLY.",
+ "to": "2026-12-03T02:15Z",
+ "type": "N",
+ "upper": ""
+}

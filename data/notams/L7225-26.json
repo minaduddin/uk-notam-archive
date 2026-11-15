@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0667,
+  -0.6167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T13:52Z",
+ "from": "2026-11-16T16:30Z",
+ "id": "L7225/26",
+ "loc": [
+  "EGTC"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGTC is closed, with the notice covering a radius of 5 nautical miles.",
+ "summary_of": "06e336c8ff0a",
+ "text": "AD CLSD",
+ "to": "2026-11-16T17:00Z",
+ "type": "N",
+ "upper": ""
+}
