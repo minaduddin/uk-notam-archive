@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6667,
+  -5.6667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-15T18:12Z",
+ "from": "2026-11-22T17:30Z",
+ "id": "I7798/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1730-2030",
+ "summary": "Searchlight display within 1 nautical mile of Bangor, Northern Ireland, daily from 1730 to 2030.",
+ "summary_of": "235261ab030a",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 543948N 0054007W (BANGOR,\nNORTHERN IRELAND). FOR INFO 07895 817495 / 07714 765512.\nAR-2026-10750/01.",
+ "to": "2026-12-21T20:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

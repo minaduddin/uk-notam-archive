@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5167,
+  -1.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T18:12Z",
+ "from": "2026-11-15T17:05Z",
+ "id": "C7528/26",
+ "loc": [
+  "EGNV"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Airfield lighting at EGNV manually set to 3 percent brightness, and air traffic control cannot change it at short notice.",
+ "summary_of": "7b4c07c0e7c8",
+ "text": "AIRFIELD LIGHTING MANUALLY SET AT 3 PERCENT ATC UNABLE TO CHANGE \nAT\nSHORT NOTICE",
+ "to": "2026-11-15T23:00Z",
+ "type": "N",
+ "upper": ""
+}

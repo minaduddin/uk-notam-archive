@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T18:12Z",
+ "from": "2026-11-15T18:00Z",
+ "id": "Q664/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "EGUN aerodrome closed, with only prior approved aircraft permitted; reopening is expected about 30 minutes after closure.",
+ "summary_of": "e3276e6f63f9",
+ "text": "AD CLSD. DIVERT OR EMERGENCY ACFT CTC COMMAND POST AT DSN:\n314-238-2121, COMM: +44 1638 542121, OR UHF 300.800MHZ. \nEXPECT 30MIN FOR AD REOPENING. AD WILL BE OPEN FOR PRIOR APPROVED \nACFT. CTC AD MANAGEMENT AT DSN: 314-238-4130 PRIOR TO CLOSURE \nDATE FOR APPROVAL/PPR REQUEST.",
+ "to": "2026-11-16T06:00Z",
+ "type": "N",
+ "upper": ""
+}
