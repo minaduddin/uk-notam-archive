@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T21:14Z",
+ "from": "2026-11-16T14:00Z",
+ "id": "A4600/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "1400-1600",
+ "summary": "Taxiway Papa between taxiways Lima and Juliet at EGKK closed from 1400 to 1600 for work in progress.",
+ "summary_of": "d300e5f65997",
+ "text": "TWY PAPA BTN LIMA AND JULIET CLSD DUE TO WIP",
+ "to": "2026-11-17T16:00Z",
+ "type": "N",
+ "upper": ""
+}
