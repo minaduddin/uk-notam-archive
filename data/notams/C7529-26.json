@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.4333,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-15T20:11Z",
+ "from": "2026-11-15T19:30Z",
+ "id": "C7529/26",
+ "loc": [
+  "EGHQ"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Newquay Airport operating hours have been extended.",
+ "summary_of": "2ab7ee6a00fb",
+ "text": "NEWQUAY AD OPERATING HOURS EXTENDED",
+ "to": "2026-11-15T21:00Z",
+ "type": "N",
+ "upper": ""
+}
