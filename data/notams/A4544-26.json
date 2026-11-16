@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5,
+  -0.3
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T15:07Z",
+ "from": "2026-11-23T14:00Z",
+ "id": "A4544/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations up to 500 feet above ground within 0.2 nautical miles of Brentford, London.",
+ "summary_of": "c023fc99cb68",
+ "text": "UAS OPR WI 0.2NM RADIUS OF 512932N 0001744W (BRENTFORD, LONDON).\nMAX HGT 500FT AGL. FOR INFO 01992 924779. AR-2026-10708/01.",
+ "to": "2026-11-23T23:30Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

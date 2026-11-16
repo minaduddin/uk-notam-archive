@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2,
+  0.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T15:07Z",
+ "from": "2026-11-19T17:00Z",
+ "id": "A4614/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1700-2200",
+ "summary": "Searchlight display within 1 nautical mile of Cambridge, daily from 17:00 to 22:00.",
+ "summary_of": "03d8efe3c80d",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 521136N 0000733E \n(CAMBRIDGE).  FOR INFO 07944 080062 / 07894 449066 / 07747 668526. \nAR-2026-10855/01.",
+ "to": "2026-12-23T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

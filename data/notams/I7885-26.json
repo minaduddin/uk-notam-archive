@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6667,
+  -6.2333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T15:07Z",
+ "from": "2026-11-16T14:13Z",
+ "id": "I7885/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "NVAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "NOV 16-20 0700-1700, NOV 23-27 0700-1700, NOV 30-DEC 04 0700-1700",
+ "summary": "Part of the Belfast navigation beacon out of service from 07:00 to 17:00 on 16 to 20, 23 to 27, and 30 November to 4 December.",
+ "summary_of": "9773027c5604",
+ "text": "VOR/DME BEL/BELFAST 117.20MHZ CH119X VOR PART U/S",
+ "to": "2026-12-04T17:00Z",
+ "type": "R",
+ "upper": ""
+}

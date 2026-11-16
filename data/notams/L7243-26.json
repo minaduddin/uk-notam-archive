@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.1167,
+  -4.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T15:07Z",
+ "from": "2026-11-16T13:45Z",
+ "id": "L7243/26",
+ "loc": [
+  "EGFA"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Internet and telephone details unavailable at EGFA; urgent contact number 07464 909 612.",
+ "summary_of": "52439862a529",
+ "text": "INTERNET ON SITE NOT AVAILABLE. ASSOCIATED TELEPHONE NUMBERS NOT \nAVAILABLE. FOR URGENT MATTERS, CONTACT 07464 909 612",
+ "to": "2026-11-17T09:00Z",
+ "type": "N",
+ "upper": ""
+}

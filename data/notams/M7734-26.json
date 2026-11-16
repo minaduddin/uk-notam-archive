@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.55,
+  -4.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T15:07Z",
+ "from": "2026-11-17T08:30Z",
+ "id": "M7734/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 11,
+ "removed": null,
+ "sched": "",
+ "summary": "Manorbier danger areas activated from ground level up to 23,000 and 40,000 ft between 0830 and 1700, within 11 nautical miles of EGTT.",
+ "summary_of": "bd0e8de19fc4",
+ "text": "THE FOLLOWING MANORBIER DANGER AREAS ARE ACTIVATED:\nEGD115A 0830-1700 SFC-23000FT AMSL\nEGD115B 0830-1700 SFC-40000FT AMSL",
+ "to": "2026-11-17T17:00Z",
+ "type": "N",
+ "upper": "40000FT AMSL"
+}

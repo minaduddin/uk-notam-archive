@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.9333,
+  -3.8333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T15:07Z",
+ "from": "2026-11-16T13:07Z",
+ "id": "D4501/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCD",
+ "radius": 14,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD703 at Tain has been deactivated.",
+ "summary_of": "c2bef12027c5",
+ "text": "DANGER AREA EGD703 TAIN DEACTIVATED",
+ "to": "2026-11-16T22:00Z",
+ "type": "N",
+ "upper": "15000FT AMSL"
+}

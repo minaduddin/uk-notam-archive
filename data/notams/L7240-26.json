@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.65,
+  -0.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T15:07Z",
+ "from": "2026-11-19T08:00Z",
+ "id": "L7240/26",
+ "loc": [
+  "EGTR"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unlit crane 60 feet high, reaching 392 feet above sea level, at Elstree, Hertfordshire.",
+ "summary_of": "efe6ca0a6f12",
+ "text": "UNLIT CRANE PSN 513852.3N 0001917.4W (ELSTREE, \nHERTFORDSHIRE)392FT AMSL, 60FT AGL.",
+ "to": "2026-11-19T17:00Z",
+ "type": "N",
+ "upper": ""
+}

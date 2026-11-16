@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.35,
+  -1.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T15:07Z",
+ "from": "2026-11-23T09:00Z",
+ "id": "H7619/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0900-2359",
+ "summary": "Swarm of 500 drones operating within 0.2 nautical miles of Winwick, up to 500 feet above ground, from 09:00 to 23:59.",
+ "summary_of": "bebd089c6621",
+ "text": "UAS SWARM OPR WI 0.2NM RADIUS OF 522126N 0010428W (WINWICK). \nSWARM MADE UP OF 500 UAS. MAX HGT 500FT AGL. FOR INFO 07970 017256. \nAR-2026-10891/01.",
+ "to": "2027-02-20T23:59Z",
+ "type": "N",
+ "upper": "1100FT AMSL"
+}

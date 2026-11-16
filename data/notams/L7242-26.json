@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9,
+  -2.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T15:07Z",
+ "from": "2026-11-16T19:30Z",
+ "id": "L7242/26",
+ "loc": [
+  "EGBJ"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Gloucestershire aerodrome traffic zone active, hours extended, and all movements require prior permission.",
+ "summary_of": "1a192eb0d168",
+ "text": "GLOUCESTERSHIRE ATZ ACTIVE. AD AND ATS HR EXTD. ALL MOVEMENTS PPR.",
+ "to": "2026-11-16T20:15Z",
+ "type": "N",
+ "upper": ""
+}
