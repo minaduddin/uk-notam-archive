@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5167,
+  -1.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T08:41Z",
+ "from": "2026-11-16T05:37Z",
+ "id": "C7532/26",
+ "loc": [
+  "EGNV"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome lighting at EGNV manually set to 3 per cent, which air traffic control cannot change at short notice.",
+ "summary_of": "bb7f74934782",
+ "text": "AD LIGHTING MANUALLY SET AT 3 PERCENT. ATC UNABLE TO CHANGE AT \nSHORT NOTICE",
+ "to": "2026-11-16T23:59Z",
+ "type": "N",
+ "upper": ""
+}

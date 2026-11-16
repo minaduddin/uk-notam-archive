@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.9833,
+  -1.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T08:41Z",
+ "from": "2026-11-23T07:00Z",
+ "id": "C7323/26",
+ "loc": [
+  "EGHI"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane operating within 1 nautical mile of Chandlers Ford, Eastleigh, up to 102 feet above ground level.",
+ "summary_of": "0614206548f2",
+ "text": "CRANE OPR PSN 505852N 0012306W (CHANDLERS FORD, EASTLEIGH) MAX\nHGT 102FT AGL/210FT AMSL",
+ "to": "2026-11-27T17:30Z",
+ "type": "N",
+ "upper": ""
+}

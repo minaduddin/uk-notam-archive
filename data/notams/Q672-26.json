@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -1.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T08:41Z",
+ "from": "2026-11-16T07:00Z",
+ "id": "Q672/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Bravo at EGVA closed near hardstand 54, except for aircraft with wingspans up to 137 feet using the southwest loop.",
+ "summary_of": "a1072b5b7a54",
+ "text": "TWY BRAVO CLSD FOR ALL ACFT OPS ADJ TO HARDSTAND 54. ACFT ON \nHARDSTAND 54 VIOLATES THE TRANSITIONAL SURFACE AND WINGTIP \nCLEARANCE. TAXI OR TOW PAST HARDSTAND 54 VIA THE SOUTHWEST LOOP ONLY \nAND ARE RESTRICTED TO ACFT WITH A WINGSPAN OF 137FT OR SMALLER",
+ "to": "2026-11-16T17:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.4167,
+  -1.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T08:41Z",
+ "from": "2026-11-16T07:17Z",
+ "id": "H7603/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders operating within 2 nautical miles of Busby Moor, North Yorkshire, up to 2,000 feet above ground level.",
+ "summary_of": "2e3c94f4114b",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 542520N 0011132W (BUSBY MOOR, NORTH YORKSHIRE) \nLOW FLYING AREA 11. 2000FT AGL. CTC 07801 358130. 26/11/106/LFC",
+ "to": "2026-11-16T16:30Z",
+ "type": "N",
+ "upper": "3600FT AMSL"
+}

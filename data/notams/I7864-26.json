@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2167,
+  -6.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T08:41Z",
+ "from": "2026-11-16T07:00Z",
+ "id": "I7864/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 06/24 at EGPO closed due to ice.",
+ "summary_of": "f0d40816e006",
+ "text": "RWY 06/24 CLSD DUE ICE.",
+ "to": "2026-11-16T19:45Z",
+ "type": "N",
+ "upper": ""
+}

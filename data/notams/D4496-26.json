@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.3,
+  -2.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T08:41Z",
+ "from": "2026-11-17T11:00Z",
+ "id": "D4496/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 19,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD013 at Lyme Bay activated, from ground level up to 28,000 feet above sea level.",
+ "summary_of": "071cb74af24d",
+ "text": "DANGER AREA EGD013 LYME BAY ACTIVATED",
+ "to": "2026-11-17T12:30Z",
+ "type": "N",
+ "upper": "28000FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5167,
+  -1.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T08:41Z",
+ "from": "2026-11-23T07:00Z",
+ "id": "C7411/26",
+ "loc": [
+  "EGNV"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "0700-0830 1900-2030",
+ "summary": "Runway 05/23 at EGNV closed for high-powered engine runs during 0700 to 0830 and 1900 to 2030.",
+ "summary_of": "f7d633563cae",
+ "text": "RWY 05/23 CLSD DUE HIGH POWERED ENG RUNS. SCHEDULED MOVEMENTS NOT \nAFFECTED.",
+ "to": "2026-11-23T20:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.95,
+  0.9
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T08:41Z",
+ "from": "2026-11-23T07:25Z",
+ "id": "C7256/26",
+ "loc": [
+  "EGMD"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone activity within 0.3 nautical miles of Lydd, up to 657 feet above ground level, between sunrise and sunset.",
+ "summary_of": "fa6d82a0f5ed",
+ "text": "UAS OPR WI 0.3NM RADIUS OF 505643N 0005414E (LYDD). MAX HGT 657FT\nAGL. FOR INFO 07766 162573. AR-2026-10507/01.",
+ "to": "2026-11-27T15:56Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

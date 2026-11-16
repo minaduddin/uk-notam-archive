@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  -1.8667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T08:41Z",
+ "from": "2026-11-22T00:00Z",
+ "id": "C7533/26",
+ "loc": [
+  "EGBB"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 20,
+ "removed": null,
+ "sched": "",
+ "summary": "Speed restrictions of up to 250 knots for aircraft being sequenced at Birmingham Airport, falling to 165 knots on final approach.",
+ "summary_of": "00ca7846328e",
+ "text": "PILOTS SHOULD EXPECT THE FOLLOWING ENFORCED SPEED RESTRICTIONS AT \nBIRMINGHAM AD WHEN ACFT ARE BEING SEQUENCED. SPEED LIMIT POINT 250KT \nOR LESS INTERMEDIATE APCH AREA/DOWNWIND 210KT OR LESS BASE/15NM FM \nTOUCHDOWN 180KT OR LESS FINAL APPROACH BTN 8 DME AND 5 DME 165KT",
+ "to": "2027-02-17T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4667,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T08:41Z",
+ "from": "2026-11-16T08:30Z",
+ "id": "L7231/26",
+ "loc": [
+  "EGLW"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome at EGLW closed due to an air traffic control break.",
+ "summary_of": "526bc6e0b801",
+ "text": "AD CLOSED DUE ATC BREAK",
+ "to": "2026-11-16T09:00Z",
+ "type": "N",
+ "upper": ""
+}

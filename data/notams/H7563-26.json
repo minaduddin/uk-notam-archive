@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1167,
+  -2.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T08:41Z",
+ "from": "2026-11-23T07:41Z",
+ "id": "H7563/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Large model aircraft flying within 1 nautical mile of Keysley Down, up to 2,300 feet above sea level, between sunrise and sunset.",
+ "summary_of": "d776367254b5",
+ "text": "FLYING OF LARGE MODEL ACFT WI 1NM RADIUS OF 510718N 0021047W\n(KEYSLEY DOWN). INCLUDES AEROTOW ACTIVITY. FOR INFO 07962 013388.\nAR-2026-10840/01.",
+ "to": "2027-02-20T17:31Z",
+ "type": "N",
+ "upper": "2300FT AMSL"
+}

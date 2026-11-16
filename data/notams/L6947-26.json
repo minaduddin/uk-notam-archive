@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.65,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T08:41Z",
+ "from": "2026-11-23T07:36Z",
+ "id": "L6947/26",
+ "loc": [
+  "EGLJ"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Large model aircraft flying within 0.3 nautical miles of Newington, up to 1,300 feet above sea level, between sunrise and sunset.",
+ "summary_of": "18b4233a3542",
+ "text": "FLYING OF LARGE MODEL ACFT WI 0.3NM RADIUS OF 513922N 0010616W \n(NEWINGTON). FOR INFO 07742 646565. AR-2026-10423/01.",
+ "to": "2026-12-31T16:04Z",
+ "type": "N",
+ "upper": "1300FT AMSL"
+}
