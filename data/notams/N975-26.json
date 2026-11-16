@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.3333,
+  0.8
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T23:42Z",
+ "from": "2026-11-16T22:23Z",
+ "id": "N975/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Aviation obstruction light out of service at Racebank Offshore Windfarm, with structures up to 430 ft above sea level.",
+ "summary_of": "51c86792d5af",
+ "text": "REPORT OF MULTI AIR NAV OBST LGT U/S AT PSN 531944N 0004749E \n(RACEBANK OFFSHORE WINDFARM) UP TO 430FT AMSL. \nFOR INFO CTC 07826 943808. AR-2026-10941/01.",
+ "to": "2027-02-14T23:59Z",
+ "type": "N",
+ "upper": ""
+}

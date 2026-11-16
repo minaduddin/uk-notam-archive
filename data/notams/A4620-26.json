@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T23:42Z",
+ "from": "2026-11-16T22:04Z",
+ "id": "A4620/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Quebec closed north of Taxiway Quebec Bravo, and Taxiway Quebec Alpha closed north of stand 560, at EGKK.",
+ "summary_of": "48d593a1a0f7",
+ "text": "TWY QUEBEC CLSD NORTH OF TWY QUEBEC BRAVO,\nTWY QUEBEC ALPHA CLSD NORTH OF STAND 560",
+ "to": "2026-11-17T05:00Z",
+ "type": "N",
+ "upper": ""
+}

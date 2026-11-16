@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T23:42Z",
+ "from": "2026-11-17T02:00Z",
+ "id": "A4622/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Romeo closed between Taxiway Lima and Taxiway Kilo, and Taxiway Romeo Alpha closed, at EGKK.",
+ "summary_of": "309897bc79f2",
+ "text": "TWY ROMEO CLSD BTN TWY LIMA AND TWY KILO, TWY ROMEO ALPHA CLSD",
+ "to": "2026-11-17T05:00Z",
+ "type": "N",
+ "upper": ""
+}

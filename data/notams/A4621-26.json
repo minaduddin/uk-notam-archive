@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5833,
+  0.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T23:42Z",
+ "from": "2026-11-16T22:40Z",
+ "id": "A4621/26",
+ "loc": [
+  "EGMC"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 22,
+ "removed": null,
+ "sched": "",
+ "summary": "Southend control area, control zone and aerodrome traffic zone deactivated as the aerodrome is closed, with no air traffic services.",
+ "summary_of": "144db3d46901",
+ "text": "SOUTHEND CTA, CTR, ATZ DEACTIVATED. AD CLOSED. NO ATS AVBL.",
+ "to": "2026-11-17T01:30Z",
+ "type": "N",
+ "upper": ""
+}
