@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3833,
+  -0.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T16:53Z",
+ "from": "2026-11-17T14:00Z",
+ "id": "H7626/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Swarm of 100 drones operating within 0.1 nautical miles of Eden Park, Bromley, up to 400 ft above ground.",
+ "summary_of": "af5c8ab016ff",
+ "text": "UAS SWARM OPR WI 0.1NM RADIUS OF 512313N 0000111W (EDEN PARK,\nBROMLEY). SWARM MADE UP OF 100 UAS. MAX HGT 400FT AGL. FOR INFO\n07481 557474. AR-2026-10935/01.",
+ "to": "2026-11-17T23:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}
