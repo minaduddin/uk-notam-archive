@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.9,
+  -1.7
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T19:55Z",
+ "from": "2026-11-23T18:45Z",
+ "id": "C5775/26",
+ "loc": [
+  "EGNM"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Fireworks display within 0.5 nautical miles of Otley, up to 500 feet above sea level.",
+ "summary_of": "b3ce4e817f54",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 535421N 0014140W (OTLEY). FOR INFO\n07986 099536. AR-2026-7059/01.",
+ "to": "2026-11-23T19:25Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}
