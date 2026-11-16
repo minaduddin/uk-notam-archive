@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.6167,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T17:59Z",
+ "from": "2026-11-17T08:00Z",
+ "id": "Q699/26",
+ "loc": [
+  "EGXT"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome operating hours at EGXT amended to 8.45am to 5.30pm.",
+ "summary_of": "2376bf322e06",
+ "text": "AMENDED AD OPR HR:\n0845-1730",
+ "to": "2026-11-17T17:30Z",
+ "type": "N",
+ "upper": ""
+}

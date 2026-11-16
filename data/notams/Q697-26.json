@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T17:59Z",
+ "from": "2026-11-17T00:00Z",
+ "id": "Q697/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "LPAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 07 south-side approach path indicator lights out of service at EGVN due to unreliability.",
+ "summary_of": "44e31e7701b1",
+ "text": "PAPI RWY 07 SOUTH SIDE U/S DUE UNRELIABILITY.",
+ "to": "2026-11-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

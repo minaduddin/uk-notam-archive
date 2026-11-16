@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3,
+  -0.6833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T17:59Z",
+ "from": "2026-11-23T16:30Z",
+ "id": "C7473/26",
+ "loc": [
+  "EGLF"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "23 1630-2359, 24 0500-0700 1630-2359, 25 0500-0700",
+ "summary": "Parachute flares within 0.32 nautical miles of Frimley, from the surface up to 1,376 feet above sea level.",
+ "summary_of": "eaa50f303296",
+ "text": "ILLUMINANTS WI 0.32NM RADIUS OF 511822N 0004125W (FRIMLEY).\nILLUMINANTS WILL DESCEND BY PARACHUTE. FOR INFO 07484 516900 /\n07350 432476. AR-2026-10813/01.",
+ "to": "2026-11-25T07:00Z",
+ "type": "N",
+ "upper": "1376FT AMSL"
+}

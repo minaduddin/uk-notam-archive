@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4833,
+  -19.0
+ ],
+ "est": false,
+ "fir": "EGGX",
+ "first_seen": "2026-11-16T17:59Z",
+ "from": "2026-11-17T01:30Z",
+ "id": "G112/26",
+ "loc": [
+  "EGGX"
+ ],
+ "lower": "",
+ "q": "AFXX",
+ "radius": 634,
+ "removed": null,
+ "sched": "",
+ "summary": "Climb or descent requests not available within oceanic airspace at EGGX, except for weather or emergencies, due to staffing constraints.",
+ "summary_of": "349bab1e1a14",
+ "text": "REQUESTS FOR CLIMB OR DESCENT NOT AVBL WITHIN OCEANIC AIRSPACE \nEXCEPT FOR WX OR EMERGENCY DUE STAFFING CONSTRAINTS",
+ "to": "2026-11-17T07:00Z",
+ "type": "N",
+ "upper": ""
+}

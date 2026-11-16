@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T17:59Z",
+ "from": "2026-11-17T00:01Z",
+ "id": "Q696/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "LXAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Hotel and Juliet centre and edge lights out of service at EGVN.",
+ "summary_of": "f8bdc16fe0ed",
+ "text": "TWY HOTEL AND JULIET CENTRELINE AND EDGE LIGHTS U/S",
+ "to": "2026-11-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

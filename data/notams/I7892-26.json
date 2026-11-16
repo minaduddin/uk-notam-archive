@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.0333,
+  -1.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T17:59Z",
+ "from": "2026-11-19T09:00Z",
+ "id": "I7892/26",
+ "loc": [
+  "EGNT"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Emergency exercise on the south side of the EGNT aerodrome, so crews may notice more emergency vehicles and radio traffic.",
+ "summary_of": "88017d4e026e",
+ "text": "EMERGENCY EXERCISE TAKING PLACE ON THE SOUTH SIDE OF THE AIRFIELD.\nCREWS MAY NOTICE AN INCREASED EMERGENCY VEHICLE PRESENCE AND \nADDITIONAL RADIO TELEPHONY AS PART OF THE EXERCISE",
+ "to": "2026-11-20T04:00Z",
+ "type": "N",
+ "upper": ""
+}

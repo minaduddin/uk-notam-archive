@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.6,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T17:59Z",
+ "from": "2026-11-23T16:00Z",
+ "id": "D4293/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2359",
+ "summary": "Danger area EGD702 at Fort George activated, from the surface up to 2,100 feet above sea level.",
+ "summary_of": "bd7170dea1e2",
+ "text": "DANGER AREA EGD702 FORT GEORGE ACTIVATED",
+ "to": "2026-11-26T23:59Z",
+ "type": "N",
+ "upper": "2100FT AMSL"
+}
