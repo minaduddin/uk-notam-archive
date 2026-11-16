@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8167,
+  -1.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T10:40Z",
+ "from": "2026-11-16T09:30Z",
+ "id": "L7235/26",
+ "loc": [
+  "EGCM"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Aviation warning lights unserviceable near Church Fenton.",
+ "summary_of": "8b4bc9936276",
+ "text": "AVIATION LIGHTS U/S WI 0.1NM RADIUS OF 534927N 0011313W (CHURCH\nFENTON). AR-2026-10844/01.",
+ "to": "2027-02-10T23:59Z",
+ "type": "N",
+ "upper": ""
+}

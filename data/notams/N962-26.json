@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6,
+  -1.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T10:40Z",
+ "from": "2026-11-19T00:00Z",
+ "id": "N962/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Offshore crane near South Bank, North Yorkshire, up to 493 ft above sea level.",
+ "summary_of": "908f6b6d0f53",
+ "text": "CRANE OPERATING AT PSN: 543548N 0011024W (OFFSHORE, SOUTH BANK,\nNORTH YORKSHIRE) UP TO 493FT AMSL. FOR INFO CONTACT \n00 316 5018 5250. AR-2026-10892/02.",
+ "to": "2026-11-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

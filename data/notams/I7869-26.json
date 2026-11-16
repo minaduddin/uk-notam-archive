@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6167,
+  -5.8667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T10:40Z",
+ "from": "2026-11-16T21:30Z",
+ "id": "I7869/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Airfield operating hours at EGAC will not be extended beyond 2130 due to essential maintenance.",
+ "summary_of": "ee9e693f7741",
+ "text": "THE AD AUTHORITY WILL NOT EXTD THE AIRFIELD OPR HR BEYOND 2130 \nDUE ESSENTIAL MAINT. OPERATORS CAN CTC THE AIRPORT DUTY MANAGER FOR \nFURTHER INFO",
+ "to": "2026-11-16T23:59Z",
+ "type": "N",
+ "upper": ""
+}

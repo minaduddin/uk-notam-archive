@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.95,
+  0.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T10:40Z",
+ "from": "2026-11-23T08:00Z",
+ "id": "A4515/26",
+ "loc": [
+  "EGSS"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-2200",
+ "summary": "Large model aircraft flying within 0.5 nautical miles of Henham, surface to 2,000 ft, daily 0800 to 2200.",
+ "summary_of": "843848a255ec",
+ "text": "FLYING OF LARGE MODEL ACFT WI 0.5NM RADIUS OF 515642N 0001607E\n(HENHAM).  FOR INFO 07847 427866. AR-2026-10726/01.",
+ "to": "2027-02-19T22:00Z",
+ "type": "N",
+ "upper": "2000FT AMSL"
+}

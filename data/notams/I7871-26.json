@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5833,
+  -5.7
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T10:40Z",
+ "from": "2026-11-16T09:58Z",
+ "id": "I7871/26",
+ "loc": [
+  "EGAD"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGAD unavailable to aircraft needing a licensed aerodrome, as no rescue and fire service is available.",
+ "summary_of": "f99294bdcff6",
+ "text": "AD NOT AVBL FOR ACFT REQUIRING THE USE OF A LICENSED AD DUE NO \nRFFS",
+ "to": "2026-11-19T17:00Z",
+ "type": "N",
+ "upper": ""
+}

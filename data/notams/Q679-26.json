@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T10:40Z",
+ "from": "2026-11-16T09:49Z",
+ "id": "Q679/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGUL open for official business only during its operating hours.",
+ "summary_of": "640d9f4908e6",
+ "text": "AD IS OFFICIAL BUSINESS ONLY DURING HR OF OPS.",
+ "to": "2026-11-20T22:00Z",
+ "type": "N",
+ "upper": ""
+}

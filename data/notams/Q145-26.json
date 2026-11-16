@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.35,
+  0.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T10:40Z",
+ "from": "2026-11-23T08:30Z",
+ "id": "Q145/26",
+ "loc": [
+  "EGXH"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0830-1630 EXC SAT SUN",
+ "summary": "Drone flights beyond visual line of sight, using visual observers, near RAF Honnington, up to 400 ft, weekdays 0830 to 1630.",
+ "summary_of": "acf2c6f5dc30",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI AREA BOUNDED BY \n522054N 0004608E - 522057N 0004616E - 522104N 0004626E - \n522104N 0004640E - 522059N 0004712E - 522053N 0004719E - \n522046N 0004737E - 522037N 0004740E - 522033N 0004737E - \n522027N 0004648E - 522027N 0004631E - 522027N 0004602E - \n522022N 0004508E - 522028N 0004500E - 522030N 0004503E - \n522034N 0004500E - 522039N 0004603E - 522054N 0004608E (RAF \nHONNINGTON). MAX HGT 400FT AGL. FOR INFO 07812 149767. \nAR-2026-10258/01.",
+ "to": "2026-12-04T16:30Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

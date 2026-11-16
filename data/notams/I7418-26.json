@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5,
+  -4.5833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T10:40Z",
+ "from": "2026-11-23T08:00Z",
+ "id": "I7418/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-1700",
+ "summary": "Crane up to 34 ft above ground level at GE Caledonian, Prestwick, daily 0800 to 1700.",
+ "summary_of": "1bc317e0419e",
+ "text": "CRANE OPR PSN 552956N 0043508W (GE CALEDONIAN, PRESTWICK) HGT \n34FT AGL, 83FT AMSL.",
+ "to": "2026-12-07T17:00Z",
+ "type": "N",
+ "upper": ""
+}

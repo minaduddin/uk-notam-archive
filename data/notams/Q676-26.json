@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.7833,
+  -0.7167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T10:40Z",
+ "from": "2026-11-18T13:00Z",
+ "id": "Q676/26",
+ "loc": [
+  "EGWN"
+ ],
+ "lower": "SFC",
+ "q": "WALW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Flypast by two fast jet military aircraft within 2 nautical miles of RAF Halton, surface to 1,400 ft.",
+ "summary_of": "6c3660aea774",
+ "text": "FLYPAST BY 2 FAST JET MIL ACFT WI 2NM RADIUS OF 514639N 0004317W\n(RAF HALTON). FOR INFO 01526 346630 / 01526 347716. AR-2026-10828/03.",
+ "to": "2026-11-18T14:00Z",
+ "type": "N",
+ "upper": "1400FT AMSL"
+}

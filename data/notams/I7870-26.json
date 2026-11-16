@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.05,
+  -7.1667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T10:40Z",
+ "from": "2026-11-16T09:31Z",
+ "id": "I7870/26",
+ "loc": [
+  "EGAE"
+ ],
+ "lower": "",
+ "q": "IGXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Londonderry/Eglinton instrument landing system usable during air traffic control hours only; the online UK aeronautical publication contains erroneous information.",
+ "summary_of": "f18a083dc11e",
+ "text": "UK AIP AIRAC 13/2026 AVAILABLE AT\nHTTPS://WWW.AURORA.NATS.CO.UK/HTMLAIP/PUBLICATIONS/\n2026-12-24-AIRAC/HTML/INDEX-EN-GB.HTML CONTAINS ERRONEOUS\nINFORMATION.\nLONDONDERRY/EGLINGTON RADIO NAVIGATION AND LANDING AIDS.\nILS/GP IEGN REMARKS TO READ:\n3 DEGREES ILS REF DATUM HGT 60FT. \nGP FLAGS MAY BE EXPERIENCED WHEN 8 DEGREES RIGHT OF THE OFFSET\nLOCALISER CENTRELINE AND WELL BELOW GLIDEPATH. \nILS/GP USABLE DURING ATC HOURS ONLY.\nILS/GP IEGT REMARKS TO READ:\n3 DEGREES ILS REF DATUM HGT 50FT. \nILS/GP USABLE DURING ATC HOURS ONLY.\nUK AIP EGAE AD 2.19 AND DIGITAL AIP DATASET REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}
