@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.1333,
+  0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-16T11:05Z",
+ "id": "Q681/26",
+ "loc": [
+  "EGUW"
+ ],
+ "lower": "",
+ "q": "LLXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 23/05 at EGUW has low intensity side lights 50 per cent out of service.",
+ "summary_of": "b8f761edc278",
+ "text": "RUNWAY 23/05 LOW INTENSITY SIDE LIGHTS 50 PER CENT U/S",
+ "to": "2026-12-18T18:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6667,
+  -2.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-16T11:02Z",
+ "id": "L7239/26",
+ "loc": [
+  "EGBP"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "MON 0900-1700",
+ "summary": "Aerodrome at Kemble not available to visiting aircraft on Mondays between 0900 and 1700 unless prior arrangement is made.",
+ "summary_of": "96733a0561cd",
+ "text": "AD NOT AVBL TO VISITING ACFT UNLESS PRIOR ARRANGEMENT HAS BEEN\nMADE WITH KEMBLE OPS, BASED OPERATORS MAY OPR WITH A VALID OUT OF\nHOURS INDEMNITY DURING DAYLIGHT HR",
+ "to": "2027-02-15T17:00Z",
+ "type": "N",
+ "upper": ""
+}

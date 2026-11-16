@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.4833,
+  -7.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-16T11:42Z",
+ "id": "I7874/26",
+ "loc": [
+  "EGPL"
+ ],
+ "lower": "",
+ "q": "FMLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Anemometer for runway 06 at EGPL unserviceable; all wind readings are derived from the runway 24 anemometer.",
+ "summary_of": "2a99682507b8",
+ "text": "RWY 06 ANEMOMETER U/S. ALL WINDS DERIVED FM RWY 24 ANEMOMETER.",
+ "to": "2026-11-20T16:30Z",
+ "type": "N",
+ "upper": ""
+}

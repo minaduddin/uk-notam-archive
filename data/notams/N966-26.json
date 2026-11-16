@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.9167,
+  1.6
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-17T09:14Z",
+ "id": "N966/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 11,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple offshore windfarm aviation warning lights out of service within 10 nautical miles of Hornsea Offshore Windfarm.",
+ "summary_of": "a50ce7393986",
+ "text": "MULTIPLE OFFSHORE WINDFARMS AVIATION LIGHTS U/S WI 10NM RADIUS OF\n535458N 0013547E (HORNSEA OFFSHORE WINDFARM). FOR INFO 07894 745213. \nAR-2026-10901/01.",
+ "to": "2027-01-30T09:00Z",
+ "type": "N",
+ "upper": ""
+}

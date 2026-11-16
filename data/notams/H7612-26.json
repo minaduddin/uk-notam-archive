@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.75,
+  -0.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-17T10:00Z",
+ "id": "H7612/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1000-2100",
+ "summary": "Swarm of 54 drones operating within 0.2 nautical miles of Church Norton, West Sussex, with a maximum height of 600 feet above ground level.",
+ "summary_of": "5050b7a012e7",
+ "text": "UAS SWARM OPR WI 0.2NM RADIUS OF 504455N 0004607W (CHURCH NORTON,\nWEST SUSSEX). SWARM MADE UP OF 54 UAS. MAX HGT 600FT AGL. FOR\nINFO 07725 633178. AR-2026-10894/01.",
+ "to": "2027-01-01T21:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

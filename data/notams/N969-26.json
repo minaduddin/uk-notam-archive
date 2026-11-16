@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6667,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-23T00:00Z",
+ "id": "N969/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane at Faringdon, Oxfordshire, up to 105 ft above ground and 455 ft above sea level.",
+ "summary_of": "22ed298a1423",
+ "text": "LIT CRANE PSN 513931N 0013526W (FARINGDON, OXFORDSHIRE) IN LOW \nFLYING AREA 1C AND NIGHT ROTARY REGION 1. HGT 105FT AGL, 455FT AMSL. \n26/11/115/LFC",
+ "to": "2026-11-25T23:59Z",
+ "type": "N",
+ "upper": ""
+}

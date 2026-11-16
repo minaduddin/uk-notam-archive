@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4667,
+  0.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-17T16:00Z",
+ "id": "C7540/26",
+ "loc": [
+  "EGLC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Swarm of 200 drones operating within an area at Greenwich, London, with a maximum height of 600 feet above ground level.",
+ "summary_of": "41f5ecad7604",
+ "text": "UAS SWARM OPR WI AREA BOUNDED BY:\n512746N 0000020W - 512746N 0000040W - 512749N 0000100W - \n512832N 0000115W - 512852N 0000101W - 512904N 0000001E - \n512855N 0000025E - 512846N 0000055E - 512750N 0000132E - \n512746N 0000041E - 512746N 0000020W (GREENWICH, LONDON). \nSWARM MADE UP OF 200 UAS. MAX HGT 600FT AGL. FOR INFO 07547 155440. \nAR-2026-10885/01.",
+ "to": "2026-11-17T23:59Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}

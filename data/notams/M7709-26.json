@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.1,
+  -4.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-17T09:00Z",
+ "id": "M7709/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 10,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD202D at Aberporth activated, up to flight level 125.",
+ "summary_of": "7fd5252633c0",
+ "text": "DANGER AREA EGD202D ABERPORTH ACTIVATED",
+ "to": "2026-11-17T16:30Z",
+ "type": "N",
+ "upper": "FL125"
+}

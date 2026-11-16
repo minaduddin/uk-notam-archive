@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1333,
+  -2.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-18T17:00Z",
+ "id": "H7616/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 7,
+ "removed": null,
+ "sched": "1700-2359",
+ "summary": "Multiple helicopter operations without lights within a 7 nautical mile area around Bishopstrow, up to 2800 feet above mean sea level.",
+ "summary_of": "0219334b2b07",
+ "text": "MULTIPLE HEL OPR WITHOUT LGT WI AREA BOUNDED BY:\n511018N 0020921W - 510938N 0015224W - 510505N 0015252W - \n510527N 0020948W - 511018N 0020921W (BISHOPSTROW).  \nFOR INFO 01264 784722. AR-2026-10864/01.",
+ "to": "2026-11-19T23:59Z",
+ "type": "N",
+ "upper": "2800FT AMSL"
+}

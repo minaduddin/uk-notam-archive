@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.4333,
+  -5.6667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-16T13:00Z",
+ "id": "I7873/26",
+ "loc": [
+  "EGEC"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crane operating at Aros Farm, Drumlemble, with a maximum height of 65.6 feet above ground level and 104.6 feet above mean sea level.",
+ "summary_of": "5ea9f3bacc8c",
+ "text": "MOBILE CRANE OPR PSN 552541N 0054025W (AROS FARM, DRUMLEMBLE) MAX \nHGT 65.6FT AGL, 104.6FT AMSL.",
+ "to": "2026-11-16T16:30Z",
+ "type": "N",
+ "upper": ""
+}

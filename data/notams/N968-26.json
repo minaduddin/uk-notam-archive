@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.9167,
+  -3.1333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-21T00:00Z",
+ "id": "N968/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane at Gilmerton, Edinburgh, up to 200 ft above ground and 530 ft above sea level.",
+ "summary_of": "4b49849e16e0",
+ "text": "LIT CRANE AT PSN 555441N 0030758W (GILMERTON, EDINBURGH) IN LOW \nFLYING AREA 16 AND NIGHT SECTOR 2A HGT 200FT AGL 530FT AMSL. \n26/11/113/LFC",
+ "to": "2026-12-11T23:59Z",
+ "type": "N",
+ "upper": ""
+}

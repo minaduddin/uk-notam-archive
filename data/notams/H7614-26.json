@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.4,
+  -1.8833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-18T08:00Z",
+ "id": "H7614/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-1700",
+ "summary": "Drone operations within 0.5 nautical miles of Chapel Hill, with a maximum height of 700 feet above ground level.",
+ "summary_of": "f4e7c6005ca6",
+ "text": "UAS OPR WI 0.5NM RADIUS OF 572421N 0015253W (CHAPEL HILL). MAX\nHGT 700FT AGL. FOR INFO 07784 546062 / 07553 892062.\nAR-2026-10882/01.",
+ "to": "2026-11-24T17:00Z",
+ "type": "N",
+ "upper": "1000FT AMSL"
+}

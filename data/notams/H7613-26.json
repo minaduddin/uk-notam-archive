@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.8,
+  -0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-17T12:00Z",
+ "id": "H7613/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1200-2000",
+ "summary": "Swarm of 50 drones operating within 0.2 nautical miles of Worthing, West Sussex, with a maximum height of 600 feet above ground level.",
+ "summary_of": "50a1a46eb3ea",
+ "text": "UAS SWARM OPR WI 0.2NM RADIUS OF 504829N 0002209W (WORTHING, WEST\nSUSSEX). SWARM MADE UP OF 50 UAS. MAX HGT 600FT AGL. FOR INFO\n07725 633178. AR-2026-10893/01.",
+ "to": "2026-11-20T20:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.9167,
+  -0.9833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-18T09:00Z",
+ "id": "H7615/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0900-1600",
+ "summary": "Flying of large model aircraft within 0.5 nautical miles of Elvington, North Yorkshire, up to 1600 feet above mean sea level.",
+ "summary_of": "ec226876945c",
+ "text": "FLYING OF LARGE MODEL ACFT WI 0.5NM RADIUS OF 535529N 0005830W\n(ELVINGTON, NORTH YORKSHIRE). FOR INFO 07508 525011. \nAR-2026-10900/01.",
+ "to": "2026-11-19T16:00Z",
+ "type": "N",
+ "upper": "1600FT AMSL"
+}

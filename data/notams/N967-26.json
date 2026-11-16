@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T12:06Z",
+ "from": "2026-11-21T00:00Z",
+ "id": "N967/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane at Walworth, London, up to 260 ft above ground and 360 ft above sea level, day and night.",
+ "summary_of": "59ac316db3bf",
+ "text": "LIT CRANE PSN 512923N 0000551W (WALWORTH, LONDON) IN LOW FLYING \nAREA THAMES VALLEY AVOIDANCE AREA DAY AND NIGHT. HGT 260FT AGL, \n360FT AMSL. 26/11/112/LFC",
+ "to": "2027-02-19T23:59Z",
+ "type": "N",
+ "upper": ""
+}
