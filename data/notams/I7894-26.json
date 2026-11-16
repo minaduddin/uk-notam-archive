@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.9333,
+  -3.4167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-16T18:54Z",
+ "from": "2026-11-17T08:00Z",
+ "id": "I7894/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 105 ft high, 301 ft above sea level, near Newbridge, Edinburgh.",
+ "summary_of": "4f1cb0bb5102",
+ "text": "CRANE OPR PSN 555551N 0032432W (NEWBRIDGE, EDINBURGH) \nMAX HGT 105FT AGL, 301FT AMSL. CRANE WILL BE LOWERED DURING LVP",
+ "to": "2026-11-20T17:00Z",
+ "type": "N",
+ "upper": ""
+}

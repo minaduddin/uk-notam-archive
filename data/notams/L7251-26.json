@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0667,
+  -0.6167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-16T18:54Z",
+ "from": "2026-11-17T06:30Z",
+ "id": "L7251/26",
+ "loc": [
+  "EGTC"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGTC closed, and its air traffic control telephone is not being monitored.",
+ "summary_of": "9b11abd18868",
+ "text": "AD CLSD. ATC PHONE NOT MONITORED.",
+ "to": "2026-11-17T19:00Z",
+ "type": "N",
+ "upper": ""
+}
