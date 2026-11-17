@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -1.8333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T23:50Z",
+ "from": "2026-11-24T22:00Z",
+ "id": "C7328/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane with maximum jib height of 90 feet above ground, 124 feet above sea level, near Bournemouth Airport.",
+ "summary_of": "1338474d8a7b",
+ "text": "CRANE OPR PSN 504637N 0014956W, (115T 799M FM BOURNEMOUTH AD ARP) \nMAX JIB HGT 90FT AGL 124FT AMSL",
+ "to": "2026-11-25T06:00Z",
+ "type": "N",
+ "upper": ""
+}

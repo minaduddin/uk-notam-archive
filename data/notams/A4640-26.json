@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T23:50Z",
+ "from": "2026-11-18T11:30Z",
+ "id": "A4640/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 08L/26R closed between rapid exit taxiway Echo Romeo and taxiway Jacka at EGKK.",
+ "summary_of": "771a787cf4f2",
+ "text": "RWY 08L/26R CLSD BTN RAPID EXIT TWY ECHO ROMEO AND JACKA",
+ "to": "2026-11-18T18:00Z",
+ "type": "N",
+ "upper": ""
+}

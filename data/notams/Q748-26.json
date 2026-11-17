@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T23:50Z",
+ "from": "2026-11-17T22:08Z",
+ "id": "Q748/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "MOXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "All taxiway stop bar lights are unserviceable at EGVN.",
+ "summary_of": "e9f12e8cf32f",
+ "text": "ALL AD STOP BARS U/S",
+ "to": "2027-02-17T23:59Z",
+ "type": "R",
+ "upper": ""
+}
