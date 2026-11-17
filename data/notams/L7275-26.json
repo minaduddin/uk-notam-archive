@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1333,
+  -3.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T18:27Z",
+ "from": "2026-11-19T08:00Z",
+ "id": "L7275/26",
+ "loc": [
+  "EGNL"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 100 ft above ground level, 150 ft above sea level, near Barrow-in-Furness.",
+ "summary_of": "1aa33832add5",
+ "text": "CRANE OPR WI 0.1NM RADIUS OF 540739.58N 0031312.22W\n(BARROW IN FURNESS). HGT 100FT AGL / 150FT AMSL.",
+ "to": "2026-11-19T16:30Z",
+ "type": "N",
+ "upper": ""
+}

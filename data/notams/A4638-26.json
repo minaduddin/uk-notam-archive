@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T18:27Z",
+ "from": "2026-11-17T23:30Z",
+ "id": "A4638/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 09R/27L entry and exit point NB11/N11 closed at London Heathrow Airport due to work in progress.",
+ "summary_of": "c2a0033a7f57",
+ "text": "RWY 09R/27L ENTRY/EXIT POINT NB11/N11 CLOSED DUE WIP. A/C DEARTING\nFM TERMINALS 2,3 AND 5 THAT REQUIRE FULL LENGTH DEP FM RWY 09R ARE\nTO ADVISE DELIVERY WHEN REPORTING READY FOR PUSH.",
+ "to": "2026-11-21T22:00Z",
+ "type": "N",
+ "upper": ""
+}
