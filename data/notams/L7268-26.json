@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.9333,
+  -2.65
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T16:33Z",
+ "from": "2026-11-24T06:00Z",
+ "id": "L7268/26",
+ "loc": [
+  "EGHG"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "0600-1730",
+ "summary": "Ground transponder testing near Yeovil from the surface to 3,100 feet, 6am to 5.30pm, may cause false aircraft indications within 5 miles.",
+ "summary_of": "e4f41fc56bf8",
+ "text": "GROUND TRANSPONDER TESTING. MODE S TEST TRANSPONDER LOCATED AT:\n505616N 0023914W (YEOVIL). POSSIBLE FALSE ACFT INDICATIONS MAY OCCUR \nWI 5NM RADIUS. MAX HGT 2500FT AGL. MAY INDICATE A SPEED OF 300KTS. \nDIRECT OVERFLIGHT BELOW 100FT SHOULD BE AVOIDED. FOR INFO MONITOR \nCH130.805 OR CTC 07355 602575. AR-2026-10959/01.",
+ "to": "2026-11-27T17:30Z",
+ "type": "N",
+ "upper": "3100FT AMSL"
+}

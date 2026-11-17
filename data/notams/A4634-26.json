@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.6833,
+  1.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T16:33Z",
+ "from": "2026-11-18T21:30Z",
+ "id": "A4634/26",
+ "loc": [
+  "EGSH"
+ ],
+ "lower": "",
+ "q": "LRAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 09/27 at EGSH has no lighting, including pilot-controlled lighting, due to work in progress; vehicles and personnel operating on the runway.",
+ "summary_of": "fe38eba7335b",
+ "text": "ALL LIGHTING RWY 09/27 NOT AVBL DUE WIP. PILOT CONTROLLED \nLIGHTING (PCL) NOT AVBL. VEHICLES AND PERSONNEL OPR WI RWY 09/27.",
+ "to": "2026-11-19T05:00Z",
+ "type": "N",
+ "upper": ""
+}
