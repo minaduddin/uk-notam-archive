@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T04:30Z",
+ "from": "2026-11-17T03:20Z",
+ "id": "Q710/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Caution: water ponding at the north and south sections of taxiway Charlie at aerodrome EGUN.",
+ "summary_of": "241f1b294c4b",
+ "text": "CAUTION:PONDING LOCATED AT TWY CHALRIE NORTH AND TWY CHARLIE\nSOUTH.",
+ "to": "2026-11-18T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8667,
+  -1.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T04:30Z",
+ "from": "2026-11-17T03:47Z",
+ "id": "C7554/26",
+ "loc": [
+  "EGNM"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Alpha is closed between taxiways Bravo and A1 at aerodrome EGNM.",
+ "summary_of": "d24feee2fb18",
+ "text": "TWY ALPHA CLSD BTN TWY BRAVO AND A1.",
+ "to": "2026-11-17T09:00Z",
+ "type": "N",
+ "upper": ""
+}
