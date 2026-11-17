@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8333,
+  -1.45
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T20:53Z",
+ "from": "2026-11-20T09:30Z",
+ "id": "C7567/26",
+ "loc": [
+  "EGNX"
+ ],
+ "lower": "",
+ "q": "NLAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Navigation beacon EMW at East Midlands, operating on 393 kHz, is out of service.",
+ "summary_of": "0c59be53f823",
+ "text": "LOCATOR EMW/EAST MIDLANDS 393KHZ U/S",
+ "to": "2026-11-20T17:00Z",
+ "type": "N",
+ "upper": ""
+}
