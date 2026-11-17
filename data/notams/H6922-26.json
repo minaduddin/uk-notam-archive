@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6667,
+  -2.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T19:37Z",
+ "from": "2026-11-24T18:00Z",
+ "id": "H6922/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Penrith, from ground level upwards.",
+ "summary_of": "27a55e5ffbd4",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 543953N 0024459W (PENRITH). FOR\nINFO 07729 768396. AR-2026-9867/01.",
+ "to": "2026-11-24T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}
