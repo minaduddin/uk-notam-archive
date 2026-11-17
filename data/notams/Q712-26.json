@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -1.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T07:53Z",
+ "from": "2026-11-17T06:38Z",
+ "id": "Q712/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 09/27 at EGVA reported wet with no standing water.",
+ "summary_of": "41c97eb7e436",
+ "text": "RUNWAY 09/27 SURFACE CONDITION IS WET WITH NO STANDING WATER",
+ "to": "2026-11-17T18:00Z",
+ "type": "N",
+ "upper": ""
+}
