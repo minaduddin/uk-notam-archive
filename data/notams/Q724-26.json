@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2333,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T14:18Z",
+ "from": "2026-11-18T00:00Z",
+ "id": "Q724/26",
+ "loc": [
+  "EGVO"
+ ],
+ "lower": "",
+ "q": "FPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Helilands 04/22 at EGVO closed due to nearby vehicles.",
+ "summary_of": "198edba921d2",
+ "text": "HELILANDS 04/22 CLSD DUE TO PROXIMITY OF VEHICLES",
+ "to": "2026-11-19T23:59Z",
+ "type": "N",
+ "upper": ""
+}

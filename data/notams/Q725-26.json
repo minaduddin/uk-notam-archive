@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.3667,
+  -2.8667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-17T14:18Z",
+ "from": "2026-11-18T08:00Z",
+ "id": "Q725/26",
+ "loc": [
+  "EGQL"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome at EGQL operating without emergency radio communications.",
+ "summary_of": "039fd218eaac",
+ "text": "AD OPR WITHOUT EMERGENCY COMMS. NO PDS OR HOTPITS ACCEPTED.",
+ "to": "2026-11-18T12:00Z",
+ "type": "N",
+ "upper": ""
+}
