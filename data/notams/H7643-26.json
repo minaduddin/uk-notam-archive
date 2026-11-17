@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.95,
+  -2.8167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T15:26Z",
+ "from": "2026-11-20T09:00Z",
+ "id": "H7643/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0900-1500",
+ "summary": "Drone activity within 0.1 nautical miles of South Petherton, Somerset, up to 400 ft above ground level, between 0900 and 1500.",
+ "summary_of": "c142ea6c3bb3",
+ "text": "UAS OPR WI 0.1NM RADIUS OF 505714N 0024842W (SOUTH PETHERTON,\nSOMERSET). MAX HGT 400FT AGL. FOR INFO 07706 489876.\nAR-2026-10970/01.",
+ "to": "2026-11-21T15:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8833,
+  0.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T15:26Z",
+ "from": "2026-11-23T08:00Z",
+ "id": "A4632/26",
+ "loc": [
+  "EGSS"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Compass Base closed for a training exercise, within 5 nautical miles of EGSS.",
+ "summary_of": "2ea36891efa2",
+ "text": "COMPASS BASE CLSD FOR TRAINING EXCERCISE.",
+ "to": "2026-11-25T23:59Z",
+ "type": "N",
+ "upper": ""
+}

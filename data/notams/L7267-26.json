@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4167,
+  -3.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T15:26Z",
+ "from": "2026-11-19T08:30Z",
+ "id": "L7267/26",
+ "loc": [
+  "EGSY"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane near St Athan Aerodrome, reaching 364 ft above sea level and 200 ft above ground level.",
+ "summary_of": "1732a2a12c91",
+ "text": "LIT CRANE OPR PSN 512433N 0032628W (ST ATHAN AD), HGT 364FT AMSL/\n200FT AGL",
+ "to": "2026-11-19T14:00Z",
+ "type": "N",
+ "upper": ""
+}

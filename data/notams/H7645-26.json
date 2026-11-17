@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1667,
+  -0.7167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T15:26Z",
+ "from": "2026-11-23T09:00Z",
+ "id": "H7645/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0900-1500",
+ "summary": "Drone flights beyond visual line of sight in an area near South Scarle, up to 50 ft above ground level, between 0900 and 1500.",
+ "summary_of": "ef54e538ba50",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) WI AREA BOUNDED BY\n530956N 0004334W - 530954N 0004307W - 530935N 0004316W - \n530933N 0004320W - 530936N 0004347W - 530956N 0004334W (SOUTH \nSCARLE). ATYPICAL UAS OPR MAX HGT 50FT AGL. FOR INFO 07931 440283.\nAR-2026-10976/01.",
+ "to": "2026-11-27T15:00Z",
+ "type": "N",
+ "upper": "100FT AMSL"
+}

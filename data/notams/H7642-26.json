@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.7167,
+  -3.15
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-17T15:26Z",
+ "from": "2026-11-18T08:00Z",
+ "id": "H7642/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Underslung load operations by civil aircraft within 2 nautical miles of Auldallan, Angus, up to 500 ft above ground level.",
+ "summary_of": "72bfa60e975c",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE -\nUNDERSLUNG LOADS OPR WI 2NM RADIUS OF PSN 564240N 0030858W \n(AULDALLAN, ANGUS) LOW FLYING AREA 14 AND NIGHT SECTOR 1C. \nMAX HGT 500FT AGL. ACFT MAY BE RESTRICTED IN ABILITY TO MANOEUVRE \nAND UNABLE TO COMPLY WITH RAC OPS \nCTC 07776462424. 26/11/119/LFC",
+ "to": "2026-11-18T17:00Z",
+ "type": "N",
+ "upper": "2700FT AMSL"
+}

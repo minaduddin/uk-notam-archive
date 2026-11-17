@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8833,
+  -0.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T15:26Z",
+ "from": "2026-11-24T00:00Z",
+ "id": "H7648/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "ROXX",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "E band high intensity radio transmission area within 1 nautical mile of Leconfield, East Yorkshire, up to 2,302 ft above ground level.",
+ "summary_of": "8a82393de975",
+ "text": "E BAND HIGH INTENSITY RADIO TRANSMISSION AREA (HIRTA)\nOPR WI 1NM OF PSN 535235N 0002606W (LECONFIELD, EAST YORKSHIRE)\nLOW FLYING AREA 12 AND NIGHT SECTOR 4BW. \nMAX HGT 2302FT AGL. 26/11/121/LFC\n \nSAFE DISTANCES\nCIVILIAN ACFT                    1.0933NM        2302FT AGL\nMIL ACFT SUSCEPTIBILITY \nVERY LOW                         0.7381NM        143FT AGL\nLOW                              0.7849NM        427FT AGL\nMEDIUM                           0.8246NM        668FT AGL\nHIGH                             0.9327NM        1325FT AGL\nPULSE LOW                        0.8107NM        584FT AGL\nPULSE MEDIUM                     0.9050NM        1157FT AGL\nPULSE HIGH                       1.0934NM        2302FT AGL",
+ "to": "2026-12-03T23:59Z",
+ "type": "N",
+ "upper": "2302FT AMSL"
+}

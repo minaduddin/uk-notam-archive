@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.7,
+  0.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T15:26Z",
+ "from": "2026-11-23T07:32Z",
+ "id": "H7644/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone flights beyond visual line of sight in an area near Dereham, up to 400 ft above ground level, between sunrise and sunset.",
+ "summary_of": "cefd569c2b16",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI AREA BOUNDED BY \n524142N 0005210E - 524245N 0005653E - 524239N 0005916E - \n524144N 0010035E - 524118N 0005936E - 524120N 0005547E - \n524019N 0005353E - 524142N 0005210E (DEREHAM). MAX HGT 400FT AGL. \nFOR INFO 02054 743019. AR-2026-10978/01.",
+ "to": "2026-11-27T15:48Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}
