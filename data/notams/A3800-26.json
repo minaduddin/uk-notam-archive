@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4667,
+  -0.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T22:53Z",
+ "from": "2026-10-18T21:30Z",
+ "id": "A3800/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "OCT 18-23 2130-0330, 24 2130-0430, 25-DEC 15 2230-0430",
+ "summary": "Lit crane up to 92 ft above ground level at Heathrow, operating at night only when runway 09L/27R is closed.",
+ "summary_of": "aaf2413d6b9c",
+ "text": "LIT CRANE OPR WI AREA BOUNDED BY:\n512828N 0002624W - 512828N 0002618W - 512825N 0002618W -\n512825N 0002624W - 512828N 0002624W (HEATHROW STAND 258). MAX HGT \n92FT AGL/171FT AMSL. NO CRANE OPR IN LVP. CRANE WILL ONLY OPR WHEN \nRWY 09L/27R IS CLSD. CRANE REF 2026090966",
+ "to": "2026-12-16T04:30Z",
+ "type": "N",
+ "upper": ""
+}

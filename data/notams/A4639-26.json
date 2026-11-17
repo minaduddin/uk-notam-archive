@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T22:53Z",
+ "from": "2026-11-17T23:00Z",
+ "id": "A4639/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Quebec closed between taxiways Lima and Kilo, and taxiway Romeo Alpha closed, at EGKK.",
+ "summary_of": "616ed4f80099",
+ "text": "TWY QUEBEC CLSD BTN TWY LIMA AND TWY KILO, TWY ROMEO ALPHA CLSD",
+ "to": "2026-11-18T05:00Z",
+ "type": "N",
+ "upper": ""
+}
