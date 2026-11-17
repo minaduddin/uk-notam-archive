@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.2833,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T17:36Z",
+ "from": "2026-11-17T17:30Z",
+ "id": "L7274/26",
+ "loc": [
+  "EGNE"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGNE closed.",
+ "summary_of": "b4516e47bf6b",
+ "text": "AD CLSD",
+ "to": "2026-11-17T18:00Z",
+ "type": "N",
+ "upper": ""
+}

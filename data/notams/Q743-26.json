@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T17:36Z",
+ "from": "2026-11-17T16:47Z",
+ "id": "Q743/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Bravo closed near parking stands 6 to 11 at EGUB.",
+ "summary_of": "ac912f96de05",
+ "text": "TWY BRAVO CLSD IN THE VCY OF PARKING STANDS 6-11",
+ "to": "2026-11-20T17:00Z",
+ "type": "R",
+ "upper": ""
+}

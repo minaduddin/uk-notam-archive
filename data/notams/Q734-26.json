@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T17:36Z",
+ "from": "2026-11-17T16:03Z",
+ "id": "Q734/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MXLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiways at EGUL, including Tango and Foxtrot, restricted to daytime use only as all taxiway lights are unserviceable.",
+ "summary_of": "60df93af262f",
+ "text": "TWY TANGO EAST OF PROTECTIVE ACFT SHELTER 31, TWY FOXTROT, AND \n40'S BUBBLE APRON LTD TO DAYTIME USE ONLY DUE TO ALL TWY LIGHTS U/S.",
+ "to": "2026-12-31T23:59Z",
+ "type": "R",
+ "upper": ""
+}
