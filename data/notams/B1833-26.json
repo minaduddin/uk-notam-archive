@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.85,
+  -0.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T11:50Z",
+ "from": "2026-11-24T10:00Z",
+ "id": "B1833/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "NDAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Part of the Goodwood navigation beacon on 114.75 MHz is out of service.",
+ "summary_of": "bac9dd3727f8",
+ "text": "VOR/DME GWC/GOODWOOD 114.75MHZ CH094Y DME PART U/S",
+ "to": "2026-11-24T15:00Z",
+ "type": "N",
+ "upper": ""
+}

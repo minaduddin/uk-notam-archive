@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4833,
+  -2.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T11:50Z",
+ "from": "2026-11-22T07:00Z",
+ "id": "A4629/26",
+ "loc": [
+  "EGCC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity within 0.1 nautical mile radius near Manchester, up to 40 feet above ground level.",
+ "summary_of": "8ba6e455633e",
+ "text": "UAS OPR WI 0.1NM RADIUS OF 532837N 0021458W (MANCHESTER). MAX HGT\n40FT AGL. FOR INFO 07581 129007. AR-2026-10942/01.",
+ "to": "2026-11-22T11:00Z",
+ "type": "N",
+ "upper": "200FT AMSL"
+}

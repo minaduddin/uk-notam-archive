@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3333,
+  -2.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T11:50Z",
+ "from": "2026-11-21T16:45Z",
+ "id": "H7638/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile radius at Bromsgrove, from ground level upwards.",
+ "summary_of": "bd253a942791",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 522004N 0020343W (BROMSGROVE).\nFOR INFO 07412 670371. AR-2026-10947/01.",
+ "to": "2026-11-21T18:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

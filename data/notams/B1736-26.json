@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.3833,
+  1.6333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-17T11:50Z",
+ "from": "2026-11-24T10:00Z",
+ "id": "B1736/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "CACF",
+ "radius": 128,
+ "removed": null,
+ "sched": "",
+ "summary": "Scottish Flight Information Service frequency 134.775 MHz unavailable for maintenance at EGPX; pilots asked to use 133.875 MHz.",
+ "summary_of": "89d6881566bd",
+ "text": "SCOTTISH FIS FREQ 134.775MHZ (AREA C) NOT AVBL DUE MAINT.\nPILOTS ARE REQ TO USE ALTN FREQ 133.875MHZ",
+ "to": "2026-11-24T11:00Z",
+ "type": "N",
+ "upper": ""
+}
