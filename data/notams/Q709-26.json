@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T01:02Z",
+ "from": "2026-11-17T00:55Z",
+ "id": "Q709/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 10/28 at EGUN reported wet, with standing water less than a tenth of an inch deep.",
+ "summary_of": "b069ce3e66c2",
+ "text": "RWY 10/28 SFC COND: CONCRETE-WET ASPHALT-WET WITH LESS THAN\n1/10TH INCH STANDING WATER.",
+ "to": "2026-11-17T23:59Z",
+ "type": "R",
+ "upper": ""
+}

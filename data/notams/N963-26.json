@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  0.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T01:02Z",
+ "from": "2026-11-24T00:00Z",
+ "id": "N963/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane 131 ft tall, 531 ft above sea level, near Epping Forest, Essex.",
+ "summary_of": "da458a3d0f03",
+ "text": "LIT CRANE PSN 514457N 0000802E (EPPING FOREST, ESSEX) IN LOW \nFLYING AREA THAMES VALLEY AVOIDANCE AREA DAY AND NIGHT. HGT 131FT \nAGL, 531FT AMSL. 26/11/109/LFC",
+ "to": "2026-11-25T23:59Z",
+ "type": "N",
+ "upper": ""
+}

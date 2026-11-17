@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4167,
+  -2.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T01:02Z",
+ "from": "2026-11-24T00:01Z",
+ "id": "N965/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane 167 ft tall, 467 ft above sea level, at Stockport, Manchester.",
+ "summary_of": "fc84ab32082c",
+ "text": "LIT CRANE AT PSN 532433N 0020924W (STOCKPORT, MANCHESTER) IN LOW \nFLYING AREA 8 AND NIGHT SECTOR 3A HGT 167FT AGL 467FT AMSL. \n26/11/111/LFC",
+ "to": "2027-02-22T23:59Z",
+ "type": "N",
+ "upper": ""
+}
