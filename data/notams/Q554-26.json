@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1167,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T10:01Z",
+ "from": "2026-11-24T08:00Z",
+ "id": "Q554/26",
+ "loc": [
+  "EGXC"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 62 ft above ground level near RAF Coningsby.",
+ "summary_of": "12ce705bd186",
+ "text": "CRANE OPR PSN 530634N 0001036W (RAF CONINGSBY) MAX HGT 62FT AGL \n/86FT AMSL.",
+ "to": "2026-11-24T17:00Z",
+ "type": "N",
+ "upper": ""
+}

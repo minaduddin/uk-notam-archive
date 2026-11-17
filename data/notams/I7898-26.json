@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-17T10:01Z",
+ "from": "2026-11-17T09:16Z",
+ "id": "I7898/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Papa closed at EGPH due to work in progress.",
+ "summary_of": "a7c3337c0960",
+ "text": "TWY PAPA CLSD DUE WIP",
+ "to": "2026-11-17T14:00Z",
+ "type": "N",
+ "upper": ""
+}

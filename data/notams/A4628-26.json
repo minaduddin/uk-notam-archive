@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T10:01Z",
+ "from": "2026-11-17T10:00Z",
+ "id": "A4628/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 08R/26L exit Golf closed at EGKK.",
+ "summary_of": "a21eb272901b",
+ "text": "RWY 08R/26L EXIT GOLF CLSD",
+ "to": "2026-11-17T17:00Z",
+ "type": "N",
+ "upper": ""
+}

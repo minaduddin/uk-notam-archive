@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.7167,
+  -4.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T10:01Z",
+ "from": "2026-11-24T09:00Z",
+ "id": "D4518/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 4,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD118 at Pembrey activated, from the surface up to 12,000 feet above mean sea level.",
+ "summary_of": "a4b193a71278",
+ "text": "DANGER AREA EGD118 PEMBREY ACTIVATED.\nSPECIAL USE AIRSPACE ACTIVITY INFO SERVICE (SUAAIS) NOT AVBL.\nFOR RANGE STATUS CTC RANGE CONTROL: 01994 452240",
+ "to": "2026-11-24T16:00Z",
+ "type": "N",
+ "upper": "12000FT AMSL"
+}

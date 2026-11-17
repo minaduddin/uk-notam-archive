@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.3667,
+  -2.8667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-17T10:01Z",
+ "from": "2026-11-18T09:00Z",
+ "id": "Q718/26",
+ "loc": [
+  "EGQL"
+ ],
+ "lower": "",
+ "q": "CALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Tower and ground radio frequencies 119.23 and 275.375 MHz at EGQL are running without backup during maintenance.",
+ "summary_of": "73bef177553f",
+ "text": "TWR FREQ 119.23MHZ AND GND FREQ 275.375MHZ OPERATING WITHOUT \nBACKUP DUE MAINT. TEMPORARY BACKUP TWR FREQ CH309.605 AND GND FREQ \n299.750MHZ",
+ "to": "2026-11-18T17:00Z",
+ "type": "N",
+ "upper": ""
+}

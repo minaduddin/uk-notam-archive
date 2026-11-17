@@ -1,0 +1,26 @@
+{
+ "coord": [
+  55.6333,
+  -4.2
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-17T10:01Z",
+ "from": "2026-11-17T15:00Z",
+ "id": "B1890/26",
+ "loc": [
+  "EGPX",
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "CACF",
+ "radius": 122,
+ "removed": null,
+ "sched": "1500-1600 1700-2000",
+ "summary": "Scottish Flight Information Service frequency 119.875 MHz is unavailable and not monitored in area A; alternative frequencies are listed.",
+ "summary_of": "c2dc1011b3b2",
+ "text": "SCOTTISH FIS FREQUENCY 119.875MHZ (AREA A) IS NOT AVBL AND NOT \nMONITORED. THE FOLLOWING ALTERNATIVE FREQUENCIES LISTED IN ENR 6-33 \nARE AVBL.\nAREA E 127.275 MHZ\nAREA G 123.775 MHZ\nAREA H 124.500 MHZ\nALERTING AND DISTRESS SERVICE ALSO AVBL ON 121.5 MHZ",
+ "to": "2026-11-17T20:00Z",
+ "type": "N",
+ "upper": ""
+}

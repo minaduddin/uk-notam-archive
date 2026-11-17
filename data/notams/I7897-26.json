@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6167,
+  -5.8667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-17T10:01Z",
+ "from": "2026-11-17T08:00Z",
+ "id": "I7897/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "",
+ "q": "FWXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "0630-2130",
+ "summary": "Runway 22 windsock lights unserviceable at EGAC, 0630-2130.",
+ "summary_of": "32af90842030",
+ "text": "RWY 22 WINDSOCK LIGHTS UNSERVICEABLE.",
+ "to": "2026-11-20T21:30Z",
+ "type": "N",
+ "upper": ""
+}

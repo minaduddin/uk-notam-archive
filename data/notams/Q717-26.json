@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T10:01Z",
+ "from": "2026-11-17T11:00Z",
+ "id": "Q717/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "FHCS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Helicopter landing zone FOSS activated at EGUN; non-participating aircraft may not use taxiways Delta North and Alpha.",
+ "summary_of": "65fc70e08f8e",
+ "text": "HELICOPTER LANDING ZONE FOSS ACTIVATED FOR ROTARY WING/TILT-ROTOR \nOPERATIONS. NON-PARTICIPATING ACFT MAY NOT UTILIZE TWY DELTA NORTH \nAND TAXIWAY ALPHA BTN TWY ALPHA WEST HAMMERHEAD AND AMC RAMP.",
+ "to": "2026-11-17T13:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T10:01Z",
+ "from": "2026-11-17T08:37Z",
+ "id": "Q715/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "LPAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Western approach path lights are not available on runway 01 at EGUB.",
+ "summary_of": "691c1d55370d",
+ "text": "WESTERN PAPIS NOT AVBL RWY 01",
+ "to": "2026-11-24T08:00Z",
+ "type": "N",
+ "upper": ""
+}
