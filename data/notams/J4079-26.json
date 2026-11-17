@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5333,
+  -1.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T08:58Z",
+ "from": "2026-11-18T07:41Z",
+ "id": "J4079/26",
+ "loc": [
+  "EGNV"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 7,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary reserved airspace EGTR495 with a transponder mandatory zone near Teesside, surface to 700 feet above sea level.",
+ "summary_of": "b7c13b8419f4",
+ "text": "TEMPO RESERVED AREA EGTR495 AND ASSOCIATED TEMPO TRANSPONDER\nMANDATORY ZONE ACT. AIP SUP 059/2026 REFERS. SPECIAL USE AIRSPACE \nCROSSING SERVICE VIA TEESSIDE RADAR CH118.855. SPECIAL USE AIRSPACE \nACTIVITY INFO SERVICE VIA LONDON INFO 125.475MHZ. FOR INFO CTC 01325\n331020",
+ "to": "2026-11-18T16:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

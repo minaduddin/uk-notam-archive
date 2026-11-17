@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8167,
+  -1.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T08:58Z",
+ "from": "2026-11-24T07:42Z",
+ "id": "H7535/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Large model aircraft flying within 0.3 nautical miles of Chedworth, surface to 2,400 feet above sea level, during daylight hours.",
+ "summary_of": "0f7c8a5ab1ad",
+ "text": "FLYING OF LARGE MODEL ACFT WI 0.3NM RADIUS OF 514901N 0015625W\n(CHEDWORTH). FOR INFO 07816 506828. AR-2026-10783/01.",
+ "to": "2027-02-21T17:33Z",
+ "type": "N",
+ "upper": "2400FT AMSL"
+}
