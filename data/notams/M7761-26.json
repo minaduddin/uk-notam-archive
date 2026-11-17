@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.6667,
+  0.1
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-17T13:02Z",
+ "from": "2026-11-18T17:00Z",
+ "id": "M7761/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "FL100",
+ "q": "RDCA",
+ "radius": 72,
+ "removed": null,
+ "sched": "",
+ "summary": "Central Complex danger areas EGD613A to D are active 1700 to 2000, between flight levels 100 and 660.",
+ "summary_of": "7435baf22911",
+ "text": "THE FOLLOWING CENTRAL COMPLEX DANGER AREAS ARE ACTIVATED:\nEGD613A 1700-2000 FL100-FL660\nEGD613B 1700-2000 FL100-FL660\nEGD613C 1700-2000 FL100-FL660\nEGD613D 1700-2000 FL100-FL660",
+ "to": "2026-11-18T20:00Z",
+ "type": "N",
+ "upper": "FL660"
+}

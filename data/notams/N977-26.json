@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8,
+  0.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T13:02Z",
+ "from": "2026-11-17T11:33Z",
+ "id": "N977/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Aviation warning light on an offshore obstacle out of service, 5 nautical miles east of Tunstall, 186 ft above sea level.",
+ "summary_of": "9d6ab5b8b425",
+ "text": "REPORT OF AIR NAV OBST LGT U/S AT PSN 534755N 0000622E (OFFSHORE,\n5NM EAST OF TUNSTALL). 186FT AMSL. FOR INFO 07880 244781 / 07867\n674941. AR-2026-10971/02.",
+ "to": "2027-02-16T00:00Z",
+ "type": "N",
+ "upper": ""
+}

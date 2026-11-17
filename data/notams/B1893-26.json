@@ -1,0 +1,26 @@
+{
+ "coord": [
+  49.5167,
+  -2.5
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-17T13:02Z",
+ "from": "2026-11-17T12:24Z",
+ "id": "B1893/26",
+ "loc": [
+  "EGTT",
+  "LFRR"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 45,
+ "removed": null,
+ "sched": "",
+ "summary": "Channel Islands primary radar is unavailable, with only secondary radar in service.",
+ "summary_of": "58b54d0f488b",
+ "text": "CHANNEL ISLANDS PRIMARY RADAR NOT AVBL. SECONDARY RADAR ONLY.",
+ "to": "2026-11-17T21:00Z",
+ "type": "N",
+ "upper": ""
+}

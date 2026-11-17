@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.6,
+  -8.8
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-17T13:02Z",
+ "from": "2026-11-18T10:00Z",
+ "id": "M7764/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 67,
+ "removed": null,
+ "sched": "",
+ "summary": "Hebrides danger areas EGD701A to EGD701Y are active 1000 to 2000, from ground level with no upper limit.",
+ "summary_of": "84d813dfdb94",
+ "text": "THE FOLLOWING HEBRIDES DANGER AREAS ARE ACTIVATED:\nEGD701A 1000-2000 SFC-UNL\nEGD701B 1000-2000 SFC-UNL\nEGD701C 1000-2000 SFC-UNL\nEGD701D 1000-2000 SFC-UNL\nEGD701E 1000-2000 SFC-UNL\nEGD701G 1000-2000 SFC-UNL\nEGD701H 1000-2000 SFC-UNL\nEGD701Y 1000-2000 SFC-UNL",
+ "to": "2026-11-18T20:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8,
+  0.6
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T13:02Z",
+ "from": "2026-11-18T12:00Z",
+ "id": "M7759/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL245",
+ "q": "RMCA",
+ "radius": 44,
+ "removed": null,
+ "sched": "",
+ "summary": "East Anglian military training areas are active 1200 to 1400, between flight levels 245 and 660.",
+ "summary_of": "d82dc42ee60b",
+ "text": "THE FOLLOWING EAST ANGLIAN MILITARY TRAINING AREAS ACTIVATED:\nEAMTA (LOW) 1200-1400 FL245-FL285\nEAMTA (HIGH) 1200-1400 FL285-FL660",
+ "to": "2026-11-18T14:00Z",
+ "type": "N",
+ "upper": "FL660"
+}

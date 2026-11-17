@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.95,
+  0.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T13:02Z",
+ "from": "2026-11-17T11:10Z",
+ "id": "C7560/26",
+ "loc": [
+  "EGMD"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Illuminated crane up to 31 feet high at Jurys Gap.",
+ "summary_of": "99b41e6eab55",
+ "text": "LIT CRANE OPR PSN 505649N 0005317E (JURYS GAP) MAX HGT 31FT\nAGL/35FT AMSL.",
+ "to": "2026-12-04T23:59Z",
+ "type": "N",
+ "upper": ""
+}

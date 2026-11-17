@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.05,
+  -2.9333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-17T13:02Z",
+ "from": "2026-11-18T00:00Z",
+ "id": "N978/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 443 ft above sea level at Inch Cape offshore wind farm.",
+ "summary_of": "373033f57a9a",
+ "text": "CRANE AT PSN 560305N 0025530W (INCH CAPE OFFSHORE WIND FARM). UP\nTO 443FT AMSL. FOR INFO CONTACT 07932 229828. ON EXPIRY OF THIS\nNOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4\nAR-2026-10955/02.",
+ "to": "2026-11-25T23:59Z",
+ "type": "N",
+ "upper": ""
+}

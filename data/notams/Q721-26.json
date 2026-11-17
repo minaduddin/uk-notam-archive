@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -1.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T13:02Z",
+ "from": "2026-11-17T11:12Z",
+ "id": "Q721/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Hardstands 1, 4, 9 and 11 at EGVA closed due to equipment.",
+ "summary_of": "ee41cd5b3275",
+ "text": "HARDSTANDS 1, 4, 9, AND 11 CLSD DUE EQUIPMENT.",
+ "to": "2026-12-31T23:59Z",
+ "type": "R",
+ "upper": ""
+}

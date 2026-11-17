@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9667,
+  -0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T13:02Z",
+ "from": "2026-11-17T12:35Z",
+ "id": "Q722/26",
+ "loc": [
+  "EGYE"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGYE closed.",
+ "summary_of": "9690d157b18a",
+ "text": "AD CLSD",
+ "to": "2026-11-17T17:15Z",
+ "type": "N",
+ "upper": ""
+}

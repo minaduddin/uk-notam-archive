@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -1.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T13:02Z",
+ "from": "2026-11-24T11:00Z",
+ "id": "Q632/26",
+ "loc": [
+  "EGVP"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGVP closed to visiting aircraft.",
+ "summary_of": "2f0bc899db97",
+ "text": "AD CLSD TO VISITING ACFT.",
+ "to": "2026-11-25T13:00Z",
+ "type": "N",
+ "upper": ""
+}

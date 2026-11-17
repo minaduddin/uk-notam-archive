@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1,
+  -4.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-17T13:02Z",
+ "from": "2026-11-17T11:44Z",
+ "id": "L7265/26",
+ "loc": [
+  "EGCK"
+ ],
+ "lower": "",
+ "q": "FMXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Weather information is not available at aerodrome EGCK.",
+ "summary_of": "fcb44d51d12b",
+ "text": "MET NOT AVBL",
+ "to": "2026-11-17T17:00Z",
+ "type": "N",
+ "upper": ""
+}
