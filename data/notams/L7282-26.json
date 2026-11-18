@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1,
+  -3.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T12:28Z",
+ "from": "2026-11-19T06:00Z",
+ "id": "L7282/26",
+ "loc": [
+  "EGNL"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary crane near Barrow in Furness, up to 200 feet above ground level.",
+ "summary_of": "7aef46b6a6df",
+ "text": "TEMPORARY CRANE OPR WI 0.1NM RADIUS OF 540544.09N 0031317.44W\n(BARROW IN FURNESS) ELEVATION 250FT AMSL (HEIGHT 200FT AGL)",
+ "to": "2026-11-19T20:00Z",
+ "type": "N",
+ "upper": ""
+}
