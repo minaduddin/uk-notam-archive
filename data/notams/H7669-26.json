@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.1167,
+  -4.5
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T15:58Z",
+ "from": "2026-11-19T07:58Z",
+ "id": "H7669/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 4,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Beyond visual line of sight drone operations within 3 nautical miles of Merrick, up to 3,100 ft above sea level, between sunrise and sunset.",
+ "summary_of": "6ea725900f72",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 3NM RADIUS OF \n550658N 0042949W (MERRICK). LARGE HEAVY LIFT UAS OPR MAX HGT \n300FT AGL. FOR INFO 07786 553317. AR-2026-10987/03.",
+ "to": "2026-11-20T16:07Z",
+ "type": "N",
+ "upper": "3100FT AMSL"
+}

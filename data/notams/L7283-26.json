@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.7833,
+  -1.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T15:58Z",
+ "from": "2026-11-18T14:01Z",
+ "id": "L7283/26",
+ "loc": [
+  "EGCJ"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "EGCJ aerodrome not available to aircraft needing a licensed aerodrome, due to no rescue and firefighting services.",
+ "summary_of": "882f62a5f27b",
+ "text": "AD NOT AVBL FOR ACFT REQUIRING THE USE OF A LICENSED AD DUE NO\nRFFS",
+ "to": "2026-11-18T18:30Z",
+ "type": "N",
+ "upper": ""
+}

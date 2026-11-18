@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.6667,
+  -4.8833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T15:58Z",
+ "from": "2026-11-19T08:00Z",
+ "id": "H7670/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Underslung load operations near Highland, Scotland, within 2 nautical miles, up to 3,500 ft above sea level.",
+ "summary_of": "328c1294f5b4",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 574024N 0045300W (HIGHLAND, SCOTLAND) LOW FLYING \nAREA 14 AND NIGHT SECTOR 1BE. MAX HGT 500FT AGL. ACFT MAY BE \nRESTRICTED IN ABILITY TO MANOEUVRE AND UNABLE TO COMPLY WITH RAC OPS \nCTC 07776 462424. 26/11/126/LFC",
+ "to": "2026-11-19T17:00Z",
+ "type": "N",
+ "upper": "3500FT AMSL"
+}

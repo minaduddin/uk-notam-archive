@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.3,
+  -4.65
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T15:58Z",
+ "from": "2026-11-25T08:16Z",
+ "id": "H7671/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Beyond visual line of sight drone operations within 2 nautical miles of Pulpit Rock, up to 3,400 ft above sea level, between sunrise and sunset.",
+ "summary_of": "62dc09324b46",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 2NM RADIUS OF \n561823N 0043901W (PULPIT ROCK). OPR OF LARGE HEAVY LIFT UAS MAX HGT \n298FT AGL. FOR INFO 07871 703156. AR-2026-11028/01.",
+ "to": "2026-11-25T15:54Z",
+ "type": "N",
+ "upper": "3400FT AMSL"
+}
