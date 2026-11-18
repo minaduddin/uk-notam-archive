@@ -14,7 +14,7 @@
  "lower": "",
  "q": "IGAS",
  "radius": 5,
- "removed": null,
+ "removed": "2026-11-18T18:54Z",
  "sched": "0800-1800",
  "summary": "Instrument landing system glide path for runway 25 is unserviceable at EGAA, from 0800 to 1800.",
  "summary_of": "e953831c3eb4",

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.2833,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T18:54Z",
+ "from": "2026-11-20T08:00Z",
+ "id": "L7292/26",
+ "loc": [
+  "EGNE"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "FRI 0800-1800, SAT-SUN 0900-1800",
+ "summary": "Aerodrome EGNE not available to visiting aircraft without written authorisation from the airport manager, Fridays 0800-1800 and weekends 0900-1800.",
+ "summary_of": "c8c729a40f58",
+ "text": "AD NOT AVBL TO VISITING ACFT OTHER THAN THOSE WITH SPECIFIC \nWRITTEN AUTHORISATION FM THE AIRPORT MANAGER. MORE INFO +44 01777 \n838521.",
+ "to": "2026-11-22T18:00Z",
+ "type": "N",
+ "upper": ""
+}

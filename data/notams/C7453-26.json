@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3167,
+  -0.8333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T18:54Z",
+ "from": "2026-11-25T17:00Z",
+ "id": "C7453/26",
+ "loc": [
+  "EGLF"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1700-2300",
+ "summary": "Parachute flares within 0.59 nautical miles of Blackbushe, from surface to 1,226 ft, daily from 1700 to 2300.",
+ "summary_of": "4546aeb8a1a8",
+ "text": "ILLUMINANTS WI 0.59NM RADIUS OF 511843N 0004931W (BLACKBUSHE).\nILLUMINANTS WILL DESCEND BY PARACHUTE. FOR INFO 07484 516900 /\n07350 432476. AR-2026-10616/01.",
+ "to": "2026-11-26T23:00Z",
+ "type": "N",
+ "upper": "1226FT AMSL"
+}

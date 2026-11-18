@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.2833,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T18:54Z",
+ "from": "2026-11-20T08:00Z",
+ "id": "L7293/26",
+ "loc": [
+  "EGNE"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "FRI 0800-1800, SAT-SUN 0900-1800",
+ "summary": "Aerodrome EGNE not available to aircraft needing a licensed aerodrome due to no rescue and firefighting cover, Fridays 0800-1800 and weekends 0900-1800.",
+ "summary_of": "ad35ad1132a6",
+ "text": "AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS",
+ "to": "2026-11-22T18:00Z",
+ "type": "N",
+ "upper": ""
+}
