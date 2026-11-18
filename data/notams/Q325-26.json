@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T19:57Z",
+ "from": "2026-11-25T18:00Z",
+ "id": "Q325/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "FMLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGUN closed; weather observations will be automated and may not reflect conditions, and forecasts will not be published or updated.",
+ "summary_of": "7204e2514a1e",
+ "text": "DURING AD CLSD HR ALL OBS WILL BE AUTOMATED AND MAY NOT \nACCURATELY REFLECT CURRENT COND, TAF WILL NOT BE PUBLISHED OR \nUPDATED AND PILOT TO MET SER VIA LAND MOBILE RADIO MAY NOT BE AVBL. \nFOR ANY UPDATES TO THE OBS OR FCST AND FOR PILOT TO MET SER (CTC \nBASE COMMAND POST) AND ASK TO BE FORWARDED TO THE STANDBY FORECASTER.",
+ "to": "2026-11-30T06:00Z",
+ "type": "N",
+ "upper": ""
+}

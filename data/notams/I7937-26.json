@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T19:57Z",
+ "from": "2026-11-20T10:30Z",
+ "id": "I7937/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 07/25 closed at EGAA.",
+ "summary_of": "01edfa64d486",
+ "text": "RWY 07/25 CLOSED",
+ "to": "2026-11-20T12:00Z",
+ "type": "N",
+ "upper": ""
+}
