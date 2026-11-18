@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T22:52Z",
+ "from": "2026-11-18T21:33Z",
+ "id": "I7939/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Alpha closed between points A8 and A12 at EGPH.",
+ "summary_of": "21bf9f643c36",
+ "text": "TWY ALPHA CLSD A8 TO A12",
+ "to": "2026-11-19T05:30Z",
+ "type": "N",
+ "upper": ""
+}

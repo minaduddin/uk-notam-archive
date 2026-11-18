@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T22:52Z",
+ "from": "2026-11-18T23:30Z",
+ "id": "A4657/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Lima closed between taxiway Quebec and stand 553 at EGKK.",
+ "summary_of": "37762fb595a6",
+ "text": "TWY LIMA CLSD BTN TWY QUEBEC AND STAND 553",
+ "to": "2026-11-19T05:00Z",
+ "type": "N",
+ "upper": ""
+}
