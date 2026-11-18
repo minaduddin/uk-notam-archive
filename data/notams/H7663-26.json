@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.8333,
+  -3.2333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T13:49Z",
+ "from": "2026-11-23T08:10Z",
+ "id": "H7663/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 5,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone operations beyond visual line of sight within 4 nautical miles of Glen Finlet, up to 3,500 feet, with heavy lift drones up to 298 feet.",
+ "summary_of": "b0de5cc5b0b9",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 4NM RADIUS OF \n565020N 0031422W (GLEN FINLET). OPR OF LARGE HEAVY LIFT UAS MAX HGT \n298FT AGL. FOR INFO 07786 553317. AR-2026-11017/01.",
+ "to": "2026-11-24T15:47Z",
+ "type": "N",
+ "upper": "3500FT AMSL"
+}

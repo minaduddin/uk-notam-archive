@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.0167,
+  1.1167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T13:49Z",
+ "from": "2026-11-21T08:00Z",
+ "id": "J4129/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary danger area EGD789C activated at EGPX, surface to 1,300 feet, for drone surveying within 6 nautical miles.",
+ "summary_of": "4438203e3d79",
+ "text": "TEMPO DANGER AREA (TDA) EGD789C ACTIVATED. AIP SUP 135/2026\nREFERS. BEYOND VISUAL LINE OF SIGHT UAS OPS CONTAINED WHOLLY WI\nTHE TDA. A SPECIAL USE AIRSPACE CROSSING SERVICE (SUACS) WILL BE\nAVBL FM ABERDEEN RADAR FREQ 134.100, 135.175 OR 132.550MHZ. A\nSPECIAL USE AIRSPACE ACTIVITY INFORMATION SERVICE (SUAAIS) WILL\nBE AVBL FM SCOTTISH INFO FREQ 134.850MHZ. FOR INFO AND BOOKING\nCTC OPS(AT)FLYLOGIX.COM OR 07784 546062. SURVEYING BRITANNIA.\nAR-2026-4768/00.",
+ "to": "2026-11-21T17:00Z",
+ "type": "N",
+ "upper": "1300FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T13:49Z",
+ "from": "2026-11-18T12:19Z",
+ "id": "A4648/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 09R/27L entry and exit point S1 closed at EGLL due to work in progress.",
+ "summary_of": "07e04eec9d5f",
+ "text": "RWY 09R/27L ENTRY/EXIT AT S1 CLSD DUE WIP.",
+ "to": "2026-11-18T14:30Z",
+ "type": "N",
+ "upper": ""
+}

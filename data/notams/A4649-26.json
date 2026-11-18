@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T13:49Z",
+ "from": "2026-11-18T13:00Z",
+ "id": "A4649/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Training approaches at EGSC are available by booking on the day only.",
+ "summary_of": "143cd0e514b9",
+ "text": "TRAINING APPROACHES BOOKING ON THE DAY ONLY",
+ "to": "2026-11-30T18:00Z",
+ "type": "N",
+ "upper": ""
+}

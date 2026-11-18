@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T13:49Z",
+ "from": "2026-11-18T12:28Z",
+ "id": "Q760/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxitrack Sierra closed at EGUL from Romeo South to protective aircraft shelter 37.",
+ "summary_of": "62d8ca55715c",
+ "text": "TAXITRAK SIERRA CLSD FROM ROMEO SOUTH TO PROTECTIVE AIRCRAFT\nSHELTER (PAS) 37.",
+ "to": "2026-12-17T23:59Z",
+ "type": "R",
+ "upper": ""
+}
