@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.7333,
+  -0.9667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T08:20Z",
+ "from": "2026-11-18T07:40Z",
+ "id": "N980/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unlit mast up to 130 feet above ground level, 500 feet above sea level, near Melton, Leicestershire, in a low flying area.",
+ "summary_of": "99ddfd203d90",
+ "text": "UNLIT MAST PSN 524410N 0005805W (MELTON, LEICESTERSHIRE)\nIN LOW FLYING AREA 6 AND NIGHT SECTOR 5F HGT 500FT AMSL (130FT AGL). \n26/11/123/LFC",
+ "to": "2027-02-18T23:59Z",
+ "type": "N",
+ "upper": ""
+}

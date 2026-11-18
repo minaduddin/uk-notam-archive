@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.4667,
+  -3.1
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T08:20Z",
+ "from": "2026-11-18T07:56Z",
+ "id": "I7919/26",
+ "loc": [
+  "EGPC"
+ ],
+ "lower": "",
+ "q": "FFCG",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Rescue and firefighting service reduced to category 3 at EGPC.",
+ "summary_of": "f5da7b9655fc",
+ "text": "RFFS REDUCED TO CATEGORY 3",
+ "to": "2026-11-18T09:00Z",
+ "type": "N",
+ "upper": ""
+}

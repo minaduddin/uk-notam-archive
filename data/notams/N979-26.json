@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2667,
+  -1.0833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T08:20Z",
+ "from": "2026-11-18T07:33Z",
+ "id": "N979/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unlit mast up to 100 feet above ground level, 500 feet above sea level, near Long Buckby, West Northamptonshire, in a low flying area.",
+ "summary_of": "a4fa841c3004",
+ "text": "UNLIT MAST POSITION 521532N 0010513W (LONG BUCKBY, WEST \nNORTHAMPTONSHIRE) IN LOW FLYING AREA 6 AND NIGHT ROTARY REGION 4C\nHGT 500FT AMSL (100FT AGL). 26/11/122/LFC",
+ "to": "2027-02-18T23:59Z",
+ "type": "N",
+ "upper": ""
+}

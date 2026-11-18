@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.1333,
+  -0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T08:20Z",
+ "from": "2026-11-19T09:00Z",
+ "id": "L7276/26",
+ "loc": [
+  "EGTC"
+ ],
+ "lower": "",
+ "q": "NLAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Cranfield locator beacon out of service, and instrument approaches to runways 03 and 21 unavailable at EGTC.",
+ "summary_of": "116fc5f8c27a",
+ "text": "LOCATOR CIT/CRANFIELD 850KHZ U/S. NDB(L)/DME IAP RWY 03, \nNDB(L)/DME IAP RWY 21 NOT AVBL.",
+ "to": "2026-11-19T10:00Z",
+ "type": "N",
+ "upper": ""
+}
