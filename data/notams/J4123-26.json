@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T11:29Z",
+ "from": "2026-11-18T10:17Z",
+ "id": "J4123/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RTCS",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary drone-only restricted area within 5 nautical miles of RAF Lakenheath, Suffolk, up to 1,200 ft above sea level.",
+ "summary_of": "bca5585ab3f2",
+ "text": "RESTRICTED AREA (TEMPORARY) INSTALLED FOR UAS ONLY (RAF\nLAKENHEATH, SUFFOLK) WI 5NM RADIUS OF PSN 522433.85N 0003339.64E.\nPILOTS ARE FORBIDDEN TO FLY UAS WITHIN THE DESIGNATED AREA WO THE\nPERMISSION OF EMERGENCY CONTROLLING AUTHORITY: RAF LAKENHEATH ATC\nUNIT CTC TEL 01638-543610 OR EMAIL USAFE-UK.A3(AT)US.AF.MIL.\nRESTRICTION OF FLYING REGULATIONS MADE UNDER ARTICLE 239 OF AIR\nNAV ORDER 2016. AR-2026-10692/03",
+ "to": "2026-11-25T12:00Z",
+ "type": "R",
+ "upper": "1200FT AMSL"
+}

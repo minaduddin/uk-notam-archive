@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.3167,
+  -2.2667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T11:29Z",
+ "from": "2026-11-25T10:30Z",
+ "id": "I7660/26",
+ "loc": [
+  "EGPD"
+ ],
+ "lower": "",
+ "q": "NVAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Part of the Aberdeen radio navigation beacon, the VOR/DME on 114.30 MHz, is out of service.",
+ "summary_of": "a69e77f7d68c",
+ "text": "VOR/DME ADN/ABERDEEN 114.30MHZ CH090X VOR PART U/S",
+ "to": "2026-11-25T15:00Z",
+ "type": "N",
+ "upper": ""
+}
