@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.15,
+  -4.6167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T10:33Z",
+ "from": "2026-11-19T11:30Z",
+ "id": "H7655/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Underslung load operations within 2 nautical miles of Stirling, Scotland, up to 500 feet above ground.",
+ "summary_of": "cfadabf63099",
+ "text": "CIVIL ACFT NOTIFICATION PROCEDURE -\nUNDERSLUNG LOADS OPR WI 2NM RADIUS OF PSN 560857N 0043707W\n(STIRLING, SCOTLAND,) LOW FLYING AREA 14 AND NIGHT SECTOR 1A.\nMAX HGT 500FT AGL. ACFT MAY BE RESTRICTED IN ABILITY TO MANOEUVRE \nAND UNABLE TO COMPLY WITH RAC OPS CTC 07776462424. 26/11/124/LFC",
+ "to": "2026-11-19T17:00Z",
+ "type": "N",
+ "upper": "3000FT AMSL"
+}

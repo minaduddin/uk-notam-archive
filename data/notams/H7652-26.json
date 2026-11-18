@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1333,
+  -1.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T10:33Z",
+ "from": "2026-11-19T00:00Z",
+ "id": "H7652/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unmanned aircraft flights beyond visual line of sight within 0.4 nautical miles of Bilsthorpe, up to 120 feet above ground.",
+ "summary_of": "c667494a64fe",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) WI 0.4NM RADIUS OF\n530747N 0010403W (BILSTHORPE). ATYPICAL UAS OPR. MAX HGT 120FT\nAGL. FOR INFO 07762 568181 / 07538 597873. AR-2026-10984/01.",
+ "to": "2027-02-15T23:59Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

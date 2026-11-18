@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.1167,
+  -4.5
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T10:33Z",
+ "from": "2026-11-19T06:00Z",
+ "id": "H7653/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 4,
+ "removed": null,
+ "sched": "",
+ "summary": "Large heavy-lift unmanned aircraft flights beyond visual line of sight within 3 nautical miles of Merrick, up to 300 feet above ground.",
+ "summary_of": "7c6368f6280b",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 3NM RADIUS OF \n550658N 0042949W (MERRICK). LARGE HEAVY LIFT UAS OPR MAX HGT 300FT \nAGL. FOR INFO 07786 553317. AR-2026-10987/01.",
+ "to": "2026-11-19T18:00Z",
+ "type": "N",
+ "upper": "3100FT AMSL"
+}

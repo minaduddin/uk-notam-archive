@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3,
+  0.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T10:33Z",
+ "from": "2026-11-25T07:36Z",
+ "id": "H7656/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Unmanned aircraft operations within an area near Burwell, Cambridgeshire, up to 400 feet, sunrise to sunset.",
+ "summary_of": "5dbf7d704862",
+ "text": "UAS OPR WI AREA BOUNDED BY 521838N 0002024E - 521557N 0001751E -\n521637N 0001356E - 521925N 0001609E - 521838N 0002024E (BURWELL,\nCAMBRIDGESHIRE). MAX HGT 400FT AGL. FOR INFO 07502 107645.\nAR-2026-10991/01.",
+ "to": "2026-11-25T15:55Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

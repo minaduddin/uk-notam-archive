@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9,
+  -2.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T10:33Z",
+ "from": "2026-11-21T08:00Z",
+ "id": "L7280/26",
+ "loc": [
+  "EGBJ"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unmanned aircraft within 0.1 nautical miles of Staverton, up to 50 feet above ground.",
+ "summary_of": "451e7d6f905c",
+ "text": "UAS OPR WI 0.1NM RADIUS OF 515357N 0021019W (STAVERTON) MAX HGT\n50FT AGL 151FT AMSL.",
+ "to": "2026-11-21T08:30Z",
+ "type": "N",
+ "upper": "151FT AMSL"
+}

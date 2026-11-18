@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.1333,
+  -5.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T10:33Z",
+ "from": "2026-11-25T09:30Z",
+ "id": "B1645/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "NVAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Part of the Land's End navigation beacon is out of service.",
+ "summary_of": "0ebca2397e9e",
+ "text": "VOR/DME LND/LANDS END 114.20MHZ CH089X VOR PART U/S",
+ "to": "2026-11-25T14:30Z",
+ "type": "N",
+ "upper": ""
+}

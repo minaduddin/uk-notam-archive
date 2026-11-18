@@ -1,0 +1,26 @@
+{
+ "coord": [
+  55.6333,
+  -4.2
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-18T10:33Z",
+ "from": "2026-11-18T15:00Z",
+ "id": "B1895/26",
+ "loc": [
+  "EGPX",
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "CACF",
+ "radius": 122,
+ "removed": null,
+ "sched": "1500-1600 1700-2000",
+ "summary": "Scottish Flight Information Service frequency 119.875 MHz closed daily 1500-1600 and 1700-2000, with alternative frequencies available.",
+ "summary_of": "a184d1439682",
+ "text": "SCOTTISH FIS FREQ 119.875MHZ IS CLOSED AND NOT MONITORED. THE\nFOLLOWING ALTN FREQ LISTED IN ENR 6-33 ARE AVBL.\nAREA E 127.275MHZ\nAREA G 123.775MHZ\nAREA H 124.500MHZ\nALERTING AND DISTRESS SERVICE ALSO AVBL ON 121.5MHZ",
+ "to": "2026-11-18T20:00Z",
+ "type": "N",
+ "upper": ""
+}

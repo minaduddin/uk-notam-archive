@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.4667,
+  -3.1
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T10:33Z",
+ "from": "2026-11-18T09:00Z",
+ "id": "I7923/26",
+ "loc": [
+  "EGPC"
+ ],
+ "lower": "",
+ "q": "FFCG",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Airport fire cover reduced to category 3 at EGPC.",
+ "summary_of": "412f8598ea56",
+ "text": "RFFS REDUCED TO CAT 3",
+ "to": "2026-11-18T17:15Z",
+ "type": "N",
+ "upper": ""
+}

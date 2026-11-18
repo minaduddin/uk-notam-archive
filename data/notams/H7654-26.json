@@ -1,0 +1,26 @@
+{
+ "coord": [
+  55.0333,
+  -4.3333
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-18T10:33Z",
+ "from": "2026-11-20T07:59Z",
+ "id": "H7654/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Large unmanned aircraft flights within 2 nautical miles of a point 4 nautical miles east of Auchinleck, up to 298 feet, sunrise to sunset.",
+ "summary_of": "ac9b4800cbc9",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 2NM RADIUS OF \n550157N 0041930W (4NM EAST OF AUCHINLECK). OPR OF LARGE HEAVY LIFT \nUAS. MAX HGT 298FT AGL. FOR INFO 07786 553317. AR-2026-10995/01.",
+ "to": "2026-11-20T16:06Z",
+ "type": "N",
+ "upper": "2300FT AMSL"
+}
