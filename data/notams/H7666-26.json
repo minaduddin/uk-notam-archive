@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.85,
+  -0.9667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T14:54Z",
+ "from": "2026-11-23T06:00Z",
+ "id": "H7666/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0600-2100",
+ "summary": "Drone flights beyond the operator's sight within one nautical mile of Westcott, up to 50 feet above ground, 6am to 9pm.",
+ "summary_of": "cf4301248ee9",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) WI 1NM RADIUS OF\n515056N 0005818W (WESTCOTT). ATYPICAL UAS OPR MAX HGT 50FT AGL.\nFOR INFO 07852 318946 / 07954 823065. AR-2026-11018/01.",
+ "to": "2027-02-20T21:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6167,
+  -5.8667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T14:54Z",
+ "from": "2026-11-18T21:30Z",
+ "id": "I7931/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome opening hours at EGAC may only be extended to 10pm; contact the airport duty manager for more information.",
+ "summary_of": "a69003fcd4af",
+ "text": "AD AUTHORITY WILL ONLY EXTEND THE AD OPR HR TO 2200.\nCONTACT THE AIRPORT DUTY MANAGER FOR FURTHER INFORMATION.",
+ "to": "2026-11-18T22:00Z",
+ "type": "N",
+ "upper": ""
+}

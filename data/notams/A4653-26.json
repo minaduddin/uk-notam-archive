@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.6667,
+  1.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T14:54Z",
+ "from": "2026-11-18T13:53Z",
+ "id": "A4653/26",
+ "loc": [
+  "EGSH"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crane up to 43 feet high (151 feet above sea level) near Norwich aerodrome.",
+ "summary_of": "787b1b5265c3",
+ "text": "MOBILE CRANE OPR PSN 524026N 0011726E (NORWICH AD)\nMAX HGT 43FT AGL / 151FT AMSL",
+ "to": "2026-11-18T15:00Z",
+ "type": "N",
+ "upper": ""
+}

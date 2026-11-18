@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.7667,
+  1.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T14:54Z",
+ "from": "2026-11-23T07:32Z",
+ "id": "H7665/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 6,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone flights beyond the operator's sight along a route from Swanton Morley to Ingworth, up to 400 feet above ground, between sunrise and sunset.",
+ "summary_of": "ab3054be27dc",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) ROUTING\n524238N 0010038E - 524619N 0010619E - 524624N 0010848E - \n524809N 0011314E - 524814N 0011438E - 524848N 0011600E - \n524847N 0011601E (SWANTON MORLEY TO INGWORTH). MAX HGT 400FT AGL. \nFOR INFO 02054 743019. AR-2026-11019/01.",
+ "to": "2026-11-27T15:47Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}
