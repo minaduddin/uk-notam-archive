@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T17:03Z",
+ "from": "2026-11-20T11:30Z",
+ "id": "Q776/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "ICAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 19 precision landing aids unavailable at EGUB due to staffing.",
+ "summary_of": "32dae0fcdc44",
+ "text": "ILS AND PAR RWY 19 NOT AVBL DUE TO STAFFING, SRA AND UNMONITORED \nILS LOC/DME ONLY",
+ "to": "2026-11-20T13:30Z",
+ "type": "N",
+ "upper": ""
+}

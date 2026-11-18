@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7333,
+  -0.8
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T17:03Z",
+ "from": "2026-11-21T07:28Z",
+ "id": "H7675/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WCLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Kite flying within 1 nautical mile of Selsey, West Sussex, up to 3,000 ft, between sunrise and sunset.",
+ "summary_of": "f2f7de4fe54d",
+ "text": "KITE FLYING WI 1NM RADIUS OF 504330N 0004745W (SELSEY, WEST\nSUSSEX). MAX HGT 3000FT AGL. FOR INFO 07717 155066.\nAR-2026-11004/01.",
+ "to": "2026-11-22T16:09Z",
+ "type": "N",
+ "upper": "3100FT AMSL"
+}

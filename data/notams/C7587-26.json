@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.5667,
+  -0.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T17:03Z",
+ "from": "2026-11-18T16:31Z",
+ "id": "C7587/26",
+ "loc": [
+  "EGNJ"
+ ],
+ "lower": "",
+ "q": "AZAH",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Humberside aerodrome traffic zone active during set hours each week, with some times requiring prior permission.",
+ "summary_of": "c6edc5407431",
+ "text": "HUMBERSIDE ATZ ACTIVATION, ATS AND AD HR AS FOLLOWS::\nWED 1615-1800\nTHU 0730-0830, 0900-1100, 1145-1530, 1615-1800, 2040-2135(PPR)\nFRI 0600-0630(PPR), 0730-0830(PPR), 0900-1100, 1145-1300,\n1345-1530, 1615-1800, 2040-2135(PPR)\nSAT 0600-0630(PPR), 0900-1100, 1145-1300, 1345-1530,\n1615-1730, 2040-2135(PPR)\nSUN 0600-0630(PPR), 0900-1100, 1145-1300, 1345-1530,\n1615-1730, 1810-1915(PPR), 2040-2135(PPR)\nPILOTS ARE REQ TO AVOID PLANNING AN ARR OR DEP LATER THAN CLOSING \nTIMES MINUS 15 MIN. INBD ACFT SHOULD ALLOW SUFFICIENT TIME TO \nRECEIVE AN ATS AFTER AD REOPENING.",
+ "to": "2026-11-22T21:35Z",
+ "type": "R",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T17:03Z",
+ "from": "2026-11-19T08:00Z",
+ "id": "I7934/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "IGAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 25 instrument landing glide path at EGAA is out of service due to work in progress.",
+ "summary_of": "4e3588122bb4",
+ "text": "ILS GP RWY 25 U/S DUE WIP",
+ "to": "2026-11-19T18:00Z",
+ "type": "N",
+ "upper": ""
+}

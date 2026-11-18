@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T17:03Z",
+ "from": "2026-11-19T06:00Z",
+ "id": "Q766/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MXLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Victor south of the ramp to Taxitrack Sierra closed to non-participating aircraft and vehicles at EGUL.",
+ "summary_of": "9f8206c27235",
+ "text": "AIRCREW USE CAUTION: TWY VICTOR SOUTH OF RAMP TO TAXITRAK SIERRA \nCLSD TO NON-PARTICIPATING ACFT AND VEHICLES.",
+ "to": "2026-11-20T18:00Z",
+ "type": "N",
+ "upper": ""
+}

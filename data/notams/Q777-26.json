@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.6167,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T17:03Z",
+ "from": "2026-11-18T16:42Z",
+ "id": "Q777/26",
+ "loc": [
+  "EGXT"
+ ],
+ "lower": "",
+ "q": "SPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Air traffic service at Wittering unavailable and aerodrome closed, but may still be active.",
+ "summary_of": "77c084001603",
+ "text": "WITTERING ATS NOT AVBL, AD CLSD BUT MAY STILL BE ACTIVE.",
+ "to": "2026-11-18T17:30Z",
+ "type": "N",
+ "upper": ""
+}

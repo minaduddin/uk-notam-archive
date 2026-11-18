@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.1833,
+  -2.2
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T17:03Z",
+ "from": "2026-11-20T08:00Z",
+ "id": "I7933/26",
+ "loc": [
+  "EGPD"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 266 ft above sea level, or 50 ft above ground, near Aberdeen.",
+ "summary_of": "af4332687e36",
+ "text": "CRANE OPR PSN 571123N 0021135W (168 DEG MAG, 1446M FM ABERDEEN\nARP). UP TO 266FT AMSL (50FT AGL).",
+ "to": "2026-11-27T17:00Z",
+ "type": "N",
+ "upper": ""
+}

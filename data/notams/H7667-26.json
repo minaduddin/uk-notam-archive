@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.0,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T17:03Z",
+ "from": "2026-11-25T16:00Z",
+ "id": "H7667/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "25 1600-1900, 26 1500-1800, 27 29 1600-1900",
+ "summary": "Parachute-descending illuminants (lights) within 0.54 nautical miles of Driffield, up to 1,200 ft above sea level.",
+ "summary_of": "8a732f48acaa",
+ "text": "ILLUMINANTS WI 0.54NM RADIUS OF 535952N 0002929W (DRIFFIELD).\nILLUMINANTS WILL DESCEND BY PARACHUTE. FOR INFO 07507 301438.\nAR-2026-11023/01.",
+ "to": "2026-11-29T19:00Z",
+ "type": "N",
+ "upper": "1200FT AMSL"
+}

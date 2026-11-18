@@ -14,7 +14,7 @@
  "lower": "",
  "q": "CALT",
  "radius": 5,
- "removed": null,
+ "removed": "2026-11-18T17:03Z",
  "sched": "",
  "summary": "Tower and ground radio frequencies 119.23 and 275.375 MHz at EGQL are running without backup during maintenance.",
  "summary_of": "73bef177553f",

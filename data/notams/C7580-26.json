@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.95,
+  -1.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T17:03Z",
+ "from": "2026-11-18T15:21Z",
+ "id": "C7580/26",
+ "loc": [
+  "EGHI"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aircraft parking stand 6 closed at EGHI.",
+ "summary_of": "c137d0edcbcd",
+ "text": "STAND 6 CLSD",
+ "to": "2026-11-19T06:45Z",
+ "type": "R",
+ "upper": ""
+}
