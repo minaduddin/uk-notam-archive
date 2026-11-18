@@ -1,0 +1,26 @@
+{
+ "coord": [
+  54.8833,
+  0.6
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-18T20:53Z",
+ "from": "2026-11-18T19:53Z",
+ "id": "M7829/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "FL050",
+ "q": "RDCA",
+ "radius": 62,
+ "removed": null,
+ "sched": "",
+ "summary": "Southern Complex danger areas activated, between 5,000 ft and 66,000 ft, within 62 nautical miles of EGTT and EGPX.",
+ "summary_of": "2e4953166cf7",
+ "text": "THE FOLLOWING SOUTHERN COMPLEX DANGER AREAS ARE ACTIVATED:\nEGD323A 1830-2030 FL050-FL660\nEGD323G 1830-2030 FL150-FL660\nEGD323L 1830-2030 FL100-FL660\nEGD323Q 1830-2030 FL100-FL660",
+ "to": "2026-11-18T20:30Z",
+ "type": "R",
+ "upper": "FL660"
+}
