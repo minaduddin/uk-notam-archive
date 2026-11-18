@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T09:33Z",
+ "from": "2026-11-25T08:00Z",
+ "id": "C7142/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Stand 4 closed at EGHH.",
+ "summary_of": "8c0ef46adad1",
+ "text": "STAND 4 CLSD",
+ "to": "2026-12-17T23:30Z",
+ "type": "N",
+ "upper": ""
+}

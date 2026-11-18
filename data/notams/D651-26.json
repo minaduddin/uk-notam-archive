@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5833,
+  4.7667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-18T09:33Z",
+ "from": "2026-11-18T08:51Z",
+ "id": "D651/26",
+ "loc": [
+  "EKGC"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Anticollision light on the flare tower at EGKC is unserviceable.",
+ "summary_of": "ec50c2fce545",
+ "text": "ANTICOLLISION LIGHT ON FLARE TOWER UNSERVICEABLE",
+ "to": "2026-11-30T06:00Z",
+ "type": "N",
+ "upper": ""
+}

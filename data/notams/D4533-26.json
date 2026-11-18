@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.7167,
+  -4.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T09:33Z",
+ "from": "2026-11-18T09:00Z",
+ "id": "D4533/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCD",
+ "radius": 4,
+ "removed": null,
+ "sched": "",
+ "summary": "Pembrey danger area EGD118, from ground level to 12,000 ft above mean sea level, deactivated at EGTT.",
+ "summary_of": "e8fa364360eb",
+ "text": "DANGER AREA EGD118 PEMBREY DEACTIVATED",
+ "to": "2026-11-18T16:00Z",
+ "type": "N",
+ "upper": "12000FT AMSL"
+}

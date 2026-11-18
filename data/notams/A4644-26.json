@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T09:33Z",
+ "from": "2026-11-18T08:08Z",
+ "id": "A4644/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Grass taxiways M and N closed at EGSC.",
+ "summary_of": "aacb39322391",
+ "text": "GRASS TWY M AND N CLSD",
+ "to": "2026-11-18T18:00Z",
+ "type": "R",
+ "upper": ""
+}

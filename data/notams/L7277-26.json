@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6,
+  -4.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T09:33Z",
+ "from": "2026-11-18T08:44Z",
+ "id": "L7277/26",
+ "loc": [
+  "EGFH"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Swansea Aerodrome licence provisionally suspended, so it is not available to aircraft that need a licensed aerodrome.",
+ "summary_of": "648de72d1ef8",
+ "text": "AERODROME LICENCE PROVISIONALY SUSPENDED (SWANSEA AD). AD NOT\nAVBL FOR ACFT REQUIRING THE USE OF A LICENCED AERODROME. FOR INFO\n07867 342979. AR-2026-7822/02.",
+ "to": "2027-02-16T23:59Z",
+ "type": "R",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T09:33Z",
+ "from": "2026-11-18T08:50Z",
+ "id": "Q752/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Whiskey closed at EGUL.",
+ "summary_of": "b209a45c845b",
+ "text": "TWY WHISKEY CLSD",
+ "to": "2026-11-18T12:30Z",
+ "type": "N",
+ "upper": ""
+}
