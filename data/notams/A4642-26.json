@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-18T06:37Z",
+ "from": "2026-11-18T22:30Z",
+ "id": "A4642/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 08R/26L closed at EGKK as its lighting is not visible on approach; runway 08L/26R is in use.",
+ "summary_of": "9f91fafa353a",
+ "text": "RWY 08R/26L CLSD, RWY AND PARALLEL TWY LGT NOT VISIBLE ON APCH. \nRWY 08L/26R IN USE. DURING CHANGES OF RWY BTN HR 2230-2240 AND \n0550-0600, BOTH RWY 08R/26L AND RWY 08L/26R NOT AVBL. \nLAST DEP 5 MIN BEFORE CHANGEOVER.",
+ "to": "2026-11-19T06:00Z",
+ "type": "N",
+ "upper": ""
+}
