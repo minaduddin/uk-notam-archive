@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2167,
+  -6.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T09:01Z",
+ "from": "2026-11-19T07:22Z",
+ "id": "I7942/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "SAAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Automatic terminal information service frequency 115.1 MHz not available at EGPO.",
+ "summary_of": "dc92327c57f2",
+ "text": "ATIS FREQ 115.1MHZ NOT AVBL. INFO CAN BE REQUESTED ON ATC/AFIS CH \n119.480 OR (+44)01851 707444",
+ "to": "2026-11-24T19:45Z",
+ "type": "N",
+ "upper": ""
+}

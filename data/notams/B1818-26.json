@@ -1,0 +1,26 @@
+{
+ "coord": [
+  54.6833,
+  -2.5
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-19T09:01Z",
+ "from": "2026-11-26T07:00Z",
+ "id": "B1818/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "SELT",
+ "radius": 455,
+ "removed": null,
+ "sched": "",
+ "summary": "Swanwick military air traffic control operating at reduced level, handling highest priority traffic only, affecting EGTT and EGPX.",
+ "summary_of": "7373dd83b51d",
+ "text": "SWANWICK MIL REDUCED LEVEL OF SER OPR HIGHEST PRIORITY TFC ONLY.",
+ "to": "2026-11-27T16:00Z",
+ "type": "N",
+ "upper": ""
+}
