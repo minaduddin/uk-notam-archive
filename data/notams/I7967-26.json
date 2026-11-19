@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.55,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T20:30Z",
+ "from": "2026-11-19T21:45Z",
+ "id": "I7967/26",
+ "loc": [
+  "EGPE"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Inverness airspace restriction activated within 3 nautical miles, and the airport remains strictly prior-permission only.",
+ "summary_of": "279d3e89473a",
+ "text": "INVERNESS ATZ ACTIVATED. AD, ATS, MET HR OF OPERATION EXTENDED. \nAIRPORT REMAINS STRICTLY PPR. RFFS CAT 6.",
+ "to": "2026-11-19T23:00Z",
+ "type": "N",
+ "upper": ""
+}
