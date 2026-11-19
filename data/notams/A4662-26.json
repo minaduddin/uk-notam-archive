@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T06:34Z",
+ "from": "2026-11-19T05:00Z",
+ "id": "A4662/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Quebec Alpha closed between taxiway Lima and stand 557 at Gatwick Airport.",
+ "summary_of": "b98195f0c39a",
+ "text": "TWY QUEBEC ALPHA CLSD BTN TWY LIMA AND STAND 557",
+ "to": "2026-12-24T05:00Z",
+ "type": "N",
+ "upper": ""
+}
