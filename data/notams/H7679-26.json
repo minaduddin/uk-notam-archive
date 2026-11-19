@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.5167,
+  -4.9
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-19T09:31Z",
+ "id": "H7679/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Underslung load operations within 2 nautical miles of Inverchoran, Strathconnon, up to 500ft above ground.",
+ "summary_of": "d375e73a48da",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 573041N 0045420W (INVERCHORAN, STRATHCONNON) LOW \nFLYING AREA 14. MAX HGT 500FT AGL. ACFT MAY BE RESTRICTED IN ABILITY \nTO MANOEUVRE AND UNABLE TO COMPLY WITH RAC OPS. CTC 07776462424. \n26/11/130/LFC",
+ "to": "2026-11-19T13:00Z",
+ "type": "N",
+ "upper": "2800FT AMSL"
+}

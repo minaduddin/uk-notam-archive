@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6667,
+  -2.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-19T09:15Z",
+ "id": "L7302/26",
+ "loc": [
+  "EGBP"
+ ],
+ "lower": "",
+ "q": "MRLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 08/26 and grass runway 08/26 at EGBP subject to short-notice restrictions.",
+ "summary_of": "5c138d345297",
+ "text": "RWY 08/26 AND GRASS RWY 08/26 SUBJ SHORT NOTICE RESTRICTIONS.",
+ "to": "2026-11-19T17:00Z",
+ "type": "N",
+ "upper": ""
+}

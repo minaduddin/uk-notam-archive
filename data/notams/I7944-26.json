@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.9333,
+  -3.3167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-19T08:29Z",
+ "id": "I7944/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Illuminated funfair ride near Gyle, Edinburgh, up to 197ft above ground.",
+ "summary_of": "936a1d684637",
+ "text": "ILLUMINATED FUNFAIR RIDE PSN 555621N 0031907W (GYLE, VCY \nEDINBURGH AD). MAX HGT 197FT AGL/ 341FT AMSL.",
+ "to": "2027-01-03T19:00Z",
+ "type": "R",
+ "upper": ""
+}

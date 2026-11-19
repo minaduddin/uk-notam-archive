@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.0833,
+  -1.8333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-20T09:00Z",
+ "id": "H7678/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Underslung load operations within 2 nautical miles of Ilam, Staffordshire, up to 500ft above ground.",
+ "summary_of": "5a6f4ee0c2f1",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 530446N 0014931W (ILAM, STAFFORDSHIRE) LOW FLYING \nAREA 8. MAX HGT 500FT AGL. ACFT MAY BE RESTRICTED IN ABILITY TO \nMANOEUVRE AND UNABLE TO COMPLY WITH RAC OPS. CTC 07775533504. \n26/11/129/LFC",
+ "to": "2026-11-20T14:00Z",
+ "type": "N",
+ "upper": "1700FT AMSL"
+}

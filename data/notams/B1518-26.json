@@ -1,0 +1,26 @@
+{
+ "coord": [
+  57.9,
+  1.7333
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-26T08:00Z",
+ "id": "B1518/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "SELT",
+ "radius": 219,
+ "removed": null,
+ "sched": "0800-1700",
+ "summary": "Reduced air traffic service at Swanwick (Mil) North between 0800 and 1700.",
+ "summary_of": "feb5ae87aee1",
+ "text": "SWANWICK (MIL) NORTH WILL BE OPERATING A REDUCED ATS.",
+ "to": "2026-11-27T17:00Z",
+ "type": "N",
+ "upper": ""
+}

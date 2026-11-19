@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2167,
+  -0.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-19T09:01Z",
+ "id": "L7301/26",
+ "loc": [
+  "EGKR"
+ ],
+ "lower": "",
+ "q": "MRLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 07L/25R at EGKR closed to fixed-wing aircraft.",
+ "summary_of": "0f4c0143ff73",
+ "text": "RWY 07L/25R CLOSED TO FIXED-WING ACFT.",
+ "to": "2026-12-31T17:00Z",
+ "type": "R",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.8667,
+  -4.4333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-23T07:30Z",
+ "id": "I7945/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crane up to 84ft above ground near Glasgow.",
+ "summary_of": "1e905ced1a7a",
+ "text": "MOBILE CRANE OPR PSN 555155N 0042617W (GLASGOW). MAX HGT 84FT \nAGL, 101FT AMSL (APRX). JIB WILL BE LOWERED IN LVP. SITE CTC AARON \nWARE 07824 163658.",
+ "to": "2026-11-27T22:00Z",
+ "type": "N",
+ "upper": ""
+}

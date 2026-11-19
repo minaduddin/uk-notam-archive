@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2167,
+  -0.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-19T08:45Z",
+ "id": "L7296/26",
+ "loc": [
+  "EGKR"
+ ],
+ "lower": "",
+ "q": "MRLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 18/36 at EGKR closed to fixed-wing aircraft.",
+ "summary_of": "120d71fdbd39",
+ "text": "RWY 18/36 CLOSED TO FIXED-WING ACFT.",
+ "to": "2026-12-31T17:00Z",
+ "type": "N",
+ "upper": ""
+}

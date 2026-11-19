@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-23T14:15Z",
+ "id": "Q792/26",
+ "loc": [
+  "EGXC"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "1415-1500",
+ "summary": "Diversion requests at EGXC limited to visual flight rules only, subject to air traffic control prior approval, due to staffing restrictions, between 1415 and 1500.",
+ "summary_of": "8063e5587a65",
+ "text": "DIVERSION REQUESTS LTD TO VFR ONLY AND SUBJ ATC PRIOR APPROVAL \nDUE TO STAFFING RESTRICTIONS.",
+ "to": "2026-11-26T15:00Z",
+ "type": "N",
+ "upper": ""
+}

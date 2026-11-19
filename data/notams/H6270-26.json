@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.95,
+  -1.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-26T08:00Z",
+ "id": "H6270/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-2300",
+ "summary": "Swarm of 800 drones within about 0.2 nautical miles of Colwick, Nottingham, up to 400ft above ground, 0800 to 2300.",
+ "summary_of": "62b27e9f0f12",
+ "text": "UAS SWARM OPR WI 0.2NM RADIUS OF 525650N 0010644W (COLWICK, \nNOTTINGHAM). SWARM MADE UP OF 800 UAS. MAX HGT 400FT AGL. FOR INFO \n07738 612566. AR-2026-8440/01.",
+ "to": "2026-12-03T23:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

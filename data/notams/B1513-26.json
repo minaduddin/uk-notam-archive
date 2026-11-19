@@ -1,0 +1,26 @@
+{
+ "coord": [
+  57.1167,
+  2.85
+ ],
+ "est": false,
+ "fir": "ENXX",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-19T07:46Z",
+ "id": "B1513/26",
+ "loc": [
+  "ENOR",
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "NDAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Distance measuring equipment unserviceable, location code EGPX.",
+ "summary_of": "cf4888fcba69",
+ "text": "DME UL/ULA CH111Y U/S",
+ "to": "2026-11-30T08:00Z",
+ "type": "N",
+ "upper": ""
+}

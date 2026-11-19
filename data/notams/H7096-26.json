@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.4333,
+  -0.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-26T08:30Z",
+ "id": "H7096/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "One military aircraft making high energy manoeuvres at up to 450 knots within 5 nautical miles of Glaisdale.",
+ "summary_of": "f4d9abb4d911",
+ "text": "1 MIL ACFT WILL CONDUCT HIGH ENERGY MANOEUVRES IN SUPPORT OF JTAC\nEXERCISE WI 5NM RADIUS OF 542625N 0005101W (GLAISDALE). ACFT MAY\nOPERATE AT SPEEDS OF UP TO 450 KNOTS IAS AND MAY BE UNABLE TO\nCOMPLY WITH RAC. FOR FURTHER INFO AIC Y007/2023 REFERS. OPS CTC\nON FREQUENCIES CH 127.185 OR 277.350 MHZ FOR INFO 07517 258611.\nAR-2026-10148/01.",
+ "to": "2026-11-26T16:30Z",
+ "type": "N",
+ "upper": "5000FT AMSL"
+}

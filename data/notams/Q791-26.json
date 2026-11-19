@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-23T08:00Z",
+ "id": "Q791/26",
+ "loc": [
+  "EGXC"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome opening hours at EGXC: Monday to Thursday 0930 to 1930, Friday 0900 to 1300; aircraft may operate outside these by prior agreement.",
+ "summary_of": "199224b2ed3f",
+ "text": "AD OPENING HR:\nMON 0930-1930\nTUE 0930-1930 \nWED 0930-1930 \nTHU 0930-1930\nFRI 0900-1300\nAIRCRAFT MAY OPERATE OUTSIDE THE PUBLISHED TIMING BY PRIOR AGREEMENT",
+ "to": "2026-11-27T17:00Z",
+ "type": "N",
+ "upper": ""
+}

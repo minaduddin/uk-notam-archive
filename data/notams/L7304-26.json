@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5,
+  -0.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T10:03Z",
+ "from": "2026-11-25T21:00Z",
+ "id": "L7304/26",
+ "loc": [
+  "EGLW"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Searchlight testing within 0.3 nautical miles of the London Eye visual reference point, at EGLW, from the surface upwards.",
+ "summary_of": "78038eff9f82",
+ "text": "SEARCHLIGHT TESTING WI 0.3NM RADIUS OF 513011N 0000710W (VISUAL\nREFERENCE POINT LONDON EYE).  FOR INFO 07798 787780.\nAR-2026-11037/02.",
+ "to": "2026-11-25T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}
