@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.35,
+  -1.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T15:29Z",
+ "from": "2026-11-23T00:00Z",
+ "id": "N983/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane near Warwick, Warwickshire, up to 120 ft above ground level.",
+ "summary_of": "ac6da4c2f2ee",
+ "text": "LIT CRANE AT PSN 522056N 0013149W (WARWICK, WARWICKSHIRE) IN LOW \nFLYING AREA 8 AND NIGHT ROTARY REGION 4C. HGT 120FT AGL 340FT AMSL. \n26/11/131/LFC",
+ "to": "2027-01-26T23:59Z",
+ "type": "N",
+ "upper": ""
+}

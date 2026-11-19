@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3833,
+  -3.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T15:29Z",
+ "from": "2026-11-19T23:30Z",
+ "id": "A4672/26",
+ "loc": [
+  "EGFF"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 22,
+ "removed": null,
+ "sched": "",
+ "summary": "Cardiff airspace restrictions are deactivated, and the Cardiff air traffic service is not available.",
+ "summary_of": "bdc7066d56b9",
+ "text": "CARDIFF CTA, CTR AND ATZ DEACTIVATED. CARDIFF ATS NOT AVBL.",
+ "to": "2026-11-20T05:30Z",
+ "type": "N",
+ "upper": ""
+}

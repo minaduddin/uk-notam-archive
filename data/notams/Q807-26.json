@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.25,
+  -4.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T15:29Z",
+ "from": "2026-11-23T00:00Z",
+ "id": "Q807/26",
+ "loc": [
+  "EGOV"
+ ],
+ "lower": "",
+ "q": "SPAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Valley aerodrome and air traffic service hours are Monday to Thursday 0855 to 1955, and Friday 0855 to 1700.",
+ "summary_of": "12e4ec4dbc8c",
+ "text": "VALLEY ATS AND AD OPENING HOURS\nMON-THU - 0855-1955\nFRI - 0855-1700",
+ "to": "2026-11-27T23:59Z",
+ "type": "N",
+ "upper": ""
+}
