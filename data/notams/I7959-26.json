@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.5,
+  -6.8667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T16:36Z",
+ "from": "2026-11-20T09:30Z",
+ "id": "I7959/26",
+ "loc": [
+  "EGPU"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGPU closed; normal callout procedure applies for air ambulance and search and rescue flights.",
+ "summary_of": "e5fe632f9afe",
+ "text": "AD CLSD. NORMAL CALLOUT PROCEDURE FOR AIR AMBULANCE AND SAR.",
+ "to": "2026-11-20T11:00Z",
+ "type": "N",
+ "upper": ""
+}

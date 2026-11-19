@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.45,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T16:36Z",
+ "from": "2026-11-19T15:06Z",
+ "id": "C7608/26",
+ "loc": [
+  "EGBB"
+ ],
+ "lower": "",
+ "q": "NDAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Birmingham distance measuring equipment on 110.100 megahertz is out of service for maintenance.",
+ "summary_of": "4dd3c91d565b",
+ "text": "DME I-BIR/BIRMINGHAM AND I-BM/BIRMINGHAM 110.100MHZ 38X OUT OF \nSERVICE DUE MAINT",
+ "to": "2026-11-19T17:00Z",
+ "type": "N",
+ "upper": ""
+}

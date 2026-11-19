@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.45,
+  -3.0667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T16:36Z",
+ "from": "2026-11-19T15:30Z",
+ "id": "I7964/26",
+ "loc": [
+  "EGPC"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane operating near Wick, 83 feet above ground level (113 feet above mean sea level).",
+ "summary_of": "e84e0fb8f918",
+ "text": "CRANE OPR AT PSN 582633N 0030336W (WICK) 83FT AGL/113FT AMSL",
+ "to": "2026-11-19T16:30Z",
+ "type": "N",
+ "upper": ""
+}
