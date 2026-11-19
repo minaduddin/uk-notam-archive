@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3667,
+  -2.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T01:07Z",
+ "from": "2026-11-25T23:30Z",
+ "id": "C7573/26",
+ "loc": [
+  "EGGD"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 21,
+ "removed": null,
+ "sched": "25 2330-0500, 26 2330-0500",
+ "summary": "Bristol controlled airspace deactivated overnight, 23:30 to 05:00, so air traffic services are not available and frequencies are unmonitored.",
+ "summary_of": "d526544e1376",
+ "text": "BRISTOL CTA/CTR/ATZ DEACTIVATED. ATS NOT AVBL, FREQUENCIES WILL \nNOT BE MONITORED. AIRSPACE REVERT TO CLASS G. IN THE EVENT OF AN \nEMERGENCY CONTACT THE CONTROL CENTRE ON 01275 473400",
+ "to": "2026-11-27T05:00Z",
+ "type": "N",
+ "upper": ""
+}

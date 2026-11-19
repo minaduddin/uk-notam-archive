@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T01:07Z",
+ "from": "2026-11-25T23:30Z",
+ "id": "A4528/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runways 09L/27R and 09R/27L closed at EGLL, with the closure start delayed until scheduled aircraft movements are complete.",
+ "summary_of": "42ff3573f37f",
+ "text": "RWY 09L/27R AND RWY 09R/27L CLSD. START OF RWY CLSD WILL BE\nDELAYED UNTIL SKED MOV ARE COMPLETE. MOV DELAYED INTO NIGHT QUOTA\nPERIOD ARE STILL SUBJ AD AUTHORITY APPROVAL. FOR INFO CTC AD DUTY\nMANAGER (+44 20 8745 7373)",
+ "to": "2026-11-26T04:15Z",
+ "type": "N",
+ "upper": ""
+}

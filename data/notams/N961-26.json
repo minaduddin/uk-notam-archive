@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5333,
+  -0.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T01:07Z",
+ "from": "2026-11-26T00:00Z",
+ "id": "N961/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane up to 236 ft high at Old Ford, London, within the Thames Valley low flying avoidance area, day and night.",
+ "summary_of": "c1d6003c29c3",
+ "text": "LIT CRANE AT PSN 513138N 0000136W (OLD FORD, LONDON) IN LOW \nFLYING THAMES VALLEY AVOIDANCE AREA DAY AND NIGHT. HGT 236FT AGL \n336FT AMSL. 26/11/108/LFC",
+ "to": "2027-02-24T23:59Z",
+ "type": "N",
+ "upper": ""
+}

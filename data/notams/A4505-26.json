@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8667,
+  -0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T01:07Z",
+ "from": "2026-11-26T00:00Z",
+ "id": "A4505/26",
+ "loc": [
+  "EGGW"
+ ],
+ "lower": "",
+ "q": "NLXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Details of the LUT non-directional radio beacon at EGGW given, with 345 kHz frequency and 20 nautical mile range, to be reinstated.",
+ "summary_of": "a81c92865aa2",
+ "text": "DETAILS OF NDB(L) LUT TO BE REINSTATED INTO AIP\nMAG VAR: 1.27E (2027)\nFREQUENCY: 345.000 KHZ\nHOURS OF OPERATION: H24\nPOSITION: 515340.69N 0001509.02W\nREMARKS: RANGE 20 NM\nPLEASE ALSO REFER TO AIP SUP 089/2026 - NDB(L) LUT UNAVAILABLE UFN.\nUK AIP GEN 2.5, EGGW AD 2.19, UK AIP DATASET REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}
