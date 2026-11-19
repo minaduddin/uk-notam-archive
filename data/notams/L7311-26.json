@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9,
+  0.6833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T14:32Z",
+ "from": "2026-11-25T13:30Z",
+ "id": "L7311/26",
+ "loc": [
+  "EGSR"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unmanned aircraft operating within 0.25 nautical miles of Coggeshall, up to 300 feet above ground level.",
+ "summary_of": "b60bcafda417",
+ "text": "UAS OPR WI 0.25NM RADIUS OF 515345N 0004116E (COGGESHALL). MAX\nHGT 300FT AGL. FOR INFO 07846 544408. AR-2026-11050/01.",
+ "to": "2026-11-25T15:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.9833,
+  -3.4
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T14:32Z",
+ "from": "2026-11-26T13:00Z",
+ "id": "I7204/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone swarm of 100 unmanned aircraft operating within 1 nautical mile of Queensferry, up to 600 feet above ground level.",
+ "summary_of": "44d64f4730af",
+ "text": "UAS SWARM OPR WI 1NM RADIUS OF 555929N 0032347W (QUEENSFERRY).\nSWARM MADE UP OF 100 UAS. MAX HGT 600FT AGL. FOR INFO 07412\n220027. AR-2026-10091/01.",
+ "to": "2026-11-26T23:59Z",
+ "type": "N",
+ "upper": "900FT AMSL"
+}

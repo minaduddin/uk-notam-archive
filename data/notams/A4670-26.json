@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T14:32Z",
+ "from": "2026-11-19T13:35Z",
+ "id": "A4670/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "",
+ "q": "FIAU",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "No aircraft de-icing available at EGSC within 5 nautical miles.",
+ "summary_of": "dfe3bd10220b",
+ "text": "NO ACFT DEICING AVBL.",
+ "to": "2026-12-04T18:00Z",
+ "type": "N",
+ "upper": ""
+}

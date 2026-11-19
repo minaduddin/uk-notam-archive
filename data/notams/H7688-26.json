@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4667,
+  -2.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T14:32Z",
+ "from": "2026-11-20T10:00Z",
+ "id": "H7688/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone swarm of 25 unmanned aircraft operating within an area near Speedwell, up to 160 feet above ground level.",
+ "summary_of": "c0e3e340a6bd",
+ "text": "UAS SWARM OPR WI AREA BOUNDED BY:\n512806N 0023258W - 512807N 0023244W - 512804N 0023244W - \n512804N 0023247W - 512801N 0023246W - 512800N 0023258W - \n512802N 0023300W - 512806N 0023258W (SPEEDWELL). SWARM MADE UP OF 25 \nUAS. MAX HGT 160FT AGL. FOR INFO 07400 661129 / 07789 201768. \nAR-2026-11058/01.",
+ "to": "2026-11-20T16:30Z",
+ "type": "N",
+ "upper": "400FT AMSL"
+}
