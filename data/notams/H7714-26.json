@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6167,
+  -2.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T21:24Z",
+ "from": "2026-11-20T09:00Z",
+ "id": "H7714/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WELW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Military exercise with high-energy manoeuvres, aircraft up to 450 knots, within 5 nautical miles of Mickleton, up to 5000 feet.",
+ "summary_of": "0747b909ec7d",
+ "text": "AIR EXER. 1 MIL ACFT WILL CONDUCT HIGH ENERGY MANOEUVRES IN\nSUPPORT OF EXER WI 5NM RADIUS OF 543633N 0020545W (MICKLETON).\nACFT MAY OPERATE AT SPEEDS OF UP TO 450 KNOTS IAS AND MAY BE\nUNABLE TO COMPLY WITH RAC. FOR FURTHER INFO AIC Y007/2023 REFERS.\nOPS CTC CH127.185 OR 277.350MHZ. FOR INFO 07517 258611.\nAR-2026-11062/02.",
+ "to": "2026-11-20T17:00Z",
+ "type": "N",
+ "upper": "5000FT AMSL"
+}

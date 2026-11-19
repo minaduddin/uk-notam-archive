@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.5667,
+  -0.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T21:24Z",
+ "from": "2026-11-23T06:00Z",
+ "id": "C7623/26",
+ "loc": [
+  "EGNJ"
+ ],
+ "lower": "",
+ "q": "AZAH",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Humberside airspace restriction: traffic zone activated with set daily opening periods, some requiring prior permission.",
+ "summary_of": "9c3c0c7f5b4f",
+ "text": "HUMBERSIDE ATZ ACTIVATION, ATS AND AD HR AS FOLLOWS:\nMON     0600-0630(PPR), 0730-0830, 0900-1530, 1615-1800,\n        2040-2135(PPR)\nTUE-THU 0600-0630(PPR), 0730-0830, 0900-1100, 1200-1530, 1615-1800,\n        2040-2135(PPR)\nFRI     0600-0630(PPR), 0730-0830, 0900-1100, 1145-1530, 1615-1800,\n        1945-2135(PPR)\nSAT-SUN 0600-0630(PPR), 0900-1100, 1145-1530, 1615-1800,\n        2040-2135(PPR)\nPILOTS ARE REQ TO AVOID PLANNING AN ARR OR DEP LATER THAN CLOSING\nTIMES MINUS 15 MINS. INBD ACFT SHOULD ALLOW SUFFICIENT TIME TO\nRECEIVE AN ATS AFTER AD REOPENING.",
+ "to": "2026-11-29T21:35Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.7667,
+  -3.0833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T21:24Z",
+ "from": "2026-11-19T20:23Z",
+ "id": "N986/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Obstacle warning light out of service on Caldbeck mast, 110 feet high.",
+ "summary_of": "cc385a6ddccf",
+ "text": "AIR NAV OBST LGT UK0171T708F RTM CALDBECK MAST SINGLE U/S PSN \n544624.29N 0030527.38W ELEV/HGT 2058FT/110FT",
+ "to": "2026-12-19T12:05Z",
+ "type": "N",
+ "upper": ""
+}

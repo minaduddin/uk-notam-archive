@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.3833,
+  -0.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T21:24Z",
+ "from": "2026-11-20T11:00Z",
+ "id": "H7712/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WDLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Explosives demolition within 1 nautical mile of Fylingdales and Hawsker-cum-Stainsacre, North Yorkshire, up to 2000 feet above ground.",
+ "summary_of": "4e7eecd22386",
+ "text": "DEMOLITION OF EXPLOSIVES WI 1NM RADIUS OF PSN 542240N 0003437W\n(FYLINGDALES AND HAWSKER-CUM-STAINSACRE, NORTH YORKSHIRE) LOW FLYING \nAREA 11. MAX HGT 2000FT AGL. CTC 07753 316135. 26/11/139/LFC",
+ "to": "2026-11-20T16:00Z",
+ "type": "N",
+ "upper": "2800FT AMSL"
+}
