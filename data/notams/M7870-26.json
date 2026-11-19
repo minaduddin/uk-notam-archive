@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5,
+  -0.5833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T18:26Z",
+ "from": "2026-11-20T13:00Z",
+ "id": "M7870/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 32,
+ "removed": null,
+ "sched": "",
+ "summary": "Druridge Bay danger areas activated up to flight level 230 (about 23,000 ft), within 32 nautical miles of EGPX.",
+ "summary_of": "a6d053edca63",
+ "text": "THE FOLLOWING DRURIDGE BAY DANGER AREAS ARE ACTIVATED:\nEGD513A 1300-1430 SFC-FL230\nEGD513A 1430-1530 SFC-FL230\nEGD513B 1300-1430 SFC-FL230\nEGD513B 1430-1530 SFC-FL230\nEGD513C 1300-1430 SFC-FL100\nEGD513C 1430-1530 SFC-FL100",
+ "to": "2026-11-20T15:30Z",
+ "type": "N",
+ "upper": "FL230"
+}
