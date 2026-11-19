@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T22:23Z",
+ "from": "2026-11-19T21:30Z",
+ "id": "I7970/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Alpha closed between taxiway links A9 and A12 at EGPH, the aerodrome identified by its ICAO code.",
+ "summary_of": "b22651ba7102",
+ "text": "ALPHA TWY CLSD A9-A12",
+ "to": "2026-11-20T05:30Z",
+ "type": "N",
+ "upper": ""
+}
