@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9,
+  -2.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T19:36Z",
+ "from": "2026-11-19T18:01Z",
+ "id": "L7321/26",
+ "loc": [
+  "EGBJ"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Increased deer activity within 5 nautical miles of EGBJ; pilots are asked to keep a good lookout.",
+ "summary_of": "ed4394c145f2",
+ "text": "INCREASED DEER ACTVITY. PILOTS ARE REQUESTED TO KEEP A GOOD \nLOOKOUT AND REPORT ANY SIGHTINGS TO ATC.",
+ "to": "2027-02-18T17:52Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T19:36Z",
+ "from": "2026-11-19T18:04Z",
+ "id": "I7966/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MGAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Stand entry guidance unserviceable at EGPH for stands 27, 28 and 104, so marshalling only.",
+ "summary_of": "b9bb5329183e",
+ "text": "STAND ENTRY GUIDANCE U/S STANDS 27, 28, 104. MARSHALLING ONLY",
+ "to": "2026-12-14T12:00Z",
+ "type": "R",
+ "upper": ""
+}

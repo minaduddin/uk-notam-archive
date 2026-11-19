@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.35,
+  -2.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T19:36Z",
+ "from": "2026-11-20T11:00Z",
+ "id": "A4676/26",
+ "loc": [
+  "EGCC"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runways 05R and 23L closed at EGCC due to an operational exercise, within 5 nautical miles.",
+ "summary_of": "6f276fc40ac2",
+ "text": "RWY 05R/23L CLSD DUE TO OPERATIONAL EXERCISE",
+ "to": "2026-11-20T16:00Z",
+ "type": "N",
+ "upper": ""
+}

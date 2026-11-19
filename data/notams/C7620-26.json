@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.5667,
+  -0.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T19:36Z",
+ "from": "2026-11-19T18:05Z",
+ "id": "C7620/26",
+ "loc": [
+  "EGNJ"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Primary radar unserviceable at EGNJ, so instrument flights need prior permission from air traffic control.",
+ "summary_of": "b6c529b78491",
+ "text": "HUMBERSIDE PRIMARY RADAR U/S. IFR FLIGHTS ARE PPR ONLY, FOR MORE\nINFORMATION CTC HUMBERSIDE ATC ON 01652 682022 OR\nATCADMIN?HUMBERSIDEAIRPORT.COM",
+ "to": "2026-11-23T21:35Z",
+ "type": "R",
+ "upper": ""
+}

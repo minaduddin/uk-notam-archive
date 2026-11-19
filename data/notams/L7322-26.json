@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.5167,
+  -2.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T19:36Z",
+ "from": "2026-11-19T19:00Z",
+ "id": "L7322/26",
+ "loc": [
+  "EGBO"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Night flying no longer available at EGBO due to early closure.",
+ "summary_of": "24e74717142e",
+ "text": "NIGHT FLYING NO LONGER AVBL DUE TO EARLY CLOSURE",
+ "to": "2026-11-19T20:00Z",
+ "type": "N",
+ "upper": ""
+}
