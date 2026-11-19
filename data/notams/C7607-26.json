@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.0333,
+  -1.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T17:31Z",
+ "from": "2026-11-26T16:50Z",
+ "id": "C7607/26",
+ "loc": [
+  "EGLF"
+ ],
+ "lower": "",
+ "q": "AECH",
+ "radius": 9,
+ "removed": null,
+ "sched": "",
+ "summary": "Farnborough control area 8 temporarily reclassified as Class D controlled airspace.",
+ "summary_of": "1cd7adb40c6a",
+ "text": "FARNBOROUGH CTA 8 TEMPO RECLASSIFIED CLASS D. CONTROLLING\nAUTHORITY: FARNBOROUGH ATC. AR-2026-11011/01.",
+ "to": "2026-11-26T17:55Z",
+ "type": "N",
+ "upper": ""
+}

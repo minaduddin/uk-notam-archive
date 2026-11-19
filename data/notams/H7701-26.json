@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.2167,
+  -3.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T17:31Z",
+ "from": "2026-11-21T07:53Z",
+ "id": "H7701/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WCLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Kite flying within 1 nautical mile radius of Silecroft, up to 3000 feet above ground, between sunrise and sunset.",
+ "summary_of": "b99965c59632",
+ "text": "KITE FLYING WI 1NM RADIUS OF 541308N 0032104W (SILECROFT). MAX\nHGT 3000FT AGL. FOR INFO 07867 520530 / 07872 935741.\nAR-2026-11038/01.",
+ "to": "2026-11-22T16:04Z",
+ "type": "N",
+ "upper": "3400FT AMSL"
+}

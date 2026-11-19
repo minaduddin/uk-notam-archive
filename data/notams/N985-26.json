@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.7333,
+  -0.9667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T17:31Z",
+ "from": "2026-11-19T16:36Z",
+ "id": "N985/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Wind turbine with unknown lighting reported near Rotherby, up to 152 feet above ground.",
+ "summary_of": "e7a77ee155fe",
+ "text": "REPORT OF WIND TURBINE (LGT UNKNOWN) AT PSN 524407N 0005807W\n(ROTHERBY). MAX HGT 152FT AGL/500FT AMSL. ON EXPIRY OF THIS NOTAM\nDETAILS WILL BE INCLUDED IN THE UK AIP ENR 5.4. AR-2026-11066/01.",
+ "to": "2026-12-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

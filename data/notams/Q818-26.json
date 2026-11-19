@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T17:31Z",
+ "from": "2026-11-20T12:00Z",
+ "id": "Q818/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "PILT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "At EGUB, only surveillance radar approach and unmonitored localiser and distance measuring equipment are available.",
+ "summary_of": "39680c8668cb",
+ "text": "SRA AND UNMONITORED ILS LOC/DME ONLY.",
+ "to": "2026-11-20T14:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.8667,
+  -4.2667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T17:31Z",
+ "from": "2026-11-19T23:00Z",
+ "id": "I7965/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "CSAS",
+ "radius": 22,
+ "removed": null,
+ "sched": "",
+ "summary": "Glasgow secondary radar out of service due to maintenance.",
+ "summary_of": "9f1581c4e216",
+ "text": "GLASGOW SECONDARY RADAR OUT OF SERVICE DUE MAINT",
+ "to": "2026-11-20T01:00Z",
+ "type": "N",
+ "upper": ""
+}

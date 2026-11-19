@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.4333,
+  -5.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T17:31Z",
+ "from": "2026-11-23T08:00Z",
+ "id": "C7615/26",
+ "loc": [
+  "EGHQ"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Newquay primary and secondary radar out for maintenance.",
+ "summary_of": "e4238771d6ca",
+ "text": "NEWQUAY PRIMARY AND SECONDARY RADAR ON MAINT.",
+ "to": "2026-11-23T18:00Z",
+ "type": "N",
+ "upper": ""
+}

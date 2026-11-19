@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.8667,
+  -0.9833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T17:31Z",
+ "from": "2026-11-26T16:00Z",
+ "id": "H6427/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Lasers and searchlights within 1 nautical mile radius of Havant, from ground level upwards.",
+ "summary_of": "064829238104",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 505225N 0005832W (HAVANT).\nFOR INFO 07917 669060. AR-2026-9011/01.",
+ "to": "2026-11-26T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}
