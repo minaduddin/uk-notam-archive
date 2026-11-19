@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8167,
+  1.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T11:02Z",
+ "from": "2026-11-23T07:31Z",
+ "id": "H7681/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 7,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone flights beyond visual line of sight along a route from Oulton to Happisburgh, up to 400 feet above ground, sunrise to sunset.",
+ "summary_of": "1a351cd38d31",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) ROUTING 524809N 0011328E - \n524813N 0011435E - 524933N 0011810E - 524932N 0011934E - \n525011N 0012240E - 524958N 0012545E - 524918N 0012805E - \n524919N 0012900E - 524939N 0012924E - 524939N 0013043E -\n524859N 0013123E - 524905N 0013253E (OULTON TO HAPPISBURGH). MAX\nHGT 400FT AGL. FOR INFO 02054 743019. AR-2026-11032/02.",
+ "to": "2026-11-27T15:46Z",
+ "type": "N",
+ "upper": "750FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -1.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T11:02Z",
+ "from": "2026-11-26T10:00Z",
+ "id": "H5636/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Flare firing within a 1 nautical mile radius of Barton Stacey, up to 1,400 feet above sea level.",
+ "summary_of": "99382135af2d",
+ "text": "FLARE FIRING WI 1NM RADIUS OF 510916N 0012121W (BARTON STACEY).\nFLARES WILL DESCEND BY PARACHUTE. FOR INFO 07891536254 /\n01189827947. AR-2026-6277/01.",
+ "to": "2026-11-26T15:00Z",
+ "type": "N",
+ "upper": "1400FT AMSL"
+}

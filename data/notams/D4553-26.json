@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.5,
+  -5.9167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T11:02Z",
+ "from": "2026-11-22T09:00Z",
+ "id": "D4553/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 9,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD710 at Raasay activated, from ground level to 1,500 feet above sea level.",
+ "summary_of": "3c88f6e3725d",
+ "text": "DANGER AREA EGD710 RAASAY ACTIVATED",
+ "to": "2026-11-22T16:00Z",
+ "type": "N",
+ "upper": "1500FT AMSL"
+}
