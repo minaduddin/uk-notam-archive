@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.8667,
+  -0.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T13:12Z",
+ "from": "2026-11-19T11:00Z",
+ "id": "L7307/26",
+ "loc": [
+  "EGHR"
+ ],
+ "lower": "",
+ "q": "FAHW",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Work in progress adjusting fuel pumps at EGHR.",
+ "summary_of": "8fe5a212b18a",
+ "text": "WIP ADJ FUEL PUMPS",
+ "to": "2026-11-30T08:00Z",
+ "type": "N",
+ "upper": ""
+}

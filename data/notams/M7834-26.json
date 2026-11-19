@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3833,
+  -4.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T13:12Z",
+ "from": "2026-11-20T10:00Z",
+ "id": "M7834/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 22,
+ "removed": null,
+ "sched": "",
+ "summary": "Aberporth danger area EGD201H activated, from ground level up to flight level 170.",
+ "summary_of": "d1db7f9f163b",
+ "text": "DANGER AREA EGD201H ABERPORTH ACTIVATED",
+ "to": "2026-11-20T16:00Z",
+ "type": "N",
+ "upper": "FL170"
+}

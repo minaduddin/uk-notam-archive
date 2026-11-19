@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.8667,
+  -4.45
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-19T13:12Z",
+ "from": "2026-11-23T06:30Z",
+ "id": "I7956/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "NVXX",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Glasgow navigation beacon may give fluctuating bearings on some radials because of a nearby crane.",
+ "summary_of": "ab1c696493f2",
+ "text": "VOR/DME GOW/GLASGOW 115.4MHZ CH101X. THERE MAY BE OBS OF DVOR \nBEARING FLUCTUATIONS WI THE 120-160 DEG MAG SECTOR RADIALS FM THE \nGLASGOW VOR/DME STATION, DUE CRANE IN THE VCY",
+ "to": "2026-11-27T23:00Z",
+ "type": "N",
+ "upper": ""
+}

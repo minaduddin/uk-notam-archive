@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -3.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T13:12Z",
+ "from": "2026-11-20T10:15Z",
+ "id": "H7687/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL220",
+ "q": "WFLW",
+ "radius": 41,
+ "removed": null,
+ "sched": "",
+ "summary": "Air-to-air refuelling in area 10E between flight levels 220 and 260.",
+ "summary_of": "ea5b4e1e4bca",
+ "text": "AAR WILL TAKE PLACE IN AREA 10E.",
+ "to": "2026-11-20T13:15Z",
+ "type": "N",
+ "upper": "FL260"
+}

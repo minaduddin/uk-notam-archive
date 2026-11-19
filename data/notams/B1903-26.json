@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5667,
+  0.7
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T13:12Z",
+ "from": "2026-11-19T14:30Z",
+ "id": "B1903/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SEAU",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Southend lower airspace radar service not available within 25 nautical miles.",
+ "summary_of": "718307bec7db",
+ "text": "SOUTHEND LOWER AIRSPACE RADAR SERVICE NOT AVAILABLE.",
+ "to": "2026-11-19T15:00Z",
+ "type": "N",
+ "upper": ""
+}

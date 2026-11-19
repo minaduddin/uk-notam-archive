@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T13:12Z",
+ "from": "2026-11-19T11:57Z",
+ "id": "Q796/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "CAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Command post UHF radio communications degraded at EGUN, with satellite phone and tower relay listed as alternatives.",
+ "summary_of": "7caf814d0632",
+ "text": "COMMAND POST UHF COM DEGRADED. IF UNABLE TO REACH COMMAND POST \nVIA UHF 300.8 PLEASE SATCOM +44 01638-54-2121 OR RELAY THROUGH TOWER.",
+ "to": "2026-12-15T23:59Z",
+ "type": "N",
+ "upper": ""
+}

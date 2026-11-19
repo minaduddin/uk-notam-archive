@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.6167,
+  -4.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-19T13:12Z",
+ "from": "2026-11-20T09:00Z",
+ "id": "M7847/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 50,
+ "removed": null,
+ "sched": "",
+ "summary": "North Wales military training areas North Low and South Low activated between flight level 195 and flight level 260.",
+ "summary_of": "448d6d640921",
+ "text": "THE FOLLOWING NORTH WALES MILITARY TRAINING AREAS ACTIVATED:\nNORTH LOW 0900-1700 FL195-FL260\nSOUTH LOW 0900-1700 FL195-FL260",
+ "to": "2026-11-20T17:00Z",
+ "type": "N",
+ "upper": "FL260"
+}
