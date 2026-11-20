@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T06:02Z",
+ "from": "2026-11-20T22:00Z",
+ "id": "A4680/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 08R/26L closed at London Gatwick Airport, with runway 08L/26R in use between 2200 and 0600.",
+ "summary_of": "a1503de36edb",
+ "text": "RWY 08R/26L CLSD. RWY 08L/26R IN USE 2200-0600. LIGHTS FOR CLSD.\nRWY 08R/26L AND PARALLEL TWY NOT VISIBLE ON APCH. FROM 2200-2210\nAND 0550-0600 NEITHER RWY 08R/26L OR 08L/26R WILL BE AVBL TO ALLOW\nFOR THE CHANGE OR RWY. LAST DEPARTURE 5 MINS BEFORE CHANGEOVER.",
+ "to": "2026-11-21T06:00Z",
+ "type": "N",
+ "upper": ""
+}

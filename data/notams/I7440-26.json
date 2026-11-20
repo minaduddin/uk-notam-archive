@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.05,
+  -1.5667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-20T06:02Z",
+ "from": "2026-11-27T05:00Z",
+ "id": "I7440/26",
+ "loc": [
+  "EGNT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unmanned aircraft operations permitted in an area near Seghill, up to 394 ft above ground level.",
+ "summary_of": "7187f8f9c6af",
+ "text": "UAS OPR WI AREA BOUNDED BY 550309N 0013404W - 550321N 0013418W -\n550330N 0013356W - 550315N 0013338W - 550306N 0013328W - \n550258N 0013354W - 550309N 0013404W (SEGHILL). MAX HGT 394FT AGL. \nFOR INFO 07760 557700. AR-2026-10255/01.",
+ "to": "2026-11-27T21:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}
