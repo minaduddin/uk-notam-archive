@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3833,
+  1.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T11:57Z",
+ "from": "2026-11-23T16:00Z",
+ "id": "H7719/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "3000FT AMSL",
+ "q": "WELW",
+ "radius": 24,
+ "removed": null,
+ "sched": "",
+ "summary": "Military air-to-air refuelling exercise between 3,000 and 10,000 feet over the area from Swaffham to Orford.",
+ "summary_of": "d6cd55db193d",
+ "text": "EXER. MULTIPLE MIL ACFT WILL CONDUCT AIR-TO-AIR REFUELLING WI \nAREA BOUNDED BY 520442N 0013054E - 520737N 0013539E - 524037N \n0004515E - 523755N 0004024E - 520442N 0013054E (SWAFFHAM TO ORFORD). \nACFT MAY BE UNABLE TO COMPLY WITH RAC. FOR INFO 01638 542407. \nAR-2026-10956/03.",
+ "to": "2026-11-23T19:00Z",
+ "type": "N",
+ "upper": "10000FT AMSL"
+}

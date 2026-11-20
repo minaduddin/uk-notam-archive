@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6,
+  -0.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T11:57Z",
+ "from": "2026-11-21T12:00Z",
+ "id": "H7718/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations within 0.3 nautical miles of Tottenham, London, up to 400 feet above ground level.",
+ "summary_of": "06dfdc6ed8fb",
+ "text": "UAS OPR WI 0.3NM RADIUS OF 513615N 0000359W (TOTTENHAM, LONDON).\nMAX HGT 400FT AGL. FOR INFO 07920 786990. AR-2026-11063/01.",
+ "to": "2026-11-21T23:30Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

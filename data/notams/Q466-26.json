@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T11:57Z",
+ "from": "2026-11-27T10:30Z",
+ "id": "Q466/26",
+ "loc": [
+  "EGXC"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome noise restriction at EGXC bans take-offs, circuits, taxiing, approaches, landings and engine ground runs.",
+ "summary_of": "6cd4b93a41a6",
+ "text": "AD NOISE AND MOVEMENT EMBARGO (TYPE 3). NO TAKE-OFFS, CIRCUITS,\nPRACTICE DIVERSIONS (PDS) OR TAXIING ACFT, NO APPROACHES, NO \nLANDINGS AND NO ENGINE GROUND RUNS (EGR).",
+ "to": "2026-11-27T10:55Z",
+ "type": "N",
+ "upper": ""
+}

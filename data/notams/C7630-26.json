@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.8333,
+  -0.3
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T11:57Z",
+ "from": "2026-11-23T08:00Z",
+ "id": "C7630/26",
+ "loc": [
+  "EGKA"
+ ],
+ "lower": "",
+ "q": "PIAU",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Satellite-based instrument approach procedure not available at EGKA.",
+ "summary_of": "50efc586b4e8",
+ "text": "RNP INSTRUMENT APPROACH NOT AVBL",
+ "to": "2026-11-23T20:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1167,
+  -3.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T11:57Z",
+ "from": "2026-11-21T12:00Z",
+ "id": "L7341/26",
+ "loc": [
+  "EGNL"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations within 0.3 nautical miles of Barrow-in-Furness, up to 450 feet above sea level (400 feet above ground).",
+ "summary_of": "754090297a34",
+ "text": "UAS OPR WI 0.3 NM OF PSN 540706.56N 0031405.10W \n(BARROW-IN-FURNESS) SFC TO 450FT AMSL (400FT AGL).",
+ "to": "2026-11-21T19:00Z",
+ "type": "N",
+ "upper": "450FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.7167,
+  -8.7667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-20T11:57Z",
+ "from": "2026-11-21T10:00Z",
+ "id": "M7873/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 62,
+ "removed": null,
+ "sched": "",
+ "summary": "Five Hebrides danger areas (EGD701A, EGD701B, EGD701C, EGD701G and EGD701Y) activated from ground level upwards at EGPX.",
+ "summary_of": "dc3ef9de6a68",
+ "text": "THE FOLLOWING HEBRIDES DANGER AREAS ARE ACTIVATED:\nEGD701A 1000-2000 SFC-UNL\nEGD701B 1000-2000 SFC-UNL\nEGD701C 1000-2000 SFC-UNL\nEGD701G 1000-2000 SFC-UNL\nEGD701Y 1000-2000 SFC-UNL",
+ "to": "2026-11-21T20:00Z",
+ "type": "N",
+ "upper": "UNL"
+}
