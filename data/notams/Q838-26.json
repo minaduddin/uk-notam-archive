@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -1.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T07:14Z",
+ "from": "2026-11-20T06:56Z",
+ "id": "Q838/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "IGAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 09 glide slope out of service at EGVA; only localiser guidance is available.",
+ "summary_of": "9277c7b8dea6",
+ "text": "RWY 09 GLIDESLOPE U/S. LOCALIZER ONLY.",
+ "to": "2026-12-31T23:59Z",
+ "type": "R",
+ "upper": ""
+}

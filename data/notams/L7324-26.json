@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1333,
+  -3.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T07:14Z",
+ "from": "2026-11-20T17:01Z",
+ "id": "L7324/26",
+ "loc": [
+  "EGNL"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Walney aerodrome traffic zone activated within two nautical miles; aerodrome open and flight information service available.",
+ "summary_of": "fa934d7b6f3c",
+ "text": "WALNEY ATZ ACTIVATED, AD OPEN, AFIS AVBL.",
+ "to": "2026-11-20T18:10Z",
+ "type": "N",
+ "upper": ""
+}

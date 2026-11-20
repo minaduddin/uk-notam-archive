@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -1.8
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T07:14Z",
+ "from": "2026-11-20T06:55Z",
+ "id": "Q837/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Obstruction light out of service near the glide slope for runway 09 at Fairford, at 316 ft above sea level and 30 ft above ground.",
+ "summary_of": "0271e996591a",
+ "text": "OBST LIGHT U/S GLIDE SLOPE RWY 09 PSN 514103.1808N 0014823.47W\n(FAIRFORD) 316FT AMSL/30FT AGL.",
+ "to": "2026-12-31T23:59Z",
+ "type": "R",
+ "upper": ""
+}
