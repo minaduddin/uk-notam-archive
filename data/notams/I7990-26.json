@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.4833,
+  -3.0667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-20T17:29Z",
+ "from": "2026-11-21T13:00Z",
+ "id": "I7990/26",
+ "loc": [
+  "EGPC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity within 0.5 nautical miles of Castle Sinclair Girnigoe, Wick, up to 400 ft above ground.",
+ "summary_of": "009f079973ef",
+ "text": "UAS OPR AT PSN 582840N 0030404W (CASTLE SINCLAIR GIRNIGOE, WICK)\n0.5NM RADIUS 400FT AGL/460FT AMSL",
+ "to": "2026-11-21T16:00Z",
+ "type": "N",
+ "upper": "460FT AMSL"
+}

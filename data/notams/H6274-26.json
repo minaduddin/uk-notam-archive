@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.7833,
+  -3.9833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T17:29Z",
+ "from": "2026-11-27T16:00Z",
+ "id": "H6274/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Ammanford.",
+ "summary_of": "91db964c37f0",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 514728N 0035916W (AMMANFORD). FOR \nINFO 07517 443514. AR-2026-8380/01.",
+ "to": "2026-11-27T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

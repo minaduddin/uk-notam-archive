@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.4333,
+  -5.6667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-20T17:29Z",
+ "from": "2026-11-23T00:00Z",
+ "id": "I7989/26",
+ "loc": [
+  "EGEC"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crane up to 66 ft high, 0.75 nautical miles from Campbeltown aerodrome.",
+ "summary_of": "9179e7c7d10a",
+ "text": "MOBILE CRANE OPR AT PSN 552542N 0054025W (142 DEG MAG \n0.75NM(1382M) FM CAMPBELTOWN ARP) MAX HGT 66FT AGL / 100FT AMSL . \nFOR INFO CONTACT  07879 118317",
+ "to": "2026-11-24T23:59Z",
+ "type": "N",
+ "upper": ""
+}

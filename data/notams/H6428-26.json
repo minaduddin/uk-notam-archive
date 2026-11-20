@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.7333,
+  -1.7333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T17:29Z",
+ "from": "2026-11-27T16:00Z",
+ "id": "H6428/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2359",
+ "summary": "Lasers and searchlights within 1 nautical mile of Alrewas, 1600 to 2359 daily.",
+ "summary_of": "fddb3ff6f6f2",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 524348N 0014351W (ALREWAS). \nFOR INFO 07917 669060. AR-2026-9009/01.",
+ "to": "2026-12-22T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}
