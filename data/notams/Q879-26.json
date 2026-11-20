@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T21:22Z",
+ "from": "2026-11-20T20:17Z",
+ "id": "Q879/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Bampton Road traffic lights out of service at EGVN; expect vehicles crossing the approach to runway 25.",
+ "summary_of": "396041cbaf32",
+ "text": "BAMPTON ROAD TRAFFIC LIGHTS RWY 25 U/S. PILOTS SHOULD EXPECT \nVEHICLES CROSSING ROAD ON APCH TO RWY 25",
+ "to": "2026-12-04T23:59Z",
+ "type": "R",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.55,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-20T21:22Z",
+ "from": "2026-11-20T22:00Z",
+ "id": "I7998/26",
+ "loc": [
+  "EGPE"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Inverness aerodrome traffic zone activated within a 3 nautical mile radius, with aerodrome, air traffic and weather service hours extended.",
+ "summary_of": "64057b0d49a7",
+ "text": "INVERNESS ATZ ACTIVATED. AD/ATS/MET HR OF OPR EXTD.",
+ "to": "2026-11-21T00:30Z",
+ "type": "N",
+ "upper": ""
+}
