@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.0,
+  -2.65
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T11:00Z",
+ "from": "2026-11-23T08:30Z",
+ "id": "B1911/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SEAH",
+ "radius": 30,
+ "removed": null,
+ "sched": "",
+ "summary": "Amended operating hours for the Yeovilton lower airspace radar service: Monday to Thursday 1000 to 1600, Friday 0900 to 1300.",
+ "summary_of": "23466ec58545",
+ "text": "YEOVILTON LOWER AIRSPACE RADAR SERVICE\nAMENDED OPR HR:\nMON-THU 1000-1600\nFRI     0900-1300",
+ "to": "2026-12-18T13:00Z",
+ "type": "N",
+ "upper": ""
+}

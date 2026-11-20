@@ -14,7 +14,7 @@
  "lower": "",
  "q": "FTAS",
  "radius": 5,
- "removed": null,
+ "removed": "2026-11-20T11:00Z",
  "sched": "",
  "summary": "Instrument runway visual range for runway 01 touchdown zone unserviceable at EGTK.",
  "summary_of": "bd42fdf1305f",

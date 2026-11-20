@@ -14,7 +14,7 @@
  "lower": "",
  "q": "AFXX",
  "radius": 28,
- "removed": null,
+ "removed": "2026-11-20T11:00Z",
  "sched": "20 27 0730-1700",
  "summary": "Walney and Burbo Bank transponder zones deactivated near EGNO.",
  "summary_of": "cc1523ee75be",

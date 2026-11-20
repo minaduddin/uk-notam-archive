@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1333,
+  -3.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T11:00Z",
+ "from": "2026-11-20T10:00Z",
+ "id": "L7334/26",
+ "loc": [
+  "EGNL"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGNL closed.",
+ "summary_of": "e7b1d448aad3",
+ "text": "AD CLOSED",
+ "to": "2026-11-20T12:30Z",
+ "type": "N",
+ "upper": ""
+}
