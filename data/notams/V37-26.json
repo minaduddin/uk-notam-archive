@@ -1,0 +1,27 @@
+{
+ "coord": [
+  52.3,
+  -14.85
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-20T11:32Z",
+ "id": "V37/26",
+ "loc": [
+  "EGGX",
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "ROXX",
+ "radius": 999,
+ "removed": null,
+ "sched": "",
+ "summary": "UK civil operators are recommended not to enter Mali airspace below 25,000 feet above ground level due to a hazardous security situation.",
+ "summary_of": "aebd831be8a7",
+ "text": "SECURITY - HAZARDOUS SITUATION IN MALI. UK CIVIL AIR OPERATORS\nARE RECOMMENDED NOT TO ENTER FIR NIAMEY (DRRR) AND FIR DAKAR\n(GOOO) WI THE TERRITORY AND AIRSPACE OF MALI BELOW 25000FT ABOVE \nGROUND LEVEL (AGL). POTENTIAL RISK FROM ANTI-AIRCRAFT WEAPONRY AND\nHEIGHTENED MILITARY ACTIVITY. THIS SUPERSEDES THE ADVICE IN THE\nCURRENT UK AIP ENR 1.1. AR-2026-3729/07.",
+ "to": "2027-01-24T15:00Z",
+ "type": "R",
+ "upper": "UNL"
+}

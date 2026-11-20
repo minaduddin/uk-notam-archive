@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.7833,
+  -3.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-20T12:11Z",
+ "id": "C7632/26",
+ "loc": [
+  "EGNH"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane up to 60ft above ground level near Blackpool, operating 0800-1700 daily.",
+ "summary_of": "6341e95f339b",
+ "text": "LIT CRANE OPR WI 0.1NM RADIUS OF 534710.10N 0030113.94W (0.9NM \n018 DEG MAG FROM BLACKPOOL ARP). MAX HGT 75FT AMSL/60FT AGL. \nOPR HR 0800-1700\nNOTAM WILL BE SUPERSEDED BY AIP SUP WEF 07 JANUARY 2027.",
+ "to": "2027-01-06T23:59Z",
+ "type": "N",
+ "upper": ""
+}

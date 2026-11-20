@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6167,
+  -5.8833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-21T09:00Z",
+ "id": "I7985/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crane near Belfast City, up to 67 ft above ground (76 ft above sea level).",
+ "summary_of": "b58ff4807db0",
+ "text": "MOBILE CRANE OPR PSN 543651N 0055306W (BELFAST CITY). MAX HGT \n67FT AGL/76FT AMSL.",
+ "to": "2026-11-21T14:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.25,
+  -4.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-27T11:15Z",
+ "id": "Q727/26",
+ "loc": [
+  "EGOV"
+ ],
+ "lower": "SFC",
+ "q": "WALW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Military aircraft flypast within 1.5 nautical miles of RAF Valley, with a maximum height of 1,000 feet above sea level.",
+ "summary_of": "db87e71e3e1e",
+ "text": "FLYPAST BY MIL ACFT 1.5NM RADIUS OF PSN 531453N 0043207W (RAF \nVALLEY)\nMAX HGT 1000FT AMSL",
+ "to": "2026-11-27T11:25Z",
+ "type": "N",
+ "upper": "1000FT AMSL"
+}

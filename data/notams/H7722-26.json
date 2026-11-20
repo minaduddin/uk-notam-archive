@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.3667,
+  -3.4833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-22T08:06Z",
+ "id": "H7722/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Swarm of 100 drones operating within half a nautical mile of Craigend, up to 329ft above ground level, sunrise to sunset.",
+ "summary_of": "ead39b600338",
+ "text": "UAS SWARM OPR WI 0.5NM RADIUS OF 562212N 0032837W (CRAIGEND).\nSWARM MADE UP OF 100 UAS. MAX HGT 329FT AGL. FOR INFO 07412 220027. \nAR-2026-11083/01.",
+ "to": "2026-11-22T15:53Z",
+ "type": "N",
+ "upper": "900FT AMSL"
+}

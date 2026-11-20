@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.25,
+  -4.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-27T11:10Z",
+ "id": "Q728/26",
+ "loc": [
+  "EGOV"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome circuit embargo at EGOV.",
+ "summary_of": "97b8d6336ec2",
+ "text": "AD CIRCUIT EMBARGO",
+ "to": "2026-11-27T11:30Z",
+ "type": "N",
+ "upper": ""
+}

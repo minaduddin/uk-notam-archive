@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-20T11:16Z",
+ "id": "Q847/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Whiskey closed south of Hotel ramp at EGUL.",
+ "summary_of": "c52c57ae20f6",
+ "text": "TWY WHISKEY CLSD SOUTH OF HOTEL RAMP",
+ "to": "2026-11-20T22:00Z",
+ "type": "N",
+ "upper": ""
+}

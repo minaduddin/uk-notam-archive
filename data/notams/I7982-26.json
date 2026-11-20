@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.4833,
+  -7.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-20T11:37Z",
+ "id": "I7982/26",
+ "loc": [
+  "EGPL"
+ ],
+ "lower": "",
+ "q": "FMLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 06 wind sensor out of service at EGPL; winds are taken from the runway 24 sensor.",
+ "summary_of": "0fa4aedcb5b8",
+ "text": "RWY 06 ANEMOMETER U/S. ALL WINDS DERIVED FROM RWY 24 ANEMOMETER.",
+ "to": "2026-11-24T16:30Z",
+ "type": "N",
+ "upper": ""
+}

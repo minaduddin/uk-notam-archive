@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.6833,
+  -2.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-23T09:00Z",
+ "id": "H7725/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "0900-1700",
+ "summary": "Civil aircraft underslung load operations near Milburn, Westmorland and Furness, up to 500ft above ground level, 0900-1700.",
+ "summary_of": "146911c84b3e",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM RADIUS OF PSN 544043N 0022628W (MILBURN, WESTMORLAND AND \nFURNESS) LOW FLYING AREA 17 AND NIGHT SECTOR 3BW. MAX HGT 500FT AGL.\nACFT MAY BE RESTRICTED IN ABILITY TO MANOEUVRE AND UNABLE TO COMPLY \nWITH RAC OPS CTC 07776462424. 26/11/143/LFC",
+ "to": "2026-11-27T17:00Z",
+ "type": "N",
+ "upper": "3300FT AMSL"
+}

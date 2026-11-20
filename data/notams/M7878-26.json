@@ -1,0 +1,26 @@
+{
+ "coord": [
+  54.7,
+  0.7667
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-20T11:21Z",
+ "id": "M7878/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "FL050",
+ "q": "RDCA",
+ "radius": 63,
+ "removed": null,
+ "sched": "",
+ "summary": "Southern complex danger areas EGD323B, EGD323H, EGD323M and EGD323R activated near EGTT and EGPX.",
+ "summary_of": "f7cfd4752c6e",
+ "text": "THE FOLLOWING SOUTHERN COMPLEX DANGER AREAS ARE ACTIVATED:\nEGD323B 1115-1200 FL050-FL660\nEGD323B 1430-1530 FL050-FL660\nEGD323H 1430-1530 FL150-FL660\nEGD323M 1115-1200 FL100-FL300\nEGD323M 1430-1530 FL100-FL660\nEGD323R 1115-1200 FL100-FL300\nEGD323R 1430-1530 FL100-FL660",
+ "to": "2026-11-20T15:30Z",
+ "type": "R",
+ "upper": "FL660"
+}

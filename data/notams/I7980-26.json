@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.4833,
+  -4.55
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-25T02:00Z",
+ "id": "I7980/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 16,
+ "removed": null,
+ "sched": "0200-0300",
+ "summary": "Prestwick Airport controlled airspace deactivated, reverting to uncontrolled airspace with no air traffic service, 0200-0300.",
+ "summary_of": "3075b428fd8c",
+ "text": "PRESTWICK AIRPORT CTA/CTR/ATZ DEACTIVATED AIRSPACE REVERTS TO \nCLASS G. ATS NOT AVBL DUE TO MANDATED CONTROLLER BREAKS. PILOTS \nTRANSITIONING THE AREA MONITOR CH129.455",
+ "to": "2026-11-26T03:00Z",
+ "type": "N",
+ "upper": ""
+}

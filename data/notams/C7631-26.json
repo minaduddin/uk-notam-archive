@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5167,
+  -0.0833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-20T11:30Z",
+ "id": "C7631/26",
+ "loc": [
+  "EGLC"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Aviation warning light unserviceable near Fenchurch, up to 525ft above ground level.",
+ "summary_of": "5213251ff360",
+ "text": "REPORT OF AVIATION LIGHT U/S WI AREA BOUNDED BY: \n513040N 0000502W - 513040N 0000459W - 513039N 0000459W - \n513040N 0000503W - 513040N 0000502W (FENCHURCH). UP TO 525FT AGL/ \n600FT AMSL FOR INFO 07985 673178. AR-2026-11082/01.",
+ "to": "2026-11-27T06:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -1.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T13:07Z",
+ "from": "2026-11-27T00:00Z",
+ "id": "Q851/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome closed at EGVA.",
+ "summary_of": "152a52e56e7d",
+ "text": "AD CLSD.",
+ "to": "2026-11-27T23:59Z",
+ "type": "N",
+ "upper": ""
+}
