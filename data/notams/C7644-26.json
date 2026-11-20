@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8333,
+  -1.45
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T18:29Z",
+ "from": "2026-11-20T17:30Z",
+ "id": "C7644/26",
+ "loc": [
+  "EGNX"
+ ],
+ "lower": "",
+ "q": "NLAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Locator beacon at East Midlands out of service on 393 kilohertz.",
+ "summary_of": "0c59be53f823",
+ "text": "LOCATOR EMW/EAST MIDLANDS 393KHZ U/S",
+ "to": "2026-11-23T17:00Z",
+ "type": "N",
+ "upper": ""
+}
