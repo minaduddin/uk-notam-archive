@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T10:00Z",
+ "from": "2026-11-20T08:07Z",
+ "id": "A4681/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "No training approaches available at EGSC, within a 5 nautical mile radius.",
+ "summary_of": "97cae4e76d2a",
+ "text": "NO TRAINING APPROACHES AVBL",
+ "to": "2026-11-20T18:00Z",
+ "type": "N",
+ "upper": ""
+}

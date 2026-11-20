@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.1,
+  -5.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T10:00Z",
+ "from": "2026-11-20T08:51Z",
+ "id": "L7330/26",
+ "loc": [
+  "EGHC"
+ ],
+ "lower": "",
+ "q": "LTAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway threshold indicator lights unserviceable on all runways at EGHC.",
+ "summary_of": "a462d68a4152",
+ "text": "RWY THR INDICATOR LIGHTS U/S ALL RWY.",
+ "to": "2027-01-30T12:45Z",
+ "type": "N",
+ "upper": ""
+}

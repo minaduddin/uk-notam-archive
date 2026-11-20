@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4667,
+  -2.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T10:00Z",
+ "from": "2026-11-20T08:41Z",
+ "id": "L7329/26",
+ "loc": [
+  "EGCB"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Holding point Bravo 4 unavailable at EGCB due to surface conditions.",
+ "summary_of": "797360a6d0f3",
+ "text": "HOLDING POINT BRAVO 4 NOT AVBL DUE SURFACE CONDITIONS",
+ "to": "2026-11-27T09:00Z",
+ "type": "N",
+ "upper": ""
+}

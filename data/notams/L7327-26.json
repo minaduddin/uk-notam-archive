@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1167,
+  -3.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T10:00Z",
+ "from": "2026-11-21T00:00Z",
+ "id": "L7327/26",
+ "loc": [
+  "EGNL"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crawler crane up to 190 ft above sea level, 150 ft above ground, about 2.3 nautical miles from Walney Airport.",
+ "summary_of": "01af65e2fee8",
+ "text": "MOBILE CRAWLER CRANE OPR WI 0.1 NM RADIUS OF 540713N 0031159W \n(104.29 DEG MAG 2.34NM FM WALNEY ARP) MAX HGT 190FT AMSL, 150FT AGL.",
+ "to": "2027-02-21T23:59Z",
+ "type": "N",
+ "upper": ""
+}

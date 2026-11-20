@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.85,
+  0.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T10:00Z",
+ "from": "2026-11-23T13:00Z",
+ "id": "H7715/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WELW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Military aircraft hover and deck landing training within 5 nautical miles of Sculthorpe disused aerodrome, surface to 1900 ft above sea level.",
+ "summary_of": "57f8a9a0ca1b",
+ "text": "EXER. MULTIPLE MIL ACFT PERFORMING HOVER OPR AND FULL DECK \nLANDING TRG AT HLS WI 5NM RADIUS OF 525051N 0004546E (SCULTHORPE \nDISUSED AD). ACFT MAY BE UNABLE TO COMPLY WITH RAC. FOR INFO \n01638 544807 / 01638 542073. AR-2026-11002/03.",
+ "to": "2026-11-23T20:00Z",
+ "type": "N",
+ "upper": "1900FT AMSL"
+}

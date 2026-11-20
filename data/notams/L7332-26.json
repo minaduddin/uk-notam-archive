@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3167,
+  -0.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T10:00Z",
+ "from": "2026-11-20T09:00Z",
+ "id": "L7332/26",
+ "loc": [
+  "EGLK"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "EGLK closed to all traffic due to fog.",
+ "summary_of": "4cc53a08df78",
+ "text": "AD CLSD TO ALL TRAFFIC DUE FOG",
+ "to": "2026-11-20T10:00Z",
+ "type": "N",
+ "upper": ""
+}
