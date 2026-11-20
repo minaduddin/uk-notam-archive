@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5833,
+  -0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T19:35Z",
+ "from": "2026-11-27T18:00Z",
+ "id": "H7680/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Gerrards Cross, from ground level upwards.",
+ "summary_of": "1fcc8733db02",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 513510N 0003325W (GERRARDS CROSS).\nFOR INFO 07515 339885 / 07460 869343. AR-2026-10964/01.",
+ "to": "2026-11-27T20:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

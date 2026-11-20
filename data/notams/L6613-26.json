@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.5167,
+  -2.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T19:35Z",
+ "from": "2026-11-27T18:45Z",
+ "id": "L6613/26",
+ "loc": [
+  "EGBO"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Fireworks within 0.5 nautical miles of Halfpenny Green, from ground level up to 800 feet above sea level.",
+ "summary_of": "728552007a90",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 523117N 0021557W (HALFPENNY GREEN).\nFOR INFO 07966 364016 / 07966 364016. AR-2026-9840/01.",
+ "to": "2026-11-27T19:00Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}
