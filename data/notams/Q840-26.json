@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.65,
+  0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T08:40Z",
+ "from": "2026-11-20T07:31Z",
+ "id": "Q840/26",
+ "loc": [
+  "EGYM"
+ ],
+ "lower": "",
+ "q": "ICAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 23 instrument landing system at EGYM is unserviceable.",
+ "summary_of": "029f57a6d00d",
+ "text": "RWY 23 ILS UNSERVICABLE.",
+ "to": "2027-01-31T23:59Z",
+ "type": "N",
+ "upper": ""
+}
