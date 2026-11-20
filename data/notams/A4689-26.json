@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T16:29Z",
+ "from": "2026-11-23T23:59Z",
+ "id": "A4689/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Kilo east of Taxiway November closed at EGKK due to work in progress.",
+ "summary_of": "4d5f47469c00",
+ "text": "TWY KILO EAST OF NOVEMBER CLSD DUE TO WIP",
+ "to": "2026-11-24T05:00Z",
+ "type": "N",
+ "upper": ""
+}

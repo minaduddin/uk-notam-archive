@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T16:29Z",
+ "from": "2026-11-25T23:00Z",
+ "id": "A4690/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "2300-0600",
+ "summary": "Runway 08R/26L closed at EGKK, with runway 08L/26R used instead between 2310 and 0550.",
+ "summary_of": "64b6691423bb",
+ "text": "RWY 08R/26L CLSD. RWY 08L/26R IN USE 2310-0550. LIGHTS FOR CLSD\nRWY 08R/26L AND PARALLEL TWY NOT VISIBLE ON APCH. FROM 2300-2310\nAND 0550-0600 NEITHER RWY 08R/26L OR RWY 08L/26R WILL BE AVBL TO\nALLOW FOR THE CHANGE OF RWY. LAST DEPARTURE 5 MIN BEFORE CHANGEOVER.",
+ "to": "2026-11-28T06:00Z",
+ "type": "N",
+ "upper": ""
+}

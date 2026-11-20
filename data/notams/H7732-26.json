@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.3,
+  -5.5833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-20T16:29Z",
+ "from": "2026-11-21T10:00Z",
+ "id": "H7732/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Model rocket firing within 0.5 nautical miles of Ringawaddy, up to 10,700 feet above mean sea level, subject to air traffic clearance.",
+ "summary_of": "aa0a2855017a",
+ "text": "MODEL ROCKET FIRING WI 0.5NM RADIUS OF 541821N 0053500W \n(RINGAWADDY). LAUNCH SUBJ ATC CLR. FOR INFO 07711 373646 / \n07402 299518. AR-2026-10213/01.",
+ "to": "2026-11-21T18:00Z",
+ "type": "N",
+ "upper": "10700FT AMSL"
+}

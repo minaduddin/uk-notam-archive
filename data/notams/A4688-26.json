@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T16:29Z",
+ "from": "2026-11-25T23:00Z",
+ "id": "A4688/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "2300 - 0600",
+ "summary": "Taxiway Yankee closed at EGKK between 2300 and 0600 due to work in progress.",
+ "summary_of": "b4f6c2590e68",
+ "text": "TWY YANKEE CLSD DUE WIP",
+ "to": "2026-11-28T06:00Z",
+ "type": "N",
+ "upper": ""
+}

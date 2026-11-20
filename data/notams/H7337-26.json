@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0833,
+  -0.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T16:29Z",
+ "from": "2026-11-27T15:00Z",
+ "id": "H7337/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity within 0.5 nautical miles of Biggleswade, Bedfordshire, up to 400 feet above ground level.",
+ "summary_of": "58635fe336dc",
+ "text": "UAS OPR WI 0.5NM RADIUS OF 520512N 0001553W (BIGGLESWADE,\nBEDFORDSHIRE). MAX HGT 400FT AGL. FOR INFO 07531 394904.\nAR-2026-10488/01.",
+ "to": "2026-11-27T20:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

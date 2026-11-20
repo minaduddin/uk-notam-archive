@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T16:29Z",
+ "from": "2026-11-23T23:59Z",
+ "id": "A4692/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Kilo between Taxiways Quebec and Papa closed at EGKK due to work in progress.",
+ "summary_of": "a74ac6d608df",
+ "text": "TWY KILO BTN TWY QUEBEC AND TWY PAPA CLSD DUE TO WIP",
+ "to": "2026-11-24T05:00Z",
+ "type": "N",
+ "upper": ""
+}
