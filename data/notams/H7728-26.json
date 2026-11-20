@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.2167,
+  -0.65
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T15:28Z",
+ "from": "2026-11-23T16:00Z",
+ "id": "H7728/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within one nautical mile of Doddington, Lincoln.",
+ "summary_of": "484303baa38e",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 531312N 0003913W (DODDINGTON,\nLINCOLN). FOR INFO 07810 303468. AR-2026-11094/01.",
+ "to": "2026-11-23T23:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

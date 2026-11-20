@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3833,
+  -3.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T15:28Z",
+ "from": "2026-11-21T00:00Z",
+ "id": "A4685/26",
+ "loc": [
+  "EGFF"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 22,
+ "removed": null,
+ "sched": "",
+ "summary": "Cardiff aerodrome closed and its controlled airspace deactivated, with air traffic services unavailable.",
+ "summary_of": "131202069bd6",
+ "text": "CARDIFF CTA, CTR AND ATZ DEACTIVATED, AIRSPACE REVERTS TO CLASS\nG. ATS NOT AVBL, AD CLSD, AUTO MET OBS UNVERIFIED. IN THE EVENT OF\nAN EMERG, CTC AD FIRE SERVICE ON 01446 712505",
+ "to": "2026-11-21T05:30Z",
+ "type": "N",
+ "upper": ""
+}

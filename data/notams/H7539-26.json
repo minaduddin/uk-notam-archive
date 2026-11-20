@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9333,
+  -1.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T15:28Z",
+ "from": "2026-11-27T14:00Z",
+ "id": "H7539/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations within 0.2 nautical miles of West Bridgford, Nottingham, up to 500 ft high.",
+ "summary_of": "67f8ae057c26",
+ "text": "UAS OPR WI 0.2NM RADIUS OF 525627N 0010744W (WEST BRIDGFORD,\nNOTTINGHAM). MAX HGT 500FT AGL. FOR INFO 01992 924779. \nAR-2026-10710/01.",
+ "to": "2026-11-27T23:30Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.6,
+  -0.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T15:28Z",
+ "from": "2026-11-21T00:01Z",
+ "id": "C7636/26",
+ "loc": [
+  "EGNJ"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane up to 99 ft high near Croxton, Lincolnshire.",
+ "summary_of": "ae8ed1d683ef",
+ "text": "LIT CRANE OPR AT PSN 533537N 0002246W (CROXTON, LINCOLNSHIRE) MAX \nHGT 99FT AGL, 260FT AMSL",
+ "to": "2026-11-29T23:59Z",
+ "type": "N",
+ "upper": ""
+}
