@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T14:30Z",
+ "from": "2026-11-20T13:53Z",
+ "id": "Q863/26",
+ "loc": [
+  "EGDM"
+ ],
+ "lower": "",
+ "q": "FHLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Helicopter landing pad TLOF-3 on the south dispersal at EGDM closed for maintenance.",
+ "summary_of": "9cde12af2538",
+ "text": "TLOF-3 ON SOUTH DISPERSAL CLSD DUE MAINT",
+ "to": "2026-12-18T16:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T14:30Z",
+ "from": "2026-11-20T13:40Z",
+ "id": "Q862/26",
+ "loc": [
+  "EGDM"
+ ],
+ "lower": "",
+ "q": "MNXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "North apron Hangar 7 (801) at EGDM closed for maintenance.",
+ "summary_of": "a14352a7f0e1",
+ "text": "NORTH APRON HANGAR 7 (801) CLOSED DUE MAINT",
+ "to": "2026-12-18T16:30Z",
+ "type": "N",
+ "upper": ""
+}

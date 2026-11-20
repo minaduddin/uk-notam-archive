@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.1833,
+  -3.35
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-20T14:30Z",
+ "from": "2026-11-20T13:20Z",
+ "id": "J4188/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RTCS",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary drone restricted area up to 2,200 ft within 1 nautical mile of a point at Portmoak, Perth and Kinross; police permission needed.",
+ "summary_of": "0145c3e92a45",
+ "text": "RESTRICTED AREA (TEMPORARY) INSTALLED FOR UAS ONLY (PORTMOAK,\nPERTH AND KINROSS). WI 1NM RADIUS OF PSN 561034N 0032122W PILOTS ARE \nFORBIDDEN TO FLY UAS WITHIN THE DESIGNATED AREA WITHOUT THE \nPERMISSION OF POLICE SCOTLAND, CTC TEL 0300-4325422. RESTRICTION OF \nFLYING REGULATIONS MADE UNDER ARTICLE 239 OF AIR NAV ORDER 2016. \nAR-2026-11090/01.",
+ "to": "2026-11-23T12:00Z",
+ "type": "N",
+ "upper": "2200FT AMSL"
+}
