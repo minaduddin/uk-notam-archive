@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7333,
+  -3.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T22:21Z",
+ "from": "2026-11-20T21:20Z",
+ "id": "C7645/26",
+ "loc": [
+  "EGTE"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome traffic zone around Exeter, radius 3 nautical miles, deactivated; aerodrome and air traffic services closed.",
+ "summary_of": "784b99455c2d",
+ "text": "EXETER ATZ DEACTIVATED. ATS AND AD CLSD. BASED EMERGENCY ACFT MAY\nSTILL OPERATE",
+ "to": "2026-11-21T02:30Z",
+ "type": "N",
+ "upper": ""
+}
