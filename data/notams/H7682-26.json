@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.25,
+  0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T20:24Z",
+ "from": "2026-11-27T19:00Z",
+ "id": "H7682/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of 511444N 0003116E, airspace reference EGTT.",
+ "summary_of": "c7ade58639cf",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 511444N 0003116E (LOOSE).  FOR \nINFO 07412 670371. AR-2026-11045/01.",
+ "to": "2026-11-27T19:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

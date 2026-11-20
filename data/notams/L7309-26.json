@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1667,
+  -2.9833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-20T20:24Z",
+ "from": "2026-11-27T19:00Z",
+ "id": "L7309/26",
+ "loc": [
+  "EGNR"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "27 1900-2200, 28-29 0900-1700",
+ "summary": "Lit floodlights up to 78 ft above sea level and 50 ft above ground near Hawarden aerodrome.",
+ "summary_of": "508235fc5cae",
+ "text": "LIT FLOODLIGHTS OPR PSN 531018N 0025858W (735M 203 DEG MAG FM \nHAWARDEN ARP). MAX HGT 78FT AMSL. 50FT AGL.",
+ "to": "2026-11-29T17:00Z",
+ "type": "N",
+ "upper": ""
+}
