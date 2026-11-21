@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8333,
+  -1.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T15:20Z",
+ "from": "2026-11-21T22:10Z",
+ "id": "L7357/26",
+ "loc": [
+  "EGCM"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Leeds East aerodrome traffic zone activated, with extended opening hours and prior permission required.",
+ "summary_of": "9f194949db33",
+ "text": "LEEDS EAST ATZ ACTIVATED. AD HOUR OPR EXTD. PPR ONLY.",
+ "to": "2026-11-21T22:55Z",
+ "type": "N",
+ "upper": ""
+}

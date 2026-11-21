@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1,
+  -2.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T15:20Z",
+ "from": "2026-11-28T14:00Z",
+ "id": "H7538/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Crewe, with no height limit stated.",
+ "summary_of": "e1709e1e6e0d",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 530552N 0022621W (CREWE). FOR INFO \n07583 880714. AR-2026-10762/01.",
+ "to": "2026-11-28T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1333,
+  -1.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T15:20Z",
+ "from": "2026-11-28T14:00Z",
+ "id": "H7374/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone swarm of 200 drones within 0.2 nautical miles of Copt Hewick, up to 500 ft above ground level.",
+ "summary_of": "edc869df0134",
+ "text": "UAS SWARM OPR WI 0.2NM RADIUS OF 540827N 0012821W (COPT HEWICK).\nSWARM MADE UP OF 200 UAS. MAX HGT 500FT AGL. \nFOR INFO 07970 017256. AR-2026-10556/01.",
+ "to": "2026-11-28T23:59Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}
