@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.0167,
+  -4.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T21:15Z",
+ "from": "2026-11-21T20:57Z",
+ "id": "C7660/26",
+ "loc": [
+  "EGNS"
+ ],
+ "lower": "",
+ "q": "AECA",
+ "radius": 21,
+ "removed": null,
+ "sched": "",
+ "summary": "Airspace restriction over the Isle of Man within 21 nautical miles, with aerodrome use by prior permission only.",
+ "summary_of": "ae1916c394d7",
+ "text": "ISLE OF MAN CTA/CTR/ATZ ACTIVATED. AD AND ATS EXTENDED. AD PPR \nONLY. CTC ATC 01624 827548.",
+ "to": "2026-11-21T21:50Z",
+ "type": "N",
+ "upper": ""
+}
