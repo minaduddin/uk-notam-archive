@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T19:25Z",
+ "from": "2026-11-28T18:00Z",
+ "id": "Q857/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Live firing for wildlife control within 1 nautical mile of Benson Aerodrome, up to 100 feet above ground (303 feet above sea level).",
+ "summary_of": "f85e30317966",
+ "text": "LIVE FIRING FOR WILDLIFE CONTROL WI 1NM PSN 513704N 0010543W \n(BENSON AD). HGT 100FT AGL/ 303FT AMSL.",
+ "to": "2026-11-28T23:00Z",
+ "type": "N",
+ "upper": "303FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.25,
+  -0.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T19:25Z",
+ "from": "2026-11-28T18:00Z",
+ "id": "L6864/26",
+ "loc": [
+  "EGKR"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Lasers and fireworks within 1 nautical mile of Bletchingley, with fireworks up to 300 feet above ground.",
+ "summary_of": "7235dded1030",
+ "text": "LASERS, FIREWORKS WI 1NM RADIUS OF 511501N 0000652W \n(BLETCHINGLEY). FIREWORKS UP TO 300FT AGL. FOR INFO 07748 555555. \nAR-2026-10412/01.",
+ "to": "2026-11-28T20:00Z",
+ "type": "N",
+ "upper": "UNL"
+}
