@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4,
+  0.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T17:17Z",
+ "from": "2026-11-28T16:00Z",
+ "id": "H7558/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Beckenham, from ground level upwards.",
+ "summary_of": "757a6024bfcb",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 512351N 0000006E (BECKENHAM). FOR \nINFO 020 3422 0777. AR-2026-10808/01.",
+ "to": "2026-11-28T20:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

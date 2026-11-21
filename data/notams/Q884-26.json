@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T17:17Z",
+ "from": "2026-11-21T16:06Z",
+ "id": "Q884/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "LXAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway and taxiway lead-on lights for taxiways A, B, E, F and G are not working at EGVN.",
+ "summary_of": "9a396c4c4f01",
+ "text": "TWY A, B, E, G, F RWY LEAD ON LIGHTS U/S",
+ "to": "2026-11-28T23:59Z",
+ "type": "N",
+ "upper": ""
+}

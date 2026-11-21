@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4,
+  -3.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T17:17Z",
+ "from": "2026-11-28T16:20Z",
+ "id": "A4090/26",
+ "loc": [
+  "EGFF"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Llantwit Major, from ground level upwards.",
+ "summary_of": "d92625e45360",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 512427N 0032909W (LLANTWIT MAJOR).\n FOR INFO 07517 443514. AR-2026-8216/01.",
+ "to": "2026-11-28T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}
