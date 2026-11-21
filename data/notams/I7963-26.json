@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.6833,
+  -6.2667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-21T14:26Z",
+ "from": "2026-11-28T13:40Z",
+ "id": "I7963/26",
+ "loc": [
+  "EGPI"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGPI closed to out-of-hours movements, with normal call-out procedures for air ambulance and search and rescue.",
+ "summary_of": "37dfbe6b1213",
+ "text": "AD CLSD TO OOH MOVEMENTS,NORMAL CALL OUT PROCEDURES FOR AIR \nAMBULANE AND SAR",
+ "to": "2026-11-28T17:00Z",
+ "type": "N",
+ "upper": ""
+}
