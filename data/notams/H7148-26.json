@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.05,
+  -3.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T10:23Z",
+ "from": "2026-11-28T09:00Z",
+ "id": "H7148/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Live firing within a designated area near Sennybridge, up to 21,600 ft above mean sea level.",
+ "summary_of": "c222650f7be4",
+ "text": "LIVE FIRING WI AREA BOUNDED BY \n520743N 0032924W - 520613N 0032645W - 520451N 0032532W - \n520252N 0032804W - 520156N 0032943W - 520150N 0033139W - \n515858N 0033729W - 515815N 0033935W - 515947N 0034105W - \n520211N 0034019W - 520501N 0033532W - 520743N 0032924W (EGD203 \nSENNYBRIDGE). FOR INFO 07874 876321 / 01874 635599. \nAR-2026-10206/01.",
+ "to": "2026-11-28T23:59Z",
+ "type": "N",
+ "upper": "21600FT AMSL"
+}

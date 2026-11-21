@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.1,
+  -3.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T10:23Z",
+ "from": "2026-11-28T09:00Z",
+ "id": "L7161/26",
+ "loc": [
+  "EGNL"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity within an area near Barrow-in-Furness, up to 450 ft above mean sea level.",
+ "summary_of": "438c54424448",
+ "text": "UAS OPR WI AREA BOUNDED BY: \n540640.61N 0031425.44W - 540644.78N 0031417.12W - \n540643.34N 0031411.4W - 540638.63N 0031357.79W - \n540633.26N 0031341.12W - 540625.99N 0031342.42W - \n540615.84N 0031351.46W - 540612.53N 0031355.96W - \n540610.48N 0031402.04W - 540609.65N 0031405.71W - \n540607.02N 0031411.54W - 540609.29N 0031414.64W - \n540614.11N 0031420.9W - 540619.8N 0031426.92W - \n540627.07N 0031430.16W - 540640.61N 0031425.44W (BARROW-IN-FURNESS). \nHGT 399FT AGL, 450FT AMSL.",
+ "to": "2026-11-28T14:00Z",
+ "type": "N",
+ "upper": "450FT AMSL"
+}
