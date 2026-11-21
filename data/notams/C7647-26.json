@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T01:49Z",
+ "from": "2026-11-21T01:00Z",
+ "id": "C7647/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "ACCA",
+ "radius": 9,
+ "removed": null,
+ "sched": "",
+ "summary": "Bournemouth Airport's controlled airspace and aerodrome traffic zone are active, with extended operating hours.",
+ "summary_of": "63701b60ace3",
+ "text": "BOURNEMOUTH CTR AND ATZ ACTIVE, AD OPR HR EXTD",
+ "to": "2026-11-21T02:15Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-21T01:49Z",
+ "from": "2026-11-28T00:00Z",
+ "id": "I7978/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Foxtrot fillet works, phase 1, at Edinburgh Airport, replaced by a later briefing sheet.",
+ "summary_of": "6868757f9c8f",
+ "text": "AIP SUP 096/2026 EDINBURGH AIRPORT (EGPH) - TAXIWAY FOXTROT FILLET\nWORKS - PHASE 1 - REPLACED BY BFS 142/2026 AS OF 30 NOVEMBER 2026. \nHTTP://WWW.NATS.AERO/AIS/BRIEFINGSHEETS",
+ "to": "2027-02-28T23:59Z",
+ "type": "N",
+ "upper": ""
+}

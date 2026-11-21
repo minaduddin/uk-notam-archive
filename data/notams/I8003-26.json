@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.95,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-21T01:49Z",
+ "from": "2026-11-21T00:10Z",
+ "id": "I8003/26",
+ "loc": [
+  "EGPH"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Stand 26 closed at Edinburgh Airport.",
+ "summary_of": "f4898d566649",
+ "text": "STAND 26 CLSD",
+ "to": "2027-02-11T12:00Z",
+ "type": "R",
+ "upper": ""
+}
