@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3667,
+  -4.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T12:18Z",
+ "from": "2026-11-21T15:00Z",
+ "id": "B1916/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SELC",
+ "radius": 130,
+ "removed": null,
+ "sched": "",
+ "summary": "Western radar service closed within 130 nautical miles of EGTT.",
+ "summary_of": "41ea7b257959",
+ "text": "WESTERN RADAR CLSD",
+ "to": "2026-11-21T19:30Z",
+ "type": "N",
+ "upper": ""
+}
