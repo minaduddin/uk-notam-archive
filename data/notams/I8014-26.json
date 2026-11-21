@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.95,
+  -2.9
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-21T22:14Z",
+ "from": "2026-11-21T21:21Z",
+ "id": "I8014/26",
+ "loc": [
+  "EGPA"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Kirkwall aerodrome traffic zone active within two nautical miles, with operating hours extended and prior permission required to use the aerodrome.",
+ "summary_of": "5e332bf6cbbd",
+ "text": "KIRKWALL ATZ ACTIVE. AFIS/AD/ATIS/MET/FIRE AND RESCUE CAT 3/ \nADDITIONAL HR OF OPR. AD REMAINS STRICTLY PPR.",
+ "to": "2026-11-21T23:00Z",
+ "type": "N",
+ "upper": ""
+}

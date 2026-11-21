@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.55,
+  -4.05
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-21T22:14Z",
+ "from": "2026-11-21T21:40Z",
+ "id": "I8015/26",
+ "loc": [
+  "EGPE"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Inverness aerodrome traffic zone activated within three nautical miles, with extended operating hours, prior permission required and radar service available.",
+ "summary_of": "5ceea14011c8",
+ "text": "INVERNESS ATZ ACTIVATED. AD, ATS, MET HR OF OPR EXTENDED. AD \nREMAINS STRICTLY PPR. RFFS CAT 6. RADAR SERVICE AVBL.",
+ "to": "2026-11-21T22:30Z",
+ "type": "N",
+ "upper": ""
+}
