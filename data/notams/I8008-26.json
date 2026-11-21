@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.0167,
+  -7.45
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-21T09:19Z",
+ "from": "2026-11-21T09:15Z",
+ "id": "I8008/26",
+ "loc": [
+  "EGPR"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Revised operating hours at aerodrome EGPR are 0915 to 1300.",
+ "summary_of": "722d6640b13c",
+ "text": "REVISED AD OPR HR: 0915-1300",
+ "to": "2026-11-21T15:30Z",
+ "type": "N",
+ "upper": ""
+}

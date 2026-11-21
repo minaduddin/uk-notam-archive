@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T09:19Z",
+ "from": "2026-11-28T08:00Z",
+ "id": "Q195/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "SPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Benson air traffic service unavailable at EGUB due to power outages.",
+ "summary_of": "7b55bf8375b6",
+ "text": "BENSON ATS NOT AVBL DUE TO POWER OUTAGES",
+ "to": "2026-11-28T18:00Z",
+ "type": "N",
+ "upper": ""
+}
