@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.35,
+  -0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-21T08:15Z",
+ "from": "2026-11-21T08:00Z",
+ "id": "L7351/26",
+ "loc": [
+  "EGTF"
+ ],
+ "lower": "",
+ "q": "FFCG",
+ "radius": 5,
+ "removed": null,
+ "sched": "0800-1000 1400-1800",
+ "summary": "Rescue and fire fighting service at EGTF downgraded to category 1, daily from 0800 to 1000 and 1400 to 1800.",
+ "summary_of": "b4017d660d7c",
+ "text": "RFFS DOWNGRADED TO CAT 1",
+ "to": "2026-11-21T18:00Z",
+ "type": "N",
+ "upper": ""
+}

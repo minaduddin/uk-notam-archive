@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2167,
+  -6.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-21T08:15Z",
+ "from": "2026-11-21T07:14Z",
+ "id": "I8006/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway C at EGPO closed due to ice.",
+ "summary_of": "7f15c95af218",
+ "text": "TWY C CLSD DUE ICE.",
+ "to": "2026-11-21T15:30Z",
+ "type": "N",
+ "upper": ""
+}
