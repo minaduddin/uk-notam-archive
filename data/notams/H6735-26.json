@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.15,
+  -3.4
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-22T09:20Z",
+ "from": "2026-11-29T08:00Z",
+ "id": "H6735/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0800-2100",
+ "summary": "Drone operations within 1.19 nautical miles of Builth Wells, up to 400 feet above ground, 0800 to 2100 daily.",
+ "summary_of": "52492da53859",
+ "text": "UAS OPR WI 1.19NM RADIUS OF 520924N 0032421W (BUILTH WELLS). MAX \nHGT 400FT AGL. FOR INFO 07884 004257 / 07850 669660. AR-2026-9515/01.",
+ "to": "2026-12-01T21:00Z",
+ "type": "N",
+ "upper": "1700FT AMSL"
+}

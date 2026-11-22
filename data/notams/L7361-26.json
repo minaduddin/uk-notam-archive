@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.5,
+  1.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-22T09:20Z",
+ "from": "2026-11-22T09:30Z",
+ "id": "L7361/26",
+ "loc": [
+  "EGSV"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome at EGSV not available to aircraft requiring a licensed aerodrome, due to fire cover, and not always available.",
+ "summary_of": "a305a415fe43",
+ "text": "AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE RFFS \nNOT\nALWAYS AVBL",
+ "to": "2026-11-22T16:30Z",
+ "type": "N",
+ "upper": ""
+}
