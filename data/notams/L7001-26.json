@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.5167,
+  1.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-22T18:14Z",
+ "from": "2026-11-29T17:00Z",
+ "id": "L7001/26",
+ "loc": [
+  "EGSV"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Fireworks display within 0.5 nautical miles of Attleborough, up to 500 feet above sea level.",
+ "summary_of": "813affe2a244",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 523114N 0010107E (ATTLEBOROUGH).\nFOR INFO 07477 999336. AR-2026-10293/01.",
+ "to": "2026-11-29T18:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}
