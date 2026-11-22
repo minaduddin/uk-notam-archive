@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-22T07:06Z",
+ "from": "2026-11-22T21:00Z",
+ "id": "A4700/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "2100-0600",
+ "summary": "Reduced aircraft parking stand capacity at EGKK overnight, 2100 to 0600, with diverted aircraft expecting remote parking and delayed ground handling.",
+ "summary_of": "dab124983232",
+ "text": "AD AT ACFT PARKING STAND CAPACITY. DIVERSION ACFT SHOULD EXPECT \nREMOTE CONTINGENCY PARKING ARRANGMENTS AND DELAYED GROUND HANDLING \nSER.",
+ "to": "2026-12-19T06:00Z",
+ "type": "N",
+ "upper": ""
+}

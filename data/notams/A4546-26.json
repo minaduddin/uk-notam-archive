@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4167,
+  -3.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-22T07:06Z",
+ "from": "2026-11-29T06:00Z",
+ "id": "A4546/26",
+ "loc": [
+  "EGGP"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity within 0.3 nautical miles of Vauxhall, Liverpool, up to 500 feet above ground level.",
+ "summary_of": "f7c03aa70360",
+ "text": "UAS OPR WI 0.3NM RADIUS OF 532515N 0030018W (VAUXHALL, \nLIVERPOOL). MAX HGT 500FT AGL. FOR INFO 01992 924779. \nAR-2026-10713/01.",
+ "to": "2026-11-29T16:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}
