@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.4833,
+  -4.55
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-22T11:18Z",
+ "from": "2026-11-25T22:30Z",
+ "id": "I8021/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "CSAS",
+ "radius": 16,
+ "removed": null,
+ "sched": "",
+ "summary": "Secondary surveillance radar out of service at Prestwick; radar service provided by primary radar only.",
+ "summary_of": "921e48bb8eef",
+ "text": "PRESWICK SSR OUT OF SERVICE. RADAR SERVICE PROVIDED PSR ONLY.",
+ "to": "2026-11-26T05:30Z",
+ "type": "N",
+ "upper": ""
+}

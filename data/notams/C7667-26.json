@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.5667,
+  -0.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-22T11:18Z",
+ "from": "2026-11-22T10:23Z",
+ "id": "C7667/26",
+ "loc": [
+  "EGNJ"
+ ],
+ "lower": "",
+ "q": "FFCG",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Rescue and firefighting service at EGNJ downgraded to category 5.",
+ "summary_of": "9364bf4e303f",
+ "text": "RFFS DOWNGRADED TO CAT 5",
+ "to": "2026-11-22T15:45Z",
+ "type": "N",
+ "upper": ""
+}
