@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.4667,
+  -3.1
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-22T00:11Z",
+ "from": "2026-11-22T00:30Z",
+ "id": "I8017/26",
+ "loc": [
+  "EGPC"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Wick Airport's aerodrome traffic zone has been activated, with additional hours of operation.",
+ "summary_of": "11097e1ac823",
+ "text": "WICK ATZ ACTIVATED. AD AND AFIS ADDITIONAL HOURS OF OPERATION, OUT\nOF HOURS INDEMNITIES SUSPENDED",
+ "to": "2026-11-22T01:15Z",
+ "type": "N",
+ "upper": ""
+}
