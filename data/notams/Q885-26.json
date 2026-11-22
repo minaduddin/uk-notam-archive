@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.7,
+  -3.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-22T20:20Z",
+ "from": "2026-11-23T08:00Z",
+ "id": "Q885/26",
+ "loc": [
+  "EGQS"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Revised night flying hours at aerodrome EGQS, with different daily times from Monday to Friday, such as 1200 to 2200 on Tuesday.",
+ "summary_of": "a39743bef911",
+ "text": "AD REVISED OPERATING HOURS (NIGHT FLYING HOURS)\nMON 1000-2000\nTUE 1200-2200\nWED 1000-2000\nTHU 1000-2000\nFRI 1100-1800",
+ "to": "2026-11-27T18:00Z",
+ "type": "N",
+ "upper": ""
+}
