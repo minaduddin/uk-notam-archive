@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.0333,
+  -1.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-22T15:20Z",
+ "from": "2026-11-22T23:00Z",
+ "id": "I8023/26",
+ "loc": [
+  "EGNT"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "2300-0530",
+ "summary": "Newcastle Airport closed to non-scheduled traffic between 2300 and 0530 daily, while its controlled airspace remains active.",
+ "summary_of": "a93d93c15933",
+ "text": "AD CLSD TO NON-SCHEDULED TFC. NEWCASTLE CTA/CTR/ATZ REMAINS \nACTIVE. OVERFLYING ACFT REQUIRING A CROSSING CLEARANCE SHOULD FILE A \nFLIGHTPLAN. ATS SHALL BE TACTICALLY MANAGED TO ACCOMMODATE PLANNED \nMOVEMENTS. BASED TFC OFF SCHEDULE WILL BE ACCEPTED.",
+ "to": "2026-11-23T05:30Z",
+ "type": "N",
+ "upper": ""
+}
