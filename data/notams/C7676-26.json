@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8,
+  -1.7333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-22T23:18Z",
+ "from": "2026-11-22T23:10Z",
+ "id": "C7676/26",
+ "loc": [
+  "EGNM"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 18,
+ "removed": null,
+ "sched": "",
+ "summary": "Leeds Bradford airspace control zone and aerodrome zone deactivated as the airport is closed, with air traffic services unavailable.",
+ "summary_of": "3b84b1c34a86",
+ "text": "LEEDS BRADFORD CTA, CTR, ATZ DEACTIVATED, AD CLSD. ATC SER NOT \nAVBL. SUITABLY EQUIPPED ACFT SHOULD MONITOR LEEDS RADAR ON CH134.580 \nAND SQUAWK EITHER 2677, ANY DISCRETE TASK SPECIFIC CODE, OR ANY \nDISCRETE CODE ALLOCATED BY ANOTHER UNIT. MET OBSERVATIONS UNVERIFIED \nDURING PERIODS OF CLOSURE.",
+ "to": "2026-11-22T23:59Z",
+ "type": "N",
+ "upper": ""
+}
