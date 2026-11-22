@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.1333,
+  -0.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-22T13:34Z",
+ "from": "2026-11-29T12:00Z",
+ "id": "H7327/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity within 0.6 nautical miles of Sandy, up to 400 ft above ground level.",
+ "summary_of": "2493aa053409",
+ "text": "UAS OPR WI 0.6NM RADIUS OF 520745N 0001717W (SANDY). MAX HGT\n400FT AGL. FOR INFO 07531 394904. AR-2026-10487/01.",
+ "to": "2026-11-29T18:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}
