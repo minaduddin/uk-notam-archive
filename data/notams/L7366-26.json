@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.2833,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-22T14:25Z",
+ "from": "2026-11-24T08:00Z",
+ "id": "L7366/26",
+ "loc": [
+  "EGNE"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "EGNE aerodrome not available to aircraft needing a licensed aerodrome, due to no rescue and firefighting service.",
+ "summary_of": "4d03a1ab3b59",
+ "text": "AD NOT AVBL TO ACFT REQUIRING THE USE OF A LICENSED AD DUE NO RFFS",
+ "to": "2026-11-24T18:00Z",
+ "type": "N",
+ "upper": ""
+}
