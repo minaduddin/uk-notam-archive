@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-22T21:19Z",
+ "from": "2026-11-22T20:20Z",
+ "id": "C7674/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "ACCD",
+ "radius": 9,
+ "removed": null,
+ "sched": "",
+ "summary": "Bournemouth airspace and aerodrome zone deactivated as the aerodrome is closed, with National Police Air Service flights possible.",
+ "summary_of": "cde9e6fd1242",
+ "text": "BOURNEMOUTH CTR, ATZ DEACTIVATED. AD CLSD. NATIONAL POLICE AIR \nSERVICE FLIGHTS MAY TAKE PLACE.",
+ "to": "2026-11-23T01:00Z",
+ "type": "N",
+ "upper": ""
+}
