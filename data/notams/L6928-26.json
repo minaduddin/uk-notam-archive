@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2167,
+  -0.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-22T10:22Z",
+ "from": "2026-11-29T09:00Z",
+ "id": "L6928/26",
+ "loc": [
+  "EGKR"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "0900-1700",
+ "summary": "Aerodrome EGKR unavailable to aircraft needing a licensed aerodrome, as no rescue and firefighting cover is available, 09:00 to 17:00.",
+ "summary_of": "c13fa90edffb",
+ "text": "AD NOT AVBL TO ACFT REQUIRING USE OF A LICENSED AD DUE NO RFFS",
+ "to": "2026-11-30T17:00Z",
+ "type": "N",
+ "upper": ""
+}

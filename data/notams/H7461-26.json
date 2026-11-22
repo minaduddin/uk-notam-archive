@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.9167,
+  -0.9833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-22T10:22Z",
+ "from": "2026-11-29T09:30Z",
+ "id": "H7461/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SUN 0930-1730",
+ "summary": "Large model aircraft flying within an area near Elvington, up to 1,600 ft above sea level, 09:30 to 17:30 on Sundays.",
+ "summary_of": "bf0fda8cd01f",
+ "text": "FLYING OF LARGE MODEL ACFT WI AREA BOUNDED BY \n535536N 0005914W - 535551N 0005806W - 535542N 0005750W - \n535529N 0005810W - 535513N 0005800W - 535500N 0005906W - \n535516N 0005915W - 535534N 0005926W - 535536N 0005914W (ELVINGTON).  \nFOR INFO 07557 513242. AR-2026-10650/01.",
+ "to": "2026-12-20T17:30Z",
+ "type": "N",
+ "upper": "1600FT AMSL"
+}
