@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.45,
+  -3.0333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-23T08:35Z",
+ "from": "2026-11-23T07:40Z",
+ "id": "I8028/26",
+ "loc": [
+  "EGPN"
+ ],
+ "lower": "",
+ "q": "FWAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Wind sleeve (wind direction indicator) for runway 27 at EGPN is not illuminated.",
+ "summary_of": "fd20c063d5fd",
+ "text": "WIND SLEEVE RWY 27 NOT ILLUMINATED",
+ "to": "2026-11-30T17:00Z",
+ "type": "N",
+ "upper": ""
+}

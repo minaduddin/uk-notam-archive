@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.0833,
+  -4.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T08:35Z",
+ "from": "2026-11-30T07:57Z",
+ "id": "H7625/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "MON-FRI SR-SS",
+ "summary": "Drone operations beyond visual line of sight up to 400 feet above ground within 0.4 nautical miles of Chivenor, Monday to Friday, sunrise to sunset.",
+ "summary_of": "b41e8eac7c23",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 0.4NM RADIUS OF \n510515N 0040900W (CHIVENOR). MAX HGT 400FT AGL. FOR INFO \n07577 727681 / 07540 974552. AR-2026-10912/01.",
+ "to": "2026-12-11T16:10Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

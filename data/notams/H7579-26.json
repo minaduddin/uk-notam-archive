@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1333,
+  -2.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T08:35Z",
+ "from": "2026-11-30T07:49Z",
+ "id": "H7579/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Large heavy-lift quadcopter drone activity up to 673 feet above ground within 1 nautical mile of Chicklade, between sunrise and sunset.",
+ "summary_of": "43cc7c21ee89",
+ "text": "UAS OPR WI 1NM RADIUS OF 510803N 0020754W (1.35NM NNW OF\nCHICKLADE). LARGE HEAVY LIFT QUADCOPTER OPR. MAX HGT 673FT AGL.\nFOR INFO 07968 785431. AR-2026-10846/01.",
+ "to": "2026-12-04T16:03Z",
+ "type": "N",
+ "upper": "1500FT AMSL"
+}
