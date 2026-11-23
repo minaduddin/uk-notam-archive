@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T09:54Z",
+ "from": "2026-11-23T08:04Z",
+ "id": "A4703/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "",
+ "q": "FFCG",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Rescue and fire fighting cover at EGSC is downgraded to Category 3.",
+ "summary_of": "a383645928ee",
+ "text": "RFFS DOWNGRADED TO CAT 3",
+ "to": "2026-11-23T12:00Z",
+ "type": "N",
+ "upper": ""
+}

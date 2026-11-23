@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4833,
+  -2.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T09:54Z",
+ "from": "2026-11-30T08:00Z",
+ "id": "A4276/26",
+ "loc": [
+  "EGCC"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 28,
+ "removed": null,
+ "sched": "",
+ "summary": "Manchester air traffic radar is degraded, so final approach spacing is increased and aircraft may be held in the air.",
+ "summary_of": "e3bcc6d2df8f",
+ "text": "MANCHESTER ATC SURVEILLANCE RADAR DEGRADED. INCREASED FINAL APCH \nSPACING IN USE. FLIGHT CREWS SHOULD EXP INCREASED AIR HOLDING AND \nCONSIDER ADDN FUEL UPLIFT AT ORIGIN.",
+ "to": "2026-11-30T16:00Z",
+ "type": "N",
+ "upper": ""
+}

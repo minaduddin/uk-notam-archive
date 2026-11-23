@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.5667,
+  -1.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T09:54Z",
+ "from": "2026-11-25T00:00Z",
+ "id": "N988/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Illuminated crane up to 270 ft above ground near Atherstone, North Warwickshire.",
+ "summary_of": "a45778d23567",
+ "text": "LIT CRANE AT PSN 523425N 0013257W (ATHERSTONE, NORTH \nWARWICKSHIRE) IN LOW FLYING AREA 8 AND NIGHT SECTOR 5F. HGT 270FT \nAGL 600FT AMSL. 26/11/147/LFC",
+ "to": "2027-02-22T23:59Z",
+ "type": "N",
+ "upper": ""
+}

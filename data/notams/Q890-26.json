@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.25,
+  -4.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T09:54Z",
+ "from": "2026-11-23T08:52Z",
+ "id": "Q890/26",
+ "loc": [
+  "EGOV"
+ ],
+ "lower": "",
+ "q": "PILT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Required navigation performance approach procedures for runways 13/31 and 01/19 at EGOV are lateral navigation only.",
+ "summary_of": "755ff8565d7b",
+ "text": "RNP APPROACH PROCEDURES RWY 13/31 AND 01/19 LNAV ONLY",
+ "to": "2026-11-27T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.7,
+  -3.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-23T09:54Z",
+ "from": "2026-11-30T08:00Z",
+ "id": "Q21/26",
+ "loc": [
+  "EGQS"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGQS operating hours revised: Monday to Thursday 0900 to 1900, Friday 0900 to 1800.",
+ "summary_of": "35dc88d01ec8",
+ "text": "AD REVISED OPERATING HOURS:\nMON-THU 0900-1900\nFRI 0900-1800",
+ "to": "2026-12-11T18:00Z",
+ "type": "N",
+ "upper": ""
+}

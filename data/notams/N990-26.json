@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3833,
+  -2.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T09:54Z",
+ "from": "2026-11-30T00:00Z",
+ "id": "N990/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Illuminated crane up to 105 ft above ground in Bath, Bath and North East Somerset.",
+ "summary_of": "3317a3537f03",
+ "text": "LIT CRANE AT PSN 512321N 0022117W (BATH, BATH AND NORTH EAST \nSOMERSET) IN LOW FLYING AREA 2 AND NIGHT ROTARY REGION 2.\nHGT 105FT AGL/205FT AMSL. 26/11/149/LFC",
+ "to": "2027-02-27T23:59Z",
+ "type": "N",
+ "upper": ""
+}
