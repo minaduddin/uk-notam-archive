@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7667,
+  0.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-25T07:31Z",
+ "id": "H7753/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WCLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Kite flying within 1 nautical mile of Seaford Kite Flying Site, Kent, between sunrise and sunset, up to 3,000 ft above ground.",
+ "summary_of": "de6fa708ecd7",
+ "text": "KITE FLYING WI 1NM RADIUS OF 504557N 0000619E (SEAFORD KITE\nFLYING SITE, KENT). MAX HGT 3000FT AGL. FOR INFO 07448 298238.\nAR-2026-11132/01.",
+ "to": "2026-11-25T16:02Z",
+ "type": "N",
+ "upper": "3400FT AMSL"
+}

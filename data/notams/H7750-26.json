@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.0833,
+  -4.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-26T17:00Z",
+ "id": "H7750/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Barnstaple.",
+ "summary_of": "7922dc6ec6db",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 510440N 0040331W (BARNSTAPLE).\nFOR INFO 07936 603830 / 07889 295922. AR-2026-11138/01.",
+ "to": "2026-11-26T21:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

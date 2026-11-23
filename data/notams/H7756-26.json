@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.1667,
+  1.6
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-29T07:37Z",
+ "id": "H7756/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WCLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Kite flying within 1 nautical mile of Aldeburgh Kite Flying Site, Suffolk, between sunrise and sunset, up to 3,000 ft above ground.",
+ "summary_of": "6c227829c599",
+ "text": "KITE FLYING WI 1NM RADIUS OF 520953N 0013626E (ALDEBURGH KITE\nFLYING SITE, SUFFOLK). MAX HGT 3000FT AGL. FOR INFO 07448 298238.\nAR-2026-11133/01.",
+ "to": "2026-11-29T15:47Z",
+ "type": "N",
+ "upper": "3100FT AMSL"
+}

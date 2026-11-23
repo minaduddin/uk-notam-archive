@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-30T08:00Z",
+ "id": "A4715/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Cambridge approach service limited to procedural service only, with radar services not available.",
+ "summary_of": "4191f5200697",
+ "text": "CAMBRIDGE APCH SER LIMITED TO PROCEDURAL SER ONLY. RADAR SERVICES \nNOT AVBL.",
+ "to": "2026-12-04T18:00Z",
+ "type": "N",
+ "upper": ""
+}

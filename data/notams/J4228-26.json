@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.4,
+  -6.1833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-23T14:32Z",
+ "id": "J4228/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCS",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary danger area EGD799B installed within 2 nautical miles of the Isle of Skye, up to 3,500 ft above sea level, for search and rescue operations.",
+ "summary_of": "e3a00c07f961",
+ "text": "TEMPORARY DANGER AREA (TDA) EGD799B INSTALLED WI A 2NM RADIUS \nCIRCLE CENTRED ON PSN 5724N 00611W ISLE OF SKYE. SAR OPS ON, NO \nRESTRICTIONS ON FREQ. TO ENSURE SAFETY AND AVOID INTERFERENCE WITH \nCTL AND SAR ACTIVITIES, PILOTS ARE REQ NOT TO FLY IN OR NEAR THE \nAREA WO PERMISSION OF THE EMERG CONTROLLING AUTHORITY VIA TELE 03443 \n820800. ACTION MAY BE TAKEN TO IMPOSE RESTRICTIONS OF FLYING \nREGULATIONS UNDER ARTICLE 239 OF THE AIR NAVIGATION ORDER 2016. \nATC UNITS CLOSE TO THE INCIDENT AREA ARE REQ TO ADVISE ACFT ON \nTHEIR FREQ OF THE CONTENTS OF THIS NOTAM.",
+ "to": "2026-11-23T17:00Z",
+ "type": "N",
+ "upper": "3500FT AMSL"
+}

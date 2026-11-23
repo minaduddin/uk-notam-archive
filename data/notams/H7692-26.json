@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0667,
+  -1.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-30T15:00Z",
+ "id": "H7692/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1500-2359",
+ "summary": "Laser display within 1 nautical mile of Silverstone, daily from 1500 to 2359.",
+ "summary_of": "d1dd484e9809",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 520421N 0010048W (SILVERSTONE).\nFOR INFO 07907 639031 / 07816 482414 . AR-2026-10788/03.",
+ "to": "2026-12-31T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}

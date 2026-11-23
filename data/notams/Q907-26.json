@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.65,
+  0.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-24T09:00Z",
+ "id": "Q907/26",
+ "loc": [
+  "EGYM"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane operating near RAF Marham, maximum height 7 feet above ground level (83 feet above mean sea level).",
+ "summary_of": "f8d0497e73dd",
+ "text": "CRANE OPR PSN 523833N 0003153E (RAF MARHAM AD) MAX HEIGHT 7FT AGL \n/83FT AMSL",
+ "to": "2026-11-24T13:00Z",
+ "type": "N",
+ "upper": ""
+}

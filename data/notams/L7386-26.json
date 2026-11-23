@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-29T13:00Z",
+ "id": "L7386/26",
+ "loc": [
+  "EGLW"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations within 0.2 nautical miles of Kensington, London, up to 500 ft above sea level and a maximum of 400 ft above ground.",
+ "summary_of": "280704a3fdf6",
+ "text": "UAS OPR WI 0.2NM RADIUS OF 512958N 0000948W (KENSINGTON, LONDON).\nMAX HGT 400FT AGL. FOR INFO 07957 393776. AR-2026-11141/01.",
+ "to": "2026-11-29T19:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

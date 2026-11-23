@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0333,
+  1.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-29T07:37Z",
+ "id": "H7755/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WCLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Kite flying within 1 nautical mile of Felixstowe, Suffolk, between sunrise and sunset, up to 3,000 ft above ground.",
+ "summary_of": "44b3c9330c88",
+ "text": "KITE FLYING WI 1NM RADIUS OF 520159N 0012730E (FELIXSTOWE, \nSUFFOLK). MAX HGT 3000FT AGL. FOR INFO 07448 298238. \nAR-2026-11134/01.",
+ "to": "2026-11-29T15:48Z",
+ "type": "N",
+ "upper": "3100FT AMSL"
+}

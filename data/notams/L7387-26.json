@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.25,
+  -2.8833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-23T15:40Z",
+ "id": "L7387/26",
+ "loc": [
+  "EGBS"
+ ],
+ "lower": "",
+ "q": "LRAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "All runway lights unserviceable at EGBS.",
+ "summary_of": "bf7b74eb82b9",
+ "text": "ALL RWY LIGHTS U/S",
+ "to": "2026-11-30T23:59Z",
+ "type": "N",
+ "upper": ""
+}

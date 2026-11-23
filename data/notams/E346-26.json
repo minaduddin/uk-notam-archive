@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4667,
+  -3.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-25T12:00Z",
+ "id": "E346/26",
+ "loc": [
+  "EGFC"
+ ],
+ "lower": "",
+ "q": "FPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Heliport closed at EGFC.",
+ "summary_of": "72c46550c05c",
+ "text": "HELIPORT CLOSED",
+ "to": "2026-11-26T17:00Z",
+ "type": "N",
+ "upper": ""
+}

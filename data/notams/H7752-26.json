@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1,
+  -1.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-26T17:00Z",
+ "id": "H7752/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "NOV 26-29 1700-2300, DEC 03-06 10-13 17-23 1700-2030",
+ "summary": "Laser display within 1 nautical mile of Newark.",
+ "summary_of": "10a112e4da80",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 530627N 0010348W (NEWARK).  \nFOR INFO 07757 795787. AR-2026-11101/01.",
+ "to": "2026-12-23T20:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

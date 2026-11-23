@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1167,
+  -0.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-25T06:00Z",
+ "id": "H7751/26",
+ "loc": [
+  "EGTD"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations within an area near Dunsfold, up to 700 ft above sea level and a maximum of 400 ft above ground.",
+ "summary_of": "ee6090d8f042",
+ "text": "UAS OPR WI AREA BOUNDED BY:\n510710N 0003213W - 510715N 0003202W - 510718N 0003150W - \n510724N 0003128W - 510710N 0003058W - 510629N 0003200W - \n510649N 0003309W - 510704N 0003254W - 510710N 0003213W (DUNSFOLD). \nMAX HGT 400FT AGL. FOR INFO 07957 393776. AR-2026-11139/01.",
+ "to": "2026-11-25T18:00Z",
+ "type": "N",
+ "upper": "700FT AMSL"
+}

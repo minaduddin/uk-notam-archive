@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8,
+  -2.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-23T14:15Z",
+ "id": "Q902/26",
+ "loc": [
+  "EGOS"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Shawbury radar service reduced beyond 20 nautical miles from RAF Shawbury due to poor radar performance.",
+ "summary_of": "eb955543879b",
+ "text": "SHAWBURY RADAR SER REDUCED OUTSIDE OF 20NM FROM RAF SHAWBURY\nDUE POOR RADAR PERFORMANCE",
+ "to": "2027-02-20T16:00Z",
+ "type": "N",
+ "upper": ""
+}

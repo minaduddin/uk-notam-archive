@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.9667,
+  -2.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-23T14:45Z",
+ "id": "Q906/26",
+ "loc": [
+  "EGDI"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome hours at EGDI are 11:45 to 16:45 and 18:15 to 22:15 on Mondays and Tuesdays, and closed Wednesday to Friday.",
+ "summary_of": "f9151b77f5a6",
+ "text": "AD HOURS OF OPERATION\nMON-TUE 1145-1645 AND 1815-2215\nWED-FRI CLSD",
+ "to": "2026-11-27T23:59Z",
+ "type": "R",
+ "upper": ""
+}

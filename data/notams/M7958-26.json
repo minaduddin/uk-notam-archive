@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9667,
+  0.9167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T16:04Z",
+ "from": "2026-11-24T18:00Z",
+ "id": "M7958/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 77,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary reserved area TRA 003 activated, between 19,500 and 24,500 feet, within 77 nautical miles of EGTT.",
+ "summary_of": "1baddb59866e",
+ "text": "TRA 003 ACTIVATED",
+ "to": "2026-11-24T20:15Z",
+ "type": "N",
+ "upper": "FL245"
+}
