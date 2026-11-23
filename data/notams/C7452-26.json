@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3167,
+  -0.8
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T20:01Z",
+ "from": "2026-11-30T19:00Z",
+ "id": "C7452/26",
+ "loc": [
+  "EGLF"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1900-0700",
+ "summary": "Parachute flares within 0.59 nautical miles of Blackwater, surface to 1,240 ft, between 1900 and 0700 daily.",
+ "summary_of": "f9c5e6a1a571",
+ "text": "ILLUMINANTS WI 0.59NM RADIUS OF 511904N 0004747W (BLACKWATER).\nILLUMINANTS WILL DESCEND BY PARACHUTE. FOR INFO 07484 516900 /\n07350 432476. AR-2026-10814/01.",
+ "to": "2026-12-03T07:00Z",
+ "type": "N",
+ "upper": "1240FT AMSL"
+}

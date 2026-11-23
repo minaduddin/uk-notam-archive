@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.8667,
+  -4.2667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-23T20:01Z",
+ "from": "2026-11-25T22:30Z",
+ "id": "I8043/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "CSAS",
+ "radius": 22,
+ "removed": null,
+ "sched": "",
+ "summary": "Glasgow's secondary surveillance radar is out of service; only primary radar is working.",
+ "summary_of": "a9afc880195a",
+ "text": "GLASGOW SSR U/S. PSR ONLY.",
+ "to": "2026-11-26T05:30Z",
+ "type": "N",
+ "upper": ""
+}
