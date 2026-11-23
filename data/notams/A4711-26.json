@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1,
+  -0.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T14:41Z",
+ "from": "2026-11-25T15:30Z",
+ "id": "A4711/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1530-2330",
+ "summary": "Lasers and searchlights within 1 nautical mile of Turners Hill, daily between 1530 and 2330, reported by Gatwick (EGKK).",
+ "summary_of": "621be2dd4c3c",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 510617N 0000550W (TURNERS \nHILL). FOR INFO 07858 428627 / 07582 889848 / 07582 889848.\nAR-2026-11067/01.",
+ "to": "2026-12-30T23:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

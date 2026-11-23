@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2333,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T14:41Z",
+ "from": "2026-11-23T13:21Z",
+ "id": "Q900/26",
+ "loc": [
+  "EGVO"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Practice diversions unavailable at EGVO.",
+ "summary_of": "a8594fa3fdef",
+ "text": "PRACTICE DIVERSIONS NOT AVBL",
+ "to": "2026-11-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

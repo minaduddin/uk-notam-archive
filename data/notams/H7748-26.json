@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.6167,
+  -3.1333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-23T14:41Z",
+ "from": "2026-11-23T13:30Z",
+ "id": "H7748/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 12,
+ "removed": null,
+ "sched": "23 1330-SS, 24-27 SR-SS",
+ "summary": "Drone operations beyond visual line of sight along a route from Whitefield to Ogil, up to 400 feet above ground.",
+ "summary_of": "3f11f35d4f61",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT UTILISING VISUAL OBSERVERS \n(EXTENDED LINE OF SIGHT) ROUTING:\n562946N 0032312W - 563038N 0032120W - 563315N 0031835W - \n563345N 0031723W - 563449N 0031502W - 563644N 0030901W - \n563914N 0030737W - 564008N 0030553W - 564107N 0030517W - \n564228N 0030129W - 564231N 0025955W - 564246N 0025832W - \n564241N 0025753W - 564354N 0025508W - 564424N 0025332W (WHITEFIELD \nTO OGIL). MAX HGT 400FT AGL. \nFOR INFO 07909 691538 / 07595 346184. AR-2026-11100/01.",
+ "to": "2026-11-27T15:44Z",
+ "type": "N",
+ "upper": "1400FT AMSL"
+}
