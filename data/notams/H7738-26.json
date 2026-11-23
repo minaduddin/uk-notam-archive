@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.2,
+  -0.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-26T10:00Z",
+ "id": "H7738/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity within 0.1 nautical miles of Horncastle, up to 330 feet above ground level.",
+ "summary_of": "3d72e38785ba",
+ "text": "UAS OPR WI 0.1NM RADIUS OF 531216N 0000629W (HORNCASTLE). \nMAX HGT 330FT AGL. FOR INFO 07552 262789. AR-2026-11119/01.",
+ "to": "2026-11-26T13:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

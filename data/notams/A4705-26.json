@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2,
+  0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-30T07:00Z",
+ "id": "A4705/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0700-0800",
+ "summary": "Drone activity within 0.2 nautical miles of Cherry Hinton, up to 165 feet above ground, from 0700 to 0800 daily.",
+ "summary_of": "4925dd060e0c",
+ "text": "UAS OPR WI 0.2NM RADIUS OF PSN 521153N 0000937E (CHERRY HINTON) \nHGT 165FT AGL",
+ "to": "2026-12-06T08:00Z",
+ "type": "N",
+ "upper": "200FT AMSL"
+}

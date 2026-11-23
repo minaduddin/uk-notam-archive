@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-24T09:00Z",
+ "id": "Q893/26",
+ "loc": [
+  "EGDM"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 78 ft above ground near Boscombe Down.",
+ "summary_of": "2b0d3c01ea1b",
+ "text": "CRANE OPR 510921N 0014522W (BOSCOMBE DOWN) \nMAX HGT 428FT AMSL/78FT AGL",
+ "to": "2026-11-24T16:00Z",
+ "type": "N",
+ "upper": ""
+}

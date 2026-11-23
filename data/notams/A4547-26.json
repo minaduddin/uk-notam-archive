@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5,
+  -0.7
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-30T10:00Z",
+ "id": "A4547/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity within 0.15 nautical miles of Bray, up to 329 feet above ground level.",
+ "summary_of": "9b897fbf24c0",
+ "text": "UAS OPR WI 0.15NM RADIUS OF 513028N 0004209W (BRAY). MAX HGT \n329FT AGL. FOR INFO 07846 544408. AR-2026-10737/01.",
+ "to": "2026-11-30T16:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

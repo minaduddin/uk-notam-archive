@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7333,
+  -3.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-23T09:18Z",
+ "id": "C7683/26",
+ "loc": [
+  "EGTE"
+ ],
+ "lower": "",
+ "q": "MULC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Turning loop for runway 08 closed at EGTE; taxiway Alpha remains available.",
+ "summary_of": "90a3033f2f8d",
+ "text": "TURNING LOOP RWY 08 CLSD, TWY ALPHA REMAINS AVBL",
+ "to": "2026-12-31T23:59Z",
+ "type": "N",
+ "upper": ""
+}

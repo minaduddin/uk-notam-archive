@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8833,
+  -3.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-23T08:05Z",
+ "id": "H7735/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WCLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0750-SS",
+ "summary": "Kite flying within one nautical mile of Cleveleys, up to 800 feet above ground, from 0750 until sunset.",
+ "summary_of": "53061746c64c",
+ "text": "KITE FLYING WI 1NM RADIUS OF 535300N 0030250W (CLEVELEYS). \nMAX HGT 800FT AGL. FOR INFO 07907 734146. AR-2026-11075/01.",
+ "to": "2026-11-23T16:03Z",
+ "type": "N",
+ "upper": "1000FT AMSL"
+}

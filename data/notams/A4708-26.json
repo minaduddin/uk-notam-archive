@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8,
+  -0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-23T10:26Z",
+ "id": "A4708/26",
+ "loc": [
+  "EGGW"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 5,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone activity in an area around Little Gaddesden, up to 400 feet above ground, between sunrise and sunset.",
+ "summary_of": "c354c019b8e7",
+ "text": "UAS OPR WI AREA BOUNDED BY:\n515012N 0003835W - 515123N 0003508W - 515115N 0003358W - \n514554N 0002757W - 514504N 0003058W - 514549N 0003515W - \n515012N 0003835W (LITTLE GADDESDEN). MAX HGT 400FT AGL. FOR INFO \n07502 107645. AR-2026-10967/02.",
+ "to": "2026-11-25T16:00Z",
+ "type": "R",
+ "upper": "1300FT AMSL"
+}

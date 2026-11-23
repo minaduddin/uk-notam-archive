@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-23T09:01Z",
+ "id": "Q891/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "MPXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Apron lighting unavailable on hardstands 5 and 8 at EGUN; aircraft parked there need prior coordination.",
+ "summary_of": "81a6d32f9cc8",
+ "text": "APRON LGT NOT AVBL ON HARDSTAND 5 AND 8.  LIGHT-ALL (ACFT GND\nEQPT) COORDINATION REQUIRED VIA TRANSIENT ALERT FOR ACFT PARKED AT \nTHIS LOCATION.",
+ "to": "2026-12-02T23:59Z",
+ "type": "R",
+ "upper": ""
+}

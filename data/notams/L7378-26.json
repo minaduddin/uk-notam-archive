@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.8,
+  -1.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-24T07:00Z",
+ "id": "L7378/26",
+ "loc": [
+  "EGCJ"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 331 ft above ground, within 0.1 nautical miles of Sherburn in Elmet.",
+ "summary_of": "cbb54cace6aa",
+ "text": "TEMPO CRANE OPR WI 0.1NM RADIUS OF 534737.21N 0011204.68W\n(SHERBURN IN ELMET) HGT 358FT AMSL/331FT AGL",
+ "to": "2026-11-24T18:00Z",
+ "type": "N",
+ "upper": ""
+}

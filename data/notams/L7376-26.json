@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.2833,
+  -0.95
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-29T09:00Z",
+ "id": "L7376/26",
+ "loc": [
+  "EGNE"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 02/20 closed at EGNE due to work in progress.",
+ "summary_of": "5ea78da1b7bc",
+ "text": "RWY 02/20 CLSD DUE WIP",
+ "to": "2026-11-29T18:00Z",
+ "type": "N",
+ "upper": ""
+}

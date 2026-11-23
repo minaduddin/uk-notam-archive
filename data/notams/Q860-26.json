@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-30T09:00Z",
+ "id": "Q860/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "0900-1400",
+ "summary": "Aerodrome EGUN closed from 0900 to 1400; only prior-approved flights with operational need or directed missions are permitted.",
+ "summary_of": "c74ea6e5337b",
+ "text": "AD CLOSED. FLT DURING CLOSURE PERIOD MUST BE PRIOR APPROVED ACFT, \nHAVE OPR NECESSITY OR BE HIGHER HEADQUARTERS DIRECTED MISSION AND \nMUST BE APPROVED BY 100 OPR GROUP COMMANDER. EXPECT POTENTIAL \nDELAYS. CTC AD MANAGEMENT AT 238-4130 PRIOR TO CLOSURE DATE FOR \nAPPROVAL/PPR REQ. 0900-1400,",
+ "to": "2026-12-01T14:00Z",
+ "type": "N",
+ "upper": ""
+}

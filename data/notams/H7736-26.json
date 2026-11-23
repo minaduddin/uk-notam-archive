@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.85,
+  0.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-24T13:30Z",
+ "id": "H7736/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Two aircraft conducting hover landings and fast rope training within five nautical miles of Sculthorpe, up to 1,400 feet.",
+ "summary_of": "437f7b06684d",
+ "text": "2 ACFT WILL PERFORM HOVER/LANDINGS AND FAST ROPE TRAINING WI 5NM\nRADIUS OF 525051N 0004546E (SCULTHORPE). ACFT MAY BE UNABLE TO\nCOMPLY WITH RAC. FOR INFO 01638 542073. AR-2026-11088/02.",
+ "to": "2026-11-24T19:30Z",
+ "type": "N",
+ "upper": "1400FT AMSL"
+}

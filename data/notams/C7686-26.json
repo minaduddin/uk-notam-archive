@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-23T10:00Z",
+ "id": "C7686/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "ICAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Instrument landing system for runway 08/26 out of service at EGHH.",
+ "summary_of": "d74e7023ebd1",
+ "text": "ILS RWY 08/26 U/S",
+ "to": "2026-11-23T13:00Z",
+ "type": "N",
+ "upper": ""
+}

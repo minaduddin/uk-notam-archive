@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.9,
+  -4.4167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-23T09:30Z",
+ "id": "I8029/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crane up to 105 feet above ground at Glasgow.",
+ "summary_of": "20e678379160",
+ "text": "MOBILE CRANE OPR PSN 555330N 0042437W (GLASGOW). MAX HGT 105FT \nAGL / 124FT AMSL. JIB WILL BE LOWERED IN LVP. \nCTC HARNAIK CHOLIA 07557 495327.",
+ "to": "2026-11-25T18:00Z",
+ "type": "N",
+ "upper": ""
+}

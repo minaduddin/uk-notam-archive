@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.45,
+  -5.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-23T10:05Z",
+ "id": "C7688/26",
+ "loc": [
+  "EGHQ"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 216 feet above ground at Newquay aerodrome.",
+ "summary_of": "4a9eda710694",
+ "text": "CRANE OPR PSN 502630N 0050040W (NEWQUAY AD) MAX HGT 216FT AGL/\n512FT AMSL",
+ "to": "2026-11-23T16:00Z",
+ "type": "N",
+ "upper": ""
+}

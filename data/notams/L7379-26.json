@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6667,
+  -2.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T11:07Z",
+ "from": "2026-11-23T09:38Z",
+ "id": "L7379/26",
+ "loc": [
+  "EGBP"
+ ],
+ "lower": "",
+ "q": "MRLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Asphalt and grass runway 08/26 at EGBP may be restricted at short notice due to experimental aircraft testing.",
+ "summary_of": "af8782168254",
+ "text": "RWY 08/26 (ASPHALT) AND GRASS RWY 08/26 SUBJECT TO SHORT NOTICE\nRESTRICTIONS DUE TO EXPERIMENTAL ACFT TESTING",
+ "to": "2026-11-23T12:30Z",
+ "type": "N",
+ "upper": ""
+}
