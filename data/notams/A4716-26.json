@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4,
+  -2.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T17:04Z",
+ "from": "2026-11-30T09:00Z",
+ "id": "A4716/26",
+ "loc": [
+  "EGCC"
+ ],
+ "lower": "",
+ "q": "CSAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Manchester secondary surveillance radar unavailable; Clee Hill radar will be in use instead.",
+ "summary_of": "05b28f508806",
+ "text": "MANCHESTER SSR NOT AVBL. CLEE HILL RADAR WILL BE IN USE.",
+ "to": "2026-11-30T17:00Z",
+ "type": "N",
+ "upper": ""
+}

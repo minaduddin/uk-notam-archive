@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8667,
+  -0.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T17:04Z",
+ "from": "2026-11-30T16:00Z",
+ "id": "A3844/26",
+ "loc": [
+  "EGGW"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2200",
+ "summary": "Lasers and searchlights within one nautical mile of Stockwood Park, Luton, between 4pm and 10pm daily.",
+ "summary_of": "7a2d55a12f7c",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 515156N 0002525W (STOCKWOOD\nPARK, LUTON). FOR INFO 07813 578852 / 01582 548600. AR-2026-3301/01.",
+ "to": "2027-01-03T22:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

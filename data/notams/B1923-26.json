@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T17:04Z",
+ "from": "2026-11-27T08:30Z",
+ "id": "B1923/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SELC",
+ "radius": 30,
+ "removed": null,
+ "sched": "",
+ "summary": "Boscombe Down lower airspace radar service closed.",
+ "summary_of": "0ad15b2d6068",
+ "text": "BOSCOMBE DOWN LOWER AIRSPACE RADAR SERVICE CLOSED",
+ "to": "2026-11-27T16:00Z",
+ "type": "N",
+ "upper": ""
+}

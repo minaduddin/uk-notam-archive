@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T17:04Z",
+ "from": "2026-11-23T16:11Z",
+ "id": "Q914/26",
+ "loc": [
+  "EGDM"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGDM closed.",
+ "summary_of": "bde7278694bb",
+ "text": "AD CLSD",
+ "to": "2026-11-23T17:30Z",
+ "type": "N",
+ "upper": ""
+}

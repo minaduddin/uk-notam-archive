@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2833,
+  -0.7
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T17:04Z",
+ "from": "2026-11-30T16:00Z",
+ "id": "C7609/26",
+ "loc": [
+  "EGLF"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "1600-0400",
+ "summary": "Illuminants descending by parachute within 0.32 nautical miles of Mytchett, up to 2,326 feet above sea level, 4pm to 4am daily.",
+ "summary_of": "632b4e591076",
+ "text": "ILLUMINANTS WI 0.32NM RADIUS OF 511717N 0004226W (MYTCHETT). \nILLUMINANTS WILL DESCEND BY PARACHUTE. FOR INFO 07484 516900 /\n07350 432476. AR-2026-10903/01.",
+ "to": "2026-12-03T04:00Z",
+ "type": "N",
+ "upper": "2326FT AMSL"
+}

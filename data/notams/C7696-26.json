@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T17:04Z",
+ "from": "2026-11-23T16:32Z",
+ "id": "C7696/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "MXLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Golf at EGHH available during daylight hours only.",
+ "summary_of": "c2b1b7398e6c",
+ "text": "TWY GOLF AVAILABLE DURING DAYLIGHT HOURS ONLY",
+ "to": "2026-12-31T23:59Z",
+ "type": "N",
+ "upper": ""
+}

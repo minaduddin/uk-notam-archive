@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.95,
+  -1.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T17:04Z",
+ "from": "2026-11-23T16:33Z",
+ "id": "C7695/26",
+ "loc": [
+  "EGHI"
+ ],
+ "lower": "",
+ "q": "FFCH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Rescue and firefighting category changed to 7 at aerodrome EGHI.",
+ "summary_of": "42a6e183055c",
+ "text": "RFFS CHANGED TO CAT 7",
+ "to": "2026-11-23T19:45Z",
+ "type": "N",
+ "upper": ""
+}

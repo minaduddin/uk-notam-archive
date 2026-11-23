@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.3,
+  -3.9
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-23T17:04Z",
+ "from": "2026-11-25T08:14Z",
+ "id": "H7758/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "0814-1714",
+ "summary": "Flare firing within one nautical mile of Ochtermuthill, up to 3,000 feet above sea level, 8.14am to 5.14pm daily.",
+ "summary_of": "f3f2254f9895",
+ "text": "FLARE FIRING WI 1NM RADIUS OF 561811N 0035339W (OCHTERMUTHILL).\nFOR INFO 07900 565814. AR-2026-11143/01.",
+ "to": "2026-12-03T17:14Z",
+ "type": "N",
+ "upper": "3000FT AMSL"
+}
