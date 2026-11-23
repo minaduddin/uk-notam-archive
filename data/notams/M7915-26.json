@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.6667,
+  0.1
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-24T14:15Z",
+ "id": "M7915/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "FL100",
+ "q": "RDCA",
+ "radius": 72,
+ "removed": null,
+ "sched": "",
+ "summary": "Central complex danger areas EGD613A to EGD613D activated at EGPX, 10,000 to 66,000 feet.",
+ "summary_of": "9cb28d96838a",
+ "text": "THE FOLLOWING CENTRAL COMPLEX DANGER AREAS ARE ACTIVATED:\nEGD613A 1415-1545 FL100-FL660\nEGD613A 1745-2015 FL100-FL660\nEGD613B 1415-1545 FL100-FL660\nEGD613B 1745-2015 FL100-FL660\nEGD613C 1415-1545 FL100-FL660\nEGD613C 1745-2015 FL100-FL660\nEGD613D 1415-1545 FL100-FL660\nEGD613D 1745-2015 FL100-FL660",
+ "to": "2026-11-24T20:15Z",
+ "type": "N",
+ "upper": "FL660"
+}

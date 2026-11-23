@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.3667,
+  -1.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-25T20:00Z",
+ "id": "H7741/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations beyond visual line of sight within 1.2 nautical miles of Sheffield, maximum height 400 feet above ground.",
+ "summary_of": "4c764d89d215",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 1.2NM RADIUS OF \n532224N 0012812W (SHEFFIELD). MAX HGT 400FT AGL. \nFOR INFO 02045 743019. AR-2026-11124/01.",
+ "to": "2026-11-26T06:00Z",
+ "type": "N",
+ "upper": "1100FT AMSL"
+}

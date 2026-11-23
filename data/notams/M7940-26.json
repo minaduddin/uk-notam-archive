@@ -1,0 +1,26 @@
+{
+ "coord": [
+  52.9667,
+  0.9167
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-24T09:30Z",
+ "id": "M7940/26",
+ "loc": [
+  "EGPX",
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMXX",
+ "radius": 77,
+ "removed": null,
+ "sched": "",
+ "summary": "Autonomous military operations beyond visual line of sight not permitted in TRA 003, between 19,500 ft and 24,500 ft, near EGPX and EGTT.",
+ "summary_of": "8da9c176e128",
+ "text": "TRA 003 MIL AUTONOMOUS OPS ARE NOT PERMITTED IN ACCORDANCE WITH \nTRA\nBEYOND VISUAL LINE OF SIGHT PROCEDURES.",
+ "to": "2026-11-24T18:00Z",
+ "type": "N",
+ "upper": "FL245"
+}

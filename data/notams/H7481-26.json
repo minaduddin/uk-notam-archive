@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8667,
+  -1.7
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-30T11:00Z",
+ "id": "H7481/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WPLW",
+ "radius": 13,
+ "removed": null,
+ "sched": "NOV 30 1100-1700, DEC 01 1000-1600, 02 1430-2359, 03 1100-1700",
+ "summary": "Drop activity within 12 nautical miles of Little Rissington, surface to 13,000 feet above sea level.",
+ "summary_of": "4b65537aa7be",
+ "text": "PJE WI 12NM RADIUS OF 515146N 0014148W (LITTLE RISSINGTON).\nDROP CONTAINED WI FLW CONE (ALL HGT AMSL):\nSFC-3000FT 3NM RADIUS,\n3001FT-6000FT 6NM RADIUS,\n6001FT-9000FT 9NM RADIUS,\n9001FT-12000FT 12NM RADIUS.\nDROP HGT SUBJ ATC CLR. FOR INFO 07977 834403 / 07974 112143.\nAR-2026-10605/05.",
+ "to": "2026-12-03T17:00Z",
+ "type": "N",
+ "upper": "13000FT AMSL"
+}

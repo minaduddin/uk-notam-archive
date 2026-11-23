@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.45,
+  -3.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-24T08:00Z",
+ "id": "B1921/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SEAU",
+ "radius": 80,
+ "removed": null,
+ "sched": "",
+ "summary": "Plymouth Military lower airspace radar services unavailable, plus special use airspace crossing service from Swanwick Military 0800-1200.",
+ "summary_of": "945e7514f9b1",
+ "text": "PLYMOUTH MILITARY LOWER AIRSPACE RADAR SER EAST AND WEST NOT AVBL\nSPECIAL USE AIRSPACE CROSSING SER FM SWANWICK MIL 0800-1200",
+ "to": "2026-11-24T17:00Z",
+ "type": "N",
+ "upper": ""
+}

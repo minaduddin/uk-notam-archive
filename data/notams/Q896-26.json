@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1667,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-24T09:00Z",
+ "id": "Q896/26",
+ "loc": [
+  "EGDM"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane up to 20 ft high on the main apron at Boscombe Down aerodrome.",
+ "summary_of": "a7b38644589d",
+ "text": "CRANE OPR 510948N 0014509W (MAIN APRON, EAST SIDE OF HANGAR 104, \nBOSCOMBE DOWN AD) MAX HGT 20FT AGL/436FT AMSL",
+ "to": "2026-11-24T12:00Z",
+ "type": "N",
+ "upper": ""
+}

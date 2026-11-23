@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-24T09:00Z",
+ "id": "Q897/26",
+ "loc": [
+  "EGDM"
+ ],
+ "lower": "",
+ "q": "MKLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Parking slots C, D and E closed at EGDM.",
+ "summary_of": "42da668f8d8d",
+ "text": "PARKING SLOTS C, D, AND E CLSD",
+ "to": "2026-11-24T16:00Z",
+ "type": "N",
+ "upper": ""
+}

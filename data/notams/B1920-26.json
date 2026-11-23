@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.45,
+  -3.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-23T11:48Z",
+ "id": "B1920/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SEAU",
+ "radius": 80,
+ "removed": null,
+ "sched": "",
+ "summary": "Plymouth Military lower airspace radar services east and west unavailable.",
+ "summary_of": "5a1474a4864f",
+ "text": "PLYMOUTH MILITARY LOWER AIRSPACE RADAR SER EAST AND WEST NOT AVBL",
+ "to": "2026-11-23T17:00Z",
+ "type": "N",
+ "upper": ""
+}

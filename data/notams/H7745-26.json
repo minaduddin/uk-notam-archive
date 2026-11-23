@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3,
+  0.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-25T07:36Z",
+ "id": "H7745/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone operations within an area near Burwell, Cambridgeshire, daily from sunrise to sunset, maximum height 400 feet above ground.",
+ "summary_of": "4dfbc8a7766f",
+ "text": "UAS OPR WI AREA BOUNDED BY 521838N 0002024E - 521557N 0001751E -\n521637N 0001356E - 521925N 0001609E - 521838N 0002024E (BURWELL,\nCAMBRIDGESHIRE). MAX HGT 400FT AGL. FOR INFO 07502 107645.\nAR-2026-10991/03.",
+ "to": "2026-11-26T15:54Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

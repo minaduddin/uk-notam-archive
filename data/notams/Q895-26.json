@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-23T11:25Z",
+ "id": "Q895/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Practice instrument approaches unavailable at EGUB due to staffing.",
+ "summary_of": "6eb398ae541b",
+ "text": "NO PRACTICE IFR DUE STAFFING",
+ "to": "2026-11-23T17:00Z",
+ "type": "N",
+ "upper": ""
+}

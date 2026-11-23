@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9667,
+  0.9167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-24T18:00Z",
+ "id": "M7941/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 77,
+ "removed": null,
+ "sched": "",
+ "summary": "TRA 003 activated, with autonomous military operations beyond visual line of sight not permitted, between 19,500 ft and 24,500 ft, near EGTT.",
+ "summary_of": "213e9fad32e8",
+ "text": "TRA 003 ACTIVATED\nMIL AUTONOMOUS OPS ARE NOT PERMITTED IN ACCORDANCE WITH TRA BEYOND \nVISUAL LINE OF SIGHT PROCEDURES.",
+ "to": "2026-11-24T22:00Z",
+ "type": "N",
+ "upper": "FL245"
+}

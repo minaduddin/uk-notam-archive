@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9,
+  -2.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-24T08:30Z",
+ "id": "L7380/26",
+ "loc": [
+  "EGBJ"
+ ],
+ "lower": "",
+ "q": "NXAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Gloucestershire radio direction-finding service associated with approach channel 128.555 unavailable.",
+ "summary_of": "9e14ceba7f2e",
+ "text": "GLOUCESTERSHIRE VDF ASSOCIATED WITH APP CH128.555 U/S",
+ "to": "2026-11-24T12:00Z",
+ "type": "N",
+ "upper": ""
+}

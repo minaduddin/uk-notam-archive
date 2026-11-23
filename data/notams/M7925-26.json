@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8,
+  0.6
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T13:16Z",
+ "from": "2026-11-24T12:45Z",
+ "id": "M7925/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL245",
+ "q": "RMCA",
+ "radius": 44,
+ "removed": null,
+ "sched": "",
+ "summary": "East Anglian Military Training Areas, low and high, activated at EGTT, 24,500 to 66,000 feet.",
+ "summary_of": "bea7198e5c69",
+ "text": "THE FOLLOWING EAST ANGLIAN MILITARY TRAINING AREAS ACTIVATED:\nEAMTA (LOW) 1245-1345 FL245-FL285\nEAMTA (HIGH) 1245-1345 FL285-FL660",
+ "to": "2026-11-24T13:45Z",
+ "type": "N",
+ "upper": "FL660"
+}
