@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8833,
+  0.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T18:59Z",
+ "from": "2026-11-24T10:00Z",
+ "id": "A4718/26",
+ "loc": [
+  "EGSS"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Hotel between Link Mike and Link Lima closed for an emergency exercise at EGSS, with Link Lima also closed.",
+ "summary_of": "bb011c07a274",
+ "text": "TWY HOTEL BTN LINK MIKE AND LINK LIMA CLSD FOR EMERGENCY \nEXERCISE. LINK LIMA ALSO CLSD",
+ "to": "2026-11-25T16:00Z",
+ "type": "N",
+ "upper": ""
+}

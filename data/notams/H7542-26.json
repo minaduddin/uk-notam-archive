@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.95,
+  -1.3
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-23T18:59Z",
+ "from": "2026-11-30T17:30Z",
+ "id": "H7542/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1730-2030",
+ "summary": "Searchlight display within 1 nautical mile of a point at Ilkeston, from the ground upwards.",
+ "summary_of": "40277d626a1e",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 525719N 0011800W (ILKESTON).\nFOR INFO 07823 544756. AR-2026-10806/01.",
+ "to": "2027-01-01T20:30Z",
+ "type": "N",
+ "upper": "UNL"
+}
