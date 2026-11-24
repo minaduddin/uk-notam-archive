@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -1.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-30T06:00Z",
+ "id": "Q939/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "0600-0730 1630-1800",
+ "summary": "Aerodrome EGVA closed daily during 0600-0730 and 1630-1800 within a 5 nautical mile radius.",
+ "summary_of": "39e160cb3dd1",
+ "text": "AD CLSD.",
+ "to": "2026-11-30T18:00Z",
+ "type": "N",
+ "upper": ""
+}

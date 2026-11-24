@@ -1,0 +1,26 @@
+{
+ "coord": [
+  55.0167,
+  -3.8667
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-24T10:55Z",
+ "id": "J4242/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RTCS",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary restricted area for drones only at Springholm, within 1 nautical mile and up to 1700 feet above sea level, flying forbidden without police permission.",
+ "summary_of": "9e701b61d1d7",
+ "text": "RESTRICTED AREA (TEMPORARY) INSTALLED FOR UAS ONLY (SPRINGHOLM)\nWI 1NM RADIUS OF 550038N 0035222W. PILOTS ARE FORBIDDEN TO FLY\nUAS WI THE DESIGNATED AREA WITHOUT THE PERMISSION OF POLICE\nSCOTLAND CTC 07989 355901, OR BTN 0800-1600 CTC 07765 749919. \nINCIDENT NUMBER PS-20261122-2269 REFERS. RESTRICTION OF FLYING \nREGULATIONS MADE UNDER ARTICLE 239 OF AIR NAV ORDER 2016. \nAR-2026-11155/01.",
+ "to": "2026-12-01T12:00Z",
+ "type": "N",
+ "upper": "1700FT AMSL"
+}

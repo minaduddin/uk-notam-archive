@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.0333,
+  -1.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-12-01T08:00Z",
+ "id": "I8032/26",
+ "loc": [
+  "EGNT"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "0800-1700",
+ "summary": "Aircraft stand 15 closed at EGNT due to work in progress, from 0800 to 1700 daily.",
+ "summary_of": "8f711001694d",
+ "text": "STAND 15 CLSD DUE WIP.",
+ "to": "2026-12-01T17:00Z",
+ "type": "N",
+ "upper": ""
+}

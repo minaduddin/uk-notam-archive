@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.75,
+  -1.8167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-12-01T08:00Z",
+ "id": "C7706/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-1800",
+ "summary": "Lit crane operating 0800-1800 near Bournemouth Airport, maximum jib height 85 ft above ground.",
+ "summary_of": "b0e6861ef938",
+ "text": "LIT CRANE OPR PSN 504502N 0014857W (150T 3757M FM BOURNEMOUTH AD\nARP) MAX JIB HGT 85FT AGL 102FT AMSL",
+ "to": "2026-12-04T18:00Z",
+ "type": "N",
+ "upper": ""
+}

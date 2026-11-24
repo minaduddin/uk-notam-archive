@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2167,
+  -1.7
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-24T12:34Z",
+ "id": "M7989/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Bulford danger area EGD126 is active, covering airspace from ground level to 3,000 ft within 5 nautical miles of EGTT.",
+ "summary_of": "6b8d7a267744",
+ "text": "THE FOLLOWING BULFORD DANGER AREAS AREAS ARE ACTIVATED:\nEGD126 0600-0730 SFC-FL030\nEGD126 1600-0600 SFC-FL030",
+ "to": "2026-11-25T06:00Z",
+ "type": "R",
+ "upper": "FL030"
+}

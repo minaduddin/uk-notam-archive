@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5833,
+  -5.7167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-24T18:00Z",
+ "id": "I8055/26",
+ "loc": [
+  "EGAC"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 16,
+ "removed": null,
+ "sched": "",
+ "summary": "Belfast City radar may be unavailable due to air traffic control staffing, with Aldergrove radar possibly assisting.",
+ "summary_of": "043354b70d9c",
+ "text": "BELFAST CITY (EGAC) RADAR MAY NOT BE AVBL DUE ATC STAFFING.\nALDERGROVE (EGAA) RADAR MAY PROVIDE ASSISTANCE WITH VECTORING\nON TO THE BELFAST CITY ILS.",
+ "to": "2026-11-24T21:30Z",
+ "type": "N",
+ "upper": ""
+}

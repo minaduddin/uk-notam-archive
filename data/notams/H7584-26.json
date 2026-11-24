@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.0333,
+  -2.9
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-12-01T08:07Z",
+ "id": "H7584/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Unmanned aircraft operating within 0.03 nautical miles of Heysham, up to 200 ft above ground, sunrise to sunset.",
+ "summary_of": "6242099f9893",
+ "text": "UAS OPR WI 0.03NM RADIUS OF 540214N 0025416W (HEYSHAM). MAX HGT\n200FT AGL. FOR INFO 07525 135069. AR-2026-10811/01.",
+ "to": "2026-12-01T15:54Z",
+ "type": "N",
+ "upper": "300FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -2.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-25T09:00Z",
+ "id": "H7763/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unmanned aircraft operating within 0.15 nautical miles of Catcott, up to 400 ft above ground.",
+ "summary_of": "9a6095d6697f",
+ "text": "UAS OPR WI 0.15NM RADIUS OF 510905N 0025051W (CATCOTT). MAX HGT\n400FT AGL. FOR INFO 07706 489876. AR-2026-11152/01.",
+ "to": "2026-11-25T13:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

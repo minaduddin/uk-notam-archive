@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1667,
+  -0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-24T14:30Z",
+ "id": "Q942/26",
+ "loc": [
+  "EGXW"
+ ],
+ "lower": "",
+ "q": "MKLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aircraft parking bays 22, 23, 24 and 25 at EGXW are closed due to construction work.",
+ "summary_of": "3d1a89ee6736",
+ "text": "BAYS 22, 23, 24 AND 25 CLOSED DUE TO CONSTRUCTION WORK.",
+ "to": "2027-02-22T23:59Z",
+ "type": "N",
+ "upper": ""
+}

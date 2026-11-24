@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.0167,
+  -4.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-12-01T08:00Z",
+ "id": "C7318/26",
+ "loc": [
+  "EGNS"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 21,
+ "removed": null,
+ "sched": "01 02 09 17 18 26 0800-0835, 06 07 12 19 20 27 28 1900-1935, 14 \n15 22 23 30 31 0800-0835 1900-1935",
+ "summary": "Isle of Man airspace deactivated and aerodrome closed, with tower and approach services closed at set times on set days.",
+ "summary_of": "6c364e5df7c3",
+ "text": "ISLE OF MAN CTA/CTR/ATZ DEACTIVATED. AD, TWR AND APP CLSD. LAST\nRWY MOVEMENT 15 MINS BEFORE CLOSURE. ALL OTHER TIMES AS PUBLISHED.",
+ "to": "2026-12-31T19:35Z",
+ "type": "N",
+ "upper": ""
+}

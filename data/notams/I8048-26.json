@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.6833,
+  -6.2667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-28T13:40Z",
+ "id": "I8048/26",
+ "loc": [
+  "EGPI"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGPI not available for out-of-hours aircraft movements; normal call-out procedures apply for air ambulance and search and rescue.",
+ "summary_of": "80a9dff22836",
+ "text": "AD NOT AVBL FOR OUT OF HOUR MOVEMENTS, NORMAL CALL OUT PROCEDURES \nFOR AIR AMBULANCE AND SAR",
+ "to": "2026-11-28T17:00Z",
+ "type": "N",
+ "upper": ""
+}

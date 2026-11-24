@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.45,
+  -1.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-12-01T14:00Z",
+ "id": "H7544/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unmanned aircraft operating within 0.2 nautical miles of Rowley's Green, Coventry, up to 500 ft above ground.",
+ "summary_of": "2a3645cda288",
+ "text": "UAS OPR WI 0.2NM RADIUS OF 522702N 0012940W (ROWLEY'S GREEN, \nCOVENTRY). MAX HGT 500FT AGL. FOR INFO 01992 924779. \nAR-2026-10714/01.",
+ "to": "2026-12-01T23:30Z",
+ "type": "N",
+ "upper": "900FT AMSL"
+}

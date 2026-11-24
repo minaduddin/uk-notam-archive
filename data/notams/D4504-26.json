@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.6833,
+  -3.35
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-12-01T10:00Z",
+ "id": "D4504/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Woodbury Common danger area EGD061 activated, from surface to 1500 ft above sea level.",
+ "summary_of": "2543703e3f77",
+ "text": "DANGER AREA EGD061 WOODBURY COMMON ACTIVATED",
+ "to": "2026-12-01T15:00Z",
+ "type": "N",
+ "upper": "1500FT AMSL"
+}

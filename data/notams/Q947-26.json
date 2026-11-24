@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-24T15:00Z",
+ "id": "Q947/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Correction to flight publications: protective aircraft shelters 20 and 36 at EGUL are open for aircraft operations.",
+ "summary_of": "5d47dfdb07ce",
+ "text": "CORRECTION TO AREA PLANNING 2 FLIGHT PUBLICATIONS: PROTECTIVE \nACFT SHELTER (PAS) 20 AND 36 ARE OPEN FOR ACFT OPR.",
+ "to": "2026-12-17T22:00Z",
+ "type": "R",
+ "upper": ""
+}

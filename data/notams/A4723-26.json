@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9333,
+  -0.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-25T07:37Z",
+ "id": "A4723/26",
+ "loc": [
+  "EGGW"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Large model aircraft flying within an area near Hitchin, from surface to 1200 ft above sea level, sunrise to sunset.",
+ "summary_of": "e5a233db918a",
+ "text": "FLYING OF LARGE MODEL ACFT WI AREA BOUNDED BY 515538N 0001948W -\n515548N 0001959W - 515609N 0001856W - 515526N 0001822W - \n515508N 0001920W - 515538N 0001948W (HITCHIN). FOR INFO 07777 \n646685. AR-2026-11076/01.",
+ "to": "2027-02-22T17:28Z",
+ "type": "N",
+ "upper": "1200FT AMSL"
+}

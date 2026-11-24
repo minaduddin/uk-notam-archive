@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.85,
+  -0.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-12-01T08:30Z",
+ "id": "L7229/26",
+ "loc": [
+  "EGHR"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0830-1630",
+ "summary": "Crane operating up to 111 feet above ground level, 891 metres from Goodwood aerodrome, between 0830 and 1630.",
+ "summary_of": "3f41fee37629",
+ "text": "CRANE OPR AT PSN 505107N 0004549W (200DEG MAG, 891M FM GOODWOOD\nARP), MAX HGT 111FT AGL, 173FT AMSL",
+ "to": "2027-03-01T16:30Z",
+ "type": "N",
+ "upper": ""
+}

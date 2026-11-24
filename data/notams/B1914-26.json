@@ -1,0 +1,26 @@
+{
+ "coord": [
+  54.5333,
+  -5.05
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-12-01T14:00Z",
+ "id": "B1914/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "CACF",
+ "radius": 56,
+ "removed": null,
+ "sched": "",
+ "summary": "Scottish Flight Information Service frequency 123.775 MHz unavailable for maintenance; pilots required to use 125.950 MHz instead.",
+ "summary_of": "3ce6356ea51e",
+ "text": "SCOTTISH FIS FREQ 123.775MHZ (AREA G) NOT AVBL DUE MAINT. PILOTS \nARE REQ TO USE ALTN FREQ 125.950MHZ",
+ "to": "2026-12-01T15:00Z",
+ "type": "N",
+ "upper": ""
+}

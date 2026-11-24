@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4667,
+  -2.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-24T09:00Z",
+ "id": "L7392/26",
+ "loc": [
+  "EGCB"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Bravo closed between B1 and B4 at EGCB due to surface conditions.",
+ "summary_of": "fc5e5a779cd4",
+ "text": "TWY BRAVO CLSD BTN B1-B4 DUE SFC COND",
+ "to": "2026-11-24T16:00Z",
+ "type": "N",
+ "upper": ""
+}

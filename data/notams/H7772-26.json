@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.3833,
+  -4.5833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-26T08:00Z",
+ "id": "H7772/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "0800-2000",
+ "summary": "Underslung load operations along a route near Crianlarich, Scotland, with a maximum height of 500 ft above ground level.",
+ "summary_of": "5d51b6ec7679",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI\n2NM EITHER SIDE OF TRACK AND 2NM RADIUS BTN PSN 562229N 0043539W -\n562323N 0043420W (CRIANLARICH, SCOTLAND) LOW FLYING AREA 14 AND \nNIGHT SECTOR 1A. MAX HGT 500FT AGL. ACFT MAY BE RESTRICTED \nIN ABILITY TO MANOEUVRE AND UNABLE TO COMPLY WITH RAC. \nOPS CTC 01667 464404. 26/11/156/LFC",
+ "to": "2026-11-27T20:00Z",
+ "type": "N",
+ "upper": "4300FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.9333,
+  -2.9167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-25T08:00Z",
+ "id": "H7762/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 4,
+ "removed": null,
+ "sched": "",
+ "summary": "Civil aircraft underslung load operations near the Orkney Islands, Scotland, up to 500 ft above ground.",
+ "summary_of": "54c9315bdaf5",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE -\nUNDERSLUNG LOADS OPR WI 2NM EITHER SIDE OF TRACK AND 2NM RADIUS \nBTN PSN 585548N 0025424W - 585702N 0025516W (ORKNEY ISLANDS, \nSCOTLAND) LOW FLYING AREA 14 MAX HGT 500FT AGL. ACFT MAY BE \nRESTRICTED IN ABILITY TO MANOEUVRE AND UNABLE TO COMPLY WITH RAC. \nOPS CTC 01667464404. 26/11/153/LFC",
+ "to": "2026-11-25T20:00Z",
+ "type": "N",
+ "upper": "800FT AMSL"
+}

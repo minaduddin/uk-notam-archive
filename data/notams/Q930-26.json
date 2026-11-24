@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.35,
+  -2.8
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-28T20:00Z",
+ "id": "Q930/26",
+ "loc": [
+  "EGQL"
+ ],
+ "lower": "SFC",
+ "q": "WZLW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Fireworks display near St Andrews, with restricted airspace from ground level to 900 ft within half a nautical mile.",
+ "summary_of": "018680e4689c",
+ "text": "FIREWORKS WI 0.5NM RADIUS OF 562046N 0024818W (ST. ANDREWS). FOR \nINFO 07763 638313 / 07900 438939. AR-2026-10434/01.",
+ "to": "2026-11-28T21:00Z",
+ "type": "N",
+ "upper": "900FT AMSL"
+}

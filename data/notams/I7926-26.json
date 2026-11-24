@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5167,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-12-01T11:30Z",
+ "id": "I7926/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 12/30 closed at aerodrome EGPK.",
+ "summary_of": "f25064a23f13",
+ "text": "RWY 12/30 CLOSED",
+ "to": "2026-12-01T13:30Z",
+ "type": "N",
+ "upper": ""
+}

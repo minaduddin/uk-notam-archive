@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.9,
+  -2.2
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-12-01T10:00Z",
+ "id": "B1838/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "NVAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Saint Abbs VOR/DME navigation aid partly out of service.",
+ "summary_of": "13bf36d06ebe",
+ "text": "VOR/DME SAB/SAINT ABBS 112.50MHZ CH072X VOR PART U/S",
+ "to": "2026-12-01T14:00Z",
+ "type": "N",
+ "upper": ""
+}

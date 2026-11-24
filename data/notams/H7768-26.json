@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.4333,
+  -0.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-26T08:30Z",
+ "id": "H7768/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WELW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Military aircraft high energy manoeuvres within 5 nautical miles of Glaisdale, up to 20000 ft above sea level.",
+ "summary_of": "a73eb5fd220d",
+ "text": "3 MIL ACFT WILL CONDUCT HIGH ENERGY MANOEUVRES IN SUPPORT OF EXER \nWI 5NM RADIUS OF 542625N 0005101W (GLAISDALE). ACFT MAY OPR AT \nSPEEDS UP TO 450KT IAS AND MAY BE UNABLE TO COMPLY WITH RAC. AIC \nY007/2023 REFERS. OPS CTC ON CH127.185 OR 277.350MHZ FOR INFO 07517 \n258611. \nAR-2026-10148/03.",
+ "to": "2026-11-26T22:00Z",
+ "type": "N",
+ "upper": "20000FT AMSL"
+}

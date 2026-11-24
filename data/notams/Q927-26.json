@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-25T08:00Z",
+ "id": "Q927/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Flying is banned at aerodrome EGVN while maintenance work takes place on runway 07/25 and a nearby taxiway.",
+ "summary_of": "0763378b714c",
+ "text": "FLYING EMBARGO DUE MAINT ON RWY 07/25 AND SURROUNDING TWY",
+ "to": "2026-11-25T15:00Z",
+ "type": "N",
+ "upper": ""
+}

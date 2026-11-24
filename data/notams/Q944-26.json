@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1667,
+  -0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-24T14:30Z",
+ "id": "Q944/26",
+ "loc": [
+  "EGXW"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Delta taxiway at EGXW is closed from the runway 02 hold bar to Foxtrot taxiway due to construction work.",
+ "summary_of": "90afaee82838",
+ "text": "DELTA TWY CLOSED FROM 02 HOLD BAR TO FOXTROT DUE TO CONSTRUCTION \nWORK.",
+ "to": "2027-02-22T23:59Z",
+ "type": "N",
+ "upper": ""
+}

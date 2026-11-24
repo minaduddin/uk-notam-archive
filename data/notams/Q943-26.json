@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1667,
+  -0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-24T14:30Z",
+ "id": "Q943/26",
+ "loc": [
+  "EGXW"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Echo taxiway at EGXW is closed due to construction work.",
+ "summary_of": "06c59e02a4c5",
+ "text": "ECHO TAXIWAY CLOSED DUE TO CONSTRUCTION WORK.",
+ "to": "2027-02-22T23:59Z",
+ "type": "N",
+ "upper": ""
+}

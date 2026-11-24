@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.65,
+  0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-24T10:18Z",
+ "id": "Q929/26",
+ "loc": [
+  "EGYM"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Marham aerodrome has set operating hours that change day by day, and it is closed on some days.",
+ "summary_of": "d38f24e589f6",
+ "text": "MARHAM AD OPR HOURS\n24 1018-1730\n25 0800-1900\n26 0900-1730\n27 0845-1545\n28 CLOSED\n29 CLOSED",
+ "to": "2026-11-29T23:59Z",
+ "type": "R",
+ "upper": ""
+}

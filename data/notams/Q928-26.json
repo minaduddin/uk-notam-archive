@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T15:43Z",
+ "from": "2026-11-24T09:33Z",
+ "id": "Q928/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MKLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Protective aircraft shelter 22 is closed at aerodrome EGUL.",
+ "summary_of": "a23f8aa37230",
+ "text": "PROTECTIVE AIRCRAFT SHELTER (PAS) 22 CLSD",
+ "to": "2026-12-31T12:00Z",
+ "type": "R",
+ "upper": ""
+}
