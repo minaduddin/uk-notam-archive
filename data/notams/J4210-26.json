@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.9667,
+  1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T04:41Z",
+ "from": "2026-12-01T00:00Z",
+ "id": "J4210/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 13,
+ "removed": null,
+ "sched": "0000-1700",
+ "summary": "Temporary danger area EGD098D at EGTT, activated for drone flights beyond visual line of sight; ground level to 1500 feet, 13 nautical miles radius, 0000-1700.",
+ "summary_of": "d5fac4a7ffb3",
+ "text": "TEMPO DANGER AREA (TDA) EGD098D ACTIVATED. AIP SUP 109/2026\nREFERS. BEYOND VISUAL LINE OF SIGHT UAS OPS CONTAINED WHOLLY WI\nTHE TDA. A SPECIAL USE AIRSPACE ACTIVITY INFORMATION SERVICE\n(SUAAIS) WILL BE AVBL FM EITHER LONDON INFO ON FREQ 124.600MHZ\n(OPR H24) OR FM LYDD ATC ON CH 120.705 LYDD APPROACH DURING THE\nHR OF WATCH. AR-2023-11556/91.",
+ "to": "2026-12-31T17:00Z",
+ "type": "N",
+ "upper": "1500FT AMSL"
+}

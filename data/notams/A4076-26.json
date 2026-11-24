@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T04:41Z",
+ "from": "2026-12-01T00:00Z",
+ "id": "A4076/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "SATT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Change to the automatic terminal information service frequency at London Gatwick Airport, EGKK.",
+ "summary_of": "3fcbc948cfe6",
+ "text": "TRIGGER NOTAM - AIP SUP 117/2026 WEF 01 DEC 2026. LONDON GATWICK \nAIRPORT (EGKK) - CHANGE TO ATIS FREQUENCY",
+ "to": "2026-12-14T23:59Z",
+ "type": "N",
+ "upper": ""
+}

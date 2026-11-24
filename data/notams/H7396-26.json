@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -2.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T04:41Z",
+ "from": "2026-12-01T00:01Z",
+ "id": "H7396/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WMLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Flare firing within 1 nautical mile of Caerwent, from ground level to 2500 feet above mean sea level, with flares descending by parachute.",
+ "summary_of": "88ba172c7a9d",
+ "text": "FLARE FIRING WI 1NM RADIUS OF 513708N 0024553W (CAERWENT). FLARES\nWILL DESCEND BY PARACHUTE. FOR INFO 01874 635599.\nAR-2026-10008/03.",
+ "to": "2026-12-02T23:59Z",
+ "type": "N",
+ "upper": "2500FT AMSL"
+}

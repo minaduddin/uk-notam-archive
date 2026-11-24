@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-24T04:41Z",
+ "from": "2026-11-30T22:30Z",
+ "id": "A4350/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Lit crane operating near Hounslow, up to 39 feet above ground and 123 feet above mean sea level, only when runway 09R/27L is closed.",
+ "summary_of": "373c422195a5",
+ "text": "LIT CRANE OPR PSN 512847N 0002842W (HOUNSLOW). MAX HGT 39FT AGL, \n123FT AMSL. CRANE WILL ONLY OPERATE WHEN 09R/27L IS CLSD. NO CRANE\nOPR IN LVP REF 2026102944.",
+ "to": "2026-12-11T04:30Z",
+ "type": "N",
+ "upper": ""
+}
