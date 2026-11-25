@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.05,
+  -2.55
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-30T00:00Z",
+ "id": "H7777/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "ROXX",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Radio transmission area of high intensity within 0.5 nautical miles of Kingwater, Cumberland, up to 2,277 feet above ground.",
+ "summary_of": "c77812c6add7",
+ "text": "D BAND HIGH INTENSITY RADIO TRANSMISSION AREA (HIRTA) OPR WI \n0.5NM OF PSN 550309N 0023323W,(KINGWATER, CUMBERLAND) LOW FLYING \nAREA 13 AND NIGHT SECTOR SPADEADAM RANGE OPERATOR AREA. MAX HGT \n2277FT AGL. 26/11/159/LFC\nSAFE DISTANCES\nCIVILIAN ACFT                   0.1687 NM       702FT AGL\nMIL ACFT SUSCEPTIBILITY \nVERY LOW                        0.0914 NM       232FT AGL\nLOW                             0.1722 NM       723FT AGL\nMEDIUM                          0.2409 NM       1141FT AGL\nHIGH                            0.4279 NM       2277FT AGL",
+ "to": "2026-12-31T23:59Z",
+ "type": "N",
+ "upper": "3287FT AMSL"
+}

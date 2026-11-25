@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-26T07:30Z",
+ "id": "Q948/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Alpha East closed at EGUN for ongoing work, with illuminated low-profile barricades in place.",
+ "summary_of": "9eafc85d3e20",
+ "text": "TWY ALPHA EAST CLSD DUE WIP. ILLUMINATED LOW-PROFILE BARRICADES \nSITED.",
+ "to": "2026-11-30T09:00Z",
+ "type": "N",
+ "upper": ""
+}

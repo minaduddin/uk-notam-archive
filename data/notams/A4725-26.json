@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5167,
+  -0.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-24T16:08Z",
+ "id": "A4725/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Obstacle light unserviceable on a structure near Paddington, London, 459 feet high.",
+ "summary_of": "1c3fc4c1bcb8",
+ "text": "REPORT OF AIR NAV OBST LGT U/S AT PSN: 513113N 0001020W \n(PADDINGTON, LONDON). HGT 459FT AGL / 600FT AMSL. AR-2026-11169/01.",
+ "to": "2026-11-26T16:00Z",
+ "type": "N",
+ "upper": ""
+}

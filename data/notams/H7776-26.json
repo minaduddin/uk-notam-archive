@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9,
+  -3.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-25T07:00Z",
+ "id": "H7776/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Multiple paragliders operating within 2 nautical miles of Pandy, Monmouthshire, up to 2,000 feet above ground.",
+ "summary_of": "5e31dcb14c01",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 515418N 0025934W (PANDY, MONMOUTHSHIRE). LOW \nFLYING AREA 7. 2000FT AGL. CTC 07553 209626. 26/11/158/LFC",
+ "to": "2026-11-25T16:30Z",
+ "type": "N",
+ "upper": "3900FT AMSL"
+}

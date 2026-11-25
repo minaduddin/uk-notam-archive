@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  -2.2667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-12-01T17:00Z",
+ "id": "H7413/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1700-2100",
+ "summary": "Searchlight display within 1 nautical mile of Kidderminster, daily 1700-2100.",
+ "summary_of": "582c68b623a6",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 522220N 0021551W\n(KIDDERMINSTER).  FOR INFO 07470 008499. AR-2026-10596/01.",
+ "to": "2026-12-25T21:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

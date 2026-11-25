@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-24T18:03Z",
+ "id": "Q955/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MKLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Protective aircraft shelter 22 at EGUL restricted to towing only.",
+ "summary_of": "24a9be5ef095",
+ "text": "PROTECTIVE AIRCRAFT SHELTER (PAS) 22 RESTRICTED TO TOW ONLY",
+ "to": "2026-12-31T12:00Z",
+ "type": "R",
+ "upper": ""
+}

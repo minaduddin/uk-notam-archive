@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-24T18:17Z",
+ "id": "I8059/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Training circuits and sorties lasting less than 30 minutes are not permitted at EGAA.",
+ "summary_of": "f210761b9eed",
+ "text": "NO TRAINING CIRCUITS OR TRAINING SORTIES WITH DURATION LESS THAN \n30 MIN PERMITTED",
+ "to": "2026-12-18T23:59Z",
+ "type": "N",
+ "upper": ""
+}

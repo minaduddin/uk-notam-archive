@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-12-01T21:30Z",
+ "id": "A3967/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "NVXX",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Navigation beacon near EGLL may show bearing fluctuations between 155 and 195 degrees due to a nearby crane.",
+ "summary_of": "0035c9490aa2",
+ "text": "VOR/DME LON/LONDON 113.6MHZ CH083X VOR PART MAY OBSERVE BEARING \nFLUC WITHIN THE 155-195 DEG. MAG. SECTOR RADIALS DUE CRANE IN THE VCY",
+ "to": "2026-12-14T05:30Z",
+ "type": "N",
+ "upper": ""
+}

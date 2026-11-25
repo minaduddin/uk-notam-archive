@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-24T18:29Z",
+ "id": "I8061/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Alpha closed at EGAA due to work in progress.",
+ "summary_of": "1d7a52e71786",
+ "text": "TWY ALPHA CLSD DUE WIP",
+ "to": "2026-11-26T17:00Z",
+ "type": "N",
+ "upper": ""
+}

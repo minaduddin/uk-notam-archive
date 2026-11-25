@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-26T17:00Z",
+ "id": "I8062/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Alpha closed between taxiways A3 and A1 at EGAA for ongoing work.",
+ "summary_of": "1aa57f929b42",
+ "text": "TWY ALPHA CLSD BTN A3 AND A1 DUE WIP",
+ "to": "2026-12-18T17:00Z",
+ "type": "N",
+ "upper": ""
+}

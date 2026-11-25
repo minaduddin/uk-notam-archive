@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-26T17:01Z",
+ "id": "I8064/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MNLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "General aviation apron closed at EGAA.",
+ "summary_of": "4d5ee2befb63",
+ "text": "GENERAL AVIATION APRON CLSD",
+ "to": "2026-12-18T17:00Z",
+ "type": "N",
+ "upper": ""
+}

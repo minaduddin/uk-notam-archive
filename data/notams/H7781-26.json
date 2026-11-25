@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.8333,
+  -3.9667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-30T00:00Z",
+ "id": "H7781/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "ROXX",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Radio transmission area of high intensity within 0.5 nautical miles of Dornoch, Highland, up to 2,310 feet above ground.",
+ "summary_of": "cab192d81bd7",
+ "text": "E BAND HIGH INTENSITY RADIO TRANSMISSION AREA (HIRTA) OPR WI \n0.5NM OF PSN 575017N 0035748W,(DORNOCH, HIGHLAND) LOW FLYING 14 AREA \nAND NIGHT SECTOR 1BE. MAX HGT 2310FT AGL. 26/11/163/LFC\nSAFE DISTANCES\nCIVILIAN ACFT                   0.4038NM       2302FT AGL\nMIL ACFT SUSCEPTIBILITY \nVERY LOW                        0.0486NM       143FT AGL\nLOW                             0.0954NM       427FT AGL\nMEDIUM                          0.1351NM       668FT AGL\nHIGH                            0.2432NM       1325FT AGL\nPULSE LOW                       0.1212NM       584FT AGL",
+ "to": "2026-12-11T23:59Z",
+ "type": "N",
+ "upper": "2330FT AMSL"
+}

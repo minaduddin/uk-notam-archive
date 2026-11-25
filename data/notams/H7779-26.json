@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.85,
+  -0.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-24T22:00Z",
+ "id": "H7779/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "ROXX",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Radio transmission area of high intensity within 1 nautical mile of Mappleton, East Riding of Yorkshire, up to 2,310 feet above ground.",
+ "summary_of": "a9c6da155090",
+ "text": "E BAND HIGH INTENSITY RADIO TRANSMISSION AREA (HIRTA) OPR WI 1NM \nOF PSN 535112N 0000645W (MAPPLETON, EAST RIDING OF YORKSHIRE) LOW\nFLYING AREA 11 AND NIGHT SECTOR 4BE. \nMAX HGT 2310FT AGL. 26/11/161/LFC\n \nSAFE DISTANCES\nCIVILIAN ACFT                   1.0933 NM       2302 FT AGL\nMIL ACFT SUSCEPTIBILITY \nVERY LOW                        0.7381 NM       143 FT AGL\nLOW                             0.7849 NM       427 FT AGL\nMEDIUM                          0.8246 NM       668 FT AGL\nHIGH                            0.9327 NM       1325 FT AGL\nPULSE LOW                       0.8107 NM       584 FT AGL\nPULSE MEDIUM                    0.9050 NM       1157 FT AGL\nPULSE HIGH                      1.0934 NM       2302 FT AGL",
+ "to": "2026-12-03T23:59Z",
+ "type": "N",
+ "upper": "2370FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-30T12:00Z",
+ "id": "Q959/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "30 NOV 1200-1300, 04 DEC 1200-1300",
+ "summary": "No fixed-wing flying at EGUB during two one-hour periods in late November and early December.",
+ "summary_of": "0cefdd9f5b3f",
+ "text": "NO FIXED WING FLYING.",
+ "to": "2026-12-04T13:00Z",
+ "type": "N",
+ "upper": ""
+}

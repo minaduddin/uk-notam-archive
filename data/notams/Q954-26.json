@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-24T17:09Z",
+ "id": "Q954/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MXLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxitrack Sierra limited to daytime use only at the southeast arm/de-arm pad, point 4, at EGUL, as all taxiway lights are unserviceable.",
+ "summary_of": "56c9474af08d",
+ "text": "TAXITRAK SIERRA LTD TO DAYTIME USE ONLY AT SOUTHEAST ARM/DEARM \nPAD (POINT4) DUE ALL TWY LIGHTS U/S.",
+ "to": "2026-12-31T23:59Z",
+ "type": "R",
+ "upper": ""
+}

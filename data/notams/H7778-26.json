@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5167,
+  -1.6667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-25T00:00Z",
+ "id": "H7778/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "ROXX",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Radio transmission area of high intensity within 0.5 nautical miles of Newton-by-the-Sea, Northumberland, up to 200 feet above ground.",
+ "summary_of": "838528e40b3f",
+ "text": "E BAND HIGH INTENSITY RADIO TRANSMISSION AREA (HIRTA) OPR WI \n0.5NM OF PSN 553117N 0014017W, (NEWTON-BY-THE-SEA, NORTHUMBERLAND) \nLOW FLYING AREA 12 AND NIGHT SECTOR 4AN. MAX HGT 200FT AGL. \n26/11/160/LFC\nSAFE DISTANCES\nCIVILIAN ACFT                   0.1040 NM       61FT AGL\nMIL ACFT SUSCEPTIBILITY \nVERY LOW                        0.0917 NM       43FT AGL\nLOW                             0.1173 NM       80FT AGL\nMEDIUM                          0.1390 NM       111FT AGL\nHIGH                            0.1981 NM       195FT AGL\nPULSE LOW                       0.0799 NM       26FT AGL",
+ "to": "2026-12-20T23:59Z",
+ "type": "N",
+ "upper": "340FT AMSL"
+}

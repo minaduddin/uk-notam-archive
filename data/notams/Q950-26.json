@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T00:34Z",
+ "from": "2026-11-24T16:20Z",
+ "id": "Q950/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Foxtrot closed at EGUL.",
+ "summary_of": "533ad035bf51",
+ "text": "TWY FOXTROT CLSD",
+ "to": "2027-02-24T22:00Z",
+ "type": "N",
+ "upper": ""
+}
