@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5167,
+  -0.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-12-02T12:00Z",
+ "id": "L6675/26",
+ "loc": [
+  "EGLW"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Searchlight display within 1 nautical mile of Grosvenor Square Gardens, Mayfair.",
+ "summary_of": "c66669de968a",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 513041N 0000911W (GROVESNOR\nSQUARE GARDENS, MAYFAIR). FOR INFO 07586 590789. AR-2026-10158/01.",
+ "to": "2026-12-02T23:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

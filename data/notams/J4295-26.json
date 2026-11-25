@@ -1,0 +1,26 @@
+{
+ "coord": [
+  54.4667,
+  -0.55
+ ],
+ "est": false,
+ "fir": "EGXX",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T18:15Z",
+ "id": "J4295/26",
+ "loc": [
+  "EGTT",
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "RDCS",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary danger area EGD499C near Whitby for search and rescue operations, up to 2,500 feet above sea level, 3 nautical miles radius.",
+ "summary_of": "77a59e513278",
+ "text": "TEMPORARY DANGER AREA (TDA) EGD499C INSTALLED WI A 3NM RADIUS \nCIRCLE CENTRED ON 5428N 00033W PSN WHITBY. SAR OPS ON, NO \nRESTRICTIONS ON FREQUENCY. TO ENSURE SAFETY AND AVOID INTERFERENCE \nWITH CTL AND SAR ACTIVITIES, PILOTS ARE REQ NOT TO FLY IN OR NEAR \nTHE AREA WO PERMISSION OF THE EMERG CONTROLLING AUTHORITY VIA TELE \n03443 820800. ACTION MAY BE TAKEN TO IMPOSE RESTRICTIONS OF FLYING \nREGULATIONS UNDER ARTICLE 239 OF THE AIR NAVIGATION ORDER 2016. \nATC UNITS CLOSE TO THE INCIDENT AREA ARE REQ TO ADVISE ACFT ON \nTHEIR FREQ OF THE CONTENTS OF THIS NOTAM.",
+ "to": "2026-11-25T21:35Z",
+ "type": "N",
+ "upper": "2500FT AMSL"
+}

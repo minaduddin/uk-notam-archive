@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.7667,
+  -3.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-30T20:00Z",
+ "id": "C7732/26",
+ "loc": [
+  "EGNH"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome at EGNH open for pre-arranged movements only.",
+ "summary_of": "231fe205341a",
+ "text": "AD OPEN FOR PRE ARRANGED MOVEMENT ONLY.",
+ "to": "2026-11-30T21:00Z",
+ "type": "N",
+ "upper": ""
+}

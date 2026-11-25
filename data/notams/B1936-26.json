@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8333,
+  -1.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T14:15Z",
+ "id": "B1936/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SEAU",
+ "radius": 30,
+ "removed": null,
+ "sched": "",
+ "summary": "East Midlands lower airspace radar service unavailable due to staff shortages; aircraft asked to route clear of East Midlands controlled airspace.",
+ "summary_of": "0427414336f5",
+ "text": "EAST MIDLANDS LOWER AIRSPACE RADAR SERVICE NOT AVBL DUE STAFF\nSHORTAGES. ACFT ARE REQUESTED TO ROUTE CLEAR OF EAST MIDLANDS\nCONTROLLED AIRSPACE",
+ "to": "2026-11-25T22:00Z",
+ "type": "N",
+ "upper": ""
+}

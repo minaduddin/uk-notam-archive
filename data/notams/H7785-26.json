@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0833,
+  -2.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-26T07:48Z",
+ "id": "H7785/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Multiple paragliders operating within 2 nautical miles of Pinnacle Hill, Herefordshire, during daylight, up to 2,000 feet above ground level.",
+ "summary_of": "193e245d83e7",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 520436N 0022023W (PINNACLE HILL, HEREFORDSHIRE) \nLOW FLYING AREA 4. 2000FT AGL. CTC 07710 043970. 26/11/166/LFC",
+ "to": "2026-11-26T16:05Z",
+ "type": "N",
+ "upper": "3300FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T09:53Z",
+ "id": "Q971/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "0600-1700",
+ "summary": "Parking slots 11 to 14 closed at EGUB for work in progress, 06:00 to 17:00 daily.",
+ "summary_of": "3e2fd9e13680",
+ "text": "PARKING SLOTS 11-14 CLSD DUE WIP",
+ "to": "2026-12-09T17:00Z",
+ "type": "N",
+ "upper": ""
+}

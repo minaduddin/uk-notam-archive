@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.4833,
+  -4.55
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-28T22:00Z",
+ "id": "I8083/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 16,
+ "removed": null,
+ "sched": "",
+ "summary": "Prestwick radar operating at reduced flow rate due to a single air traffic controller, so aircraft planning Prestwick as an alternate airport could face delays.",
+ "summary_of": "ce8612190da0",
+ "text": "PRESTWICK RADAR OPR WITH REDUCED FLOW RATE DUE TO ATC SINGLE\nCONTROLLER, ACFT WISHING TO USE PRESTWICK AS AN ALTN COULD \nEXPERIENCE DELAYS. ALL ACFT INBOUND TO PRESTWICK ARE TO MONITOR \n121.5MHZ AS MANDATED",
+ "to": "2026-12-02T07:00Z",
+ "type": "N",
+ "upper": ""
+}

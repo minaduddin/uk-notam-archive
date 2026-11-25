@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8,
+  -1.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-12-02T10:00Z",
+ "id": "C6213/26",
+ "loc": [
+  "EGNX"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 28,
+ "removed": null,
+ "sched": "02 09 16 1000-1800",
+ "summary": "East Midlands controlled airspace deactivated and EGNX aerodrome closed from 10:00 to 18:00 on selected days.",
+ "summary_of": "79ac04d8d2b1",
+ "text": "EAST MIDLANDS CTA/CTR/ATZ DEACTIVATED. AD CLSD.",
+ "to": "2026-12-16T18:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4833,
+  0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T11:33Z",
+ "id": "J4264/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RTCS",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary drone restricted area around RAF Feltwell, Norfolk, 5 nautical miles radius, surface to 1,200 feet above sea level.",
+ "summary_of": "a02b9c845561",
+ "text": "RESTRICTED AREA (TEMPORARY) INSTALLED FOR UAS ONLY (RAF FELTWELL,\nNORFOLK) WI 5NM RADIUS OF PSN 522845.87N 0003109.12E.\nPILOTS ARE FORBIDDEN TO FLY UAS WITHIN THE DESIGNATED AREA\nWITHOUT THE PERMISSION OF EMERGENCY CONTROLLING AUTHORITY: RAF\nLAKENHEATH ATC UNIT CTC TEL 01638-543610 OR EMAIL\nUSAFE-UK.A3(AT)US.AF.MIL. RESTRICTION OF FLYING REGULATIONS MADE\nUNDER ARTICLE 239 OF AIR NAV ORDER 2016. AR-2026-10693/03.",
+ "to": "2026-12-02T12:00Z",
+ "type": "R",
+ "upper": "1200FT AMSL"
+}

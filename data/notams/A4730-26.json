@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-12-01T00:00Z",
+ "id": "A4730/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Quebec Charlie is available for Code F aircraft, the largest category, at EGKK.",
+ "summary_of": "71ccb207298a",
+ "text": "TWY QUEBEC CHARLIE AVBL FOR CODE F ACFT",
+ "to": "2027-02-19T18:00Z",
+ "type": "N",
+ "upper": ""
+}

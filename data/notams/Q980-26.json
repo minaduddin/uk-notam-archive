@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6833,
+  -1.7833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T10:55Z",
+ "id": "Q980/26",
+ "loc": [
+  "EGVA"
+ ],
+ "lower": "",
+ "q": "PDAU",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Standard departure routes MAXOB2A and MAXOB2B not available at EGVA.",
+ "summary_of": "0b7e5cb967ad",
+ "text": "SID MAXOB2A AND MAXOB2B NOT AVBL.",
+ "to": "2026-12-31T23:59Z",
+ "type": "R",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.0,
+  -3.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T10:49Z",
+ "id": "N994/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Obstacle light out of service at 296 ft above sea level, offshore about 25 nautical miles west of Overton, near EGTT.",
+ "summary_of": "f2819aedabc9",
+ "text": "REPORT OF AIR NAV OBST LGT U/S AT PSN 540008N 0033323W (OFFSHORE, \n25NM WEST OF OVERTON). HGT 296FT AMSL. AR-2026-11190/02.",
+ "to": "2027-02-22T00:00Z",
+ "type": "N",
+ "upper": ""
+}

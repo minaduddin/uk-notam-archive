@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T09:52Z",
+ "id": "Q970/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "0600-1700",
+ "summary": "Taxiway Bravo closed near parking slots 11 to 14 at EGUB for work in progress, 06:00 to 17:00 daily.",
+ "summary_of": "483da229ac42",
+ "text": "TAXIWAY BRAVO CLSD IN VICINITY OF PARKING SLOTS 11-14 DUE TO WIP",
+ "to": "2026-12-09T17:00Z",
+ "type": "N",
+ "upper": ""
+}

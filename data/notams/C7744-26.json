@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.7667,
+  -3.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T17:04Z",
+ "id": "C7744/26",
+ "loc": [
+  "EGNH"
+ ],
+ "lower": "",
+ "q": "MRXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 10/28 pavement load-bearing rating values published for aerodrome EGNH.",
+ "summary_of": "35f7bab94ba0",
+ "text": "RWY 10/28 PAVEMENT CLASSIFICATION RATING (PCR) VALUES ARE \n184 F/B/W/T. EGNH AD 2.12, UK AIP DATASET REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

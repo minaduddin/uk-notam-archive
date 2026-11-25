@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T11:25Z",
+ "id": "J4263/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RTCS",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary drone restricted area around RAF Mildenhall, Suffolk, 5 nautical miles radius, surface to 1,200 feet above sea level.",
+ "summary_of": "b78a780a6683",
+ "text": "RESTRICTED AREA (TEMPORARY) INSTALLED FOR UAS ONLY (RAF \nMILDENHALL, SUFFOLK). WI 5NM RADIUS OF PSN 522142.96N 0002911.06E. \nPILOTS ARE FORBIDDEN TO FLY UAS WITHIN THE DESIGNATED AREA WITHOUT \nTHE PERMISSION OF EMERGENCY CONTROLLING AUTHORITY: RAF LAKENHEATH \nATC UNIT CTC TEL 01638-543610 OR EMAIL USAFE-UK.A3(AT)US.AF.MIL. \nRESTRICTION OF FLYING REGULATIONS MADE UNDER ARTICLE 239 OF AIR\nNAV ORDER 2016. AR-2026-10691/04.",
+ "to": "2026-12-02T12:00Z",
+ "type": "R",
+ "upper": "1200FT AMSL"
+}

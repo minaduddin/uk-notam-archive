@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.0333,
+  -0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-12-02T08:00Z",
+ "id": "Q977/26",
+ "loc": [
+  "EGYD"
+ ],
+ "lower": "",
+ "q": "NBAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Non-directional beacon Cranwell 423 kHz at EGYD out of service for maintenance.",
+ "summary_of": "a09c1e798470",
+ "text": "NDB CWL/CRANWELL 423KHZ U/S DUE MAINT",
+ "to": "2026-12-02T12:00Z",
+ "type": "N",
+ "upper": ""
+}

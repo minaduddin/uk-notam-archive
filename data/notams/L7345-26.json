@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8333,
+  -1.3167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-12-02T10:00Z",
+ "id": "L7345/26",
+ "loc": [
+  "EGTK"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Reduced training availability at EGTK for based operators due to equipment maintenance.",
+ "summary_of": "2c8c71661a8f",
+ "text": "REDUCED TRAINING AVAILABILITY FOR BASED OPERATORS DUE EQUIPMENT \nMAINT.",
+ "to": "2026-12-02T17:00Z",
+ "type": "N",
+ "upper": ""
+}

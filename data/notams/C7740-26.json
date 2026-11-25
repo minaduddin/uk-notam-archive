@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5,
+  -0.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-30T07:42Z",
+ "id": "C7740/26",
+ "loc": [
+  "EGLC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone activity within 0.04 nautical miles of a point in Westminster, London, during daylight hours, up to 400 feet above ground level.",
+ "summary_of": "8ec938a4f1e1",
+ "text": "UAS OPR WI 0.04NM RADIUS OF 512946N 0000737W (WESTMINSTER,\nLONDON). MAX HGT 400FT AGL. FOR INFO 07856 060700.\nAR-2026-11207/01.",
+ "to": "2026-12-31T16:01Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-28T10:45Z",
+ "id": "A4736/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity within 0.1 nautical miles of a point near Cambridge, up to 216 feet above sea level.",
+ "summary_of": "60598800e4d5",
+ "text": "UAS OPR WI 0.1NM OF PSN 521225.52N 0000924.23E (CAMBRIDGE). SFC TO\n216FT AMSL/200FT AGL",
+ "to": "2026-11-28T12:30Z",
+ "type": "N",
+ "upper": "216FT AMSL"
+}

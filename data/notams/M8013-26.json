@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.7667,
+  -4.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-26T08:30Z",
+ "id": "M8013/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 8,
+ "removed": null,
+ "sched": "",
+ "summary": "Luce Bay danger area EGD403B activated, up to 15,000 feet above sea level, 8 nautical miles radius.",
+ "summary_of": "ae03f76ef808",
+ "text": "DANGER AREA EGD403B LUCE BAY ACTIVATED",
+ "to": "2026-11-26T17:00Z",
+ "type": "N",
+ "upper": "15000FT AMSL"
+}

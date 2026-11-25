@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.7667,
+  -3.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T17:01Z",
+ "id": "C7745/26",
+ "loc": [
+  "EGNH"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Alpha pavement load-bearing rating values published for aerodrome EGNH.",
+ "summary_of": "692aacacd74e",
+ "text": "TWY ALPHA PAVEMENT CLASSIFICATION RATING (PCR) VALUES ARE \n119 F/B/W/T. EGNH AD 2.8, UK AIP DATASET REFERS.",
+ "to": "PERM",
+ "type": "N",
+ "upper": ""
+}

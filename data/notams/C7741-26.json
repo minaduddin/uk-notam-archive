@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-26T08:00Z",
+ "id": "C7741/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "MPLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aircraft parking stands 10 and 11 closed at EGHH.",
+ "summary_of": "4c6c3ed6f92e",
+ "text": "STANDS 10 AND 11 CLSD",
+ "to": "2026-11-26T13:00Z",
+ "type": "N",
+ "upper": ""
+}

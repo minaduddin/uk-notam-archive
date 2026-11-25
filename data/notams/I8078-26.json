@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.4167,
+  -5.7167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-28T08:00Z",
+ "id": "I8078/26",
+ "loc": [
+  "EGEC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations at Machrihanish Holiday Park, Campbeltown, within 300 metres radius, up to 161 feet high.",
+ "summary_of": "ddb4048893ba",
+ "text": "UAS OPR AT PSN 552524N 0054255W (MACHRIHANISH HOLIDAY PARK, \nCAMPBLETOWN) MAX HEIGHT 161FT AFL / 200FT AMSL RADIUS 300M.\nCONTACT 07907 917587 FOR MORE INFO.",
+ "to": "2026-11-28T12:00Z",
+ "type": "N",
+ "upper": "200FT AMSL"
+}

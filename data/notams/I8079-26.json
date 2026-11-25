@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.4333,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T17:00Z",
+ "id": "I8079/26",
+ "loc": [
+  "EGPT"
+ ],
+ "lower": "",
+ "q": "AZCA",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Perth/Scone aerodrome traffic zone activated within 2 nautical miles; aerodrome hours extended, ground radio service available.",
+ "summary_of": "158ee2676e1b",
+ "text": "PERTH/SCONE ATZ ACTIVATED. AD OPR HR EXTD. A/G SER AVBL. \nRFFS CAT A1.",
+ "to": "2026-11-25T19:15Z",
+ "type": "N",
+ "upper": ""
+}

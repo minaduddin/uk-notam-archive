@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.8667,
+  -4.4333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-26T09:00Z",
+ "id": "I8071/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "ICXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Instrument landing system for runway 05/23 at EGPF under flight inspection, with short delays expected.",
+ "summary_of": "cd3c46b8a96f",
+ "text": "ILS RWY 05/23 UNDER FLIGHT INSPECTION. ACFT TO EXPECT SHORT DELAYS",
+ "to": "2026-11-27T17:30Z",
+ "type": "N",
+ "upper": ""
+}

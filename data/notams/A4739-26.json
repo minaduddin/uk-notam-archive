@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8833,
+  0.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T17:00Z",
+ "id": "A4739/26",
+ "loc": [
+  "EGSS"
+ ],
+ "lower": "",
+ "q": "MXLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiways Hotel and Juliet between Link Charlie and Link Echo are restricted to Code C aircraft only at EGSS.",
+ "summary_of": "609f17d80e2e",
+ "text": "TWY HOTEL AND TWY JULIET BTN LINK CHARLIE AND LINK ECHO ARE\nFOR USE BY CODE C ACFT ONLY",
+ "to": "2026-11-26T17:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.4167,
+  0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-27T06:00Z",
+ "id": "Q981/26",
+ "loc": [
+  "EGUL"
+ ],
+ "lower": "",
+ "q": "STLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Air traffic control tower and airfield management facilities closed at EGUL.",
+ "summary_of": "11646a702ee4",
+ "text": "ATC TWR TOWER AND AIRFIELD MANAGEMENT FACILITIES CLSD.",
+ "to": "2026-11-27T18:00Z",
+ "type": "N",
+ "upper": ""
+}

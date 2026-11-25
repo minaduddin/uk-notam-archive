@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.4333,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-25T09:40Z",
+ "id": "I8070/26",
+ "loc": [
+  "EGPT"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runway 15/33 closed at EGPT.",
+ "summary_of": "3652e2edd1a0",
+ "text": "RWY 15/33 CLSD",
+ "to": "2026-12-09T09:00Z",
+ "type": "N",
+ "upper": ""
+}

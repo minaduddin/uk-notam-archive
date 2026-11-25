@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-26T07:00Z",
+ "id": "Q998/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "LEAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "0700-1600",
+ "summary": "Edge lights and distance remaining sign on runway 10/28 at EGUN are unserviceable due to maintenance, 0700 to 1600.",
+ "summary_of": "911972e80168",
+ "text": "RWY 10/28 EDGE LGT AND DISTANCE REMAINING SIGN LGT U/S DUE MAINT. \nSYSTEMS CAN BE RESTORED WITH 1 HR PRIOR NOTICE TO ATC.",
+ "to": "2026-11-29T16:00Z",
+ "type": "N",
+ "upper": ""
+}

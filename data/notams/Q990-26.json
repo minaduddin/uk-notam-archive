@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.3667,
+  0.4833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-12-01T14:01Z",
+ "id": "Q990/26",
+ "loc": [
+  "EGUN"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGUN is open for official business only; aircraft needing maintenance or overnight stays may not land there.",
+ "summary_of": "60f1000620c7",
+ "text": "AD OPEN FOR OFFICIAL BUSINESS ONLY. ACFT REQUIRING MAINT OR \nREMAIN OVER NIGHT ARE NOT AUTHORIZED TO LAND. AD IS NOT A SUITABLE \nALTERNATE.",
+ "to": "2027-02-25T23:59Z",
+ "type": "N",
+ "upper": ""
+}

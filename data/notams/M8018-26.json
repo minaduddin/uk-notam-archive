@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.6167,
+  -4.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-26T09:00Z",
+ "id": "M8018/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 50,
+ "removed": null,
+ "sched": "",
+ "summary": "North Wales military training areas North Low and South Low activated between 0900 and 1925, from 19,500 to 26,000 feet above sea level.",
+ "summary_of": "8e8a8c9ec0ce",
+ "text": "THE FOLLOWING NORTH WALES MILITARY TRAINING AREAS ACTIVATED:\nNORTH LOW 0900-1925 FL195-FL260\nSOUTH LOW 0900-1925 FL195-FL260",
+ "to": "2026-11-26T19:25Z",
+ "type": "N",
+ "upper": "FL260"
+}

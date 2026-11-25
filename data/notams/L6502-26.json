@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5,
+  -0.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-12-02T16:00Z",
+ "id": "L6502/26",
+ "loc": [
+  "EGLW"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Searchlight display within 1 nautical mile of Trafalgar Square, London.",
+ "summary_of": "c78cb9d3b016",
+ "text": "SEARCHLIGHT DISPLAY WI 1NM RADIUS OF 513028N 0000741W (TRAFALGAR\nSQUARE, LONDON). FOR INFO 07838 222007. AR-2026-9885/01.",
+ "to": "2026-12-02T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.6167,
+  -2.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-11-30T08:00Z",
+ "id": "H7787/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 4,
+ "removed": null,
+ "sched": "0800-1800",
+ "summary": "Aircraft carrying underslung loads within 2 nautical miles of track near Calderdale, West Yorkshire, up to 500 feet above ground level, 0800-1800.",
+ "summary_of": "4776158d10a4",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS OPR WI \n2NM EITHER SIDE OF TRACK AND 2NM RADIUS BTN PSN 533705N 0015816W - \n533731N 0020122W (CALDERDALE, WEST YORKSHIRE) LOW FLYING AREA 8 AND \nNIGHT SECTOR 3A. MAX HGT 500FT AGL. ACFT MAY BE RESTRICTED \nIN ABILITY TO MANOEUVRE AND UNABLE TO COMPLY WITH RAC. \nOPS CTC 01667 464404. 26/11/167/LFC",
+ "to": "2026-12-19T18:00Z",
+ "type": "N",
+ "upper": "2100FT AMSL"
+}

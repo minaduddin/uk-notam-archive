@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2833,
+  -0.6833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T19:08Z",
+ "from": "2026-12-02T08:30Z",
+ "id": "D4622/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "02-04 06 08-10 0830-1600",
+ "summary": "Danger area EGD132 Ash Ranges activated at EGTT, surface to 1,100 feet.",
+ "summary_of": "70742abef0d3",
+ "text": "DANGER AREA EGD132 ASH RANGES ACTIVATED",
+ "to": "2026-12-10T16:00Z",
+ "type": "N",
+ "upper": "1100FT AMSL"
+}
