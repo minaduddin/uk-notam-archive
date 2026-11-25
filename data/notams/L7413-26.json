@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1167,
+  -3.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T09:03Z",
+ "from": "2026-11-25T20:01Z",
+ "id": "L7413/26",
+ "loc": [
+  "EGNR"
+ ],
+ "lower": "",
+ "q": "SPLT",
+ "radius": 9,
+ "removed": null,
+ "sched": "2001-2100",
+ "summary": "Hawarden radar service at EGNR not available, 2001 to 2100, due to staff shortage.",
+ "summary_of": "ea6129acb141",
+ "text": "HAWARDEN RADAR SERVICE NOT AVBL DUE TO STAFF SHORTAGE.\nHAWARDEN RADIO MANDATORY ZONE CRITERIA APPLY. HAWARDEN RADAR \nFREQUENCY 120.055 WILL BE BAND-BOXED WITH HAWARDEN TOWER PROVIDING.",
+ "to": "2026-11-25T21:00Z",
+ "type": "N",
+ "upper": ""
+}

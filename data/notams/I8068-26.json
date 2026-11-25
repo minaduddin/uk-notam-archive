@@ -1,0 +1,25 @@
+{
+ "coord": [
+  59.8833,
+  -1.3
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-25T09:03Z",
+ "from": "2026-11-25T07:04Z",
+ "id": "I8068/26",
+ "loc": [
+  "EGPB"
+ ],
+ "lower": "",
+ "q": "NLAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Sumburgh navigation locator on 351 kHz is out of service.",
+ "summary_of": "2c16a5a9a182",
+ "text": "LOCATOR SBH/SUMBURGH 351KHZ U/S",
+ "to": "2026-11-28T07:45Z",
+ "type": "R",
+ "upper": ""
+}

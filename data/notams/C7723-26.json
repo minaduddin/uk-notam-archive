@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.7667,
+  -3.0333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T09:03Z",
+ "from": "2026-11-25T08:14Z",
+ "id": "C7723/26",
+ "loc": [
+  "EGNH"
+ ],
+ "lower": "",
+ "q": "STXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Air traffic control landline out of service at EGNH; a backup contact number is listed.",
+ "summary_of": "d1e8cf5697d6",
+ "text": "ATC LAND LINE 01253 472527 U/S. USE BACK UP CTC 07762 062246",
+ "to": "2026-11-25T20:00Z",
+ "type": "N",
+ "upper": ""
+}

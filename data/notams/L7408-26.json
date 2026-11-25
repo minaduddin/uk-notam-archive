@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.35,
+  0.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T09:03Z",
+ "from": "2026-11-25T08:30Z",
+ "id": "L7408/26",
+ "loc": [
+  "EGTO"
+ ],
+ "lower": "",
+ "q": "SFLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome flight information service at EGTO downgraded to an air-to-ground radio service via Rochester Radio on 122.255 MHz.",
+ "summary_of": "f656f9d2be03",
+ "text": "AFIS DOWNGRADED TO A/G COM SER ROCHESTER RADIO CH122.255)",
+ "to": "2026-11-25T17:30Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5167,
+  -0.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-25T09:03Z",
+ "from": "2026-12-02T08:00Z",
+ "id": "C7564/26",
+ "loc": [
+  "EGLC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity in an area around Barbican, London, up to 350 ft above ground level.",
+ "summary_of": "3f929fadcbe1",
+ "text": "UAS OPR WI AREA BOUNDED BY 513105N 0000620W - 513108N 0000611W -\n513105N 0000608W - 513104N 0000609W - 513103N 0000610W - \n513102N 0000610W - 513100N 0000611W - 513103N 0000620W - \n513105N 0000620W (BARBICAN, LONDON). MAX HGT 350FT AGL. FOR INFO \n07860 956548 / 07894 724885. AR-2026-10977/01.",
+ "to": "2026-12-02T12:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}
