@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.6333,
+  -3.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-12-03T09:00Z",
+ "id": "H7463/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0900-2300",
+ "summary": "Swarm of 700 drones within 0.3 nautical miles of Chudleigh, up to 400 ft above ground level, 0900 to 2300.",
+ "summary_of": "974ae0a38ea9",
+ "text": "UAS SWARM OPR WI 0.3NM RADIUS OF 503828N 0033332W (CHUDLEIGH).\nSWARM MADE UP OF 700 UAS. MAX HGT 400FT AGL. FOR INFO 07525 916291\n/ 07738 612566. AR-2026-10661/01.",
+ "to": "2026-12-10T23:00Z",
+ "type": "N",
+ "upper": "1200FT AMSL"
+}

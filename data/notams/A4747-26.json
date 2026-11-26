@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8667,
+  -0.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-12-02T08:00Z",
+ "id": "A4747/26",
+ "loc": [
+  "EGGW"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-1800",
+ "summary": "Illuminated crane up to 26 ft above ground level along the Luton Airport perimeter track, 0800 to 1800.",
+ "summary_of": "2ce6f466eef1",
+ "text": "LIT CRANE OPR PSN 515215N 0002311W - 515214N 0002248W - \n515221N 0002217W - 515226N 0002144W - 515233N 0002106W (LUTON AD \nPERIMETER TRACK) MAX HEIGHT 26FT AGL, 555FT AMSL",
+ "to": "2026-12-04T18:00Z",
+ "type": "N",
+ "upper": ""
+}

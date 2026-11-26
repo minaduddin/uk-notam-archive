@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2167,
+  -6.3333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-11-26T08:50Z",
+ "id": "I8089/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "FFXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Upgrade of airport fire and rescue cover to category 6 is not available at EGPO.",
+ "summary_of": "bd16263fcad4",
+ "text": "REQ TO UPGRADE TO RFFS CAT 6 NOT AVBL.",
+ "to": "2026-12-03T19:45Z",
+ "type": "N",
+ "upper": ""
+}

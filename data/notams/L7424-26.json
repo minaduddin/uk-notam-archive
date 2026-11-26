@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9,
+  -2.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-11-28T08:00Z",
+ "id": "L7424/26",
+ "loc": [
+  "EGBJ"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations within 0.6 nautical miles of Cheltenham, up to 65 feet above ground level.",
+ "summary_of": "3271d9c39158",
+ "text": "UAS OPR WI 0.6 NM RADIUS OF 515353N 0020946W (CHELTENHAM) MAX HGT\n65FT AGL / 177FT AMSL.",
+ "to": "2026-11-28T09:00Z",
+ "type": "N",
+ "upper": "177FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.0333,
+  -4.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-11-27T12:00Z",
+ "id": "D4630/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 23,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD008C near Plymouth activated, from ground level up to 28,000 ft.",
+ "summary_of": "4ac90900feee",
+ "text": "DANGER AREA EGD008C PLYMOUTH ACTIVATED.",
+ "to": "2026-11-27T14:00Z",
+ "type": "N",
+ "upper": "28000FT AMSL"
+}

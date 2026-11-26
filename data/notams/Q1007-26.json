@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-11-26T09:57Z",
+ "id": "Q1007/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Holding point Hotel at EGUB closed due to work in progress.",
+ "summary_of": "1c93c92d25b0",
+ "text": "HOLDING POINT HOTEL CLSD DUE WIP",
+ "to": "2027-01-08T17:00Z",
+ "type": "N",
+ "upper": ""
+}

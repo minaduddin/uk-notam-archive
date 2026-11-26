@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.7,
+  -0.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-12-03T09:00Z",
+ "id": "B1935/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "NMAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Ottringham navigation beacon on 113.90 MHz is out of service.",
+ "summary_of": "e749f6918b8e",
+ "text": "VOR/DME OTR/OTTRINGHAM 113.90MHZ CH086X BOTH PARTS U/S",
+ "to": "2026-12-03T15:00Z",
+ "type": "N",
+ "upper": ""
+}

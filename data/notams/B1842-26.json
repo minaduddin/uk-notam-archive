@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.05,
+  -0.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-12-03T09:00Z",
+ "id": "B1842/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "NMAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Midhurst navigation beacon on 114.00 MHz is out of service.",
+ "summary_of": "7bbbfa40533a",
+ "text": "VOR/DME MID/MIDHURST 114.00MHZ CH087X BOTH PARTS U/S",
+ "to": "2026-12-03T16:00Z",
+ "type": "N",
+ "upper": ""
+}

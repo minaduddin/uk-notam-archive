@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.95,
+  -2.9
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-12-03T09:45Z",
+ "id": "I7986/26",
+ "loc": [
+  "EGPA"
+ ],
+ "lower": "",
+ "q": "SAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Recorded airport information by phone at EGPA is unavailable due to maintenance; alternatives are given.",
+ "summary_of": "15ac1deccb96",
+ "text": "DIAL IN ATIS ON 01856 878476 NOT AVBL DUE MAINT. ATIS INFO AVBL \nON CH124.130 OR 01856 886206.",
+ "to": "2026-12-03T13:45Z",
+ "type": "N",
+ "upper": ""
+}

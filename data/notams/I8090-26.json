@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-12-01T08:00Z",
+ "id": "I8090/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "MON-FRI 0800-1700",
+ "summary": "Crane up to 90.88 ft above ground level near Aldergrove, weekdays 0800 to 1700.",
+ "summary_of": "30816e2809bb",
+ "text": "CRANE OPR PSN 543917.94N 0061406.57W (ALDERGROVE) MAX HGT 90.88FT \nAGL / 283.35FT AMSL.",
+ "to": "2026-12-18T17:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.8833,
+  -1.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-12-02T08:00Z",
+ "id": "C7751/26",
+ "loc": [
+  "EGHI"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "MON-FRI 0800-2200",
+ "summary": "Drone operations beyond visual line of sight near Southampton, between River Itchen and Weston Parade, up to 200 ft above sea level, weekdays 0800 to 2200.",
+ "summary_of": "8004df550934",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) WI AREA BOUNDED BY:\n505351N 0012313W - 505351N 0012256W - 505349N 0012246W - \n505343N 0012252W - 505343N 0012256W - 505341N 0012257W - \n505342N 0012302W - 505332N 0012304W - 505326N 0012303W - \n505316N 0012252W - 505305N 0012237W - 505249N 0012207W - \n505246N 0012237W - 505256N 0012252W - 505306N 0012302W - \n505317N 0012311W - 505326N 0012315W - 505351N 0012313W \n(OFFSHORE RIVER ITCHEN TO WESTON PARADE, SOUTHAMPTON). ATYPICAL UAS \nOPR MAX HGT 200FT AMSL. FOR INFO 02382 687560 / 02382 686749. \nAR-2026-11173/01.",
+ "to": "2027-01-29T22:00Z",
+ "type": "N",
+ "upper": "200FT AMSL"
+}

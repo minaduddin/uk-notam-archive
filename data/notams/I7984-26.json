@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.45,
+  -3.3667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-12-03T10:00Z",
+ "id": "I7984/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "NVAS",
+ "radius": 25,
+ "removed": null,
+ "sched": "",
+ "summary": "Perth navigation beacon on 110.4 MHz is out of service.",
+ "summary_of": "8905c12b386f",
+ "text": "VOR PTH/PERTH 110.4MHZ U/S",
+ "to": "2026-12-03T16:00Z",
+ "type": "N",
+ "upper": ""
+}

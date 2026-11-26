@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.3667,
+  -2.8667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-12-03T09:00Z",
+ "id": "Q495/26",
+ "loc": [
+  "EGQL"
+ ],
+ "lower": "",
+ "q": "CACF",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "EGQL ground and tower radio frequencies unavailable for maintenance; alternative tower 309.605 and ground 299.750 megahertz to be used.",
+ "summary_of": "f20b7c07ba6c",
+ "text": "GND FREQ 275.375MHZ AND TWR CH 119.230 NOT AVBL DUE MAINT. \nUSE ALTN TWR 309.605 AND GND FREQ 299.750MHZ",
+ "to": "2026-12-03T17:00Z",
+ "type": "N",
+ "upper": ""
+}

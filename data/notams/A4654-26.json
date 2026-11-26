@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.6167,
+  1.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T11:26Z",
+ "from": "2026-12-03T09:15Z",
+ "id": "A4654/26",
+ "loc": [
+  "EGSH"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations beyond visual line of sight within 0.1 nautical miles of Earlham, Norwich, up to 400 ft above ground level.",
+ "summary_of": "b0ecb75ec082",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL\nOBSERVERS (EXTENDED LINE OF SIGHT) WI 0.1NM RADIUS OF \n523728N 0011324E (EARLHAM, NORWICH). MAX HGT 400FT AGL. FOR INFO \n07958 063304 / 07842 438506. AR-2026-11025/02.",
+ "to": "2026-12-03T11:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}
