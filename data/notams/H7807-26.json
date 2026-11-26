@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.2167,
+  -4.8333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-12-02T08:29Z",
+ "id": "H7807/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 2,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone flights beyond visual line of sight, using visual observers, within 1.25 nautical miles of Beinn Ime, up to 650 ft above ground, sunrise to sunset.",
+ "summary_of": "4e2e78849ada",
+ "text": "UAS OPR BEYOND VISUAL LINE OF SIGHT (BVLOS) UTILISING VISUAL \nOBSERVERS (EXTENDED LINE OF SIGHT) WI 1.25NM RADIUS OF \n561304N 0045011W (BEINN IME). MAX HGT 650FT AGL. FOR INFO 07557 \n486516. AR-2026-11236/01.",
+ "to": "2026-12-08T15:44Z",
+ "type": "N",
+ "upper": "3800FT AMSL"
+}

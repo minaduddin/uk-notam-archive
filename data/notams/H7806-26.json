@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.3167,
+  -5.8167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-29T09:00Z",
+ "id": "H7806/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 8,
+ "removed": null,
+ "sched": "0900-1600",
+ "summary": "Civil aircraft carrying underslung loads in low flying area 14 near Kyle of Lochalsh, up to 600 ft above ground, 09:00-16:00.",
+ "summary_of": "27eda6a353c9",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - UNDERSLUNG LOADS WILL OPR\nLOW FLYING AREA 14 WI 2NM EITHER SIDE OF TRACK AND 2NM RADIUS OF \n571647N 0054236W - 571558N 0054227W - 571535N 0054556W - \n572207N 0055627W (KYLE OF LOCHALSH, HIGHLANDS) MAX HGT 600FT AGL. \nACFT MAY BE RESTRICTED IN ABILITY TO MANOEUVRE AND UNABLE TO COMPLY \nWITH RAC. OPS CTC 01397 436802. 26/11/170/LFC",
+ "to": "2026-11-29T16:00Z",
+ "type": "N",
+ "upper": "3000FT AMSL"
+}

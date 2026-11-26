@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.6833,
+  -2.9667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-30T12:00Z",
+ "id": "Q1010/26",
+ "loc": [
+  "EGQS"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 16,
+ "removed": null,
+ "sched": "MON-THU 1200-2000",
+ "summary": "Military aircraft, including fast jets, will carry out high energy manoeuvres within 15 nautical miles of Buckie, Monday to Thursday 12:00 to 20:00.",
+ "summary_of": "38faeae5ba0e",
+ "text": "MIL ACFT, INCLUDING FAST JETS, WILL CONDUCT HIGH ENERGY MANOEVRES\nWI 15NM RADIUS OF 574032N 0025744W (BUCKIE). ACFT MAY BE UNABLE\nTO COMPLY WITH RAC. FOR INFO 01343 817218. AR-2026-11232/01.",
+ "to": "2026-12-10T20:00Z",
+ "type": "N",
+ "upper": "FL245"
+}

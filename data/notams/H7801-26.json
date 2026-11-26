@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.8,
+  -0.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-29T06:00Z",
+ "id": "H7801/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WCLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Kite flying within 1 nautical mile of Goring-by-Sea, up to 3,000 ft above ground level.",
+ "summary_of": "51e7be9061b4",
+ "text": "KITE FLYING WI 1NM RADIUS OF 504812N 0002608W (GORING-BY-SEA).\nMAX HGT 3000FT AGL. FOR INFO 07717 155066. AR-2026-11222/01.",
+ "to": "2026-11-29T18:00Z",
+ "type": "N",
+ "upper": "3100FT AMSL"
+}

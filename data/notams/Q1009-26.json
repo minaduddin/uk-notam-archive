@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1667,
+  -0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-12-01T00:00Z",
+ "id": "Q1009/26",
+ "loc": [
+  "EGXW"
+ ],
+ "lower": "",
+ "q": "PILT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Surveillance radar approaches and practice diversions at Waddington need prior approval from the radar supervisor.",
+ "summary_of": "08c4e46e9cef",
+ "text": "SRA AND PRACTICE DIVERSIONS ARE SUBJ PRIOR APPROVAL FM WADDINGTON \nRADAR SUPERVISOR",
+ "to": "2026-12-02T23:59Z",
+ "type": "N",
+ "upper": ""
+}

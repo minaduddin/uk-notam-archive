@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8167,
+  -1.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-26T17:07Z",
+ "id": "L7440/26",
+ "loc": [
+  "EGBM"
+ ],
+ "lower": "",
+ "q": "MKLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Grass parking closed at EGBM.",
+ "summary_of": "e96bb851b0b7",
+ "text": "GRASS PARKING CLSD",
+ "to": "2027-02-26T17:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.1667,
+  -0.5167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-30T08:00Z",
+ "id": "Q1024/26",
+ "loc": [
+  "EGXW"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Noise embargo at EGXW.",
+ "summary_of": "62f8f136dd29",
+ "text": "NOISE EMBARGO",
+ "to": "2026-11-30T08:30Z",
+ "type": "N",
+ "upper": ""
+}

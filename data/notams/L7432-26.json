@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.9333,
+  -2.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-27T12:00Z",
+ "id": "L7432/26",
+ "loc": [
+  "EGHG"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "1200-1300",
+ "summary": "Aerodrome at EGHG closed due to staff shortages, 12:00-13:00.",
+ "summary_of": "515d5f41d731",
+ "text": "AD CLSD DUE STAFF SHORTAGES",
+ "to": "2026-11-27T13:00Z",
+ "type": "N",
+ "upper": ""
+}

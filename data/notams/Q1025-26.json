@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.0333,
+  -0.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-27T08:00Z",
+ "id": "Q1025/26",
+ "loc": [
+  "EGYD"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGYD amended opening hours: 09:00 to 17:00.",
+ "summary_of": "d9800d971f24",
+ "text": "AMENDED AD OPR HR:\n0900-1700",
+ "to": "2026-11-27T17:00Z",
+ "type": "N",
+ "upper": ""
+}

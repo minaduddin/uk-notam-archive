@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.0833,
+  -5.25
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-26T14:14Z",
+ "id": "Q1014/26",
+ "loc": [
+  "EGDR"
+ ],
+ "lower": "",
+ "q": "PIXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Culdrose approach procedures L1 to L13 are not yet approved and must not be flown.",
+ "summary_of": "d2f4811fe2ab",
+ "text": "CULDROSE RNP TERMINAL APPROACH PROCEDURES (TAPS) AND ASSOCIATED\nIAP CODING TABLES (TAPS L1-L13) ARE AWAITING FLIGHT VALIDATION AND\nAPPROVAL BY DEFENCE AERONAUTICAL INFORMATION AUTHORITY. TAPS L1-L13 \nARE NOT YET LIVE AND ARE NOT TO BE FLOWN.",
+ "to": "2027-02-23T23:59Z",
+ "type": "N",
+ "upper": ""
+}

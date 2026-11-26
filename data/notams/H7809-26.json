@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.1833,
+  -3.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-30T09:00Z",
+ "id": "H7809/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WPLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Parachute jumping within 2 nautical miles of Fife aerodrome, up to 12,000 ft, subject to air traffic control clearance.",
+ "summary_of": "b997f985e703",
+ "text": "PJE WI 2NM RADIUS OF 561100N 0031313W (FIFE AD). DROP HGT SUBJ\nATC CLR. FOR INFO 07885 617418 / CH130.455. AR-2026-11216/01.",
+ "to": "2026-11-30T16:00Z",
+ "type": "N",
+ "upper": "FL120"
+}

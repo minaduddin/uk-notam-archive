@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8167,
+  -4.1333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-29T10:00Z",
+ "id": "E348/26",
+ "loc": [
+  "EGFD"
+ ],
+ "lower": "SFC",
+ "q": "WLLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Weather balloon releases within 1 nautical mile of Llanbedr aerodrome, which may extend beyond the notified area.",
+ "summary_of": "67c1cb170a4b",
+ "text": "MET BALLOON RELEASE/S WI 1NM RADIUS OF 524905N 0040731W (LLANBEDR\nAD). THIS ACTIVITY WILL NOT BE WHOLLY CONTAINED WI LATERAL\nDIMENSION AS NOTIFIED.  FOR INFO 07794 975702 / 07957 677461 /\n07808 829906. AR-2026-11243/01.",
+ "to": "2026-11-29T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}

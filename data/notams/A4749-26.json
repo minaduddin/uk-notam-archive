@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8833,
+  0.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-26T17:00Z",
+ "id": "A4749/26",
+ "loc": [
+  "EGSS"
+ ],
+ "lower": "",
+ "q": "MXLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Juliet at EGSS restricted to aircraft with a wingspan of 38.1 metres or less, between Link Delta and Link Echo.",
+ "summary_of": "a4adce80adf4",
+ "text": "TWY JULIET BTN LINK DELTA AND LINK ECHO RESTRICTED TO MAX 38.1M \nWINGSPAN ACFT",
+ "to": "2027-03-31T17:00Z",
+ "type": "N",
+ "upper": ""
+}

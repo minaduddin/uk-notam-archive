@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3833,
+  -2.7167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-12-01T09:00Z",
+ "id": "C7758/26",
+ "loc": [
+  "EGGD"
+ ],
+ "lower": "",
+ "q": "ICAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Landing aid for runway 09/27 at EGGD out of service; pilots can expect a satellite-based approach instead.",
+ "summary_of": "a56f1dd75c1c",
+ "text": "ILS RWY 09/27 U/S PILOTS CAN EXPECT A GNSS APPROACH. IN THE EVENT \nOF ADVERSE WEATHER CONDITIONS, CAT 3 APCH WILL BE AVBL ON RWY 27.",
+ "to": "2026-12-01T15:00Z",
+ "type": "N",
+ "upper": ""
+}

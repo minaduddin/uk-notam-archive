@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.2167,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-30T07:30Z",
+ "id": "A4748/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone activity up to 400 ft above ground level within 0.4 nautical miles of Marleigh.",
+ "summary_of": "b5d1c79f4f0e",
+ "text": "UAS OPR WI 0.4NM PSN 521259N 0001050E (MARLEIGH). SFC TO 443FT \nAMSL /400FT AGL",
+ "to": "2026-11-30T07:50Z",
+ "type": "N",
+ "upper": "443FT AMSL"
+}

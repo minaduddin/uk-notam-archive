@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.1833,
+  -5.55
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-12-03T08:33Z",
+ "id": "H7808/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 3,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone flights within 2.72 nautical miles of Ardfern, up to 390 ft above ground level, sunrise to sunset.",
+ "summary_of": "6ba0aec6bcbd",
+ "text": "UAS OPR WI 2.72NM RADIUS OF 561111N 0053306W (ARDFERN). MAX HGT\n390FT AGL. FOR INFO 07787 550469. AR-2026-11237/01.",
+ "to": "2026-12-04T15:50Z",
+ "type": "N",
+ "upper": "1200FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.5333,
+  -4.0833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-26T16:32Z",
+ "id": "I8098/26",
+ "loc": [
+  "EGPE"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0730-1800",
+ "summary": "Mobile crane at West Kerrowgair Biogas, about 1,880 metres from Inverness Airport, up to 92 ft above ground, 07:30-18:00.",
+ "summary_of": "f439af3da734",
+ "text": "MOBILE CRANE OPR PSN 573229N 0040444W (WEST KERROWGAIR BIOGAS,\nAPRX 1880M FM INVERNESS ARP) MAX HGT 92FT AGL/175FT AMSL. JIB\nILLUMINATED RED OBST LGT. LOWERED WHEN NOT IN USE OR DURING LVP.",
+ "to": "2026-12-20T18:00Z",
+ "type": "R",
+ "upper": ""
+}

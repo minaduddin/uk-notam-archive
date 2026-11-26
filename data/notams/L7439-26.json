@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.8167,
+  -1.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-26T17:06Z",
+ "id": "L7439/26",
+ "loc": [
+  "EGBM"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Grass taxiway closed at EGBM.",
+ "summary_of": "11f61af2efbd",
+ "text": "GRASS TWY CLSD",
+ "to": "2027-02-26T17:00Z",
+ "type": "N",
+ "upper": ""
+}

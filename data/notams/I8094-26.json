@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5167,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-26T12:09Z",
+ "id": "I8094/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Drinking water servicing vehicle out of service at EGPK.",
+ "summary_of": "8ad20a6d1bb6",
+ "text": "POTABLE WATER SERVICING VEHICLE OFFLINE",
+ "to": "2026-11-27T23:59Z",
+ "type": "R",
+ "upper": ""
+}

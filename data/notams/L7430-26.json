@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.65,
+  -0.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-26T13:28Z",
+ "id": "L7430/26",
+ "loc": [
+  "EGTR"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Charlie and the grass part of Taxiway Delta closed at EGTR.",
+ "summary_of": "749963f85b43",
+ "text": "TWY CHARLIE AND TWY DELTA (GRASS PART) CLSD.",
+ "to": "2027-01-16T23:59Z",
+ "type": "R",
+ "upper": ""
+}

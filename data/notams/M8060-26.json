@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.25,
+  -2.6667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-26T20:29Z",
+ "from": "2026-11-27T17:00Z",
+ "id": "M8060/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 191,
+ "removed": null,
+ "sched": "",
+ "summary": "Temporary reserved areas 007 and 008 activated, between 19,500 and 24,500 feet, within 191 nautical miles of EGPX.",
+ "summary_of": "7dd4c11a1cc1",
+ "text": "THE FOLLOWING TRA ARE ACTIVATED:\nTRA 007A 1700-1800 FL195-FL245\nTRA 007B 1700-1800 FL195-FL245\nTRA 008A 1700-1800 FL195-FL245\nTRA 008B 1700-1800 FL195-FL245\nTRA 008C 1700-1800 FL195-FL245",
+ "to": "2026-11-27T18:00Z",
+ "type": "N",
+ "upper": "FL245"
+}
