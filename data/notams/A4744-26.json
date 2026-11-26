@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T02:24Z",
+ "from": "2026-11-26T09:00Z",
+ "id": "A4744/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Uniform closed at EGKK.",
+ "summary_of": "ba28eb1436fa",
+ "text": "TWY UNIFORM CLSD",
+ "to": "2026-11-26T11:00Z",
+ "type": "N",
+ "upper": ""
+}

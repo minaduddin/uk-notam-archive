@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.55,
+  -0.4167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-26T02:24Z",
+ "from": "2026-11-26T08:00Z",
+ "id": "Q1006/26",
+ "loc": [
+  "EGWU"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "No civilian flying within 5 nautical miles of EGWU on a radar training day.",
+ "summary_of": "f72b6afa2551",
+ "text": "NO CIVILIAN FLYING DUE RADAR TRAINING DAY.\nFOR INFO CTC OPS ON 02088 338918.",
+ "to": "2026-11-26T20:00Z",
+ "type": "N",
+ "upper": ""
+}
