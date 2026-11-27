@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.15,
+  -0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T03:11Z",
+ "from": "2026-11-27T00:24Z",
+ "id": "A4753/26",
+ "loc": [
+  "EGKK"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiways Quebec and Quebec Alpha north of Taxiway Lima closed at EGKK.",
+ "summary_of": "c4a0ffece1e0",
+ "text": "TWY QUEBEC AND TWY QUEBEC ALPHA NORTH OF TWY LIMA CLSD",
+ "to": "2026-11-27T05:00Z",
+ "type": "N",
+ "upper": ""
+}

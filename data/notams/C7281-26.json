@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.3833,
+  -2.7167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T03:11Z",
+ "from": "2026-12-03T23:30Z",
+ "id": "C7281/26",
+ "loc": [
+  "EGGD"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Bristol aerodrome, EGGD, operating hours have been extended.",
+ "summary_of": "1a6f508fc2da",
+ "text": "BRISTOL AD OPERATING HRS EXTENDED",
+ "to": "2026-12-04T00:20Z",
+ "type": "N",
+ "upper": ""
+}

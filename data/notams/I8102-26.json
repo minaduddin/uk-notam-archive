@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.0333,
+  -1.6833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T03:11Z",
+ "from": "2026-11-26T23:30Z",
+ "id": "I8102/26",
+ "loc": [
+  "EGNT"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGNT not available to non-scheduled traffic; overflying aircraft needing a crossing clearance should file a flight plan.",
+ "summary_of": "159c3e27c6d9",
+ "text": "AD NOT AVBL TO NON-SCHEDULED TFC. OVERFLYING ACFT REQUIRING A XNG \nCLEARANCE SHOULD FILE A FLIGHTPLAN. ATS SHALL BE TACTICALLY MANAGED \nFOR PLANNED MOV. BASED TFC OFF SCHEDULE WILL BE ACCEPTED.",
+ "to": "2026-11-27T05:30Z",
+ "type": "N",
+ "upper": ""
+}
