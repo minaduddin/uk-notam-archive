@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-11-30T12:00Z",
+ "id": "Q1056/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "NOV 30 1200-1400, DEC 02 1200-1400, DEC 03 1200-1400",
+ "summary": "Instrument landing and precision approach radar training approaches unavailable at EGUB on 30 November, 2 and 3 December, 12:00 to 14:00.",
+ "summary_of": "c28aebc1b2cd",
+ "text": "ILS TRAINING APCH AND PAR TRAINING APCH NOT AVBL",
+ "to": "2026-12-03T14:00Z",
+ "type": "N",
+ "upper": ""
+}

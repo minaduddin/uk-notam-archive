@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-12-03T14:30Z",
+ "id": "Q1046/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "CACF",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Benson approach radio frequency 136.455 megahertz unavailable, for use by 28 Squadron only.",
+ "summary_of": "d72e4916c294",
+ "text": "BENSON APP VHF FREQ. 136.455 NOT AVBL. TO BE USED AS A/G COMMS \nFOR 28 SQN ONLY. \nCONTACT SOUTHERN MIL ICF 134.045 OR FOR MATZ TRANSITS CONTACT \nSOUTHERN MIL 120.905.",
+ "to": "2026-12-03T16:30Z",
+ "type": "N",
+ "upper": ""
+}

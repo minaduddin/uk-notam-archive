@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5167,
+  0.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-12-02T07:44Z",
+ "id": "C7787/26",
+ "loc": [
+  "EGLC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone operations within 0.03 nautical miles of Barking, London, up to 417 feet above ground level during daylight hours.",
+ "summary_of": "09dc618c6db7",
+ "text": "UAS OPR WI 0.03NM RADIUS OF 513116N 0000712E (BARKING, LONDON).\nMAX HGT 417FT AGL. FOR INFO 07973 402532. AR-2026-11289/01.",
+ "to": "2026-12-02T15:53Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

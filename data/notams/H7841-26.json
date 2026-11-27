@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.55,
+  -1.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-11-28T07:58Z",
+ "id": "H7841/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Large model aircraft flying within 0.5 nautical miles, 1 nautical mile north-west of Guisborough, up to 1,600 feet during daylight hours.",
+ "summary_of": "169b4937cebe",
+ "text": "FLYING OF LARGE MODEL ACFT WI 0.5NM RADIUS OF 543317N 0010412W\n(1NM NW OF GUISBOROUGH). FOR INFO 07528 971745. AR-2026-11276/01.",
+ "to": "2027-02-23T17:28Z",
+ "type": "N",
+ "upper": "1600FT AMSL"
+}

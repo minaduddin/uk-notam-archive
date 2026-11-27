@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.6167,
+  -1.1
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-12-01T12:00Z",
+ "id": "Q1058/26",
+ "loc": [
+  "EGUB"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "01 04 1200-1400",
+ "summary": "Instrument flight rules training approaches unavailable at EGUB on 1 April, 12:00 to 14:00.",
+ "summary_of": "22b2e724711e",
+ "text": "IFR TRAINING APPROACHES NOT AVBL",
+ "to": "2026-12-04T14:00Z",
+ "type": "N",
+ "upper": ""
+}

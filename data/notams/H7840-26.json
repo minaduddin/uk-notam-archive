@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5667,
+  0.1833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-12-04T09:00Z",
+ "id": "H7840/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations within 0.2 nautical miles of Queens Hospital, Romford, up to 378 feet above ground level.",
+ "summary_of": "d379456a35fd",
+ "text": "UAS OPR WI 0.2NM RADIUS OF 513407N 0001045E (QUEENS HOSPITAL,\nROMFORD). MAX HGT 378FT AGL. FOR INFO 07882 418598.\nAR-2026-11284/01.",
+ "to": "2026-12-04T15:00Z",
+ "type": "N",
+ "upper": "500FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.7833,
+  -1.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-12-01T20:00Z",
+ "id": "C7785/26",
+ "loc": [
+  "EGHH"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGHH closed.",
+ "summary_of": "8c736398327b",
+ "text": "AD CLOSED",
+ "to": "2026-12-02T01:00Z",
+ "type": "N",
+ "upper": ""
+}

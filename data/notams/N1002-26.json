@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1333,
+  -1.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-11-27T16:09Z",
+ "id": "N1002/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mast at Chilbolton, up to 130 feet above ground and 460 feet above sea level.",
+ "summary_of": "26222b25bb26",
+ "text": "MAST PSN 510746N 0012246W (CHILBOLTON) UP TO 130FT AGL / 460FT \nAMSL. ON EXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP \nENR 5.4. AR-2026-11297/01.",
+ "to": "2026-12-24T23:59Z",
+ "type": "N",
+ "upper": ""
+}

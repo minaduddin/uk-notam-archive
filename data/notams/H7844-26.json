@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.3833,
+  -1.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-11-30T06:00Z",
+ "id": "H7844/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WLLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "MON-FRI 0600-1500 EXC DEC 24-25",
+ "summary": "Meteorological balloon releases within 1 nautical mile of Sheffield, weekdays 6am to 3pm.",
+ "summary_of": "2aa576b49fa8",
+ "text": "MET BALLOON RELEASE/S WI 1NM RADIUS OF 532321N 0012614W \n(SHEFFIELD). THIS ACTIVITY WILL NOT BE WHOLLY CONTAINED WI LATERAL \nDIMENSION AS NOTIFIED. FOR INFO 0114 213 1050. AR-2026-11137/02.",
+ "to": "2027-02-26T15:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

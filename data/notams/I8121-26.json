@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5167,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-11-27T15:00Z",
+ "id": "I8121/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "ICAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Instrument landing system for runway 30 out of service at EGPK.",
+ "summary_of": "8a6ac5af1821",
+ "text": "ILS RWY 30 U/S",
+ "to": "2026-11-28T16:00Z",
+ "type": "N",
+ "upper": ""
+}

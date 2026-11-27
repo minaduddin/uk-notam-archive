@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8833,
+  -2.2167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-11-29T08:00Z",
+ "id": "L7464/26",
+ "loc": [
+  "EGBJ"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations within 0.3 nautical miles of Gloucester, up to 196 feet above ground.",
+ "summary_of": "d0521cfe64bb",
+ "text": "UAS OPR WI 0.3NM RADIUS OF 515328N 0021234W (GLOUCESTER).\nMAX HGT 196FT AGL / 297FT AMSL",
+ "to": "2026-11-29T08:45Z",
+ "type": "N",
+ "upper": "297FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.9,
+  0.6667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-12-04T16:00Z",
+ "id": "L6054/26",
+ "loc": [
+  "EGSR"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "1600-2359",
+ "summary": "Lasers and searchlights within 1 nautical mile of a point south-south-west of Earls Colne Aerodrome, 16:00 to 23:59.",
+ "summary_of": "26b1ec58d550",
+ "text": "LASERS, SEARCHLIGHTS WI 1NM RADIUS OF 515350N 0004025E (1NM SSW\nOF EARLS COLNE AD).  FOR INFO 07917 669060. AR-2026-9010/01.",
+ "to": "2026-12-24T23:59Z",
+ "type": "N",
+ "upper": "UNL"
+}

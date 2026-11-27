@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-11-28T02:00Z",
+ "id": "I8129/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "STXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Air traffic control may apply tactical closures due to staffing, within 5 nautical miles of EGAA.",
+ "summary_of": "916f224613f6",
+ "text": "ATC MAY APPLY TACTICAL CLOSURES DUE STAFFING",
+ "to": "2026-11-28T05:00Z",
+ "type": "N",
+ "upper": ""
+}

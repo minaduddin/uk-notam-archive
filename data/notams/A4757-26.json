@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.5667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-12-04T19:40Z",
+ "id": "A4757/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Lasers and fireworks within 1 nautical mile of Datchet, with fireworks up to 200 feet above ground level.",
+ "summary_of": "7b1eac610abd",
+ "text": "LASERS, FIREWORKS WI 1NM RADIUS OF 512926N 0003336W (DATCHET).\nFIREWORKS UP TO 200FT AGL. FOR INFO 07412 670371.\nAR-2026-11127/01.",
+ "to": "2026-12-04T20:10Z",
+ "type": "N",
+ "upper": "UNL"
+}

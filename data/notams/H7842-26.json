@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.4333,
+  -1.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-12-01T17:00Z",
+ "id": "H7842/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Air exercise with two aircraft including fast jets performing high energy manoeuvres within 5 nautical miles of Ingleby Greenhow, up to 17,500 feet.",
+ "summary_of": "08f06b982d66",
+ "text": "AIR EXER. 2 ACFT INCLUDING FAST JET WILL CONDUCT HIGH ENERGY\nMANOEUVRES IN SUPPORT OF GROUND OPS WI 5NM RADIUS OF \n542622N 0010642W (INGLEBY GREENHOW). ACFT MAY OPERATE AT SPEEDS OF \nUP TO 450 KNOTS IAS AND MAY BE UNABLE TO COMPLY WITH RAC. FOR FURTHER\nINFO AIC Y007/2023 REFERS. OPS CTC FREQ 271.400MHZ. FOR INFO\n07972 787428. AR-2026-11281/01.",
+ "to": "2026-12-01T21:00Z",
+ "type": "N",
+ "upper": "17500FT AMSL"
+}

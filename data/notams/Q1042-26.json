@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.3,
+  -1.5333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-11-27T13:02Z",
+ "id": "Q1042/26",
+ "loc": [
+  "EGXE"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome EGXE is closed.",
+ "summary_of": "9945d5d289cc",
+ "text": "AD CLOSED",
+ "to": "2026-11-27T22:00Z",
+ "type": "N",
+ "upper": ""
+}

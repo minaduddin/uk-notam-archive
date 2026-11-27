@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.0167,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-11-30T06:00Z",
+ "id": "H7845/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WLLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "MON-FRI 0600-1500 EXC DEC 24-25",
+ "summary": "Meteorological balloon releases within 1 nautical mile of Ashbourne, weekdays 6am to 3pm.",
+ "summary_of": "fdae09c120fd",
+ "text": "MET BALLOON RELEASE/S WI 1NM RADIUS OF 530058N 0014431W \n(ASHBOURNE). THIS ACTIVITY WILL NOT BE WHOLLY CONTAINED WI LATERAL \nDIMENSION AS NOTIFIED. FOR INFO 0114 213 1050. AR-2026-11251/01.",
+ "to": "2027-02-26T15:00Z",
+ "type": "N",
+ "upper": "UNL"
+}

@@ -14,7 +14,7 @@
  "lower": "",
  "q": "CBXX",
  "radius": 31,
- "removed": null,
+ "removed": "2026-11-27T21:54Z",
  "sched": "0800-1900",
  "summary": "Typhoon transponder transmitting a non-compliant ADS-B out signal within 30 nautical miles of Portree, surface to flight level 300, 0800-1900.",
  "summary_of": "329134f748b2",

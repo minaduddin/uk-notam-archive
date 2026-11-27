@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1167,
+  -2.2833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T21:54Z",
+ "from": "2026-11-29T07:00Z",
+ "id": "H7837/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WGLW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Paragliders operating within 2 nautical miles of Kilmington, Wiltshire, up to 2,000 feet above ground level.",
+ "summary_of": "61f146f610f0",
+ "text": "CIVIL AIRCRAFT NOTIFICATION PROCEDURE - MULTIPLE PARAGLIDERS OPR \nWI 2NM RADIUS OF PSN 510634N 0021643W (KILMINGTON, WILTSHIRE). \nLOW FLYING AREA 1A AND LFA 2. 2000FT AGL. \nCTC 07944 189749. 26/11/178/LFC",
+ "to": "2026-11-29T16:30Z",
+ "type": "N",
+ "upper": "2800FT AMSL"
+}
