@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.5167,
+  -4.6
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T02:00Z",
+ "id": "I8112/26",
+ "loc": [
+  "EGPK"
+ ],
+ "lower": "",
+ "q": "MPLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "MON 0200-0330, TUE 0130-0900 1700-2359, WED 0000-0900 1700-2359, \nTHU 0000-1030 1430-2200, FRI 0200-0330, SAT 0200-1130, SUN 0230-0330",
+ "summary": "At EGPK, diverted passenger aircraft may use stands for fuel and departure, but with no passenger handling or terminal services, at set times.",
+ "summary_of": "15e19969e266",
+ "text": "COMMERCIAL PAX ACFT DIVERSION: ACFT STANDS AVBL FOR FUEL AND GO.\nHOWEVER, NO PAX HANDLING OR TERMINAL BUILDING SERVICE AVBL.",
+ "to": "2026-12-11T03:30Z",
+ "type": "N",
+ "upper": ""
+}

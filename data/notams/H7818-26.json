@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.4833,
+  -4.0333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-12-02T06:00Z",
+ "id": "H7818/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone operations within 2 nautical miles of Strathy Forest, up to 400 feet above ground.",
+ "summary_of": "747742be908b",
+ "text": "UAS OPR WI 2NM RADIUS OF 582918N 0040214W (STRATHY FOREST). MAX\nHGT 400FT AGL. FOR INFO 07990 850163. AR-2026-11253/01.",
+ "to": "2026-12-02T18:00Z",
+ "type": "N",
+ "upper": "1200FT AMSL"
+}

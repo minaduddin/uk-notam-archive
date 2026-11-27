@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.2667,
+  -5.75
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-27T12:38Z",
+ "id": "N1001/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "",
+ "q": "OLAS",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Obstacle light out of service on a 296-foot chimney stack, 0.5 nautical miles west of Kyleakin.",
+ "summary_of": "1fbcedd73cba",
+ "text": "REPORT OF AIR NAV OBST LGT U/S WI 0.1NM RADIUS OF \n571618N 0054516W (0.5NM WEST OF KYLEAKIN). OBST TYPE CHIMNEY STACK, \nHGT 296FT AGL /500FT AMSL. FOR INFO 07442 508449. AR-2026-11272/01.",
+ "to": "2027-02-20T12:00Z",
+ "type": "R",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.45,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-27T12:23Z",
+ "id": "C7778/26",
+ "loc": [
+  "EGBB"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Metal plate on taxiway D at EGBB, south of D5.",
+ "summary_of": "0f90a097f5d5",
+ "text": "METAL PLATE ON TWY D SOUTH OF D5",
+ "to": "2027-02-27T23:59Z",
+ "type": "N",
+ "upper": ""
+}

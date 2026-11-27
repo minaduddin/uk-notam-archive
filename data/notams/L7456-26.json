@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0667,
+  -0.6167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-12-01T06:30Z",
+ "id": "L7456/26",
+ "loc": [
+  "EGTC"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Revised opening hours at EGTC: Monday to Friday 0800-1830, and 0900-1800 at weekends and on public holidays.",
+ "summary_of": "936403cdbcdf",
+ "text": "REVISED AD OPR HR: \nMON-FRI 0800-1830 \nSAT-SUN AND PUBLIC HOL 0900-1800",
+ "to": "2026-12-31T19:00Z",
+ "type": "N",
+ "upper": ""
+}

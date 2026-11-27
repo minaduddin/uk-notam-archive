@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.0167,
+  -4.6333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-27T19:00Z",
+ "id": "C7779/26",
+ "loc": [
+  "EGNS"
+ ],
+ "lower": "",
+ "q": "AECD",
+ "radius": 21,
+ "removed": null,
+ "sched": "",
+ "summary": "Isle of Man control zones deactivated and aerodrome closed, within 21 nautical miles.",
+ "summary_of": "f552983262ba",
+ "text": "ISLE OF MAN CTA/CTR/ATZ DEACTIVATED. AD CLSD. LAST RWY MOVEMENT 15\nMINS BEFORE CLOSURE TIME.",
+ "to": "2026-11-27T19:35Z",
+ "type": "N",
+ "upper": ""
+}

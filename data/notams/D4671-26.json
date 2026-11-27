@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.6333,
+  -4.0667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T08:30Z",
+ "id": "D4671/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 3,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD011B at Willsworthy, activated from ground level to 4,500 feet above sea level within 3 nautical miles.",
+ "summary_of": "46a7d61bff55",
+ "text": "DANGER AREA EGD011B WILLSWORTHY ACTIVATED",
+ "to": "2026-11-30T23:59Z",
+ "type": "N",
+ "upper": "4500FT AMSL"
+}

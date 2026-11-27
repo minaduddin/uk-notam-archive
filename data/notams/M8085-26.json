@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.25,
+  -2.6667
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T17:00Z",
+ "id": "M8085/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 191,
+ "removed": null,
+ "sched": "",
+ "summary": "Training areas TRA 007A, 007B, 008A, 008B and 008C activated, flight level 195 to 245, within 191 nautical miles of EGPX.",
+ "summary_of": "38857ef7044c",
+ "text": "THE FOLLOWING TRA ARE ACTIVATED:\nTRA 007A 1700-1900 FL195-FL245\nTRA 007B 1700-1900 FL195-FL245\nTRA 008A 1700-1900 FL195-FL245\nTRA 008B 1700-1900 FL195-FL245\nTRA 008C 1700-1900 FL195-FL245",
+ "to": "2026-11-30T19:00Z",
+ "type": "N",
+ "upper": "FL245"
+}

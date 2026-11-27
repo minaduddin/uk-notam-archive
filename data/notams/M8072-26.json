@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.1,
+  -4.5
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T09:00Z",
+ "id": "M8072/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 10,
+ "removed": null,
+ "sched": "",
+ "summary": "West Wales danger area EGD202D activated, from ground level to flight level 125, within 10 nautical miles of EGTT.",
+ "summary_of": "3d727d1e3e0a",
+ "text": "DANGER AREA EGD202D WEST WALES ACTIVATED",
+ "to": "2026-11-30T16:30Z",
+ "type": "N",
+ "upper": "FL125"
+}

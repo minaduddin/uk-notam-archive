@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.25,
+  -1.0167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T10:00Z",
+ "id": "D4669/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 17,
+ "removed": null,
+ "sched": "",
+ "summary": "Danger area EGD038 at Portsmouth, activated from ground level to 37,000 feet above sea level within 17 nautical miles.",
+ "summary_of": "edc12cfbdbf5",
+ "text": "DANGER AREA EGD038 PORTSMOUTH ACTIVATED.",
+ "to": "2026-11-30T13:00Z",
+ "type": "N",
+ "upper": "37000FT AMSL"
+}

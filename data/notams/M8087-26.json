@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.7,
+  0.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T13:00Z",
+ "id": "M8087/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL245",
+ "q": "RMCA",
+ "radius": 46,
+ "removed": null,
+ "sched": "",
+ "summary": "East Anglian military training areas activated, flight level 245 to 660, within 46 nautical miles of EGTT.",
+ "summary_of": "ddeed509e7ea",
+ "text": "THE FOLLOWING EAST ANGLIAN MILITARY TRAINING AREAS ACTIVATED:\nEAMTA (LOW) 1300-1400 FL245-FL285\nEAMTA (HIGH) 1300-1400 FL285-FL660",
+ "to": "2026-11-30T14:00Z",
+ "type": "N",
+ "upper": "FL660"
+}

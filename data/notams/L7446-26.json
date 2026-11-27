@@ -1,0 +1,25 @@
+{
+ "coord": [
+  53.4667,
+  -2.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-27T08:37Z",
+ "id": "L7446/26",
+ "loc": [
+  "EGCB"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway B closed between B1 and B4 at EGCB due to surface conditions.",
+ "summary_of": "80f55a304342",
+ "text": "TWY B CLSD BTN B1 AND B4 DUE SURFACE CONDITIONS",
+ "to": "2026-12-02T17:00Z",
+ "type": "N",
+ "upper": ""
+}

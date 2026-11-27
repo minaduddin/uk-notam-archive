@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.6167,
+  -2.4
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-12-03T12:00Z",
+ "id": "H7834/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WDLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Explosives demolition within a 1 nautical mile radius of Weymouth Bay, Dorset, up to 2,000 feet above ground level.",
+ "summary_of": "e9ca9635f762",
+ "text": "DEMOLITION OF EXPLOSIVES WILL TAKE PLACE WI 1NM RADIUS\nOF PSN 503646N 0022350W (WEYMOUTH BAY, DORSET) \nLOW FLYING AREA 2 AND NIGHT ROTARY REGION 2. \nMAX HGT 2000FT AGL. ON SITE CTC 07757 722309. 26/11/177/LFC",
+ "to": "2026-12-03T18:00Z",
+ "type": "N",
+ "upper": "2000FT AMSL"
+}

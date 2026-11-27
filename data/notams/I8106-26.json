@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.2167,
+  -6.3167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-28T16:00Z",
+ "id": "I8106/26",
+ "loc": [
+  "EGPO"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Crane operating at Stornoway Airport car park, up to 116 feet above sea level and 90 feet above ground level.",
+ "summary_of": "eeb3a1fc4115",
+ "text": "CRANE OPR APRX PSN 581246N 0061921W (STORNOWAY AIRPORT CAR PARK).\nMAX HGT 116FT AMSL, 90FT AGL.",
+ "to": "2026-11-28T18:00Z",
+ "type": "N",
+ "upper": ""
+}

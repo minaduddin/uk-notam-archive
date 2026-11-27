@@ -1,0 +1,25 @@
+{
+ "coord": [
+  56.6667,
+  0.1
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T13:00Z",
+ "id": "M8080/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "FL100",
+ "q": "RDCA",
+ "radius": 72,
+ "removed": null,
+ "sched": "",
+ "summary": "Central complex danger areas EGD613A to EGD613D activated, flight level 100 to 660, within 72 nautical miles of EGPX.",
+ "summary_of": "224dc4b4e7e9",
+ "text": "THE FOLLOWING CENTRAL COMPLEX DANGER AREAS ARE ACTIVATED:\nEGD613A 1300-1530 FL100-FL660\nEGD613B 1300-1530 FL100-FL660\nEGD613C 1300-1530 FL100-FL660\nEGD613D 1300-1530 FL100-FL660",
+ "to": "2026-11-30T15:30Z",
+ "type": "N",
+ "upper": "FL660"
+}

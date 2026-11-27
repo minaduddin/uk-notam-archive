@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.65,
+  -4.85
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T10:00Z",
+ "id": "M8073/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 35,
+ "removed": null,
+ "sched": "",
+ "summary": "Aberporth danger areas EGD201H and EGD201J activated, from ground level to flight level 660, within 35 nautical miles of EGTT.",
+ "summary_of": "072913f862b7",
+ "text": "THE FOLLOWING ABERPORTH DANGER AREAS ARE ACTIVATED:\nEGD201H 1000-1600 SFC-FL660\nEGD201J 1000-1600 SFC-FL660",
+ "to": "2026-11-30T16:00Z",
+ "type": "N",
+ "upper": "FL660"
+}

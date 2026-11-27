@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.9,
+  -4.4
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-12-01T08:00Z",
+ "id": "I8104/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Mobile crane operating near Glasgow, up to 119 feet above ground level and 152 feet above sea level.",
+ "summary_of": "c9c99f1af974",
+ "text": "MOBILE CRANE OPR PSN 555405N 0042406W (GLASGOW).\nMAX HGT 119 FT AGL / 152 FT AMSL (APRX). JIB WILL BE LOWERED IN\nLVP. SITE CONTACT JOHN LIDDLE 07976 034105.",
+ "to": "2026-12-31T18:00Z",
+ "type": "N",
+ "upper": ""
+}

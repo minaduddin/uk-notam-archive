@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.85,
+  0.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T13:00Z",
+ "id": "H7813/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "",
+ "summary": "Aircraft hover and landing training near Sculthorpe, up to 1,900 feet above sea level within 5 nautical miles.",
+ "summary_of": "773186d145d2",
+ "text": "1 ACFT WILL CONDUCT HOVER AND LANDING TRAINING WI 5NM RADIUS OF\n525051N 0004546E (SCULTHORPE). ACFT MAY BE UNABLE TO COMPLY WITH\nRAC. FOR INFO 01638 544807 / 01638 542073. AR-2026-11193/01.",
+ "to": "2026-11-30T19:30Z",
+ "type": "N",
+ "upper": "1900FT AMSL"
+}

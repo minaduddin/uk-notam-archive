@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.9667,
+  -2.9333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T00:00Z",
+ "id": "Q1037/26",
+ "loc": [
+  "EGDI"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Merryfield aerodrome open Monday to Wednesday 1145-1645 and 1815-2215, Thursday 1330-1645, closed Friday.",
+ "summary_of": "bc89dde16151",
+ "text": "MERRYFIELD AD HOURS OF OPERATION\nMON-WED  1145-1645 AND 1815-2215\nTHU      1330-1645\nFRI      CLSD",
+ "to": "2026-12-04T23:59Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.1833,
+  0.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-28T09:00Z",
+ "id": "A4759/26",
+ "loc": [
+  "EGSC"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "0900-1700",
+ "summary": "Drone activity within 0.3 miles of Trumpington, from ground level up to 452 ft above sea level, 0900 to 1700.",
+ "summary_of": "e89871725ec0",
+ "text": "UAS OPR WI 0.3 MI RADIUS OF PSN 521042N 0000845E (TRUMPINGTON) SFC\nTO 400FT AGL, 452FT AMSL",
+ "to": "2026-11-29T17:00Z",
+ "type": "N",
+ "upper": "452FT AMSL"
+}

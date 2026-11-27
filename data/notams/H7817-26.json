@@ -1,0 +1,25 @@
+{
+ "coord": [
+  58.15,
+  -4.5333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-12-01T08:39Z",
+ "id": "H7817/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 7,
+ "removed": null,
+ "sched": "SR-SS",
+ "summary": "Drone operations in an area around Strath Tirry, up to 400 feet above ground, between sunrise and sunset.",
+ "summary_of": "f0b426ff54ef",
+ "text": "UAS OPR WI AREA BOUNDED BY \n580320N 0042447W - 580423N 0042730W - 580552N 0042919W - \n580657N 0043202W - 580813N 0043425W - 580852N 0043634W - \n581136N 0043833W - 581208N 0043833W - 581323N 0043902W - \n581423N 0043917W - 581354N 0043624W - 581244N 0043435W -\n581110N 0043113W - 580931N 0042830W - 580708N 0042536W - \n580505N 0042412W - 580407N 0042338W - 580320N 0042447W \n(STRATH TIRRY). MAX HGT 400FT AGL. FOR INFO 07723 661171. \nAR-2026-11255/01.",
+ "to": "2026-12-02T15:34Z",
+ "type": "N",
+ "upper": "1800FT AMSL"
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.9667,
+  0.9167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T18:00Z",
+ "id": "M8086/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "FL195",
+ "q": "RMCA",
+ "radius": 77,
+ "removed": null,
+ "sched": "",
+ "summary": "Training area TRA 003 activated, flight level 195 to 245, within 77 nautical miles of EGTT.",
+ "summary_of": "1baddb59866e",
+ "text": "TRA 003 ACTIVATED",
+ "to": "2026-11-30T19:45Z",
+ "type": "N",
+ "upper": "FL245"
+}

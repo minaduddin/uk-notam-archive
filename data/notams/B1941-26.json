@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.65,
+  0.55
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T09:00Z",
+ "id": "B1941/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "SEAH",
+ "radius": 30,
+ "removed": null,
+ "sched": "",
+ "summary": "Marham lower airspace radar service available Monday to Thursday at varying hours, within 30 nautical miles.",
+ "summary_of": "57b1b7341e56",
+ "text": "MARHAM LOWER AIRSPACE RADAR SERVICE HOURS\nMON - 1430-1545\nTUE - 0800-1730\nWED - 0800-1730\nTHU - 0845-1545",
+ "to": "2026-12-03T23:59Z",
+ "type": "N",
+ "upper": ""
+}

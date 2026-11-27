@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5833,
+  -0.3333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-28T17:00Z",
+ "id": "A4758/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "SFC",
+ "q": "WOLW",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Laser display within 1 nautical mile of Harrow, from ground level upwards.",
+ "summary_of": "ba9ce115c3a0",
+ "text": "LASER DISPLAY WI 1NM RADIUS OF 513452N 0001959W (HARROW).  FOR\nINFO 07711 855295 / 07939 656497. AR-2026-11257/01.",
+ "to": "2026-11-28T19:30Z",
+ "type": "N",
+ "upper": "UNL"
+}

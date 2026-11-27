@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-12-02T10:00Z",
+ "id": "I8114/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MXXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aircraft tug release point 7 out of service on taxiway Lima at EGAA due to nearby work in progress.",
+ "summary_of": "4f8bc463616e",
+ "text": "ACFT TUG RELEASE POINT 7(TRP7) U/S ON TWY LIMA DUE TO ADJACENT WIP",
+ "to": "2026-12-02T14:00Z",
+ "type": "N",
+ "upper": ""
+}

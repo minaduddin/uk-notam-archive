@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.65,
+  -6.2167
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-12-02T10:00Z",
+ "id": "I8111/26",
+ "loc": [
+  "EGAA"
+ ],
+ "lower": "",
+ "q": "MXLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway Charlie closed at EGAA.",
+ "summary_of": "442e3d747b0c",
+ "text": "TWY CHARLIE CLOSED",
+ "to": "2026-12-02T14:00Z",
+ "type": "N",
+ "upper": ""
+}

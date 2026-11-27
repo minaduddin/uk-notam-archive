@@ -1,0 +1,25 @@
+{
+ "coord": [
+  59.0,
+  -2.2833
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T16:12Z",
+ "id": "H7835/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "43000FT AGL",
+ "q": "XXLW",
+ "radius": 265,
+ "removed": null,
+ "sched": "",
+ "summary": "Meteorological research flights between 43,000 and 45,000 feet over a large area, mainly under Swanwick control.",
+ "summary_of": "1a31ff54230c",
+ "text": "MET RESEARCH FLT. OPR WI AREA BOUNDED BY \n570000N 0050000E - 550607N 0055019W - 610000N 0100000W - \n610000N 0000000E - 600000N 0000000E. ENR 6-22 REFERS. ACFT MAY NOT \nBE ABLE TO FLY SEMI-CIRCULAR FL. ACTIVITY MAINLY UNDER SWANWICK \n(MIL) CTL. ALL OPS SUBJ PRIOR ATC CLR. RTE AVBL FM 0600HR ON DAY OF \nFLT AT WWW.FAAM.AC.UK. AR-2026-11265/01.",
+ "to": "2026-11-30T18:30Z",
+ "type": "N",
+ "upper": "45000FT AGL"
+}

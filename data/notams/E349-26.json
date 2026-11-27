@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.9333,
+  -2.8167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T10:45Z",
+ "id": "E349/26",
+ "loc": [
+  "EGNC"
+ ],
+ "lower": "",
+ "q": "STLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Air-to-ground radio service not available at EGNC, within 5 nautical miles.",
+ "summary_of": "41f683e2c100",
+ "text": "A/G SERVICE NOT AVBL.",
+ "to": "2026-11-30T13:00Z",
+ "type": "N",
+ "upper": ""
+}

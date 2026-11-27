@@ -1,0 +1,25 @@
+{
+ "coord": [
+  57.4167,
+  -6.2
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T08:00Z",
+ "id": "H7836/26",
+ "loc": [
+  "EGPX"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 31,
+ "removed": null,
+ "sched": "0800-1900",
+ "summary": "Typhoon aircraft transmitting a non-compliant aircraft tracking signal within 30 nautical miles of Portree, between 0800 and 1900.",
+ "summary_of": "ae4e5090a65a",
+ "text": "TYPHOON TRANSPONDER TRANSMITTING NON-COMPLIANT ADS-B OUT\n(EXTENDED SQUITTER) WI 30NM RADIUS 572447N 0061140W (PORTREE).\nONE FLIGHT PLANNED. FOR INFO 03300 480151 / 03300 480191.\nAR-2026-11263/02.",
+ "to": "2026-12-04T19:00Z",
+ "type": "N",
+ "upper": "FL300"
+}

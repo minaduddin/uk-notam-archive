@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.4333,
+  -1.1167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-12-01T13:00Z",
+ "id": "H7819/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WELW",
+ "radius": 6,
+ "removed": null,
+ "sched": "DEC 01 1300-2000, 03 1300-1630, 08 1300-2000",
+ "summary": "Military air exercise with high energy manoeuvres near Ingleby Greenhow, North Yorkshire, up to 9,000 feet above sea level within 5 nautical miles.",
+ "summary_of": "043616f9303e",
+ "text": "AIR EXER. WILL CONDUCT HIGH ENERGY MANOEUVRES IN SUPPORT OF\nGROUND OPS WI 5NM RADIUS OF 542622N 0010642W (INGLEBY GREENHOW,\nNORTH YORKSHIRE). ACFT MAY OPERATE AT SPEEDS OF UP TO 450 KNOTS\nIAS AND MAY BE UNABLE TO COMPLY WITH RAC. FOR FURTHER INFO AIC\nY007/2023 REFERS. OPS CTC FREQ 271.400MHZ FOR INFO 07972 78428.\nAR-2026-11175/01.",
+ "to": "2026-12-08T20:00Z",
+ "type": "N",
+ "upper": "9000FT AMSL"
+}

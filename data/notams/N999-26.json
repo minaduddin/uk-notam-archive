@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.1333,
+  -1.3833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-27T09:16Z",
+ "id": "N999/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Unlit mast up to 530 ft above sea level (130 ft above ground) at Littleton, Winchester.",
+ "summary_of": "b6eac2f42d6b",
+ "text": "MAST PSN 510745N 0012232W (LITTLETON, WINCHESTER)\nIN LOW FLYING AREA 1A AND NIGHT ROTARY REGION 1\nHGT 530FT AMSL (130FT AGL) UNLIT. 26/11/172/LFC",
+ "to": "2027-02-25T23:59Z",
+ "type": "N",
+ "upper": ""
+}

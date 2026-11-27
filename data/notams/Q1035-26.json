@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.8333,
+  -1.1667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T08:30Z",
+ "id": "Q1035/26",
+ "loc": [
+  "EGVF"
+ ],
+ "lower": "",
+ "q": "AZCD",
+ "radius": 2,
+ "removed": null,
+ "sched": "",
+ "summary": "Fleetlands aerodrome traffic zone deactivated and heliport closed.",
+ "summary_of": "408f34d946ee",
+ "text": "FLEETLANDS ATZ DEACTIVATED, HELIPORT CLSD",
+ "to": "2026-11-30T17:00Z",
+ "type": "N",
+ "upper": ""
+}

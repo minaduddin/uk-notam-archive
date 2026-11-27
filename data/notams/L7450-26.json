@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.2167,
+  -1.6
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-29T09:00Z",
+ "id": "L7450/26",
+ "loc": [
+  "EGHO"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome at EGHO not available to aircraft needing a licensed aerodrome, due to no rescue and fire cover.",
+ "summary_of": "653bad5ccb70",
+ "text": "AD NOT AVBL TO ACFT REQUIRING USE OF A LICENSED AD DUE NO RFFS",
+ "to": "2026-11-29T17:00Z",
+ "type": "N",
+ "upper": ""
+}

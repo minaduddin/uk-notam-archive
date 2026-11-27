@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.7,
+  -4.3667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T16:00Z",
+ "id": "H7824/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "XXLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "NOV 30 1600-2100, DEC 01 1700-2200, 02 1800-2300, 03 1930-2359",
+ "summary": "Military aircraft tactical landings within 5 nautical miles of Pembrey, up to 5,700 feet above sea level, on set evenings.",
+ "summary_of": "fda2598d1b78",
+ "text": "MIL ACFT WILL CONDUCT TACTICAL LANDINGS WI 5NM RADIUS OF \n514219N 0042135W (PEMBREY).  FOR INFO 07812 702302. AR-2026-11195/03.",
+ "to": "2026-12-03T23:59Z",
+ "type": "N",
+ "upper": "5700FT AMSL"
+}

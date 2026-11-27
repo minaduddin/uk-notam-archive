@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.85,
+  0.7667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-12-02T09:00Z",
+ "id": "H7822/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "WPLW",
+ "radius": 6,
+ "removed": null,
+ "sched": "0900-2200",
+ "summary": "Dropping of articles within 5 nautical miles of Sculthorpe, up to 11,500 feet above sea level, from 9am to 10pm.",
+ "summary_of": "21ac4da7d264",
+ "text": "DROPPING OF ARTICLES WI 5NM RADIUS OF 525053N 0004545E\n(SCULTHORPE).  FOR INFO 01638 545012 / 01638 545013.\nAR-2026-11203/01.",
+ "to": "2026-12-03T22:00Z",
+ "type": "N",
+ "upper": "11500FT AMSL"
+}

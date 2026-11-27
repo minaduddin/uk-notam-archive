@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.45,
+  -1.75
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-27T10:16Z",
+ "id": "C7776/26",
+ "loc": [
+  "EGBB"
+ ],
+ "lower": "",
+ "q": "MXLT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Taxiway D1-D2 at EGBB available only to code A to C aircraft, with code E aircraft routed via E7.",
+ "summary_of": "d3c96c2f5ed7",
+ "text": "TWY D1-D2 AVBL FOR CODE A-C ACFT ONLY, CODE E ACFT WILL BE ROUTED \nVIA E7, CODE F TO BACKTRACK RWY AS REQUIRED",
+ "to": "2026-11-27T23:30Z",
+ "type": "N",
+ "upper": ""
+}

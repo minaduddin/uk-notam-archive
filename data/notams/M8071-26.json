@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5833,
+  1.0
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-30T08:30Z",
+ "id": "M8071/26",
+ "loc": [
+  "EGTT"
+ ],
+ "lower": "SFC",
+ "q": "RDCA",
+ "radius": 9,
+ "removed": null,
+ "sched": "",
+ "summary": "Shoeburyness danger areas EGD138C and EGD138D activated, from ground level to 6,000 feet, within 9 nautical miles of EGTT.",
+ "summary_of": "29aea41b476e",
+ "text": "THE FOLLOWING SHOEBURYNESS DANGER AREAS ARE ACTIVATED:\nEGD138C 0830-1700 SFC-6000FT AMSL\nEGD138D 0830-1700 SFC-6000FT AMSL",
+ "to": "2026-11-30T17:00Z",
+ "type": "N",
+ "upper": "6000FT AMSL"
+}

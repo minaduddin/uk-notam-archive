@@ -1,0 +1,25 @@
+{
+ "coord": [
+  50.9667,
+  -2.15
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-27T13:01Z",
+ "from": "2026-11-27T09:30Z",
+ "id": "L7448/26",
+ "loc": [
+  "EGHA"
+ ],
+ "lower": "",
+ "q": "FALC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aerodrome at EGHA closed due to weather.",
+ "summary_of": "a43857d91f05",
+ "text": "AD CLSD DUE WX",
+ "to": "2026-11-27T17:00Z",
+ "type": "N",
+ "upper": ""
+}
