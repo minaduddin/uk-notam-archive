@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.75,
+  -1.5833
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-28T03:50Z",
+ "from": "2026-11-29T02:00Z",
+ "id": "Q1064/26",
+ "loc": [
+  "EGVN"
+ ],
+ "lower": "",
+ "q": "CPAS",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Precision approach radar for runway 07/25 out of service at EGVN.",
+ "summary_of": "2f1a4b55df18",
+ "text": "PAR RWY 07/25 U/S",
+ "to": "2026-11-29T07:00Z",
+ "type": "N",
+ "upper": ""
+}

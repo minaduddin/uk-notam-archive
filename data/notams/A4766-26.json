@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.4667
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-28T03:50Z",
+ "from": "2026-11-27T23:00Z",
+ "id": "A4766/26",
+ "loc": [
+  "EGLL"
+ ],
+ "lower": "",
+ "q": "MRLC",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Runways 09L/27R and 09R/27L closed at EGLL; 09R/27L can reopen for emergency traffic on 30 minutes' notice.",
+ "summary_of": "37e06469099b",
+ "text": "RWY 09L/27R AND RWY 09R/27L CLSD. RWY 09R/27L CAN BE MADE AVBL \nFOR EMERG TFC WITH 30MIN NOTICE. START OF RWY CLSD WILL BE DELAYED \nUNTIL SKED MOV ARE COMPLETE. MOV DELAYED INTO NIGHT QUOTA PERIOD ARE \nSTILL SUBJ AD AUTHORITY APPROVAL. \nFOR INFO CTC AD DUTY MANAGER (+44)020 8745 7373",
+ "to": "2026-11-28T04:00Z",
+ "type": "N",
+ "upper": ""
+}
