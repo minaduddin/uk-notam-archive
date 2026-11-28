@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5167,
+  -1.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-28T12:52Z",
+ "from": "2026-12-01T22:00Z",
+ "id": "C7799/26",
+ "loc": [
+  "EGNV"
+ ],
+ "lower": "",
+ "q": "FAXX",
+ "radius": 5,
+ "removed": null,
+ "sched": "TUE 2200-0400, WED 2200-0300, THU 2200-0400",
+ "summary": "Navigation aid radio checks at EGNV on Tuesday to Thursday nights, roughly 2200 until 0300 or 0400.",
+ "summary_of": "a5c730dea622",
+ "text": "NAVAID RADIO FREQ CHECK IN PROGRESS. ANY INTERFERENCE REPORT TO \nAIRPORT DUTY MANAGER 07341568547.",
+ "to": "2026-12-04T04:00Z",
+ "type": "N",
+ "upper": ""
+}

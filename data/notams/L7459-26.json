@@ -1,0 +1,25 @@
+{
+ "coord": [
+  52.0667,
+  -0.6167
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-28T12:52Z",
+ "from": "2026-12-05T09:00Z",
+ "id": "L7459/26",
+ "loc": [
+  "EGTC"
+ ],
+ "lower": "",
+ "q": "FFCG",
+ "radius": 5,
+ "removed": null,
+ "sched": "0900-1800",
+ "summary": "Fire cover at EGTC lowered to category 3 between 0900 and 1800.",
+ "summary_of": "2f30a33be031",
+ "text": "RFFS DOWNGRADED TO FIRE CAT 3",
+ "to": "2026-12-06T18:00Z",
+ "type": "N",
+ "upper": ""
+}

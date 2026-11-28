@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.8667,
+  -2.2333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-28T12:52Z",
+ "from": "2026-12-05T08:00Z",
+ "id": "L7384/26",
+ "loc": [
+  "EGBJ"
+ ],
+ "lower": "",
+ "q": "OBCE",
+ "radius": 1,
+ "removed": null,
+ "sched": "0800-1600",
+ "summary": "Crane at Gloucester up to 114 ft above ground, operating between 0800 and 1600.",
+ "summary_of": "cdf9b64bc8c7",
+ "text": "CRANE OPR 515157N 0021359W (GLOUCESTER) \nMAX HGT 114FT AGL, 215FT AMSL",
+ "to": "2026-12-06T16:00Z",
+ "type": "N",
+ "upper": ""
+}

@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.5,
+  0.05
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-28T12:52Z",
+ "from": "2026-11-28T12:30Z",
+ "id": "C7800/26",
+ "loc": [
+  "EGLC"
+ ],
+ "lower": "",
+ "q": "FAAH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Opening hours at aerodrome EGLC have been extended.",
+ "summary_of": "7f9fb78cf7af",
+ "text": "AD OPENING HOURS EXTENDED.",
+ "to": "2026-11-28T13:00Z",
+ "type": "N",
+ "upper": ""
+}

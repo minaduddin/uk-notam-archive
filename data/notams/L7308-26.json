@@ -1,0 +1,25 @@
+{
+ "coord": [
+  51.4833,
+  -0.2
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-28T12:52Z",
+ "from": "2026-12-05T08:00Z",
+ "id": "L7308/26",
+ "loc": [
+  "EGLW"
+ ],
+ "lower": "SFC",
+ "q": "WULW",
+ "radius": 1,
+ "removed": null,
+ "sched": "",
+ "summary": "Drone flights within 0.1 nautical miles of Fulham, London, up to 500 ft above ground.",
+ "summary_of": "23f8d10a7726",
+ "text": "UAS OPR WI 0.1NM RADIUS OF 512855N 0001140W (FULHAM, LONDON). MAX\nHGT 500FT AGL. FOR INFO 01992 924779. AR-2026-11046/01.",
+ "to": "2026-12-05T16:00Z",
+ "type": "N",
+ "upper": "600FT AMSL"
+}

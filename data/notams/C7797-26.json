@@ -1,0 +1,25 @@
+{
+ "coord": [
+  54.5167,
+  -1.4333
+ ],
+ "est": false,
+ "fir": "EGTT",
+ "first_seen": "2026-11-28T12:52Z",
+ "from": "2026-11-28T14:00Z",
+ "id": "C7797/26",
+ "loc": [
+  "EGNV"
+ ],
+ "lower": "",
+ "q": "FFCH",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Fire and rescue cover at EGNV raised to category 7 during set times on Saturday and Sunday.",
+ "summary_of": "a4dfda8aa3ee",
+ "text": "RFFS CAT UPGRADED TO CAT 7\nSAT: 1400-1815\nSUN: 0545-0630, 1300-1345, 1650-1845",
+ "to": "2026-11-29T18:45Z",
+ "type": "N",
+ "upper": ""
+}

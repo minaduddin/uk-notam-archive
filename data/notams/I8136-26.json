@@ -1,0 +1,25 @@
+{
+ "coord": [
+  55.8667,
+  -4.4333
+ ],
+ "est": false,
+ "fir": "EGPX",
+ "first_seen": "2026-11-28T12:52Z",
+ "from": "2026-12-02T07:00Z",
+ "id": "I8136/26",
+ "loc": [
+  "EGPF"
+ ],
+ "lower": "",
+ "q": "FALT",
+ "radius": 5,
+ "removed": null,
+ "sched": "",
+ "summary": "Aircraft at EGPF should expect short delays due to flight inspection of the runway 05/23 landing system.",
+ "summary_of": "42bae96ff896",
+ "text": "ACFT TO EXPECT SHORT DELAYS DUE ILS RWY 05/23 FLIGHT INSPECTION.",
+ "to": "2026-12-02T18:30Z",
+ "type": "N",
+ "upper": ""
+}
